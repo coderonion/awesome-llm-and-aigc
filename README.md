@@ -96,7 +96,8 @@
       - [ChatGPT版搜索引擎突然上线，科技巨头们坐不住了！](https://mp.weixin.qq.com/s/lncJm6hmK3AQNF2paWI5Dw)
     - 微信公众号「42章经」
       - [我是怎样用一周时间研究 ChatGPT 的？](https://mp.weixin.qq.com/s/obVI3ENpMgaq4AKZs6Hw1w)
-
+    - 微信公众号「人工智能技术与咨询」
+      - [ChatGPT四大应用主线及相关细分场景](https://mp.weixin.qq.com/s/f8cmRVs0ys7FNyNU1qbP6g)
 
 
 - ## API
@@ -125,6 +126,8 @@
   - ### GUI
 
     - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) <img src="https://img.shields.io/github/stars/lencx/ChatGPT?style=social"/> : 🔮 ChatGPT Desktop Application (Mac, Windows and Linux).
+
+    - [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) <img src="https://img.shields.io/github/stars/sonnylazuardi/chatgpt-desktop?style=social"/> : OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust.
 
 
   - ### Wechat
