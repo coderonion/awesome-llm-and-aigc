@@ -102,6 +102,8 @@
       - [我是怎样用一周时间研究 ChatGPT 的？](https://mp.weixin.qq.com/s/obVI3ENpMgaq4AKZs6Hw1w)
     - 微信公众号「人工智能技术与咨询」
       - [ChatGPT四大应用主线及相关细分场景](https://mp.weixin.qq.com/s/f8cmRVs0ys7FNyNU1qbP6g)
+    - 微信公众号「人工智能技术与咨询」
+      - [如何利用ChatGPT搞科研？](https://mp.weixin.qq.com/s/sW_utRBS_jJAaWfGo_eT5g)
 
 
 - ## API
