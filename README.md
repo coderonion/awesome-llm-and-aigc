@@ -147,6 +147,8 @@
 
     - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) <img src="https://img.shields.io/github/stars/kaixindelele/ChatPaper?style=social"/> : Use ChatGPT to summarize the arXiv papers. Refine Your Writing, Elevate Your Ideas with ChatPaper. 💥💥💥面向全球，服务万千科研人的ChatPaper在线版正式上线：https://chatpaper.org/ 💥💥💥
 
+    - [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer) <img src="https://img.shields.io/github/stars/nishiwen1214/ChatReviewer?style=social"/> : ChatReviewer: use ChatGPT to review papers; ChatResponse: use ChatGPT to respond to reviewers. 💥💥💥ChatReviewer的第一版网页出来了！！！ 直接点击：https://huggingface.co/spaces/ShiwenNi/ChatReviewer.
+
     - [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) <img src="https://img.shields.io/github/stars/binary-husky/chatgpt_academic?style=social"/> : ChatGPT 学术优化。中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能。
 
 
