@@ -14,8 +14,9 @@
     - [Node.js API](#node.js-api)
   - [Reproduction](#reproduction)
   - [Applications](#applications)
-    - [GUI](#gui)
+
     - [Wechat](#wechat)
+    - [GUI](#gui)
 
 
 - ## Summary
@@ -30,6 +31,7 @@
     - [Microsoft OpenAI](https://aka.ms/cn/LearnOpenAI): Microsoft OpenAI 学习工具包。
 
 
+
   - ### Awesome List
 
     - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -37,6 +39,9 @@
     - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) <img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social"/> : OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
   
     - [xx025/carrot](https://github.com/xx025/carrot) <img src="https://img.shields.io/github/stars/xx025/carrot?style=social"/> : Free ChatGPT Site List.
+
+
+
 
   - ### Blogs
     - 微信公众号「微软科技」
@@ -104,6 +109,8 @@
       - [ChatGPT四大应用主线及相关细分场景](https://mp.weixin.qq.com/s/f8cmRVs0ys7FNyNU1qbP6g)
     - 微信公众号「人工智能技术与咨询」
       - [如何利用ChatGPT搞科研？](https://mp.weixin.qq.com/s/sW_utRBS_jJAaWfGo_eT5g)
+    - 微信公众号「机器之能」
+      - [比尔·盖茨：AI时代已经开启，GPT是40年来最具革命性技术](https://mp.weixin.qq.com/s/j3D7g_1HeKZbznOqqU2pxw)
 
 
 - ## API
@@ -113,6 +120,9 @@
     - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) <img src="https://img.shields.io/github/stars/acheong08/ChatGPT?style=social"/> : Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.
 
     - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) <img src="https://img.shields.io/github/stars/wong2/chatgpt-google-extension?style=social"/> : A browser extension that enhance search engines with ChatGPT.
+
+    - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) <img src="https://img.shields.io/github/stars/acheong08/EdgeGPT?style=social"/> : Reverse engineered API of Microsoft's Bing Chat AI.
+
 
   - ### Node.js API
     - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) <img src="https://img.shields.io/github/stars/transitive-bullshit/chatgpt-api?style=social"/> : Node.js client for the unofficial ChatGPT API. 🔥
@@ -127,7 +137,25 @@
   - [Lightning-AI/lightning-colossalai](https://github.com/Lightning-AI/lightning-colossalai) <img src="https://img.shields.io/github/stars/Lightning-AI/lightning-colossalai?style=social"/> : Large Scale Distributed Model Training with Colossal AI and Lightning AI.
 
 
+
+
+
+
 ## Applications
+
+  - ### Academic
+
+    - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) <img src="https://img.shields.io/github/stars/kaixindelele/ChatPaper?style=social"/> : Use ChatGPT to summarize the arXiv papers. Refine Your Writing, Elevate Your Ideas with ChatPaper. 💥💥💥面向全球，服务万千科研人的ChatPaper在线版正式上线：https://chatpaper.org/ 💥💥💥
+
+    - [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) <img src="https://img.shields.io/github/stars/binary-husky/chatgpt_academic?style=social"/> : ChatGPT 学术优化。中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能。
+
+
+  - ### Wechat
+
+    - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) <img src="https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social"/> : Use ChatGPT On Wechat via wechaty.
+
+    - [formulahendry/my-wechat-bot](https://github.com/formulahendry/my-wechat-bot) <img src="https://img.shields.io/github/stars/formulahendry/my-wechat-bot?style=social"/> : 基于 ChatGPT API 和 Wechaty，搭建 ChatGPT 微信机器人。
+
 
   - ### GUI
 
@@ -135,7 +163,5 @@
 
     - [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) <img src="https://img.shields.io/github/stars/sonnylazuardi/chatgpt-desktop?style=social"/> : OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust.
 
+    - [202252197/ChatGPT_JCM](https://github.com/202252197/ChatGPT_JCM) <img src="https://img.shields.io/github/stars/202252197/ChatGPT_JCM?style=social"/> : OpenAI Manage Web. OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作。
 
-  - ### Wechat
-
-    - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) <img src="https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social"/> : Use ChatGPT On Wechat via wechaty.
