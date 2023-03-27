@@ -111,6 +111,8 @@
       - [如何利用ChatGPT搞科研？](https://mp.weixin.qq.com/s/sW_utRBS_jJAaWfGo_eT5g)
     - 微信公众号「机器之能」
       - [比尔·盖茨：AI时代已经开启，GPT是40年来最具革命性技术](https://mp.weixin.qq.com/s/j3D7g_1HeKZbznOqqU2pxw)
+    - 微信公众号「机器学习研究组订阅」
+      - [震惊科学界！微软154页研究刷屏：GPT-4能力接近人类，「天网」初现？](https://mp.weixin.qq.com/s/C0qwDb_ASCbmP8sHgH97Jg)
 
 
 - ## API
