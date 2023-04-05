@@ -27,6 +27,10 @@
 
     - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) <img src="https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social"/> : Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models". (**[arXiv 2023](https://arxiv.org/abs/2303.04671)**). 
 
+    - [JARVIS](https://github.com/microsoft/JARVIS) <img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social"/> : JARVIS, a system to connect LLMs with ML community. "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace". (**[arXiv 2023](https://arxiv.org/abs/2303.17580)**). 
+
+
+
   - ### Learning Resources
     - [Microsoft OpenAI](https://aka.ms/cn/LearnOpenAI): Microsoft OpenAI 学习工具包。
 
@@ -136,6 +140,8 @@
 
 
 
+
+
 - ## Reproduction
 
   - [Colossal-AI](https://github.com/hpcaitech/ColossalAI) <img src="https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social"/> : Making big AI models cheaper, easier, and scalable. "Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training". (**[arXiv 2021](https://arxiv.org/abs/2110.14883)**). 
@@ -143,6 +149,9 @@
   - [lightning-colossalai](https://github.com/Lightning-AI/lightning-colossalai) <img src="https://img.shields.io/github/stars/Lightning-AI/lightning-colossalai?style=social"/> : Efficient Large-Scale Distributed Training with [Colossal-AI](https://colossalai.org/) and [Lightning AI](https://lightning.ai/).
 
   - [LMFlow](https://github.com/OptimalScale/LMFlow) <img src="https://img.shields.io/github/stars/OptimalScale/LMFlow?style=social"/> : LMFlow: An Extensible Toolkit for Finetuning and Inference of Large Foundation Models.
+
+
+
 
 
 
