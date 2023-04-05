@@ -1,13 +1,13 @@
-# Awesome-ChatGPT-List
+# Awesome-LLM-List
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 This repository lists some awesome public ChatGPT projects.
+🔥🔥🔥 This repository lists some awesome public projects about large language model(LLM).
 
 ## Contents
-- [Awesome-ChatGPT-List](#awesome-chatgpt-list)
+- [Awesome-LLM-List](#awesome-chatgpt-list)
   - [Summary](#summary)
-    - [Official ChatGPT](#official-chatgpt)
     - [Awesome List](#awesome-list)
+    - [LLM Framework](#llm-framework)
     - [Blogs](#blogs)
   - [API](#api)
     - [Python API](#python-api)
@@ -21,21 +21,6 @@
 
 - ## Summary
 
-  - ### Official ChatGPT
-
-    - [OpenAI ChatGPT](https://openai.com/blog/chatgpt/): Optimizing Language Models for Dialogue.
-
-    - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) <img src="https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social"/> : Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models". (**[arXiv 2023](https://arxiv.org/abs/2303.04671)**). 
-
-    - [JARVIS](https://github.com/microsoft/JARVIS) <img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social"/> : JARVIS, a system to connect LLMs with ML community. "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace". (**[arXiv 2023](https://arxiv.org/abs/2303.17580)**). 
-
-
-
-  - ### Learning Resources
-    - [Microsoft OpenAI](https://aka.ms/cn/LearnOpenAI): Microsoft OpenAI 学习工具包。
-
-
-
   - ### Awesome List
 
     - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -45,6 +30,17 @@
     - [xx025/carrot](https://github.com/xx025/carrot) <img src="https://img.shields.io/github/stars/xx025/carrot?style=social"/> : Free ChatGPT Site List.
 
 
+  - ### LLM Framework
+
+    - [OpenAI ChatGPT](https://openai.com/blog/chatgpt/): Optimizing Language Models for Dialogue.
+
+    - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) <img src="https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social"/> : Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models". (**[arXiv 2023](https://arxiv.org/abs/2303.04671)**). 
+
+    - [JARVIS](https://github.com/microsoft/JARVIS) <img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social"/> : JARVIS, a system to connect LLMs with ML community. "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace". (**[arXiv 2023](https://arxiv.org/abs/2303.17580)**). 
+
+
+  - ### Learning Resources
+    - [Microsoft OpenAI](https://aka.ms/cn/LearnOpenAI): Microsoft OpenAI 学习工具包。
 
 
   - ### Blogs
