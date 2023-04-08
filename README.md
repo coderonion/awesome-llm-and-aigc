@@ -203,10 +203,18 @@
     - [2023-03-10，王炸！微软发布Visual ChatGPT：视觉模型加持ChatGPT实现丝滑聊天](https://mp.weixin.qq.com/s/jQd0xujid66CrcBrhhZoLQ)
   - 微信公众号「江大白」
     - [2023-02-15，万字拆解，ChatGPT各项能力的起源追溯](https://mp.weixin.qq.com/s/l0uGPO4vdFQzwCSP-HQQgg)
+    - [2023-03-02，ChatGPT团队背景研究报告，大厂不再是顶尖人才第一选择！](https://mp.weixin.qq.com/s/F_9fChIMkuZLoUfhnenwAw)
+    - [2023-03-03，行业热点 | ChatGPT数据集深度解密](https://mp.weixin.qq.com/s/mQiZIf-1QolCkX-2jTUa5Q)
+    - [2023-03-13，北大团队搞出ChatExcel，说人话自动处理表格，免费且不限次使用！](https://mp.weixin.qq.com/s/H8aG9AewM0npJCpA2A0YGQ)
+    - [2023-03-23，脑洞大开，如何利用ChatGPT搞科研？](https://mp.weixin.qq.com/s/HZvUfwpmPQC6OOX2Qyr-JQ)
+    - [2023-03-29，GPT-4 的独立创业之路，一个人就是一家公司！](https://mp.weixin.qq.com/s/Qu-OXSoDS5hmdPe6EENM4w)
     - [2023-03-30，开源版ChatGPT项目，30分钟训完，性能堪比GPT3.5！（附源码）](https://mp.weixin.qq.com/s/x-UYyeAQc8NF2TiW8XLJHg)
+    - [2023-04-03，学术版专用Chatgpt火热开源，科研工作必备，附源码！](https://mp.weixin.qq.com/s/19jGbV37DhkihhKAxqBk7w)
   - 微信公众号「WeThinkln」
     - [2023-02-12，Rocky和ChatGPT“谈笑风生”的日子 |【AI行研&商业价值分析】](https://mp.weixin.qq.com/s/rV6J6UZgsJT-4HI49GBBaw)
     - [2023-02-26，深入浅出解析ChatGPT引领的科技浪潮 |【AI行研&商业价值分析】](https://mp.weixin.qq.com/s/FLLtb_9shzFmH1wpV7oP_Q)
+  - 微信公众号「所向披靡的张大刀」
+    - [2023-04-07，分割大一统——Segment Anything深度体验](https://mp.weixin.qq.com/s/qtk1Ds3hdNi4NOwrw2tDrg)
   - 微信公众号「AI算法与图像处理」
     - [2023-02-16，推荐一个方便好用的 ChatGPT 客户端！](https://mp.weixin.qq.com/s/Lu0WqBxRcACfucgmTk2OEw)
   - 微信公众号「中国图象图形学报」
@@ -230,8 +238,11 @@
     - [2023-02-11，ChatGPT研究框架（80页PPT）](https://mp.weixin.qq.com/s/eGLqpTvFztok3MWE3ISc2A)
   - 微信公众号「机器学习算法那些事」
     - [2023-02-08，多模态版ChatGPT，拿下视觉语言新SOTA， 代码已开源](https://mp.weixin.qq.com/s/lsRSzwsLiTo6anPnKFa-4A)
+  - 微信公众号「机器学习算法工程师」
+    - [2023-04-08，CV突然进入GPT4时代！Meta和智源研究院发布「分割一切」AI 模型](https://mp.weixin.qq.com/s/9zTX0awkGPc9kfoX2QpDIg)
   - 微信公众号「智东西」
     - [2023-02-06，ChatGPT版搜索引擎突然上线，科技巨头们坐不住了！](https://mp.weixin.qq.com/s/lncJm6hmK3AQNF2paWI5Dw)
+    - [2023-04-07，ChatGPT和Matter两大风口汇合！AWE同期AIoT智能家居峰会月底举行，首批嘉宾公布](https://mp.weixin.qq.com/s/cuI8sSff_zGiLtwukAcLRw)
   - 微信公众号「42章经」
     - [2023-02-13，我是怎样用一周时间研究 ChatGPT 的？](https://mp.weixin.qq.com/s/obVI3ENpMgaq4AKZs6Hw1w)
   - 微信公众号「人工智能技术与咨询」
@@ -285,6 +296,7 @@
   - 微信公众号「极市平台」
     - [2023-03-28，GPT系列来龙去脉大起底（一）｜第一代 GPT：无标注数据预训练生成式语言模型](https://mp.weixin.qq.com/s/wzZOjBJYtBpVZB-PzZenmQ)
     - [2023-04-06，GPT系列来龙去脉大起底（一）｜GPT-2：GPT 在零样本多任务学习的探索](https://mp.weixin.qq.com/s/YekKHeJD0KcCJ_73Wriuqw)
+    - [2023-04-06，压缩下一个 token 通向超过人类的智能](https://mp.weixin.qq.com/s/UCB9-XPxZ0UA-kifakudFQ)
   - 微信公众号「计算机视觉与机器学习」
     - [2023-04-06，不止 GPT4 ，大语言模型的演变之路！](https://mp.weixin.qq.com/s/YhvtxqBszvfcmtLvZgWqhw)
     - [2023-04-04，GPT-4 版“贾维斯”诞生，国外小哥用它 4 分钟创建网站、聊天就能创建 GitHub repo......](https://mp.weixin.qq.com/s/agtQeScBNBvSX1yqLTW4JQ)
@@ -296,11 +308,10 @@
     - [2023-04-07，上线一天，4k star | Facebook：Segment Anything](https://mp.weixin.qq.com/s/G7xeuZE3vHuujQrDxIrePA)
   - 微信公众号「计算机视觉工坊」
     - [2023-04-07，超震撼！Meta发布「分割一切」AI 模型！](https://mp.weixin.qq.com/s/_IbadabLJnvv1_a-NsAJfg)
+    - [2023-04-08，CV开启大模型时代！谷歌发布史上最大ViT：220亿参数，视觉感知力直逼人类](https://mp.weixin.qq.com/s/ur2WTw95pUduxh9EYULR_Q)
   - 微信公众号「CSDN」
     - [2023-03-25，ChatGPT 已成为下一代的新操作系统！](https://mp.weixin.qq.com/s/MwrMhVydbhpP6c0AvPp8oQ)
     - [2023-04-06，CV 迎来 GPT-3 时刻，Meta 开源万物可分割 AI 模型和 1100 万张照片，1B+掩码数据集！](https://mp.weixin.qq.com/s/spBwU0UecbxbEl88SA4GJQ)
-  - 微信公众号「所向披靡的张大刀」
-    - [2023-04-07，分割大一统——Segment Anything深度体验](https://mp.weixin.qq.com/s/qtk1Ds3hdNi4NOwrw2tDrg)
   - 微信公众号「通用人工智能联盟」
     - [2023-01-31，通用人工智能技术综述（一）](https://mp.weixin.qq.com/s/s1A0dHDs0ptNLIKXNivB8g)
     - [2023-02-01，通用人工智能技术综述（二）](https://mp.weixin.qq.com/s/dBAHHdcQPbogxyOv-yTvzg)
@@ -317,6 +328,10 @@
   - 微信公众号「资本实验室」
     - [2023-02-13，ChatGPT爆火之下，生成式人工智能的「远忧近虑」| 海外周选](https://mp.weixin.qq.com/s/hrIwPA_eBu2sUmfW7mYlsw)
     - [2023-02-15，ChatGPT爆火之际，一文看清全球各方力量的应对与跟进行动](https://mp.weixin.qq.com/s/q-xuf3DUtsqW9U4SL5p18A)
+  - 微信公众号「空中机器人前沿」
+    - [2023-03-22，在「机器人领域」使用ChatGPT提高生产力](https://mp.weixin.qq.com/s/MB9pcqzLHb_oNNdDYa2oSA)
+  - 微信公众号「CVHub」
+    - [2023-04-06，《万字长文带你解读AIGC》系列之技术篇](https://mp.weixin.qq.com/s/6jMCd9yn_vBLiLJGBpSB2g)
   - 微信公众号「硅星人」
     - [2022-12-03，行走的代码生成器：chatGPT要让谷歌和程序员“下岗”了](https://mp.weixin.qq.com/s/DXzZ_5RrRbVe5bWkpwFV6Q)
     - [2023-01-18，微软下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/xjNipZ77I3eKbeYU5ZztZQ)
