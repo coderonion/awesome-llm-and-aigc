@@ -6,8 +6,8 @@
 ## Contents
 - [Awesome-LLM-List](#awesome-chatgpt-list)
   - [Summary](#summary)
-    - [Awesome List](#awesome-list)
     - [Frameworks](#frameworks)
+    - [Awesome List](#awesome-list)
     - [Learning Resources](#learning-resources)
   - [Open API](#open-api)
     - [Python API](#python-api)
@@ -19,33 +19,6 @@
   - [Blogs](#blogs)
 
 ## Summary
-
-  - ### Awesome List
-
-    - [xx025/carrot](https://github.com/xx025/carrot) <img src="https://img.shields.io/github/stars/xx025/carrot?style=social"/> : Free ChatGPT Site List. [cc.ai55.cc](https://cc.ai55.cc/)
-
-    - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better. 
-
-    - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) <img src="https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social"/> : Awesome-LLM: a curated list of Large Language Model.
-
-    - [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) <img src="https://img.shields.io/github/stars/cedrickchee/awesome-transformer-nlp?style=social"/> : A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning. 
-
-    - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) <img src="https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social"/> : A curated list of modern Generative Artificial Intelligence projects and services.
-
-    - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) <img src="https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social"/> : A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites.
-
-    - [mikhail-bot/awesome-gpt3](https://github.com/mikhail-bot/awesome-gpt3) <img src="https://img.shields.io/github/stars/mikhail-bot/awesome-gpt3?style=social"/> :A Curated list of awesome GPT3 tools, libraries and resources.
-
-    - [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) <img src="https://img.shields.io/github/stars/imaurer/awesome-decentralized-llm?style=social"/> : Repos and resources for running LLMs locally. (e.g. LLaMA, Cerebras, RWKV).
-
-    - [csbl-br/awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt) <img src="https://img.shields.io/github/stars/csbl-br/awesome-compbio-chatgpt?style=social"/> : An awesome repository of community-curated applications of ChatGPT and other LLMs in computational biology!
-
-    - [atfortes/LLM-Reasoning-Papers](https://github.com/atfortes/LLM-Reasoning-Papers) <img src="https://img.shields.io/github/stars/atfortes/LLM-Reasoning-Papers?style=social"/> : Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others. 
-
-    - [daochenzha/data-centric-AI](https://github.com/daochenzha/data-centric-AI) <img src="https://img.shields.io/github/stars/daochenzha/data-centric-AI?style=social"/> : A curated, but incomplete, list of data-centric AI resources. "Data-centric Artificial Intelligence: A Survey". (**[arXiv 2023](https://arxiv.org/abs/2303.10158)**).  
-
-
-
 
   - ### Frameworks
 
@@ -84,6 +57,31 @@
     - [Dolly](https://github.com/databrickslabs/dolly) <img src="https://img.shields.io/github/stars/databrickslabs/dolly?style=social"/> : Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform. [Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
 
     - [lightning-colossalai](https://github.com/Lightning-AI/lightning-colossalai) <img src="https://img.shields.io/github/stars/Lightning-AI/lightning-colossalai?style=social"/> : Efficient Large-Scale Distributed Training with [Colossal-AI](https://colossalai.org/) and [Lightning AI](https://lightning.ai/).
+
+
+  - ### Awesome List
+
+    - [xx025/carrot](https://github.com/xx025/carrot) <img src="https://img.shields.io/github/stars/xx025/carrot?style=social"/> : Free ChatGPT Site List. [cc.ai55.cc](https://cc.ai55.cc/)
+
+    - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better. 
+
+    - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) <img src="https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social"/> : Awesome-LLM: a curated list of Large Language Model.
+
+    - [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) <img src="https://img.shields.io/github/stars/cedrickchee/awesome-transformer-nlp?style=social"/> : A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning. 
+
+    - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) <img src="https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social"/> : A curated list of modern Generative Artificial Intelligence projects and services.
+
+    - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) <img src="https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social"/> : A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites.
+
+    - [mikhail-bot/awesome-gpt3](https://github.com/mikhail-bot/awesome-gpt3) <img src="https://img.shields.io/github/stars/mikhail-bot/awesome-gpt3?style=social"/> :A Curated list of awesome GPT3 tools, libraries and resources.
+
+    - [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) <img src="https://img.shields.io/github/stars/imaurer/awesome-decentralized-llm?style=social"/> : Repos and resources for running LLMs locally. (e.g. LLaMA, Cerebras, RWKV).
+
+    - [csbl-br/awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt) <img src="https://img.shields.io/github/stars/csbl-br/awesome-compbio-chatgpt?style=social"/> : An awesome repository of community-curated applications of ChatGPT and other LLMs in computational biology!
+
+    - [atfortes/LLM-Reasoning-Papers](https://github.com/atfortes/LLM-Reasoning-Papers) <img src="https://img.shields.io/github/stars/atfortes/LLM-Reasoning-Papers?style=social"/> : Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others. 
+
+    - [daochenzha/data-centric-AI](https://github.com/daochenzha/data-centric-AI) <img src="https://img.shields.io/github/stars/daochenzha/data-centric-AI?style=social"/> : A curated, but incomplete, list of data-centric AI resources. "Data-centric Artificial Intelligence: A Survey". (**[arXiv 2023](https://arxiv.org/abs/2303.10158)**).  
 
 
 
