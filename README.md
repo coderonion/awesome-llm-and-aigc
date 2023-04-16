@@ -340,6 +340,8 @@
     - [2023-03-22，在「机器人领域」使用ChatGPT提高生产力](https://mp.weixin.qq.com/s/MB9pcqzLHb_oNNdDYa2oSA)
   - 微信公众号「CVHub」
     - [2023-04-06，《万字长文带你解读AIGC》系列之技术篇](https://mp.weixin.qq.com/s/6jMCd9yn_vBLiLJGBpSB2g)
+  - 微信公众号「芯榜」
+    - [2023-04-16，思特威：人工智能浪潮，将机器视觉冲向新蓝海](https://mp.weixin.qq.com/s/jtJvltmjSeCi47XiVOzzdw)
   - 微信公众号「硅星人」
     - [2022-12-03，行走的代码生成器：chatGPT要让谷歌和程序员“下岗”了](https://mp.weixin.qq.com/s/DXzZ_5RrRbVe5bWkpwFV6Q)
     - [2023-01-18，微软下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/xjNipZ77I3eKbeYU5ZztZQ)
