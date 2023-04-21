@@ -15,6 +15,8 @@
   - [Prompts](#prompts)
   - [Open API](#open-api)
     - [Python API](#python-api)
+    - [Rust API](#rust-api)
+    - [Csharp API](#csharp-api)
     - [Node.js API](#node.js-api)
   - [Applications](#applications)
     - [IDE](#ide)
@@ -29,6 +31,8 @@
 
   - ### Frameworks
 
+    - GPT-1: "Improving Language Understanding by Generative Pre-Training". (**[cs.ubc.ca, 2018](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)**).
+
     - [GPT-2](https://github.com/openai/gpt-2) <img src="https://img.shields.io/github/stars/openai/gpt-2?style=social"/> : Code for the paper "Language Models are Unsupervised Multitask Learners". (**[OpenAI blog, 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)**). [Better language models and their implications](https://openai.com/research/better-language-models).
 
     - [GPT-3](https://github.com/openai/gpt-3) <img src="https://img.shields.io/github/stars/openai/gpt-3?style=social"/> : "GPT-3: Language Models are Few-Shot Learners". (**[arXiv 2020](https://arxiv.org/abs/2005.14165)**).
@@ -42,8 +46,6 @@
     - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) <img src="https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social"/> : Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models". (**[arXiv 2023](https://arxiv.org/abs/2303.04671)**). 
 
     - [JARVIS](https://github.com/microsoft/JARVIS) <img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social"/> : JARVIS, a system to connect LLMs with ML community. "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace". (**[arXiv 2023](https://arxiv.org/abs/2303.17580)**). 
-
-    - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) <img src="https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social"/> : Demo, data, and code to train open-source assistant-style large language model based on GPT-J and LLaMa.
 
     - [Colossal-AI](https://github.com/hpcaitech/ColossalAI) <img src="https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social"/> : Making big AI models cheaper, easier, and scalable. [www.colossalai.org](www.colossalai.org). "Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training". (**[arXiv 2021](https://arxiv.org/abs/2110.14883)**). 
 
@@ -89,7 +91,7 @@
 
     - [feizc/Visual-LLaMA](https://github.com/feizc/Visual-LLaMA) <img src="https://img.shields.io/github/stars/feizc/Visual-LLaMA?style=social"/> : Open LLaMA Eyes to See the World. This project aims to optimize LLaMA model for visual information understanding like GPT-4 and further explore the potentional of large language model.
 
-
+    - [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) <img src="https://img.shields.io/github/stars/Morizeyao/GPT2-Chinese?style=social"/> : Chinese version of GPT2 training code, using BERT tokenizer. 
 
 
 
@@ -133,6 +135,8 @@
 
     - #### Code Review
 
+      - [GPT4All](https://github.com/nomic-ai/gpt4all) <img src="https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social"/> : gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue. Demo, data, and code to train open-source assistant-style large language model based on GPT-J and LLaMa.
+
       - [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) <img src="https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social"/> : 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。
 
       - [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) <img src="https://img.shields.io/github/stars/FreedomIntelligence/LLMZoo?style=social"/> : ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡ [Tech Report](https://github.com/FreedomIntelligence/LLMZoo/blob/main/assets/llmzoo.pdf)
@@ -165,6 +169,9 @@
 
 ## Open API
 
+
+
+
   - ### Python API
 
     - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) <img src="https://img.shields.io/github/stars/acheong08/ChatGPT?style=social"/> : Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.
@@ -174,8 +181,32 @@
     - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) <img src="https://img.shields.io/github/stars/acheong08/EdgeGPT?style=social"/> : Reverse engineered API of Microsoft's Bing Chat AI.
 
 
+  - ### Rust API
+
+    - [uiuifree/rust-openai-chatgpt-api](https://github.com/uiuifree/rust-openai-chatgpt-api) <img src="https://img.shields.io/github/stars/uiuifree/rust-openai-chatgpt-api?style=social"/> : "rust-openai-chatgpt-api" is a Rust library for accessing the ChatGPT API, a powerful NLP platform by OpenAI. The library provides a simple and efficient interface for sending requests and receiving responses, including chat. It uses reqwest and serde for HTTP requests and JSON serialization. 
+
+
+
+  - ### Csharp API
+
+    - [betalgo/openai](https://github.com/betalgo/openai) <img src="https://img.shields.io/github/stars/betalgo/openai?style=social"/> : OpenAI ChatGPT, Whisper, GPT-3 , GPT-4, Azure OpenAI and DALL-E dotnet SDK. [betalgo.github.io/openai/](https://betalgo.github.io/openai/)
+
+    - [OkGoDoIt/OpenAI-API-dotnet](https://github.com/OkGoDoIt/OpenAI-API-dotnet) <img src="https://img.shields.io/github/stars/OkGoDoIt/OpenAI-API-dotnet?style=social"/> : An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API. [www.nuget.org/packages/OpenAI/](https://www.nuget.org/packages/OpenAI/)
+
+    - [RageAgainstThePixel/OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) <img src="https://img.shields.io/github/stars/RageAgainstThePixel/OpenAI-DotNet?style=social"/> : A Non-Official OpenAI RESTful API Client for dotnet.
+
+    - [PawanOsman/ChatGPT.Net](https://github.com/PawanOsman/ChatGPT.Net) <img src="https://img.shields.io/github/stars/PawanOsman/ChatGPT.Net?style=social"/> : C# library for ChatGPT using official OpenAI API. [www.nuget.org/packages/ChatGPT.Net](https://www.nuget.org/packages/ChatGPT.Net)
+
+    - [marcominerva/ChatGptNet](https://github.com/marcominerva/ChatGptNet) <img src="https://img.shields.io/github/stars/marcominerva/ChatGptNet?style=social"/> : A ChatGPT integration library for .NET.
+
+
+
   - ### Node.js API
     - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) <img src="https://img.shields.io/github/stars/transitive-bullshit/chatgpt-api?style=social"/> : Node.js client for the unofficial ChatGPT API. 🔥
+
+
+
+
 
 
 
@@ -438,7 +469,8 @@
     - [2023-04-01，OpenAI秘史公开：马斯克和奥特曼的战争，与钱无关](https://mp.weixin.qq.com/s/h_juJuhjVt8z-uu4qjaUFw)
     - [2023-04-05，这些让人惊呼好用的神器背后，原来都是ChatGPT](https://mp.weixin.qq.com/s/KL6OFAhPfr_OC80I_W6b3g)
     - [2023-04-07，Meta新模型“分割一切”：抠图完成究极进化，计算机视觉迎来GPT-3时刻](https://mp.weixin.qq.com/s/UUSmg6M5F6FJDs2i_-98dQ)
-
+  - [知乎「猛猿」](https://www.zhihu.com/people/lemonround)
+    - [2023-02-25，ChatGPT技术解析系列之：GPT1、GPT2与GPT3](https://zhuanlan.zhihu.com/p/609367098?utm_id=0)    
 
 
 
