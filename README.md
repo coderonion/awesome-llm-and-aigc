@@ -31,13 +31,17 @@
 
   - ### Frameworks
 
-    - GPT-1: "Improving Language Understanding by Generative Pre-Training". (**[cs.ubc.ca, 2018](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)**).
+    - GPT-1 : "Improving Language Understanding by Generative Pre-Training". (**[cs.ubc.ca, 2018](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)**).
 
-    - [GPT-2](https://github.com/openai/gpt-2) <img src="https://img.shields.io/github/stars/openai/gpt-2?style=social"/> : Code for the paper "Language Models are Unsupervised Multitask Learners". (**[OpenAI blog, 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)**). [Better language models and their implications](https://openai.com/research/better-language-models).
+    - [GPT-2](https://github.com/openai/gpt-2) <img src="https://img.shields.io/github/stars/openai/gpt-2?style=social"/> : "Language Models are Unsupervised Multitask Learners". (**[OpenAI blog, 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)**). [Better language models and their implications](https://openai.com/research/better-language-models).
 
     - [GPT-3](https://github.com/openai/gpt-3) <img src="https://img.shields.io/github/stars/openai/gpt-3?style=social"/> : "GPT-3: Language Models are Few-Shot Learners". (**[arXiv 2020](https://arxiv.org/abs/2005.14165)**).
 
-    - [ChatGPT](https://openai.com/blog/chatgpt/): Optimizing Language Models for Dialogue.
+    - InstructGPT : "Training language models to follow instructions with human feedback". (**[arXiv 2022](https://arxiv.org/abs/2203.02155)**). "Aligning language models to follow instructions". (**[OpenAI blog, 2022](https://openai.com/research/instruction-following)**).
+
+    - [ChatGPT](https://chat.openai.com/): [Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt).
+
+    - [GPT-4](https://openai.com/product/gpt-4): GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses.   
 
     - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) <img src="https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social"/> : MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models. [minigpt-4.github.io](https://minigpt-4.github.io/)
 
@@ -163,6 +167,9 @@
   - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better. 
 
   - [travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) <img src="https://img.shields.io/github/stars/travistangvh/ChatGPT-Data-Science-Prompts?style=social"/> : 🚀 ChatGPT Prompts for Data Science! A repository of 60 useful data science prompts for ChatGPT.
+
+  - [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) <img src="https://img.shields.io/github/stars/kevinamiri/Instructgpt-prompts?style=social"/> : A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text. [prompts.maila.ai/](https://prompts.maila.ai/)
+
 
 
 
