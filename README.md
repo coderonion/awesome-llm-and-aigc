@@ -1,15 +1,16 @@
-# Awesome-AIGC-and-LLM
+# Awesome-llm-and-aigc
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 This repository lists some awesome public projects about AI Generated Content(AIGC) and Large Language Model(LLM).
+🔥🔥🔥 This repository lists some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
 
 ## Contents
-- [Awesome-AIGC-and-LLM](#awesome-aigc-and-llm)
+- [Awesome-llm-and-aigc](#awesome-llm-and-aigc)
   - [Summary](#summary)
     - [Frameworks](#frameworks)
       - [Official Version](#official-version)
-        - [Large Language Model(LLM)](#large-language-model(llm))
-        - [AI Generated Content(AIGC)](#ai-generated-content(aigc))
+        - [Large Language Model](#large-language-model)
+        - [Vision Foundation Model](#vision-foundation-model)
+        - [AI Generated Content](#ai-generated-content)
       - [C++ Version](#c++-version)
       - [Rust Version](#rust-version)
       - [zig Version](#zig-version)
@@ -39,7 +40,7 @@
 
     - #### Official Version
 
-      - ##### Large Language Model(LLM)
+      - ##### Large Language Model
         - GPT-1 : "Improving Language Understanding by Generative Pre-Training". (**[cs.ubc.ca, 2018](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)**).
 
         - [GPT-2](https://github.com/openai/gpt-2) <img src="https://img.shields.io/github/stars/openai/gpt-2?style=social"/> : "Language Models are Unsupervised Multitask Learners". (**[OpenAI blog, 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)**). [Better language models and their implications](https://openai.com/research/better-language-models).
@@ -84,11 +85,11 @@
 
         - [MOSS](https://github.com/OpenLMLab/MOSS) <img src="https://img.shields.io/github/stars/OpenLMLab/MOSS?style=social"/> : An open-source tool-augmented conversational language model from Fudan University. MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon系列模型具有160亿参数，在FP16精度下可在单张A100/A800或两张3090显卡运行，在INT4/8精度下可在单张3090显卡运行。MOSS基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。[txsun1997.github.io/blogs/moss.html](https://txsun1997.github.io/blogs/moss.html)
 
-        - [文心一言](https://yiyan.baidu.com/welcome) : 百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感。
+        - [百度-文心一言](https://yiyan.baidu.com/welcome) : 百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感。
 
-        - [通义千问](https://tongyi.aliyun.com/) : 通义千问，是阿里云推出的一个超大规模的语言模型，功能包括多轮对话、文案创作、逻辑推理、多模态理解、多语言支持。能够跟人类进行多轮的交互，也融入了多模态的知识理解，且有文案创作能力，能够续写小说，编写邮件等。
+        - [阿里云-通义千问](https://tongyi.aliyun.com/) : 通义千问，是阿里云推出的一个超大规模的语言模型，功能包括多轮对话、文案创作、逻辑推理、多模态理解、多语言支持。能够跟人类进行多轮的交互，也融入了多模态的知识理解，且有文案创作能力，能够续写小说，编写邮件等。
 
-        - [日日新SenseNova](https://techday.sensetime.com/?utm_source=baidu-sem-pc&utm_medium=cpc&utm_campaign=PC-%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%97%A5-%E4%BA%A7%E5%93%81%E8%AF%8D-%E6%97%A5%E6%97%A5%E6%96%B0&utm_content=%E6%97%A5%E6%97%A5%E6%96%B0&utm_term=%E6%97%A5%E6%97%A5%E6%96%B0SenseNova&e_creative=73937788324&e_keywordid=594802524403) : 日日新（SenseNova），是商汤科技宣布推出的大模型体系，包括自然语言处理模型“商量”（SenseChat）、文生图模型“秒画”和数字人视频生成平台“如影”（SenseAvatar）等。
+        - [商汤科技-日日新SenseNova](https://techday.sensetime.com/?utm_source=baidu-sem-pc&utm_medium=cpc&utm_campaign=PC-%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%97%A5-%E4%BA%A7%E5%93%81%E8%AF%8D-%E6%97%A5%E6%97%A5%E6%96%B0&utm_content=%E6%97%A5%E6%97%A5%E6%96%B0&utm_term=%E6%97%A5%E6%97%A5%E6%96%B0SenseNova&e_creative=73937788324&e_keywordid=594802524403) : 日日新（SenseNova），是商汤科技宣布推出的大模型体系，包括自然语言处理模型“商量”（SenseChat）、文生图模型“秒画”和数字人视频生成平台“如影”（SenseAvatar）等。
 
         - [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) <img src="https://img.shields.io/github/stars/Morizeyao/GPT2-Chinese?style=social"/> : Chinese version of GPT2 training code, using BERT tokenizer. 
         
@@ -97,8 +98,20 @@
         - [Lightning-AI/lightning-colossalai](https://github.com/Lightning-AI/lightning-colossalai) <img src="https://img.shields.io/github/stars/Lightning-AI/lightning-colossalai?style=social"/> : Efficient Large-Scale Distributed Training with [Colossal-AI](https://colossalai.org/) and [Lightning AI](https://lightning.ai/).
 
 
+      - ##### Vision Foundation Model
 
-      - ##### AI Generated Content(AIGC)
+        - [InternImage](https://github.com/OpenGVLab/InternImage) <img src="https://img.shields.io/github/stars/OpenGVLab/InternImage?style=social"/> : "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions". (**[CVPR 2023](https://arxiv.org/abs/2211.05778)**). 
+
+        - [DINOv2](https://github.com/facebookresearch/dinov2) <img src="https://img.shields.io/github/stars/facebookresearch/dinov2?style=social"/> : "DINOv2: Learning Robust Visual Features without Supervision". (**[arXiv 2023](https://arxiv.org/abs/2304.07193)**). 
+
+        - [Segment Anything](https://github.com/facebookresearch/segment-anything) <img src="https://img.shields.io/github/stars/facebookresearch/segment-anything?style=social"/> : The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. "Segment Anything". (**[arXiv 2023](https://arxiv.org/abs/2304.02643)**). 
+
+        - [Track-Anything](https://github.com/gaomingqi/Track-Anything) <img src="https://img.shields.io/github/stars/gaomingqi/Track-Anything?style=social"/> : Track-Anything is an Efficient Development Toolkit for Video Object Tracking and Segmentation, based on [Segment Anything](https://github.com/facebookresearch/segment-anything) and [XMem](https://github.com/hkchengrex/XMem).
+
+
+
+
+      - ##### AI Generated Content
 
         - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) <img src="https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social"/> : Stable Diffusion is a latent text-to-image diffusion model. Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**). 
 
@@ -276,13 +289,6 @@
     - [Shiling42/web-simulator-by-GPT4](https://github.com/Shiling42/web-simulator-by-GPT4) <img src="https://img.shields.io/github/stars/Shiling42/web-simulator-by-GPT4?style=social"/> : Online Interactive Physical Simulation Generated by GPT-4. [shilingliang.com/web-simulator-by-GPT4/](https://shilingliang.com/web-simulator-by-GPT4/)
 
 
-  - ### Computer Vision
-
-    - [Segment Anything](https://github.com/facebookresearch/segment-anything) <img src="https://img.shields.io/github/stars/facebookresearch/segment-anything?style=social"/> : The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. "Segment Anything". (**[arXiv 2023](https://arxiv.org/abs/2304.02643)**). 
-
-    - [Track-Anything](https://github.com/gaomingqi/Track-Anything) <img src="https://img.shields.io/github/stars/gaomingqi/Track-Anything?style=social"/> : Track-Anything is an Efficient Development Toolkit for Video Object Tracking and Segmentation, based on [Segment Anything](https://github.com/facebookresearch/segment-anything) and [XMem](https://github.com/hkchengrex/XMem).
-
-    - [DINOv2](https://github.com/facebookresearch/dinov2) <img src="https://img.shields.io/github/stars/facebookresearch/dinov2?style=social"/> : "DINOv2: Learning Robust Visual Features without Supervision". (**[arXiv 2023](https://arxiv.org/abs/2304.07193)**). 
 
 
 
