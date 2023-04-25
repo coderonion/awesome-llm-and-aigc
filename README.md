@@ -15,8 +15,6 @@
       - [Rust Version](#rust-version)
       - [zig Version](#zig-version)
     - [Awesome List](#awesome-list)
-      - [Large Language Model](#large-language-model)
-      - [AI Generated Content](#ai-generated-content)
     - [Paper and Code Overview](#paper-and-code-overview)
       - [Paper Review](#paper-review)
       - [Code Review](#code-review)
