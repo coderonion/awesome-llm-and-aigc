@@ -11,9 +11,9 @@
         - [Large Language Model](#large-language-model)
         - [Vision Foundation Model](#vision-foundation-model)
         - [AI Generated Content](#ai-generated-content)
-      - [C++ Version](#c++-version)
-      - [Rust Version](#rust-version)
-      - [zig Version](#zig-version)
+      - [C Implementation](#c-implementation)
+      - [Rust Implementation](#rust-implementation)
+      - [zig Implementation](#zig-implementation)
     - [Awesome List](#awesome-list)
     - [Paper and Code Overview](#paper-and-code-overview)
       - [Paper Review](#paper-review)
@@ -113,6 +113,11 @@
 
         - [Track-Anything](https://github.com/gaomingqi/Track-Anything) <img src="https://img.shields.io/github/stars/gaomingqi/Track-Anything?style=social"/> : Track-Anything is an Efficient Development Toolkit for Video Object Tracking and Segmentation, based on [Segment Anything](https://github.com/facebookresearch/segment-anything) and [XMem](https://github.com/hkchengrex/XMem).
 
+        - [LLaVA](https://github.com/haotian-liu/LLaVA) <img src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social"/> : 🌋 LLaVA: Large Language and Vision Assistant. Visual instruction tuning towards large language and vision models with GPT-4 level capabilities. [llava.hliu.cc](https://llava.hliu.cc/). "Visual Instruction Tuning". (**[arXiv 2023](https://arxiv.org/abs/2304.08485)**). 
+
+
+
+
 
 
 
@@ -126,11 +131,17 @@
 
         - [Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) : Adobe Firefly: Experiment, imagine, and make an infinite range of creations with Firefly, a family of creative generative AI models coming to Adobe products.
 
+        - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) <img src="https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social"/> : AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.
 
 
-    - #### C++ Version
+
+
+
+    - #### C Implementation
 
       - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : Inference of [LLaMA](https://github.com/facebookresearch/llama) model in pure C/C++.
+
+      - [skeskinen/llama-lite](https://github.com/skeskinen/llama-lite) <img src="https://img.shields.io/github/stars/skeskinen/llama-lite?style=social"/> : Embeddings focused small version of Llama NLP model.
 
       - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) <img src="https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=social"/> : High-performance inference of [OpenAI's Whisper](https://github.com/openai/whisper) automatic speech recognition (ASR) model.
 
@@ -139,7 +150,9 @@
 
 
 
-    - #### Rust Version
+
+
+    - #### Rust Implementation
 
       - [rustformers/llama-rs](https://github.com/rustformers/llama-rs) <img src="https://img.shields.io/github/stars/rustformers/llama-rs?style=social"/> : Run LLaMA inference on CPU, with Rust 🦀🚀🦙.
 
@@ -150,7 +163,7 @@
       - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) <img src="https://img.shields.io/github/stars/tazz4843/whisper-rs?style=social"/> : Rust bindings to [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
 
    
-    - #### Zig Version
+    - #### Zig Implementation
     
       - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) <img src="https://img.shields.io/github/stars/renerocksai/gpt4all.zig?style=social"/> : ZIG build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa.
 
