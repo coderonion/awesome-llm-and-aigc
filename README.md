@@ -255,6 +255,8 @@
 
   - ### Python API
 
+    - [acheong08/ChatGPT](https://github.com/xtekky/gpt4free) <img src="https://img.shields.io/github/stars/xtekky/gpt4free?style=social"/> : decentralising the Ai Industry, just some language model api's... [discord.gg/gpt4free](https://discord.gg/gpt4free)
+
     - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) <img src="https://img.shields.io/github/stars/acheong08/ChatGPT?style=social"/> : Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.
 
     - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) <img src="https://img.shields.io/github/stars/wong2/chatgpt-google-extension?style=social"/> : A browser extension that enhance search engines with ChatGPT.
