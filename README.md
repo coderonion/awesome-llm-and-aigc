@@ -25,6 +25,7 @@
     - [Rust API](#rust-api)
     - [Csharp API](#csharp-api)
     - [Node.js API](#node.js-api)
+  - [Device Deployment](#device-deployment)
   - [Applications](#applications)
     - [IDE](#ide)
     - [Academic](#academic)
@@ -101,6 +102,8 @@
         - [feizc/Visual-LLaMA](https://github.com/feizc/Visual-LLaMA) <img src="https://img.shields.io/github/stars/feizc/Visual-LLaMA?style=social"/> : Open LLaMA Eyes to See the World. This project aims to optimize LLaMA model for visual information understanding like GPT-4 and further explore the potentional of large language model.
 
         - [Lightning-AI/lightning-colossalai](https://github.com/Lightning-AI/lightning-colossalai) <img src="https://img.shields.io/github/stars/Lightning-AI/lightning-colossalai?style=social"/> : Efficient Large-Scale Distributed Training with [Colossal-AI](https://colossalai.org/) and [Lightning AI](https://lightning.ai/).
+
+
 
 
       - ##### Vision Foundation Model
@@ -288,6 +291,13 @@
     - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) <img src="https://img.shields.io/github/stars/transitive-bullshit/chatgpt-api?style=social"/> : Node.js client for the unofficial ChatGPT API. 🔥
 
 
+
+
+## Device Deployment
+
+  - [MLC LLM](https://github.com/mlc-ai/mlc-llm) <img src="https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social"/> : Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. [mlc.ai/mlc-llm](https://mlc.ai/mlc-llm/)
+
+  - [Lamini](https://github.com/lamini-ai/lamini) <img src="https://img.shields.io/github/stars/lamini-ai/lamini?style=social"/> : Lamini: The LLM engine for rapidly customizing models 🦙.
 
 
 
