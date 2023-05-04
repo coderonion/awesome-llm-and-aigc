@@ -136,7 +136,7 @@
 
         - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) <img src="https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social"/> : AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.
 
-
+        - [PandasAI](https://github.com/gventuri/pandas-ai) <img src="https://img.shields.io/github/stars/gventuri/pandas-ai?style=social"/> : Pandas AI is a Python library that adds generative artificial intelligence capabilities to Pandas, the popular data analysis and manipulation tool. It is designed to be used in conjunction with Pandas, and is not a replacement for it.
 
 
 
@@ -215,6 +215,8 @@
     - #### Paper Review
 
       - [daochenzha/data-centric-AI](https://github.com/daochenzha/data-centric-AI) <img src="https://img.shields.io/github/stars/daochenzha/data-centric-AI?style=social"/> : A curated, but incomplete, list of data-centric AI resources. "Data-centric Artificial Intelligence: A Survey". (**[arXiv 2023](https://arxiv.org/abs/2303.10158)**).
+
+      - [KSESEU/LLMPapers](https://github.com/KSESEU/LLMPapers) <img src="https://img.shields.io/github/stars/KSESEU/LLMPapers?style=social"/> : Collection of papers and related works for Large Language Models (ChatGPT, GPT-3, Codex etc.).
 
 
     - #### Code Review
