@@ -89,6 +89,8 @@
 
         - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model. ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**). 
 
+        - [StarCoder](https://github.com/bigcode-project/starcoder) <img src="https://img.shields.io/github/stars/bigcode-project/starcoder?style=social"/> : 💫 StarCoder is a language model (LM) trained on source code and natural language text. Its training data incorporates more that 80 different programming languages as well as text extracted from GitHub issues and commits and from notebooks. 
+
         - [MOSS](https://github.com/OpenLMLab/MOSS) <img src="https://img.shields.io/github/stars/OpenLMLab/MOSS?style=social"/> : An open-source tool-augmented conversational language model from Fudan University. MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon系列模型具有160亿参数，在FP16精度下可在单张A100/A800或两张3090显卡运行，在INT4/8精度下可在单张3090显卡运行。MOSS基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。[txsun1997.github.io/blogs/moss.html](https://txsun1997.github.io/blogs/moss.html)
 
         - [百度-文心大模型](https://wenxin.baidu.com/) : 百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感。
@@ -514,6 +516,7 @@
     - [2023-02-16，目前最火的 ChatGPT 开源项目！](https://mp.weixin.qq.com/s/E2-MrsKfvNxIvuW7h4NT6Q)
   - 微信公众号「人工智能学家」
     - [2023-02-15，人机交互新时代：多维度快速看清ChatGPT（附下载）](https://mp.weixin.qq.com/s/MHqn53ZFjXPt8tC1d9oCOA)
+    - [2023-05-19，ChatGPT的工作原理，这篇文章说清楚了](https://mp.weixin.qq.com/s/mt9RH3loOfo3--s1aKVTXg)
   - 微信公众号「新机器视觉」
     - [2023-02-13，ChatGPT 算法原理](https://mp.weixin.qq.com/s/DYRjmJ7ePTqV1RFkBZFCTw)
   - 微信公众号「投行圈子」
@@ -522,6 +525,7 @@
     - [2023-02-08，多模态版ChatGPT，拿下视觉语言新SOTA， 代码已开源](https://mp.weixin.qq.com/s/lsRSzwsLiTo6anPnKFa-4A)
   - 微信公众号「机器学习算法工程师」
     - [2023-04-08，CV突然进入GPT4时代！Meta和智源研究院发布「分割一切」AI 模型](https://mp.weixin.qq.com/s/9zTX0awkGPc9kfoX2QpDIg)
+    - [2023-05-17，StarCoder: 最先进的代码大模型](https://mp.weixin.qq.com/s/XrY-pgBQ-DoTH_0olJ7ytw)
   - 微信公众号「人工智能与算法学习」
     - [2023-02-15，ChatGPT数据集之谜](https://mp.weixin.qq.com/s/CFgsiJ7a2mXQNAWkQxScYQ)
     - [2023-03-10，王炸！微软发布Visual ChatGPT：视觉模型加持ChatGPT实现丝滑聊天](https://mp.weixin.qq.com/s/jQd0xujid66CrcBrhhZoLQ)
@@ -595,9 +599,12 @@
     - [2023-04-23，最新综述！AIGC到底是什么？都有哪些应用？一文尽览！](https://mp.weixin.qq.com/s/rp9XVUBrh17Wr57SPFgTvg)
   - 微信公众号「人工智能前沿讲习」
     - [2023-04-23，【综述专栏】“ChatGPT的问题、风险与机遇”会议综述](https://mp.weixin.qq.com/s/-Gi4xMUXYiI13DaTVgwUdQ)
-
-
-
+  - 微信公众号「人工智能前沿讲习」
+    - [2023-05-19，Stability AI开源一系列人工智能应用](https://mp.weixin.qq.com/s/QOT7ycS5MuobPW2XeYWLWw)
+  - 微信公众号「澎湃新闻」
+    - [2023-05-17，莫言给余华写颁奖词，找ChatGPT帮忙](https://mp.weixin.qq.com/s/ym0w_1ftIw5BpPnGSDLsYg)
+  - 微信公众号「宅码」
+    - [2023-04-18，【知出乎争】GPT的变现和技术介绍](https://mp.weixin.qq.com/s/yWTriSW7CGndHraJXAi3FQ)
 
 
 
