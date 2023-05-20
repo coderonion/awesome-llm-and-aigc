@@ -491,6 +491,7 @@
   - 微信公众号「新智元」
     - [2023-02-03，60天月活破亿，ChatGPT之父传奇：16岁出柜，20岁和男友一同当上CEO](https://mp.weixin.qq.com/s/W1xfLgZXWL3lfP4_54SQKw)
     - [2023-03-17，微软深夜放炸弹！GPT-4 Office全家桶发布，10亿打工人被革命](https://mp.weixin.qq.com/s/YgiurOE0uZ7lRDx1ehpbhQ)
+    - [2023-05-20，GAN逆袭归来！清华校友论文引爆AI绘图圈，一秒把大象P转身，Diffusion黯然失色](https://mp.weixin.qq.com/s/DBLMAEbVw6v4xH94-5Zl3w)
   - 微信公众号「智东西」
     - [2023-02-06，ChatGPT版搜索引擎突然上线，科技巨头们坐不住了！](https://mp.weixin.qq.com/s/lncJm6hmK3AQNF2paWI5Dw)
     - [2023-04-07，ChatGPT和Matter两大风口汇合！AWE同期AIoT智能家居峰会月底举行，首批嘉宾公布](https://mp.weixin.qq.com/s/cuI8sSff_zGiLtwukAcLRw)
@@ -605,6 +606,8 @@
     - [2023-05-17，莫言给余华写颁奖词，找ChatGPT帮忙](https://mp.weixin.qq.com/s/ym0w_1ftIw5BpPnGSDLsYg)
   - 微信公众号「宅码」
     - [2023-04-18，【知出乎争】GPT的变现和技术介绍](https://mp.weixin.qq.com/s/yWTriSW7CGndHraJXAi3FQ)
+  - 微信公众号「Web3天空之城」
+    - [2023-05-17，Sam Altman 国会质询2.5万字全文：如果这项技术出错，它会出错得很严重](https://mp.weixin.qq.com/s/DqPTN8pADPWGjMSiO3__2w)
 
 
 
