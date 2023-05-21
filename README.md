@@ -604,6 +604,7 @@
     - [2023-03-01，一文读懂 OpenAI](https://mp.weixin.qq.com/s/_ovmBsJ7EQr_k4JnSKtuLw)
     - [2023-03-15，AI 里程碑：GPT-4 发布了！](https://mp.weixin.qq.com/s/n8ttVSJmd44sBdpnL3Whxw)
     - [2023-03-27，AI 浪潮下的一些浅思](https://mp.weixin.qq.com/s/1TYrtufxtLcMy0RolNAbhg)
+    - [2023-05-21，ChatGPT 探索：英语学习小助手](https://mp.weixin.qq.com/s/QGURRcD3QOM7-4x0CumX4Q)
   - 微信公众号「北京日报」
     - [2023-02-13，正式发布！北京：支持头部企业打造对标ChatGPT的大模型](https://mp.weixin.qq.com/s/gDRibma_0wC8ZyEXwTkvgQ)
   - 微信公众号「学术头条」
