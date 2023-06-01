@@ -11,7 +11,7 @@
         - [Large Language Model](#large-language-model)
         - [Vision Foundation Model](#vision-foundation-model)
         - [AI Generated Content](#ai-generated-content)
-      - [C Implementation](#c-implementation)
+      - [Cpp Implementation](#cpp-implementation)
       - [Rust Implementation](#rust-implementation)
       - [zig Implementation](#zig-implementation)
     - [Awesome List](#awesome-list)
@@ -100,6 +100,8 @@
 
         - [LangChain](https://github.com/hwchase17/langchain) <img src="https://img.shields.io/github/stars/hwchase17/langchain?style=social"/> :  ⚡ Building applications with LLMs through composability ⚡
 
+        - [ChatALL](https://github.com/sunner/ChatALL) <img src="https://img.shields.io/github/stars/sunner/ChatALL?style=social"/> :  Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers. [chatall.ai](http://chatall.ai/)
+
         - [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) <img src="https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social"/> : 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。
 
         - [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) <img src="https://img.shields.io/github/stars/FreedomIntelligence/LLMZoo?style=social"/> : ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡ [Tech Report](https://github.com/FreedomIntelligence/LLMZoo/blob/main/assets/llmzoo.pdf)
@@ -108,15 +110,19 @@
 
         - [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) <img src="https://img.shields.io/github/stars/X-PLUG/mPLUG-Owl?style=social"/> : mPLUG-Owl🦉: Modularization Empowers Large Language Models with Multimodality.
 
+        - [i-Code](https://github.com/microsoft/i-Code) <img src="https://img.shields.io/github/stars/microsoft/i-Code?style=social"/> : The ambition of the i-Code project is to build integrative and composable multimodal Artificial Intelligence. The "i" stands for integrative multimodal learning. "CoDi: Any-to-Any Generation via Composable Diffusion". (**[arXiv 2023](https://arxiv.org/abs/2305.11846)**). 
+
         - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型。 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**). 
 
         - [Chinese LLaMA and Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) <img src="https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca?style=social"/> : 中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs). 本项目开源了中文LLaMA模型和指令精调的Alpaca大模型。这些模型在原版LLaMA的基础上扩充了中文词表并使用了中文数据进行二次预训练，进一步提升了中文基础语义理解能力。同时，中文Alpaca模型进一步使用了中文指令数据进行精调，显著提升了模型对指令的理解和执行能力。"Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca". (**[arXiv 2023](https://arxiv.org/abs/2304.08177)**). 
 
         - [MOSS](https://github.com/OpenLMLab/MOSS) <img src="https://img.shields.io/github/stars/OpenLMLab/MOSS?style=social"/> : An open-source tool-augmented conversational language model from Fudan University. MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon系列模型具有160亿参数，在FP16精度下可在单张A100/A800或两张3090显卡运行，在INT4/8精度下可在单张3090显卡运行。MOSS基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。[txsun1997.github.io/blogs/moss.html](https://txsun1997.github.io/blogs/moss.html)
 
-        - [SpeechGPT](https://github.com/0nutation/SpeechGPT) <img src="https://img.shields.io/github/stars/0nutation/SpeechGPT?style=social"/> : "SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities". (**[arXiv 2023](https://arxiv.org/abs/2305.11000)**). 
+        - [CPM-Bee](https://github.com/OpenBMB/CPM-Bee) <img src="https://img.shields.io/github/stars/OpenBMB/CPM-Bee?style=social"/> : CPM-Bee是一个完全开源、允许商用的百亿参数中英文基座模型，也是[CPM-Live](https://live.openbmb.org/)训练的第二个里程碑。
 
         - [PandaLM](https://github.com/WeOpenML/PandaLM) <img src="https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social"/> : PandaLM: Reproducible and Automated Language Model Assessment.
+
+        - [SpeechGPT](https://github.com/0nutation/SpeechGPT) <img src="https://img.shields.io/github/stars/0nutation/SpeechGPT?style=social"/> : "SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities". (**[arXiv 2023](https://arxiv.org/abs/2305.11000)**). 
 
         - [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) <img src="https://img.shields.io/github/stars/Morizeyao/GPT2-Chinese?style=social"/> : Chinese version of GPT2 training code, using BERT tokenizer. 
 
@@ -193,7 +199,7 @@
 
 
 
-    - #### C Implementation
+    - #### Cpp Implementation
 
       - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : Inference of [LLaMA](https://github.com/facebookresearch/llama) model in pure C/C++.
 
@@ -303,7 +309,7 @@
 
     - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) <img src="https://img.shields.io/github/stars/wong2/chatgpt-google-extension?style=social"/> : A browser extension that enhance search engines with ChatGPT.
 
-    - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) <img src="httccccccps://img.shields.io/github/stars/acheong08/EdgeGPT?style=social"/> : Reverse engineered API of Microsoft's Bing Chat AI.
+    - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) <img src="https://img.shields.io/github/stars/acheong08/EdgeGPT?style=social"/> : Reverse engineered API of Microsoft's Bing Chat AI.
 
 
   - ### Rust API
@@ -457,6 +463,9 @@
     - [2023-03-15，GPT-4发布！ChatGPT大升级！太太太太强了！](https://mp.weixin.qq.com/s/6u33Xnp4oEHq26WR4W1kdg)
     - [2023-03-15，微软为ChatGPT打造专用超算！砸下几亿美元，上万张英伟达A100打造](https://mp.weixin.qq.com/s/jae8CoMWMKqLVhApqBcTfg)
     - [2023-05-08，MathGPT来了！专攻数学大模型，解题讲题两手抓](https://mp.weixin.qq.com/s/RUnJ2T9BueDnDCu91m8uPQ)
+    - [2023-05-19，前哈工大教授开发的ChatALL火了！可同时提问17个聊天模型，ChatGPT/Bing/Bard/文心/讯飞都OK](https://mp.weixin.qq.com/s/1ERc9nBKMz9H_7hO02ky6w)
+    - [2023-05-19，ChatGPT突然上线APP！iPhone可用、速度更快，GPT-4用量限制疑似取消](https://mp.weixin.qq.com/s/TPeViQhBPrcUqWf7LbWsNg)
+    - [2023-05-28，「大一统」大模型论文爆火，4种模态任意输入输出，华人本科生5篇顶会一作，网友：近期最不可思议的论文](https://mp.weixin.qq.com/s/Mg_qnawkYSWnRHk4LIEIsQ)
   - 微信公众号「机器之心」
     - [2023-02-15，开源方案复现ChatGPT流程！1.62GB显存即可体验，单机训练提速7.73倍](https://mp.weixin.qq.com/s/j8gvD_4ViRE4WQaQlcnmrQ)
     - [2023-02-19，跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文](https://mp.weixin.qq.com/s/s5WrGn_dQyHrsZP8qsI2ag)
@@ -706,8 +715,14 @@
     - [2023-05-20，改进GPT的底层技术](https://mp.weixin.qq.com/s/5zZrol7CLHD-kEMejwHimw)
   - 微信公众号「深度学习与NLP」
     - [2023-05-21，邱锡鹏团队提出具有跨模态能力SpeechGPT，为多模态LLM指明方向](https://mp.weixin.qq.com/s/fEBWELAiEJikC91pwk9l-Q)
-
-    
+  - 微信公众号「APPSO」
+    - [2023-06-01，ChatGPT路线图曝光：没有GPT-5、识图功能要等到明年、GPT-3或将开源](https://mp.weixin.qq.com/s/yKst4w3x0II3kGy5VqY2gA)
+  - 微信公众号「夕小瑶科技说」
+    - [2023-05-31，一个技巧，让ChatGPT学会复杂编程，编程水平逼近人类程序员！](https://mp.weixin.qq.com/s/QgL5-fTA99InHsoI7hJ8lw)
+  - 微信公众号「佐思汽车研究」
+    - [2023-05-26，大模型上不了车](https://mp.weixin.qq.com/s/guxGFY5Jg_YdWDxnIyTZsA)   
+  - 微信公众号「开源技术服务中心」
+    - [2023-05-31，河套IT WALK(总第64期)：AI与自动驾驶科技：打造未来生活方式](https://mp.weixin.qq.com/s/wGupibJ9cKrjdSbUv9cQgQ)   
 
 
 
