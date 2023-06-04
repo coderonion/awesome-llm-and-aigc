@@ -23,18 +23,20 @@
     - [Rust API](#rust-api)
     - [Csharp API](#csharp-api)
     - [Node.js API](#node.js-api)
-  - [Device Deployment](#device-deployment)
   - [Applications](#applications)
     - [IDE](#ide)
-    - [Academic](#academic)
-    - [Computer Vision](#computer-vision)
     - [Wechat](#wechat)
     - [Translator](#translator)
+    - [Local knowledge Base](#local-knowledge-base)
+    - [Academic Field](#academic-field)
     - [Medical Field](#medical-field)
     - [Legal Field](#legal-field)
     - [Math Field](#math-field)
+    - [Device Deployment](#device-deployment)
     - [GUI](#gui)
   - [Blogs](#blogs)
+
+
 
 ## Summary
 
@@ -43,6 +45,7 @@
     - #### Official Version
 
       - ##### Large Language Model
+        ###### 大语言模型（LLM）
 
         - GPT-1 : "Improving Language Understanding by Generative Pre-Training". (**[cs.ubc.ca, 2018](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)**).
 
@@ -138,6 +141,8 @@
 
 
       - ##### Vision Foundation Model
+        ###### 视觉大模型（VFM）
+
 
         - [InternImage](https://github.com/OpenGVLab/InternImage) <img src="https://img.shields.io/github/stars/OpenGVLab/InternImage?style=social"/> : "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions". (**[CVPR 2023](https://arxiv.org/abs/2211.05778)**). 
 
@@ -160,6 +165,7 @@
 
 
       - ##### AI Generated Content
+        ###### 人工智能生成内容（AIGC）
 
         - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) <img src="https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social"/> : Stable Diffusion is a latent text-to-image diffusion model. Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**). 
 
@@ -197,8 +203,6 @@
 
 
 
-
-
     - #### Cpp Implementation
 
       - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : Inference of [LLaMA](https://github.com/facebookresearch/llama) model in pure C/C++.
@@ -208,6 +212,11 @@
       - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) <img src="https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=social"/> : High-performance inference of [OpenAI's Whisper](https://github.com/openai/whisper) automatic speech recognition (ASR) model.
 
       - [Const-me/Whisper](https://github.com/Const-me/Whisper) <img src="https://img.shields.io/github/stars/Const-me/Whisper?style=social"/> : High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model.
+
+      - [wangzhaode/ChatGLM-MNN](https://github.com/wangzhaode/ChatGLM-MNN) <img src="https://img.shields.io/github/stars/wangzhaode/ChatGLM-MNN?style=social"/> : Pure C++, Easy Deploy ChatGLM-6B. 
+
+      - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) <img src="https://img.shields.io/github/stars/ztxz16/fastllm?style=social"/> : 纯c++实现，无第三方依赖的大模型库，支持CUDA加速，目前支持国产大模型ChatGLM-6B，MOSS; 可以在安卓设备上流畅运行ChatGLM-6B。
+
 
 
 
@@ -288,6 +297,7 @@
 
 
 ## Prompts
+### 提示语（魔法）
 
   - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better. 
 
@@ -338,26 +348,42 @@
 
 
 
-## Device Deployment
-
-  - [MLC LLM](https://github.com/mlc-ai/mlc-llm) <img src="https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social"/> : Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. [mlc.ai/mlc-llm](https://mlc.ai/mlc-llm/)
-
-  - [Lamini](https://github.com/lamini-ai/lamini) <img src="https://img.shields.io/github/stars/lamini-ai/lamini?style=social"/> : Lamini: The LLM engine for rapidly customizing models 🦙.
-
-
-
 
 
 ## Applications
 
 
   - ### IDE
+    #### 集成开发环境
 
     - [Cursor](https://github.com/getcursor/cursor) <img src="https://img.shields.io/github/stars/getcursor/cursor?style=social"/> : An editor made for programming with AI 🤖. Long term, our plan is to build Cursor into the world's most productive development environment. [cursor.so](https://www.cursor.so/)
 
 
+  - ### Wechat
+    #### 微信
 
-  - ### Academic
+    - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) <img src="https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social"/> : Use ChatGPT On Wechat via wechaty.
+
+
+
+  - ### Translator
+    #### 翻译
+
+    - [yetone/openai-translator](https://github.com/yetone/openai-translator) <img src="https://img.shields.io/github/stars/yetone/openai-translator?style=social"/> : The translator that does more than just translation - powered by OpenAI.
+
+
+
+  - ### Local knowledge Base
+    #### 本地知识库
+
+    - [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) <img src="https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM?style=social"/> : langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答。基于本地知识库的 ChatGLM 等大语言模型应用实现。
+
+    - [yanqiangmiffy/Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain) <img src="https://img.shields.io/github/stars/yanqiangmiffy/Chinese-LangChain?style=social"/> : Chinese-LangChain：中文langchain项目，基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成。俗称：小必应，Q.Talk，强聊，QiangTalk。
+
+
+
+  - ### Academic Field
+    #### 学术领域
 
     - [GPTZero](https://gptzero.me/): The World's #1 AI Detector with over 1 Million Users. Detect ChatGPT, GPT3, GPT4, Bard, and other AI models.
 
@@ -383,40 +409,39 @@
 
 
 
-  - ### Wechat
-
-    - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) <img src="https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social"/> : Use ChatGPT On Wechat via wechaty.
-
-    - [formulahendry/my-wechat-bot](https://github.com/formulahendry/my-wechat-bot) <img src="https://img.shields.io/github/stars/formulahendry/my-wechat-bot?style=social"/> : 基于 ChatGPT API 和 Wechaty，搭建 ChatGPT 微信机器人。
-
-
-  - ### Translator
-
-    - [yetone/openai-translator](https://github.com/yetone/openai-translator) <img src="https://img.shields.io/github/stars/yetone/openai-translator?style=social"/> : The translator that does more than just translation - powered by OpenAI.
-
-
-
-
   - ### Medical Field
+    #### 医药领域
 
     - [本草[原名：华驼(HuaTuo)]](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) <img src="https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese?style=social"/> : Repo for BenTsao [original name: HuaTuo (华驼)], Llama-7B tuned with Chinese medical knowledge. 本草[原名：华驼(HuaTuo)]: 基于中文医学知识的LLaMA微调模型。本项目开源了经过中文医学指令精调/指令微调(Instruct-tuning) 的LLaMA-7B模型。我们通过医学知识图谱和GPT3.5 API构建了中文医学指令数据集，并在此基础上对LLaMA进行了指令微调，提高了LLaMA在医疗领域的问答效果。 "HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge". (**[arXiv 2023](https://arxiv.org/abs/2304.06975)**). 
 
 
   - ### Legal Field
+    #### 法律领域
 
     - [LaWGPT](https://github.com/pengxiao-song/LaWGPT) <img src="https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social"/> : 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. LaWGPT 是一系列基于中文法律知识的开源大语言模型。该系列模型在通用中文基座模型（如 Chinese-LLaMA、ChatGLM 等）的基础上扩充法律领域专有词表、大规模中文法律语料预训练，增强了大模型在法律领域的基础语义理解能力。在此基础上，构造法律领域对话问答数据集、中国司法考试数据集进行指令精调，提升了模型对法律内容的理解和执行能力。
 
 
 
   - ### Math Field
+    #### 数学领域
 
     - [Progressive-Hint](https://github.com/chuanyang-Zheng/Progressive-Hint) <img src="https://img.shields.io/github/stars/chuanyang-Zheng/Progressive-Hint?style=social"/> : "Progressive-Hint Prompting Improves Reasoning in Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2304.09797)**).
+
+
+
+  - ### Device Deployment
+    #### 设备部署
+
+    - [MLC LLM](https://github.com/mlc-ai/mlc-llm) <img src="https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social"/> : Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. [mlc.ai/mlc-llm](https://mlc.ai/mlc-llm/)
+
+    - [Lamini](https://github.com/lamini-ai/lamini) <img src="https://img.shields.io/github/stars/lamini-ai/lamini?style=social"/> : Lamini: The LLM engine for rapidly customizing models 🦙.
 
 
 
 
 
   - ### GUI
+    #### 图形用户界面
 
     - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) <img src="https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social"/> : Stable Diffusion web UI. A browser interface based on Gradio library for Stable Diffusion.
 
