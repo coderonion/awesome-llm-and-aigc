@@ -160,6 +160,8 @@
 
         - [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything) <img src="https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything?style=social"/> : Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs. We plan to create a very interesting demo by combining [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) and [Segment Anything](https://github.com/facebookresearch/segment-anything) which aims to detect and segment Anything with text inputs!
 
+        - [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) <img src="https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once?style=social"/> : We introduce SEEM that can Segment Everything Everywhere with Multi-modal prompts all at once. SEEM allows users to easily segment an image using prompts of different types including visual prompts (points, marks, boxes, scribbles and image segments) and language prompts (text and audio), etc. It can also work with any combinations of prompts or generalize to custom prompts! "Segment Everything Everywhere All at Once". (**[arXiv 2023](https://arxiv.org/abs/2304.06718)**). 
+
         - [SAM3D](https://github.com/DYZhang09/SAM3D) <img src="https://img.shields.io/github/stars/DYZhang09/SAM3D?style=social"/> : "SAM3D: Zero-Shot 3D Object Detection via [Segment Anything](https://github.com/facebookresearch/segment-anything) Model". (**[arXiv 2023](https://arxiv.org/abs/2306.02245)**). 
 
         - [Track-Anything](https://github.com/gaomingqi/Track-Anything) <img src="https://img.shields.io/github/stars/gaomingqi/Track-Anything?style=social"/> : Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI. "Track Anything: Segment Anything Meets Videos". (**[arXiv 2023](https://arxiv.org/abs/2304.11968)**). 
@@ -318,7 +320,7 @@
 
 
 ## Prompts
-### 提示语（魔法）
+- ### 提示语（魔法）
 
   - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better. 
 
