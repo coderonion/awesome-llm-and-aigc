@@ -115,6 +115,8 @@
 
         - [i-Code](https://github.com/microsoft/i-Code) <img src="https://img.shields.io/github/stars/microsoft/i-Code?style=social"/> : The ambition of the i-Code project is to build integrative and composable multimodal Artificial Intelligence. The "i" stands for integrative multimodal learning. "CoDi: Any-to-Any Generation via Composable Diffusion". (**[arXiv 2023](https://arxiv.org/abs/2305.11846)**). 
 
+        - [FlagAI](https://github.com/FlagAI-Open/FlagAI) <img src="https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social"/> : FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. Our goal is to support training, fine-tuning, and deployment of large-scale models on various downstream tasks with multi-modality.
+
         - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型。 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**). 
 
         - [Chinese LLaMA and Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) <img src="https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca?style=social"/> : 中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs). 本项目开源了中文LLaMA模型和指令精调的Alpaca大模型。这些模型在原版LLaMA的基础上扩充了中文词表并使用了中文数据进行二次预训练，进一步提升了中文基础语义理解能力。同时，中文Alpaca模型进一步使用了中文指令数据进行精调，显著提升了模型对指令的理解和执行能力。"Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca". (**[arXiv 2023](https://arxiv.org/abs/2304.08177)**). 
@@ -169,6 +171,8 @@
 
         - [Track-Anything](https://github.com/gaomingqi/Track-Anything) <img src="https://img.shields.io/github/stars/gaomingqi/Track-Anything?style=social"/> : Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI. "Track Anything: Segment Anything Meets Videos". (**[arXiv 2023](https://arxiv.org/abs/2304.11968)**). 
 
+        - [qianqianwang68/omnimotion](https://github.com/qianqianwang68/omnimotion) <img src="https://img.shields.io/github/stars/qianqianwang68/omnimotion?style=social"/> : "Tracking Everything Everywhere All at Once". (**[arXiv 2023](https://arxiv.org/abs/2306.05422)**). 
+
         - [LLaVA](https://github.com/haotian-liu/LLaVA) <img src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social"/> : 🌋 LLaVA: Large Language and Vision Assistant. Visual instruction tuning towards large language and vision models with GPT-4 level capabilities. [llava.hliu.cc](https://llava.hliu.cc/). "Visual Instruction Tuning". (**[arXiv 2023](https://arxiv.org/abs/2304.08485)**). 
 
         - [M3I-Pretraining](https://github.com/OpenGVLab/M3I-Pretraining) <img src="https://img.shields.io/github/stars/OpenGVLab/M3I-Pretraining?style=social"/> : "Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information". (**[arXiv 2022](https://arxiv.org/abs/2211.09807)**). 
@@ -176,6 +180,10 @@
         - [BEVFormer](https://github.com/fundamentalvision/BEVFormer) <img src="https://img.shields.io/github/stars/fundamentalvision/BEVFormer?style=social"/> : BEVFormer: a Cutting-edge Baseline for Camera-based Detection. "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers". (**[arXiv 2022](https://arxiv.org/abs/2203.17270)**). 
 
         - [Uni-Perceiver](https://github.com/fundamentalvision/Uni-Perceiver) <img src="https://img.shields.io/github/stars/fundamentalvision/Uni-Perceiver?style=social"/> : "Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Uni-Perceiver_Pre-Training_Unified_Architecture_for_Generic_Perception_for_Zero-Shot_and_CVPR_2022_paper.html)**). 
+
+        - [AnyLabeling](https://github.com/vietanhdev/anylabeling) <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : 🌟 AnyLabeling 🌟. Effortless data labeling with AI support from YOLO and Segment Anything! Effortless data labeling with AI support from YOLO and Segment Anything!
+
+        - [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) <img src="https://img.shields.io/github/stars/CVHub520/X-AnyLabeling?style=social"/> : 💫 X-AnyLabeling 💫. Effortless data labeling with AI support from Segment Anything and other awesome models!
 
         - [Label Anything](https://github.com/open-mmlab/playground/tree/main/label_anything) <img src="https://img.shields.io/github/stars/open-mmlab/playground?style=social"/> : OpenMMLab PlayGround: Semi-Automated Annotation with Label-Studio and SAM. 
 
@@ -438,6 +446,8 @@
 
     - [MedSAM](https://github.com/bowang-lab/MedSAM) <img src="https://img.shields.io/github/stars/bowang-lab/MedSAM?style=social"/> : "Segment Anything in Medical Images". (**[arXiv 2023](https://arxiv.org/abs/2304.12306)**). "微信公众号「江大白」《[MedSAM在医学领域，图像分割中的落地应用（附论文及源码）](https://mp.weixin.qq.com/s/JJ0umIzJ5VKJ87A_jnDtOw)》"。
 
+    - [LLaVA-Med](https://github.com/microsoft/LLaVA-Med) <img src="https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social"/> : "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day". (**[arXiv 2023](https://arxiv.org/abs/2306.00890)**). "微信公众号「CVHub」《[微软发布医学多模态大模型LLaVA-Med | 基于LLaVA的医学指令微调](https://mp.weixin.qq.com/s/gzyVtbMArWDnfSzfCkxl9w)》"。
+
 
 
   - ### Legal Field
@@ -528,6 +538,8 @@
     - [2023-05-14，GPT-4拿下最难数学推理数据集新SOTA，新型Prompting让大模型推理能力狂升](https://mp.weixin.qq.com/s/y8u40qIXm3oWZkvgKOV17Q)
     - [2023-05-20，有手就行？把大象P转身只需拖动鼠标，华人一作DragGAN爆火](https://mp.weixin.qq.com/s/wCvfcmv8OhGqo_fxxZUpKw)
     - [2023-05-21，北京出手通用人工智能：产业创新伙伴计划公布，要推动大模型产业加速落地](https://mp.weixin.qq.com/s/gmclRnJvFnFIc6V-zU67ng)
+    - [2023-06-09，智源「悟道3.0」大模型系列问世，这次不拼参数，开源开放成为主角](https://mp.weixin.qq.com/s/kKqSa0sQOuRuQF7gDy7tIw)
+    - [2023-06-10，随时随地，追踪每个像素，连遮挡都不怕的「追踪一切」视频算法来了](https://mp.weixin.qq.com/s/IqcvtfTekSKELLIjX7qRCQ)
   - 微信公众号「图灵人工智能」
     - [2023-02-04，盖茨盛赞ChatGPT：人工智能历史意义不亚于“PC或互联网诞生”](https://mp.weixin.qq.com/s/51v_fUjQe3EewwOIxlLghw)
     - [2023-02-06，ChatGPT专题|ChatGPT之父传奇：8岁会编程，16岁出柜，2个月做到月活过亿](https://mp.weixin.qq.com/s/jodwa-a644vECTnrRqCuAA)
@@ -584,6 +596,7 @@
     - [2023-05-16，算法工程师如何优雅地使用ChatGPT?](https://mp.weixin.qq.com/s/FHdwnTPM6kOsMvAPcegrwg)
     - [2023-06-03，深入浅出，Stable Diffusion完整核心基础讲解](https://mp.weixin.qq.com/s/5HnOAmUKDnOtf2xDX2R9Xg)
     - [2023-06-03，分割一切模型(SAM)的全面综述调研](https://mp.weixin.qq.com/s/39imonlyIdSHYW9VnQhOjw)
+    - [2023-06-10，万字长文，解析大模型在自动驾驶领域的应用](https://mp.weixin.qq.com/s/QGF8ssfB6Rk350ro-ohIHA)
   - 微信公众号「WeThinkln」
     - [2023-02-12，Rocky和ChatGPT“谈笑风生”的日子 |【AI行研&商业价值分析】](https://mp.weixin.qq.com/s/rV6J6UZgsJT-4HI49GBBaw)
     - [2023-02-26，深入浅出解析ChatGPT引领的科技浪潮 |【AI行研&商业价值分析】](https://mp.weixin.qq.com/s/FLLtb_9shzFmH1wpV7oP_Q)
@@ -679,12 +692,8 @@
     - [2023-03-27，AI 浪潮下的一些浅思](https://mp.weixin.qq.com/s/1TYrtufxtLcMy0RolNAbhg)
     - [2023-05-21，ChatGPT 探索：英语学习小助手](https://mp.weixin.qq.com/s/QGURRcD3QOM7-4x0CumX4Q)
     - [2023-05-25，ChatGPT 桌面应用 v1.0.0 发布啦！](https://mp.weixin.qq.com/s/jbQCws2G8hNdytIMPHHg0w)
-  - 微信公众号「北京日报」
-    - [2023-02-13，正式发布！北京：支持头部企业打造对标ChatGPT的大模型](https://mp.weixin.qq.com/s/gDRibma_0wC8ZyEXwTkvgQ)
   - 微信公众号「学术头条」
     - [2023-02-22，揭秘ChatGPT背后的AI“梦之队”：90后科研“后浪”展示强大创新能力｜智谱研究报告](https://mp.weixin.qq.com/s/sncE01utzu_-r3dLFYU5QA)
-  - 微信公众号「中国人工智能学会」
-    - [2023-03-09，会员两会之声丨CAAI副理事长周志华委员：AI发展急需加强机器学习基础研究](https://mp.weixin.qq.com/s/zYElMLISwLxOUI6ZH_K-mg)
   - 微信公众号「人工智能研究」
     - [2023-03-11，哈工大NLP研究所ChatGPT调研报告发布！](https://mp.weixin.qq.com/s/u17VEv0VM8MXYyB7jcV-yA)
   - 微信公众号「OpenFPGA」
@@ -719,7 +728,10 @@
     - [2023-03-22，在「机器人领域」使用ChatGPT提高生产力](https://mp.weixin.qq.com/s/MB9pcqzLHb_oNNdDYa2oSA)
   - 微信公众号「CVHub」
     - [2023-04-06，《万字长文带你解读AIGC》系列之技术篇](https://mp.weixin.qq.com/s/6jMCd9yn_vBLiLJGBpSB2g)
-    - [2023-04-29，《哈工大团队开源医学智能问诊大模型 | 华佗: 基于中文医学知识的LLaMa指令微调模型](https://mp.weixin.qq.com/s/YKR3Bt-Ii4M0MLJApWwyDQ)
+    - [2023-04-29，哈工大团队开源医学智能问诊大模型 | 华佗: 基于中文医学知识的LLaMa指令微调模型](https://mp.weixin.qq.com/s/YKR3Bt-Ii4M0MLJApWwyDQ)
+    - [2023-06-05，X-AnyLabeling: 一款多SOTA模型集成的高精度自动标注工具！](https://mp.weixin.qq.com/s/Fi7i4kw0n_QsA7AgmtP-JQ)
+    - [2023-06-07，三万字长文带你全面解读生成式AI](https://mp.weixin.qq.com/s/BDYHCnkihSChKBJHVxqywA)
+    - [2023-06-08，微软发布医学多模态大模型LLaVA-Med | 基于LLaVA的医学指令微调](https://mp.weixin.qq.com/s/gzyVtbMArWDnfSzfCkxl9w)
   - 微信公众号「芯榜」
     - [2023-04-16，思特威：人工智能浪潮，将机器视觉冲向新蓝海](https://mp.weixin.qq.com/s/jtJvltmjSeCi47XiVOzzdw)
   - 微信公众号「数智前线」
@@ -731,8 +743,6 @@
     - [2023-04-23，最新综述！AIGC到底是什么？都有哪些应用？一文尽览！](https://mp.weixin.qq.com/s/rp9XVUBrh17Wr57SPFgTvg)
   - 微信公众号「人工智能前沿讲习」
     - [2023-04-23，【综述专栏】“ChatGPT的问题、风险与机遇”会议综述](https://mp.weixin.qq.com/s/-Gi4xMUXYiI13DaTVgwUdQ)
-  - 微信公众号「人工智能前沿讲习」
-    - [2023-05-19，Stability AI开源一系列人工智能应用](https://mp.weixin.qq.com/s/QOT7ycS5MuobPW2XeYWLWw)
   - 微信公众号「澎湃新闻」
     - [2023-05-17，莫言给余华写颁奖词，找ChatGPT帮忙](https://mp.weixin.qq.com/s/ym0w_1ftIw5BpPnGSDLsYg)
   - 微信公众号「宅码」
@@ -762,6 +772,7 @@
   - 微信公众号「程序员的那些事」
     - [2023-05-16，Midjourney 5.1 震撼更新！逼真到给跪，中国情侣细节惊艳，3D视频大片马上来](https://mp.weixin.qq.com/s/IViZPmfKlzgc83ozuj-zcg)
   - 微信公众号「51CTO技术栈」
+    - [2023-05-19，Stability AI开源一系列人工智能应用](https://mp.weixin.qq.com/s/QOT7ycS5MuobPW2XeYWLWw)
     - [2023-05-16，入驻QQ一天就爆满！Midjourney中文版来了！](https://mp.weixin.qq.com/s/2eLc_vIUIdR9wKIUzOxZ0A)
   - 微信公众号「GitHubDaily」
     - [2023-05-18，人手一个 Midjourney，StableStudio 重磅开源！](https://mp.weixin.qq.com/s/SbW3drfTmXyoeuwpDg5o2w)
@@ -777,7 +788,8 @@
     - [2023-05-26，大模型上不了车](https://mp.weixin.qq.com/s/guxGFY5Jg_YdWDxnIyTZsA)   
   - 微信公众号「开源技术服务中心」
     - [2023-05-31，河套IT WALK(总第64期)：AI与自动驾驶科技：打造未来生活方式](https://mp.weixin.qq.com/s/wGupibJ9cKrjdSbUv9cQgQ)   
-
+  - 微信公众号「OneFlow」
+    - [2023-06-09，GPT总设计师：大型语言模型的未来](https://mp.weixin.qq.com/s/DAV4ZQ5HVKw3z-mQnM7cWA)   
 
 
 
