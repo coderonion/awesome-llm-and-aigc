@@ -1,7 +1,7 @@
 # Awesome-llm-and-aigc
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 This repository lists some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
+🔥🔥🔥 This repository lists some awesome public projects about Large Language Model, Vision Foundation Model, AI Generated Content, the related Datasets and Applications.
 
 ## Contents
 - [Awesome-llm-and-aigc](#awesome-llm-and-aigc)
@@ -33,6 +33,7 @@
     - [Academic Field](#academic-field)
     - [Medical Field](#medical-field)
     - [Legal Field](#legal-field)
+    - [Financial Field](#Financial-field)
     - [Math Field](#math-field)
     - [Device Deployment](#device-deployment)
     - [GUI](#gui)
