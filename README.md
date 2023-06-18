@@ -335,7 +335,7 @@
 
 
 ## Prompts
-- ### 提示语（魔法）
+### 提示语（魔法）
 
   - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better. 
 
@@ -386,10 +386,17 @@
 
 
 ## Datasets
+### 数据集
+
 
   - ### Multimodal Datasets
+    #### 多模态数据集
+
+    - [Youku-mPLUG](https://github.com/X-PLUG/Youku-mPLUG) <img src="https://img.shields.io/github/stars/X-PLUG/Youku-mPLUG?style=social"/> : "Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks". (**[arXiv 2023](https://arxiv.org/abs/2306.04362)**). "微信公众号「我爱计算机视觉」《[YouKu-mPLUG 最大中文视频语言数据集，助力增强多模态大型模型性能](https://mp.weixin.qq.com/s/iJoaKCykO09R3jTCylRTVA)》"。 
 
     - [matrix-alpha/Accountable-Textual-Visual-Chat](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) <img src="https://img.shields.io/github/stars/matrix-alpha/Accountable-Textual-Visual-Chat?style=social"/> : "Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation". (**[arXiv 2023](https://arxiv.org/abs/2303.05983)**). [https://matrix-alpha.github.io/](https://matrix-alpha.github.io/)
+
+
 
 
 
@@ -406,6 +413,9 @@
     #### 微信
 
     - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) <img src="https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social"/> : Use ChatGPT On Wechat via wechaty.
+
+
+
 
 
 
@@ -469,11 +479,21 @@
     - [LaWGPT](https://github.com/pengxiao-song/LaWGPT) <img src="https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social"/> : 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. LaWGPT 是一系列基于中文法律知识的开源大语言模型。该系列模型在通用中文基座模型（如 Chinese-LLaMA、ChatGLM 等）的基础上扩充法律领域专有词表、大规模中文法律语料预训练，增强了大模型在法律领域的基础语义理解能力。在此基础上，构造法律领域对话问答数据集、中国司法考试数据集进行指令精调，提升了模型对法律内容的理解和执行能力。
 
 
+  - ### Financial Field
+    #### 金融领域
+
+    - [FinGPT](https://github.com/ai4finance-foundation/fingpt) <img src="https://img.shields.io/github/stars/ai4finance-foundation/fingpt?style=social"/> : Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model. "微信公众号「AINLPer」《[FinGPT：一个「专用于金融领域」的开源大语言模型（LLM）框架，源码公开！](https://mp.weixin.qq.com/s/A9euFin675nxGGciiX6rJQ)》"。
+
+
 
   - ### Math Field
     #### 数学领域
 
     - [Progressive-Hint](https://github.com/chuanyang-Zheng/Progressive-Hint) <img src="https://img.shields.io/github/stars/chuanyang-Zheng/Progressive-Hint?style=social"/> : "Progressive-Hint Prompting Improves Reasoning in Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2304.09797)**).
+
+    - [Goat](https://github.com/liutiedong/goat) <img src="https://img.shields.io/github/stars/liutiedong/goat?style=social"/> : "Goat: Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks". (**[arXiv 2023](https://arxiv.org/abs/2305.14201)**). "微信公众号「AINLPer」《[近乎完美！最强算术语言模型: Goar-7B，干翻GPT-4，怒越PaLM-540B！24G可训练](https://mp.weixin.qq.com/s/_haINkHNV4bMszm9F41yXA)》"。
+
+
 
 
 
@@ -776,6 +796,7 @@
     - [2023-05-05，UC伯克利发布大语言模型排行榜！Vicuna夺冠，清华ChatGLM进前5](https://mp.weixin.qq.com/s/JS2ISYUOiSQKECYuXB8h5A)
   - 微信公众号「我爱计算机视觉」
     - [2023-05-05，图文理解能力强大！多模态对话生成模型：mPLUG-Owl，已开源！](https://mp.weixin.qq.com/s/tQYV54g6aMJxogmI3MzmiA)
+    - [2023-06-13，YouKu-mPLUG 最大中文视频语言数据集，助力增强多模态大型模型性能](https://mp.weixin.qq.com/s/iJoaKCykO09R3jTCylRTVA)
   - 微信公众号「计算机视觉联盟」
     - [2023-05-10，北大、西湖大学等开源PandaLM](https://mp.weixin.qq.com/s/mKq56QrTWTd7IiXcmYqSFA)
   - 微信公众号「机器学习与AI生成创作」
@@ -803,6 +824,9 @@
     - [2023-05-31，河套IT WALK(总第64期)：AI与自动驾驶科技：打造未来生活方式](https://mp.weixin.qq.com/s/wGupibJ9cKrjdSbUv9cQgQ)   
   - 微信公众号「OneFlow」
     - [2023-06-09，GPT总设计师：大型语言模型的未来](https://mp.weixin.qq.com/s/DAV4ZQ5HVKw3z-mQnM7cWA)   
+  - 微信公众号「AINLPer」
+    - [2023-06-05，近乎完美！最强算术语言模型: Goar-7B，干翻GPT-4，怒越PaLM-540B！24G可训练](https://mp.weixin.qq.com/s/_haINkHNV4bMszm9F41yXA)  
+    - [2023-06-16，FinGPT：一个「专用于金融领域」的开源大语言模型（LLM）框架，源码公开！](https://mp.weixin.qq.com/s/A9euFin675nxGGciiX6rJQ)   
 
 
 
