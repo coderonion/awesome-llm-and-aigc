@@ -23,6 +23,8 @@
     - [Rust API](#rust-api)
     - [Csharp API](#csharp-api)
     - [Node.js API](#node.js-api)
+  - [Datasets](#datasets)
+    - [Multimodal Datasets](#multimodal-datasets)
   - [Applications](#applications)
     - [IDE](#ide)
     - [Wechat](#wechat)
@@ -314,6 +316,9 @@
 
     - [Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) <img src="https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image?style=social"/> : (ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis. 
 
+    - [SeedV/generative-ai-roadmap](https://github.com/SeedV/generative-ai-roadmap) <img src="https://img.shields.io/github/stars/SeedV/generative-ai-roadmap?style=social"/> : 生成式AI的应用路线图 The roadmap of generative AI: use cases and applications.
+
+    
 
 
   - ### Paper Overview
@@ -380,6 +385,11 @@
 
 
 
+## Datasets
+
+  - ### Multimodal Datasets
+
+    - [matrix-alpha/Accountable-Textual-Visual-Chat](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) <img src="https://img.shields.io/github/stars/matrix-alpha/Accountable-Textual-Visual-Chat?style=social"/> : "Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation". (**[arXiv 2023](https://arxiv.org/abs/2303.05983)**). [https://matrix-alpha.github.io/](https://matrix-alpha.github.io/)
 
 
 
