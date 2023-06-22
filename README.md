@@ -30,6 +30,7 @@
     - [Wechat](#wechat)
     - [Translator](#translator)
     - [Local knowledge Base](#local-knowledge-base)
+    - [Question Answering System](#question-answering-system)
     - [Academic Field](#academic-field)
     - [Medical Field](#medical-field)
     - [Legal Field](#legal-field)
@@ -120,8 +121,9 @@
 
         - [i-Code](https://github.com/microsoft/i-Code) <img src="https://img.shields.io/github/stars/microsoft/i-Code?style=social"/> : The ambition of the i-Code project is to build integrative and composable multimodal Artificial Intelligence. The "i" stands for integrative multimodal learning. "CoDi: Any-to-Any Generation via Composable Diffusion". (**[arXiv 2023](https://arxiv.org/abs/2305.11846)**). 
 
-        - [WorkGPT](https://github.com/team-openpm/workgpt) <img src="https://img.shields.io/github/stars/team-openpm/workgpt?style=social"/> : WorkGPT is an agent framework in a similar fashion to AutoGPT or LangChain. 
+        - [WorkGPT](https://github.com/h2oai/h2ogpt) <img src="https://img.shields.io/github/stars/h2oai/h2ogpt?style=social"/> : WorkGPT is an agent framework in a similar fashion to AutoGPT or LangChain. 
 
+        - [h2oGPT](https://github.com/team-openpm/workgpt) <img src="https://img.shields.io/github/stars/team-openpm/workgpt?style=social"/> : h2oGPT is a large language model (LLM) fine-tuning framework and chatbot UI with document(s) question-answer capabilities. "h2oGPT: Democratizing Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2306.08161)**).  
 
         - [FlagAI|悟道·天鹰（Aquila）](https://github.com/FlagAI-Open/FlagAI) <img src="https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social"/> : FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. Our goal is to support training, fine-tuning, and deployment of large-scale models on various downstream tasks with multi-modality.
 
@@ -193,7 +195,9 @@
 
         - [Label Anything](https://github.com/open-mmlab/playground/tree/main/label_anything) <img src="https://img.shields.io/github/stars/open-mmlab/playground?style=social"/> : OpenMMLab PlayGround: Semi-Automated Annotation with Label-Studio and SAM. 
 
+        - [RevCol](https://github.com/megvii-research/RevCol) <img src="https://img.shields.io/github/stars/megvii-research/RevCol?style=social"/> : "Reversible Column Networks". (**[arXiv 2023](https://arxiv.org/abs/2212.11696)**). 
 
+        - [Macaw-LLM](https://github.com/lyuchenyang/Macaw-LLM) <img src="https://img.shields.io/github/stars/lyuchenyang/Macaw-LLM?style=social"/> : Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration.
 
 
 
@@ -445,6 +449,14 @@
 
 
 
+  - ### Question Answering System
+    #### 问答系统
+
+    - [THUDM/WebGLM](https://github.com/THUDM/WebGLM) <img src="https://img.shields.io/github/stars/THUDM/WebGLM?style=social"/> : WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023). "WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences". (**[arXiv 2023](https://arxiv.org/abs/2306.07906)**). 
+
+
+
+
   - ### Academic Field
     #### 学术领域
 
@@ -586,6 +598,7 @@
     - [2023-06-09，智源「悟道3.0」大模型系列问世，这次不拼参数，开源开放成为主角](https://mp.weixin.qq.com/s/kKqSa0sQOuRuQF7gDy7tIw)
     - [2023-06-10，随时随地，追踪每个像素，连遮挡都不怕的「追踪一切」视频算法来了](https://mp.weixin.qq.com/s/IqcvtfTekSKELLIjX7qRCQ)
     - [2023-06-17，llama.cpp作者创业，用纯C语言框架降低大模型运行成本](https://mp.weixin.qq.com/s/rRx0lhIKIPNumxKBk9tqag)
+    - [2023-06-20，650亿参数，8块GPU就能全参数微调：邱锡鹏团队把大模型门槛打下来了](https://mp.weixin.qq.com/s/339iXf2bimusfq6zQmFpWw)
   - 微信公众号「图灵人工智能」
     - [2023-02-04，盖茨盛赞ChatGPT：人工智能历史意义不亚于“PC或互联网诞生”](https://mp.weixin.qq.com/s/51v_fUjQe3EewwOIxlLghw)
     - [2023-02-06，ChatGPT专题|ChatGPT之父传奇：8岁会编程，16岁出柜，2个月做到月活过亿](https://mp.weixin.qq.com/s/jodwa-a644vECTnrRqCuAA)
@@ -628,6 +641,8 @@
     - [2023-02-09，计算机视觉研究院亲自体验ChatGPT的感受，太疯狂了！](https://mp.weixin.qq.com/s/82Z3cODnPbwpStXIhnuJyw)
     - [2023-02-16，Image GPT——手把手教你搭建](https://mp.weixin.qq.com/s/gH_K_9Qo67HoNnSOnBevqw)
     - [2023-02-20，7 Papers | 超越GPT 3.5的小模型；对ChatGPT摸底考试](https://mp.weixin.qq.com/s/_HV9atcakv0sWD5X4tloPw)
+    - [2023-06-21，RevCol：大模型架构设计新范式，给神经网络架构增加了一个维度！](https://mp.weixin.qq.com/s/vsia8h5LI4zs-lES0u_dcw)
+    - [2023-06-21，走向CV的通用人工智能：从GPT和大型语言模型中汲取的经验教训 (上)](https://mp.weixin.qq.com/s/6Sl8ELrA9zulal5iJoQXJA)
   - 微信公众号「江大白」
     - [2023-02-15，万字拆解，ChatGPT各项能力的起源追溯](https://mp.weixin.qq.com/s/l0uGPO4vdFQzwCSP-HQQgg)
     - [2023-03-02，ChatGPT团队背景研究报告，大厂不再是顶尖人才第一选择！](https://mp.weixin.qq.com/s/F_9fChIMkuZLoUfhnenwAw)
@@ -643,6 +658,7 @@
     - [2023-06-03，深入浅出，Stable Diffusion完整核心基础讲解](https://mp.weixin.qq.com/s/5HnOAmUKDnOtf2xDX2R9Xg)
     - [2023-06-03，分割一切模型(SAM)的全面综述调研](https://mp.weixin.qq.com/s/39imonlyIdSHYW9VnQhOjw)
     - [2023-06-10，万字长文，解析大模型在自动驾驶领域的应用](https://mp.weixin.qq.com/s/QGF8ssfB6Rk350ro-ohIHA)
+    - [2023-06-21，AIGC 10亿参数模型进手机！15秒即可出图，飞行模式也能用！](https://mp.weixin.qq.com/s/chy2qMyD5ILTP2R6DpL4Yg)
   - 微信公众号「WeThinkln」
     - [2023-02-12，Rocky和ChatGPT“谈笑风生”的日子 |【AI行研&商业价值分析】](https://mp.weixin.qq.com/s/rV6J6UZgsJT-4HI49GBBaw)
     - [2023-02-26，深入浅出解析ChatGPT引领的科技浪潮 |【AI行研&商业价值分析】](https://mp.weixin.qq.com/s/FLLtb_9shzFmH1wpV7oP_Q)
@@ -692,6 +708,7 @@
     - [2023-02-09，ChatGPT：你来了，那我怎么办？](https://mp.weixin.qq.com/s/3wikMRAJqZtWHaC5dUVgbQ)
     - [2023-02-12，ChatGPT引爆新一轮科技军备赛](https://mp.weixin.qq.com/s/4oofzJywBsG9SF6Hb48WNQ)
     - [2023-02-14，ChatGPT创始人，给我们上的8堂课](https://mp.weixin.qq.com/s/js-fY2nJBAr_pZItTw-PMg)
+    - [2023-06-21，ChatGPT：一个人不管有多大的梦想，还是要有盖世武功](https://mp.weixin.qq.com/s/5FG6YIoWUxQ_aB0k5iWTCg)
   - 微信公众号「AI算法与图像处理」
     - [2023-02-16，推荐一个方便好用的 ChatGPT 客户端！](https://mp.weixin.qq.com/s/Lu0WqBxRcACfucgmTk2OEw)
   - 微信公众号「中国图象图形学报」
@@ -800,6 +817,7 @@
     - [2023-05-17，Sam Altman 国会质询2.5万字全文：如果这项技术出错，它会出错得很严重](https://mp.weixin.qq.com/s/DqPTN8pADPWGjMSiO3__2w)
   - 微信公众号「AI前线」
     - [2023-05-03，7天花5万美元，我们成功复制了 Stable Diffusion，成本大降88%！训练代码已开源](https://mp.weixin.qq.com/s/KYhjUOhi3dBvGptBiBlW8A)
+    - [2023-06-21，微软也搞起了开源小模型！利用OpenAI的ChatGPT和GPT-4 训练，实力碾压当前最强开源模型 ](https://mp.weixin.qq.com/s/RRdrSeI2ux5QE6MqJ8opSg)
   - 微信公众号「CVer」
     - [2023-05-03，代季峰教授：超大规模视觉通用模型最新研究成果分享](https://mp.weixin.qq.com/s/RYCHY0CrFbnM88ORegED1A)
     - [2023-05-20，华人一作DragGAN爆火！拖动你的GAN：交互式图像编辑新高度](https://mp.weixin.qq.com/s/QGyuCPFzg2W2QUyMu4HD2g)
@@ -856,6 +874,8 @@
   - 微信公众号「NLP日志录」
     - [2023-06-16，WorkGPT：一个智能体框架，类似于AutoGPT或LangChain](https://mp.weixin.qq.com/s/OdRrAQcEMfuuT8xLFPijZQ)  
     - [2023-06-19，Awesome-Chinese-LLM：整理开源的中文大语言模型](https://mp.weixin.qq.com/s/bn97j_OKWPakwMDYQYEgyw)  
+  - 微信公众号「NewBeeNLP」
+    - [2023-02-07，ChatGPT Prompt工程：设计、实践与思考](https://mp.weixin.qq.com/s/a8hjzZ_Rzl6pOU1PRAARJQ)   
   - 微信公众号「AI寒武纪」
     - [2023-06-19，重磅：未来10年生成式人工智能将这样影响所有人](https://mp.weixin.qq.com/s/qsLOke8-jckhF1XYxswFtQ)  
   - 微信公众号「毫末智行」
@@ -864,7 +884,16 @@
     - [2023-06-11，悟道·天鹰 Aquila + 天秤 FlagEval，打造大模型能力与评测标准双标杆](https://mp.weixin.qq.com/s/8oP9nongpkkfHuE1RsKx8A)   
   - 微信公众号「CLUE中文语言理解测评基准」
     - [2023-06-19，最新大模型排名！中文大模型评测基准SuperCLUE发布6月榜单](https://mp.weixin.qq.com/s/lTqAOO8iqKUW3B_4VMswtw)   
+  - 微信公众号「AI范儿」
+    - [2023-06-09，Midjourney指令的终极列表：完整指南](https://mp.weixin.qq.com/s/wyAe6hDDusbSC6M2naAHVA)   
+  - 微信公众号「无数据不智能」
+    - [2023-05-31，WebGLM：10B 堪比 webGPT 175B](https://mp.weixin.qq.com/s/3bXpWUq6twqBmumU1xH0yg)   
+    - [2023-06-14，一份大模型应用到各领域的综述，包括法律、金融、教育、软件工程、生物等等](https://mp.weixin.qq.com/s/dui1xcCIIVyBv-sLslHeTg)   
+    - [2023-06-16，H2OGPT：开源代码仓库套件,开源GPT替代品,包括可商用的代码、数据、模型、微调工具](https://mp.weixin.qq.com/s/QIPMIqG8C8rNJqSKTjFWxg)   
+    - [2023-06-17，macaw-llm：开源图像、音频、视频和文本的多模态语言建模模型](https://mp.weixin.qq.com/s/O3ryffaCghfU3_tUUu2TIA)   
   - 微信公众号「AI浪潮时代」
     - [2023-06-18，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（1/15）](https://mp.weixin.qq.com/s/T8A_FpFwOHHwsyvNggf7yA)   
-    - [2023-06-20，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（2/15）](https://mp.weixin.qq.com/s/IaolSkSOFakF6eBJVEsFyA)   
+    - [2023-06-20，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（2/15）](https://mp.weixin.qq.com/s/IaolSkSOFakF6eBJVEsFyA) 
+    - [2023-06-21，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（3/15）](https://mp.weixin.qq.com/s/h45GnzshxyI0p-xAW1hdNA)   
+
 
