@@ -129,6 +129,8 @@
 
         - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型。 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**). 
 
+        - [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM2-6B?style=social"/> : ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型。ChatGLM2-6B 是开源中英双语对话模型 ChatGLM-6B 的第二代版本，在保留了初代模型对话流畅、部署门槛较低等众多优秀特性的基础之上，ChatGLM2-6B 引入了更强大的性能、更强大的性能、更高效的推理、更开放的协议。
+
         - [Chinese LLaMA and Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) <img src="https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca?style=social"/> : 中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs). 本项目开源了中文LLaMA模型和指令精调的Alpaca大模型。这些模型在原版LLaMA的基础上扩充了中文词表并使用了中文数据进行二次预训练，进一步提升了中文基础语义理解能力。同时，中文Alpaca模型进一步使用了中文指令数据进行精调，显著提升了模型对指令的理解和执行能力。"Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca". (**[arXiv 2023](https://arxiv.org/abs/2304.08177)**). 
 
         - [MOSS](https://github.com/OpenLMLab/MOSS) <img src="https://img.shields.io/github/stars/OpenLMLab/MOSS?style=social"/> : An open-source tool-augmented conversational language model from Fudan University. MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon系列模型具有160亿参数，在FP16精度下可在单张A100/A800或两张3090显卡运行，在INT4/8精度下可在单张3090显卡运行。MOSS基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。[txsun1997.github.io/blogs/moss.html](https://txsun1997.github.io/blogs/moss.html)
@@ -863,10 +865,12 @@
     - [2023-06-05，近乎完美！最强算术语言模型: Goar-7B，干翻GPT-4，怒越PaLM-540B！24G可训练](https://mp.weixin.qq.com/s/_haINkHNV4bMszm9F41yXA)  
     - [2023-06-06，Amazon | 深入研究LLMs与AutoGPT的结合：揭示出GPT-4惊人的人类决策能力！](https://mp.weixin.qq.com/s/Gbz7ZVVdeTq64mj1-__aQA) 
     - [2023-06-16，FinGPT：一个「专用于金融领域」的开源大语言模型（LLM）框架，源码公开！](https://mp.weixin.qq.com/s/A9euFin675nxGGciiX6rJQ) 
+    - [2023-06-26，ChatGLM2-6B 发布：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/zDf9YbOEc681Otcjh0FJxw) 
   - 微信公众号「ArronAI」
     - [2023-06-13，高性能支持LLM的机器学习Tensor库](https://mp.weixin.qq.com/s/hdwWP39BHb68VHtCcUcM7Q)  
   - 微信公众号「DataLearner」
     - [2023-06-13，国产开源大模型再添重要玩家：BAAI发布开源可商用大模型Aquila](https://mp.weixin.qq.com/s/n8GwkDt9wXI9nNfFTIRcBQ)  
+    - [2023-06-25，重磅！第二代ChatGLM-6B发布！清华大学THUDM发布ChatGLM2-6B：更快更准，更低资源更长输入！](https://mp.weixin.qq.com/s/7Y6_jqj0RBq82hEggFHTgg)  
   - 微信公众号「KBQA沉思录」
     - [2023-06-14，【中文医疗大模型】训练全流程源码剖析](https://mp.weixin.qq.com/s/DTHIxyDb9vG793hAKGLt2g)  
   - 微信公众号「技术狂潮AI」
@@ -886,6 +890,8 @@
     - [2023-06-19，最新大模型排名！中文大模型评测基准SuperCLUE发布6月榜单](https://mp.weixin.qq.com/s/lTqAOO8iqKUW3B_4VMswtw)   
   - 微信公众号「AI范儿」
     - [2023-06-09，Midjourney指令的终极列表：完整指南](https://mp.weixin.qq.com/s/wyAe6hDDusbSC6M2naAHVA)   
+  - 微信公众号「机器学习实验室」
+    - [2023-06-26，Midjourney 5.2震撼发布！](https://mp.weixin.qq.com/s/l8a6T2ha4q13go3dRbt8pA)   
   - 微信公众号「无数据不智能」
     - [2023-05-31，WebGLM：10B 堪比 webGPT 175B](https://mp.weixin.qq.com/s/3bXpWUq6twqBmumU1xH0yg)   
     - [2023-06-14，一份大模型应用到各领域的综述，包括法律、金融、教育、软件工程、生物等等](https://mp.weixin.qq.com/s/dui1xcCIIVyBv-sLslHeTg)   
@@ -894,6 +900,9 @@
   - 微信公众号「AI浪潮时代」
     - [2023-06-18，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（1/15）](https://mp.weixin.qq.com/s/T8A_FpFwOHHwsyvNggf7yA)   
     - [2023-06-20，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（2/15）](https://mp.weixin.qq.com/s/IaolSkSOFakF6eBJVEsFyA) 
-    - [2023-06-21，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（3/15）](https://mp.weixin.qq.com/s/h45GnzshxyI0p-xAW1hdNA)   
-
+    - [2023-06-21，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（3/15）](https://mp.weixin.qq.com/s/h45GnzshxyI0p-xAW1hdNA)  
+  - 微信公众号「深度学习自然语言处理」
+    - [2023-06-26，ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%，在中文榜单位列榜首](https://mp.weixin.qq.com/s/7Dn_R-9q_uGZBEEQcIZJGg)    
+  - 微信公众号「GLM大模型」
+    - [2023-06-25，【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA)   
 
