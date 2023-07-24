@@ -11,6 +11,7 @@
         - [Large Language Model](#large-language-model)
         - [Vision Foundation Model](#vision-foundation-model)
         - [AI Generated Content](#ai-generated-content)
+      - [C Implementation](#c-implementation)
       - [Cpp Implementation](#cpp-implementation)
       - [Rust Implementation](#rust-implementation)
       - [zig Implementation](#zig-implementation)
@@ -28,7 +29,7 @@
     - [Multimodal Datasets](#multimodal-datasets)
   - [Applications](#applications)
     - [IDE](#ide)
-    - [Wechat](#wechat)
+    - [Chatbot](#chatbot)
     - [Translator](#translator)
     - [Local knowledge Base](#local-knowledge-base)
     - [Question Answering System](#question-answering-system)
@@ -159,6 +160,10 @@
 
         - [Chinese LLaMA and Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) <img src="https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca?style=social"/> : 中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs). 本项目开源了中文LLaMA模型和指令精调的Alpaca大模型。这些模型在原版LLaMA的基础上扩充了中文词表并使用了中文数据进行二次预训练，进一步提升了中文基础语义理解能力。同时，中文Alpaca模型进一步使用了中文指令数据进行精调，显著提升了模型对指令的理解和执行能力。"Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca". (**[arXiv 2023](https://arxiv.org/abs/2304.08177)**). 
 
+        - [michael-wzhu/Chinese-LlaMA2](https://github.com/michael-wzhu/Chinese-LlaMA2) <img src="https://img.shields.io/github/stars/michael-wzhu/Chinese-LlaMA2?style=social"/> : Repo for adapting Meta LlaMA2 in Chinese! META最新发布的LlaMA2的汉化版！ （完全开源可商用）  
+
+        - [FlagAlpha/Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) <img src="https://img.shields.io/github/stars/FlagAlpha/Llama2-Chinese?style=social"/> : Llama中文社区，最好的中文Llama大模型，完全开源可商用。
+
         - [CPM-Bee](https://github.com/OpenBMB/CPM-Bee) <img src="https://img.shields.io/github/stars/OpenBMB/CPM-Bee?style=social"/> : CPM-Bee是一个完全开源、允许商用的百亿参数中英文基座模型，也是[CPM-Live](https://live.openbmb.org/)训练的第二个里程碑。
 
         - [PandaLM](https://github.com/WeOpenML/PandaLM) <img src="https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social"/> : PandaLM: Reproducible and Automated Language Model Assessment.
@@ -265,6 +270,11 @@
 
 
 
+    - #### C Implementation
+
+      - [llama2.c](https://github.com/karpathy/llama2.c) <img src="https://img.shields.io/github/stars/karpathy/llama2.c?style=social"/> : Inference Llama 2 in one file of pure C.
+
+
 
 
 
@@ -287,7 +297,7 @@
 
       - [davidar/eigenGPT](https://github.com/davidar/eigenGPT) <img src="https://img.shields.io/github/stars/davidar/eigenGPT?style=social"/> : Minimal C++ implementation of GPT2.
 
-
+      - [Ollama](https://github.com/jmorganca/ollama) <img src="https://img.shields.io/github/stars/jmorganca/ollama?style=social"/> : Get up and running with large language models locally. [ollama.ai](https://ollama.ai/)
 
 
 
@@ -473,8 +483,10 @@
     - [Cursor](https://github.com/getcursor/cursor) <img src="https://img.shields.io/github/stars/getcursor/cursor?style=social"/> : An editor made for programming with AI 🤖. Long term, our plan is to build Cursor into the world's most productive development environment. [cursor.so](https://www.cursor.so/)
 
 
-  - ### Wechat
-    #### 微信
+  - ### Chatbot 
+    #### 聊天机器人
+
+    - [a16z-infra/llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot) <img src="https://img.shields.io/github/stars/a16z-infra/llama2-chatbot?style=social"/> : LLaMA 2 Chatbot App ⚡
 
     - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) <img src="https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social"/> : Use ChatGPT On Wechat via wechaty.
 
