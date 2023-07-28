@@ -132,7 +132,13 @@
 
         - [h2oGPT](https://github.com/team-openpm/workgpt) <img src="https://img.shields.io/github/stars/team-openpm/workgpt?style=social"/> : h2oGPT is a large language model (LLM) fine-tuning framework and chatbot UI with document(s) question-answer capabilities. "h2oGPT: Democratizing Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2306.08161)**).  
 
-        - [LongLLaMA ](https://github.com/CStanKonrad/long_llama) <img src="https://img.shields.io/github/starsCStanKonrad/long_llama?style=social"/> : LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method. 
+        - [LongLLaMA ](https://github.com/CStanKonrad/long_llama) <img src="https://img.shields.io/github/stars/CStanKonrad/long_llama?style=social"/> : LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method. 
+
+        - [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) <img src="https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter?style=social"/> : Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters. LLaMA-Adapter: Efficient Fine-tuning of LLaMA 🚀
+
+        - [DemoGPT](https://github.com/melih-unsal/DemoGPT) <img src="https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social"/> : Create 🦜️🔗 LangChain apps by just using prompts with the power of Llama 2 🌟 Star to support our work! | 只需使用句子即可创建 LangChain 应用程序。 给个star支持我们的工作吧！DemoGPT: Auto Gen-AI App Generator with the Power of Llama 2. ⚡ With just a prompt, you can create interactive Streamlit apps via 🦜️🔗 LangChain's transformative capabilities & Llama 2.⚡ [demogpt.io](https://www.demogpt.io/)
+
+
 
         - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型。 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**). 
 
@@ -171,6 +177,11 @@
         - [SpeechGPT](https://github.com/0nutation/SpeechGPT) <img src="https://img.shields.io/github/stars/0nutation/SpeechGPT?style=social"/> : "SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities". (**[arXiv 2023](https://arxiv.org/abs/2305.11000)**). 
 
         - [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) <img src="https://img.shields.io/github/stars/Morizeyao/GPT2-Chinese?style=social"/> : Chinese version of GPT2 training code, using BERT tokenizer. 
+
+
+
+
+
 
 
 
@@ -405,6 +416,9 @@
 
     - [km1994/LLMsNineStoryDemonTower](https://github.com/km1994/LLMsNineStoryDemonTower) <img src="https://img.shields.io/github/stars/km1994/LLMsNineStoryDemonTower?style=social"/> :  【LLMs九层妖塔】分享 LLMs在自然语言处理（ChatGLM、Chinese-LLaMA-Alpaca、小羊驼 Vicuna、LLaMA、GPT4ALL等）、信息检索（langchain）、语言合成、语言识别、多模态等领域（Stable Diffusion、MiniGPT-4、VisualGLM-6B、Ziya-Visual等）等 实战与经验。 
 
+    - [amrrs/chatgpt-clone](https://github.com/amrrs/chatgpt-clone) <img src="https://img.shields.io/github/stars/amrrs/chatgpt-clone?style=social"/> :  Build Yo'own ChatGPT with OpenAI API & Gradio.
+
+
 
 
 
@@ -485,6 +499,8 @@
 
   - ### Chatbot 
     #### 聊天机器人
+
+    - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) <img src="https://img.shields.io/github/stars/OpenGVLab/Ask-Anything?style=social"/> : [VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS. [vchat.opengvlab.com/](https://vchat.opengvlab.com/). "VideoChat: Chat-Centric Video Understanding". (**[arXiv 2023](https://arxiv.org/abs/2305.06355)**).
 
     - [a16z-infra/llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot) <img src="https://img.shields.io/github/stars/a16z-infra/llama2-chatbot?style=social"/> : LLaMA 2 Chatbot App ⚡
 
@@ -637,6 +653,7 @@
 
     - [SolidUI](https://github.com/CloudOrc/SolidUI) <img src="https://img.shields.io/github/stars/CloudOrc/SolidUI?style=social"/> : AI-generated visualization prototyping and editing platform.
 
+    - [llama2-webui](https://github.com/liltom-eth/llama2-webui) <img src="https://img.shields.io/github/stars/liltom-eth/llama2-webui?style=social"/> : Run Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Supporting Llama-2-7B/13B/70B with 8-bit, 4-bit. Supporting GPU inference (6 GB VRAM) and CPU inference. 
 
 
 
