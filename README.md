@@ -40,6 +40,7 @@
     - [Financial Field](#Financial-field)
     - [Math Field](#math-field)
     - [Autonomous Driving Field](#autonomous-driving-field)
+    - [Adversarial Attack Field](#adversarial-attack-field)
     - [Device Deployment](#device-deployment)
     - [AI Character](#ai-character)
     - [GUI](#gui)
@@ -328,21 +329,23 @@
 
     - #### Rust Implementation
 
-      - [Chidori](https://github.com/ThousandBirdsInc/chidori) <img src="https://img.shields.io/github/stars/ThousandBirdsInc/chidori?style=social"/> : A reactive runtime for building durable AI agents. [docs.thousandbirds.ai](https://docs.thousandbirds.ai/).
-
       - [candle](https://github.com/LaurentMazare/candle) <img src="https://img.shields.io/github/stars/LaurentMazare/candle?style=social"/> : Minimalist ML framework for Rust. 
+
+      - [Llama2-burn](https://github.com/Gadersd/llama2-burn) <img src="https://img.shields.io/github/stars/Gadersd/llama2-burn?style=social"/> : Llama2 LLM ported to Rust burn.
+
+      - [coreylowman/llama-dfdx](https://github.com/coreylowman/llama-dfdx) <img src="https://img.shields.io/github/stars/coreylowman/llama-dfdx?style=social"/> : [LLaMa 7b](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) with CUDA acceleration implemented in rust. Minimal GPU memory needed! 
+
+      - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) <img src="https://img.shields.io/github/stars/tazz4843/whisper-rs?style=social"/> : Rust bindings to [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
 
       - [rustformers/llm](https://github.com/rustformers/llm) <img src="https://img.shields.io/github/stars/rustformers/llm?style=social"/> : Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙.
 
-      - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) <img src="https://img.shields.io/github/stars/sobelio/llm-chain?style=social"/> : llm-chain is a collection of Rust crates designed to help you work with Large Language Models (LLMs) more effectively. [llm-chain.xyz](https://llm-chain.xyz/)
+      - [Chidori](https://github.com/ThousandBirdsInc/chidori) <img src="https://img.shields.io/github/stars/ThousandBirdsInc/chidori?style=social"/> : A reactive runtime for building durable AI agents. [docs.thousandbirds.ai](https://docs.thousandbirds.ai/).
 
-      - [coreylowman/llama-dfdx](https://github.com/coreylowman/llama-dfdx) <img src="https://img.shields.io/github/stars/coreylowman/llama-dfdx?style=social"/> : [LLaMa 7b](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) with CUDA acceleration implemented in rust. Minimal GPU memory needed! 
+      - [llm-chain](https://github.com/sobelio/llm-chain) <img src="https://img.shields.io/github/stars/sobelio/llm-chain?style=social"/> : llm-chain is a collection of Rust crates designed to help you work with Large Language Models (LLMs) more effectively. [llm-chain.xyz](https://llm-chain.xyz/)
 
       - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) <img src="https://img.shields.io/github/stars/Atome-FE/llama-node?style=social"/> : Believe in AI democratization. llama for nodejs backed by llama-rs and llama.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna model. [www.npmjs.com/package/llama-node](https://www.npmjs.com/package/llama-node)
 
       - [Noeda/rllama](https://github.com/Noeda/rllama) <img src="https://img.shields.io/github/stars/Noeda/rllama?style=social"/> : Rust+OpenCL+AVX2 implementation of LLaMA inference code.
-
-      - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) <img src="https://img.shields.io/github/stars/tazz4843/whisper-rs?style=social"/> : Rust bindings to [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
 
       - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) <img src="https://img.shields.io/github/stars/Cormanz/smartgpt?style=social"/> : A program that provides LLMs with the ability to complete complex tasks using plugins. 
 
@@ -647,6 +650,15 @@
 
 
 
+  - ### Adversarial Attack Field
+    #### 对抗攻击领域
+
+    - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) <img src="https://img.shields.io/github/stars/llm-attacks/llm-attacks?style=social"/> : "Universal and Transferable Adversarial Attacks on Aligned Language Models". (**[arXiv 2023](https://arxiv.org/abs/2307.15043)**). [llm-attacks.org/](https://llm-attacks.org/). "微信公众号「新智元」《[ChatGPT羊驼家族全沦陷！CMU博士击破LLM护栏，人类毁灭计划脱口而出](https://mp.weixin.qq.com/s/9UaYiLoIaXixfE8Ka8um5A)》"。
+
+
+
+
+
   - ### Device Deployment
     #### 设备部署
 
@@ -861,6 +873,7 @@
     - [2023-05-20，GAN逆袭归来！清华校友论文引爆AI绘图圈，一秒把大象P转身，Diffusion黯然失色](https://mp.weixin.qq.com/s/DBLMAEbVw6v4xH94-5Zl3w)
     - [2023-06-20，GPT-Engineer一夜爆火！一个提示生成整个代码库，GitHub狂飙19k星](https://mp.weixin.qq.com/s/fjrKWsjgsiCXBar9r9F4XQ)
     - [2023-07-20，Llama 2宇宙大爆炸！伯克利实测排第8，iPhone本地可跑，一大波应用免费玩，LeCun狂转](https://mp.weixin.qq.com/s/tc2Tz_K30358t07w-IHxfQ)
+    - [2023-07-29，ChatGPT羊驼家族全沦陷！CMU博士击破LLM护栏，人类毁灭计划脱口而出](https://mp.weixin.qq.com/s/9UaYiLoIaXixfE8Ka8um5A)
   - 微信公众号「智东西」
     - [2023-02-06，ChatGPT版搜索引擎突然上线，科技巨头们坐不住了！](https://mp.weixin.qq.com/s/lncJm6hmK3AQNF2paWI5Dw)
     - [2023-04-07，ChatGPT和Matter两大风口汇合！AWE同期AIoT智能家居峰会月底举行，首批嘉宾公布](https://mp.weixin.qq.com/s/cuI8sSff_zGiLtwukAcLRw)
