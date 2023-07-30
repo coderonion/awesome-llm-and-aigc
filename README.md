@@ -438,7 +438,11 @@
 
     - [km1994/LLMsNineStoryDemonTower](https://github.com/km1994/LLMsNineStoryDemonTower) <img src="https://img.shields.io/github/stars/km1994/LLMsNineStoryDemonTower?style=social"/> :  【LLMs九层妖塔】分享 LLMs在自然语言处理（ChatGLM、Chinese-LLaMA-Alpaca、小羊驼 Vicuna、LLaMA、GPT4ALL等）、信息检索（langchain）、语言合成、语言识别、多模态等领域（Stable Diffusion、MiniGPT-4、VisualGLM-6B、Ziya-Visual等）等 实战与经验。 
 
-    - [amrrs/chatgpt-clone](https://github.com/amrrs/chatgpt-clone) <img src="https://img.shields.io/github/stars/amrrs/chatgpt-clone?style=social"/> :  Build Yo'own ChatGPT with OpenAI API & Gradio.
+    - [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) <img src="https://img.shields.io/github/stars/DjangoPeng/openai-quickstart?style=social"/> :  A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for AIGC applications. 
+
+
+
+
 
 
   - ### Community
@@ -710,9 +714,13 @@
 
     - [SolidUI](https://github.com/CloudOrc/SolidUI) <img src="https://img.shields.io/github/stars/CloudOrc/SolidUI?style=social"/> : AI-generated visualization prototyping and editing platform.
 
+    - [amrrs/chatgpt-clone](https://github.com/amrrs/chatgpt-clone) <img src="https://img.shields.io/github/stars/amrrs/chatgpt-clone?style=social"/> :  Build Yo'own ChatGPT with OpenAI API & Gradio.
+    
     - [llama2-webui](https://github.com/liltom-eth/llama2-webui) <img src="https://img.shields.io/github/stars/liltom-eth/llama2-webui?style=social"/> : Run Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Supporting Llama-2-7B/13B/70B with 8-bit, 4-bit. Supporting GPU inference (6 GB VRAM) and CPU inference. 
 
     - [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) <img src="https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social"/> : An open source implementation of OpenAI's ChatGPT Code interpreter.
+
+
 
 
 
@@ -874,6 +882,7 @@
     - [2023-05-03，AI通灵！类ChatGPT模型解码大脑信息，准确率高达82%](https://mp.weixin.qq.com/s/4KbtJ5cfur7KrWWijjQtIA)
     - [2023-05-20，GAN逆袭归来！清华校友论文引爆AI绘图圈，一秒把大象P转身，Diffusion黯然失色](https://mp.weixin.qq.com/s/DBLMAEbVw6v4xH94-5Zl3w)
     - [2023-06-20，GPT-Engineer一夜爆火！一个提示生成整个代码库，GitHub狂飙19k星](https://mp.weixin.qq.com/s/fjrKWsjgsiCXBar9r9F4XQ)
+    - [2023-07-12，Transformer八子全部叛逃谷歌！最后一位共同作者月底离职创业](https://mp.weixin.qq.com/s/ltQsq6Z36nvPSRa4IC8a_A)
     - [2023-07-20，Llama 2宇宙大爆炸！伯克利实测排第8，iPhone本地可跑，一大波应用免费玩，LeCun狂转](https://mp.weixin.qq.com/s/tc2Tz_K30358t07w-IHxfQ)
     - [2023-07-29，ChatGPT羊驼家族全沦陷！CMU博士击破LLM护栏，人类毁灭计划脱口而出](https://mp.weixin.qq.com/s/9UaYiLoIaXixfE8Ka8um5A)
   - 微信公众号「智东西」
@@ -993,6 +1002,7 @@
     - [2023-06-07，三万字长文带你全面解读生成式AI](https://mp.weixin.qq.com/s/BDYHCnkihSChKBJHVxqywA)
     - [2023-06-08，微软发布医学多模态大模型LLaVA-Med | 基于LLaVA的医学指令微调](https://mp.weixin.qq.com/s/gzyVtbMArWDnfSzfCkxl9w)
     - [2023-06-13，VisorGPT: 如何基于 GPT 和 AIGC 模型定制一个可控的生成模型](https://mp.weixin.qq.com/s/0XHjkGz7XN5jZZi2mvEKxA)
+    - [2023-07-30，大连理工联合阿里达摩院发布HQTrack | 高精度视频多目标跟踪大模型](https://mp.weixin.qq.com/s/Jl2mr7tszulZX19Fx4ZNgw) 
   - 微信公众号「芯榜」
     - [2023-04-16，思特威：人工智能浪潮，将机器视觉冲向新蓝海](https://mp.weixin.qq.com/s/jtJvltmjSeCi47XiVOzzdw)
   - 微信公众号「数智前线」
