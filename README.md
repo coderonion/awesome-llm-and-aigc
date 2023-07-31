@@ -755,6 +755,7 @@
     - [2023-07-11，王小川大模型25天再升级！13B版本开源免费可商用，3090即可部署](https://mp.weixin.qq.com/s/sFVAgypEptxa6qCYcHix9g)
     - [2023-07-12，Transformer八子谷歌一个也没留住！最后一名作者已宣布离职创业](https://mp.weixin.qq.com/s/1Lu57q-l69-A4WCABGBhgg)
     - [2023-07-19，开源大模型重击OpenAI！小扎放出LLaMA2炸裂科技圈，联手微软高通冲击市场格局](https://mp.weixin.qq.com/s/GYu0ajE3eKO3TyFwHqGFgw)
+    - [2023-07-31，何恺明官宣加入MIT，正式回归学术界！](https://mp.weixin.qq.com/s/x2P0G6-Zm0tivmWLTYTprw)
   - 微信公众号「机器之心」
     - [2023-02-15，开源方案复现ChatGPT流程！1.62GB显存即可体验，单机训练提速7.73倍](https://mp.weixin.qq.com/s/j8gvD_4ViRE4WQaQlcnmrQ)
     - [2023-02-19，跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文](https://mp.weixin.qq.com/s/s5WrGn_dQyHrsZP8qsI2ag)
@@ -778,6 +779,7 @@
     - [2023-07-19，更强的Llama 2开源，可直接商用：一夜之间，大模型格局变了](https://mp.weixin.qq.com/s/klFWFXCbjGaWZ7HO1KFZag)
     - [2023-07-23，我为什么放弃了 LangChain？](https://mp.weixin.qq.com/s/Iwe6M391b2BBWae-HmOIJQ)
     - [2023-07-23，开源的Llama 2背后，有这些年轻华人的力量](https://mp.weixin.qq.com/s/miwc-beG2vrGG1oryCmtpw)
+    - [2023-07-31，大神回归学界：何恺明宣布加入 MIT](https://mp.weixin.qq.com/s/MwPMBESMtVTjjAfjGQPsLA)
   - 微信公众号「图灵人工智能」
     - [2023-02-04，盖茨盛赞ChatGPT：人工智能历史意义不亚于“PC或互联网诞生”](https://mp.weixin.qq.com/s/51v_fUjQe3EewwOIxlLghw)
     - [2023-02-06，ChatGPT专题|ChatGPT之父传奇：8岁会编程，16岁出柜，2个月做到月活过亿](https://mp.weixin.qq.com/s/jodwa-a644vECTnrRqCuAA)
@@ -854,6 +856,12 @@
     - [2023-02-12，Rocky和ChatGPT“谈笑风生”的日子 |【AI行研&商业价值分析】](https://mp.weixin.qq.com/s/rV6J6UZgsJT-4HI49GBBaw)
     - [2023-02-26，深入浅出解析ChatGPT引领的科技浪潮 |【AI行研&商业价值分析】](https://mp.weixin.qq.com/s/FLLtb_9shzFmH1wpV7oP_Q)
     - [2023-06-22，深入浅出解析LoRA完整核心基础知识 |【算法兵器谱】](https://mp.weixin.qq.com/s/n-17rH0PrwHYZz0g58Cyiw)
+  - 微信公众号「夕小瑶科技说」
+    - [2023-05-31，一个技巧，让ChatGPT学会复杂编程，编程水平逼近人类程序员！](https://mp.weixin.qq.com/s/QgL5-fTA99InHsoI7hJ8lw)
+    - [2023-07-06，刚刚！OpenAI宣布，斥巨资建立「超级对齐」团队！向人类意图看齐](https://mp.weixin.qq.com/s/K7e6mfCA7eWN_armMBH9UA)
+    - [2023-07-09，羊驼再度进化，“长颈鹿版”LongLLaMA 来啦，上下文长度冲向 100K ，性能不减](https://mp.weixin.qq.com/s/XzaET7WfrNpOf-zdiSxrig)
+    - [2023-07-19，更强的Llama 2开源，可直接商用：一夜之间，大模型格局变了](https://mp.weixin.qq.com/s/PJyFoLP7IBxjbswq-NBEkA)
+    - [2023-07-31，强推！大语言模型『百宝书』，一文缕清所有大模型！](https://mp.weixin.qq.com/s/7K5cMlLekUUtKwEtCHwGtg)
   - 微信公众号「所向披靡的张大刀」
     - [2023-04-07，分割大一统——Segment Anything深度体验](https://mp.weixin.qq.com/s/qtk1Ds3hdNi4NOwrw2tDrg)
   - 微信公众号「算法邦」
@@ -893,6 +901,7 @@
     - [2023-04-23，BroadLink CEO刘宗孺：ChatGPT助推全屋智能管家式变革](https://mp.weixin.qq.com/s/t4BPrvYT8oF8lGKutjpJtQ)
     - [2023-04-23，复旦MOSS升级版开源上线；马斯克启动TruthGPT；海康训练出百亿参数CV大模型丨AIGC大事周报](https://mp.weixin.qq.com/s/gBDcHw1SFSCWpJIxeC5vHg)
     - [2023-05-16，北京打响大模型地方战第一枪：公布通用人工智能发展21项措施](https://mp.weixin.qq.com/s/HdTkIaLL33ZMhrQ00fVYZQ)
+    - [2023-07-25，重磅，ChatGPT老板官宣“世界币”，价格暴涨、用户超两百万，要给全世界每个人发钱](https://mp.weixin.qq.com/s/MVfp_wZIxtLlADIN4hoN_A)
   - 微信公众号「CSDN」
     - [2023-03-25，ChatGPT 已成为下一代的新操作系统！](https://mp.weixin.qq.com/s/MwrMhVydbhpP6c0AvPp8oQ)
     - [2023-04-06，CV 迎来 GPT-3 时刻，Meta 开源万物可分割 AI 模型和 1100 万张照片，1B+掩码数据集！](https://mp.weixin.qq.com/s/spBwU0UecbxbEl88SA4GJQ)
@@ -1058,11 +1067,6 @@
     - [2023-05-21，邱锡鹏团队提出具有跨模态能力SpeechGPT，为多模态LLM指明方向](https://mp.weixin.qq.com/s/fEBWELAiEJikC91pwk9l-Q)
   - 微信公众号「APPSO」
     - [2023-06-01，ChatGPT路线图曝光：没有GPT-5、识图功能要等到明年、GPT-3或将开源](https://mp.weixin.qq.com/s/yKst4w3x0II3kGy5VqY2gA)
-  - 微信公众号「夕小瑶科技说」
-    - [2023-05-31，一个技巧，让ChatGPT学会复杂编程，编程水平逼近人类程序员！](https://mp.weixin.qq.com/s/QgL5-fTA99InHsoI7hJ8lw)
-    - [2023-07-06，刚刚！OpenAI宣布，斥巨资建立「超级对齐」团队！向人类意图看齐](https://mp.weixin.qq.com/s/K7e6mfCA7eWN_armMBH9UA)
-    - [2023-07-09，羊驼再度进化，“长颈鹿版”LongLLaMA 来啦，上下文长度冲向 100K ，性能不减](https://mp.weixin.qq.com/s/XzaET7WfrNpOf-zdiSxrig)
-    - [2023-07-19，更强的Llama 2开源，可直接商用：一夜之间，大模型格局变了](https://mp.weixin.qq.com/s/PJyFoLP7IBxjbswq-NBEkA)
   - 微信公众号「佐思汽车研究」
     - [2023-05-26，大模型上不了车](https://mp.weixin.qq.com/s/guxGFY5Jg_YdWDxnIyTZsA) 
   - 微信公众号「芯东西」
@@ -1079,6 +1083,8 @@
   - 微信公众号「ArronAI」
     - [2023-06-13，高性能支持LLM的机器学习Tensor库](https://mp.weixin.qq.com/s/hdwWP39BHb68VHtCcUcM7Q)  
     - [2023-07-19，Meta发布升级大模型LLaMA 2：开源可商用](https://mp.weixin.qq.com/s/cahpaMKbdKNMJCp1Rot5KA)  
+    - [2023-07-30，大模型部署框架 FastLLM 实现细节解析](https://mp.weixin.qq.com/s/AFUZC9RAgA7_Mj6KsgYqSw)  
+    - [2023-07-31，ChatGLM-6B VS 昆仑万维天工对比](https://mp.weixin.qq.com/s/I4RdHFzOhyxzOYkVGMH-og)  
   - 微信公众号「DataLearner」
     - [2023-05-19，ChatGLM-6B重磅升级！清华大学开源VisualGLM-6B技术解析：一个可以在本地运行的读懂图片的语言模型！](https://mp.weixin.qq.com/s/nZwiNk_80uTPcS2QrofnrQ) 
     - [2023-05-27，Falcon-40B：截止目前最强大的开源大语言模型，超越MetaAI的LLaMA-65B的开源大语言模型](https://mp.weixin.qq.com/s/Vy_xWBuZU0AaaPMCIhKIyw) 
