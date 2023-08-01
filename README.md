@@ -334,6 +334,8 @@
 
       - [Llama2-burn](https://github.com/Gadersd/llama2-burn) <img src="https://img.shields.io/github/stars/Gadersd/llama2-burn?style=social"/> : Llama2 LLM ported to Rust burn.
 
+      - [llama2.rs](https://github.com/gaxler/llama2.rs) <img src="https://img.shields.io/github/stars/gaxler/llama2.rs?style=social"/> : Inference Llama 2 in one file of pure Rust 🦀 
+
       - [coreylowman/llama-dfdx](https://github.com/coreylowman/llama-dfdx) <img src="https://img.shields.io/github/stars/coreylowman/llama-dfdx?style=social"/> : [LLaMa 7b](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) with CUDA acceleration implemented in rust. Minimal GPU memory needed! 
 
       - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) <img src="https://img.shields.io/github/stars/tazz4843/whisper-rs?style=social"/> : Rust bindings to [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
@@ -361,10 +363,14 @@
 
 
     - #### Zig Implementation
-    
+
+      - [llama2.zig](https://github.com/cgbur/llama2.zig) <img src="https://img.shields.io/github/stars/cgbur/llama2.zig?style=social"/> : Inference Llama 2 in one file of pure Zig. 
+
       - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) <img src="https://img.shields.io/github/stars/renerocksai/gpt4all.zig?style=social"/> : ZIG build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa.
 
       - [EugenHotaj/zig_inference](https://github.com/EugenHotaj/zig_inference) <img src="https://img.shields.io/github/stars/EugenHotaj/zig_inference?style=social"/> : Neural Network Inference Engine in Zig.  
+
+
 
 
     - #### Go Implementation
@@ -1246,6 +1252,7 @@
     - [2023-07-27，北交大TransGPT，开源了！](https://mp.weixin.qq.com/s/jSwvUIbNI_VQTBWGmwd3wg)
   - 微信公众号「Llama中文社区」
     - [2023-07-26，欢迎加入Llama中文社区！](https://mp.weixin.qq.com/s/mYdQ8L-J9hD8g3kesjDYmw)
+    - [2023-08-01，首发！真正意义上的Llama2中文版大模型](https://mp.weixin.qq.com/s/lExUU7z_MvgJ7tzQPF8tUQ)
   - 微信公众号「极客公园」
     - [2023-07-25，一文读懂 OpenAI 创始人的「世界币」](https://mp.weixin.qq.com/s/7E2O2-iXt-4DCOUgldvfUQ)
   - 微信公众号「智车科技」
