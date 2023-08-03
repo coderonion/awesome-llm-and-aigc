@@ -146,7 +146,7 @@
 
         - [xorbitsai/inference](https://github.com/xorbitsai/inference) <img src="https://img.shields.io/github/stars/xorbitsai/inference?style=social"/> : Xorbits Inference (Xinference) is a powerful and versatile library designed to serve LLMs, speech recognition models, and multimodal models, even on your laptop. It supports a variety of models compatible with GGML, such as llama, chatglm, baichuan, whisper, vicuna, orac, and many others. 
 
-
+        - [epfLLM/Megatron-LLM](https://github.com/epfLLM/Megatron-LLM) <img src="https://img.shields.io/github/stars/epfLLM/Megatron-LLM?style=social"/> : distributed trainer for LLMs.
 
 
 
@@ -266,6 +266,8 @@
 
         - [StableStudio](https://github.com/Stability-AI/StableStudio) <img src="https://img.shields.io/github/stars/Stability-AI/StableStudio?style=social"/> : StableStudio by [Stability AI](https://stability.ai/). 👋 Welcome to the community repository for StableStudio, the open-source version of [DreamStudio](https://dreamstudio.ai/).
 
+        - [AudioCraft](https://github.com/facebookresearch/audiocraft) <img src="https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social"/> : Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. 
+
         - [InvokeAI](https://github.com/invoke-ai/InvokeAI) <img src="https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social"/> : Invoke AI - Generative AI for Professional Creatives. Professional Creative Tools for Stable Diffusion, Custom-Trained Models, and more. [invoke-ai.github.io/InvokeAI/](https://invoke-ai.github.io/InvokeAI/)
 
         - [DragGAN](https://github.com/XingangPan/DragGAN) <img src="https://img.shields.io/github/stars/XingangPan/DragGAN?style=social"/> : "Stable Diffusion Training with MosaicML. This repo contains code used to train your own Stable Diffusion model on your own data". (**[SIGGRAPH 2023](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)**).          
@@ -293,6 +295,8 @@
         - [Peppertype.ai](https://www.peppercontent.io/peppertype-ai/) : Leverage the AI-powered platform to ideate, create, distribute, and measure your content and prove your content marketing ROI.
 
         - [ChatPPT](https://chat-ppt.com/) : ChatPPT来袭命令式一键生成PPT。
+
+
 
 
 
@@ -570,9 +574,11 @@
   - ### Local knowledge Base
     #### 本地知识库
 
-    - [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) <img src="https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM?style=social"/> : langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答。基于本地知识库的 ChatGLM 等大语言模型应用实现。
+    - [chatchat-space/langchain-ChatGLM](https://github.com/chatchat-space/langchain-ChatGLM) <img src="https://img.shields.io/github/stars/chatchat-space/langchain-ChatGLM?style=social"/> : langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答。
 
     - [yanqiangmiffy/Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain) <img src="https://img.shields.io/github/stars/yanqiangmiffy/Chinese-LangChain?style=social"/> : Chinese-LangChain：中文langchain项目，基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成。俗称：小必应，Q.Talk，强聊，QiangTalk。
+
+
 
 
 
@@ -1105,6 +1111,8 @@
     - [2023-07-23，一文总结13个国内外ChatGPT平替产品：是时候可以不那么依赖ChatGPT了~](https://mp.weixin.qq.com/s/QvVkTYDT6k2eado1HEWLbg) 
     - [2023-07-27，如何基于Gradio构建生成式AI的应用：吴恩达联合HuggingFace推出最新1小时短课](https://mp.weixin.qq.com/s/N0R2yC_zcmbWlbZZmXKwBQ) 
     - [2023-07-29，Open ChatGPT：一个整合了GPT-4和多模态能力的ChatGTP服务商](https://mp.weixin.qq.com/s/23_3sFZhIxP6FDiFsNwr4w) 
+    - [2023-08-02，Megatron-LLM：支持大规模分布式语言模型(LLM)预训练和微调的库](https://mp.weixin.qq.com/s/WsK1MgMxIRf6RNWKzOUkOA) 
+    - [2023-08-03，生成式AI领域拓展！MetaAI开源AudioCraft：一个支持AudioGen、MusicGen等模型的音频生成开发框架](https://mp.weixin.qq.com/s/OLLCiMqKHQJxGGR1sPA3qw) 
   - 微信公众号「算法美食屋」
     - [2023-07-03，60分钟吃掉ChatGLM2-6b微调范例~](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w)       
     - [2023-07-08，单样本微调给ChatGLM2注入知识~](https://mp.weixin.qq.com/s/hANR9OVDVEZMMvK8uxtChA) 
