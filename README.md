@@ -69,7 +69,7 @@
 
         - [ChatGPT](https://chat.openai.com/): [Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt).
 
-        - [GPT-4](https://openai.com/product/gpt-4): GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses.   
+        - [GPT-4](https://openai.com/product/gpt-4): GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses. "Sparks of Artificial General Intelligence: Early experiments with GPT-4". (**[arXiv 2023](https://arxiv.org/abs/2303.12712)**). "GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE". (**[SemianAlysis, 2023](https://www.semianalysis.com/p/gpt-4-architecture-infrastructure)**).
 
         - [Claude](https://www.anthropic.com/product) : Claude is a next-generation AI assistant based on Anthropic’s research into training helpful, honest, and harmless AI systems. 
 
@@ -1291,6 +1291,8 @@
     - [2023-07-16，数据闭环，通向高阶自动驾驶的必经之路](https://mp.weixin.qq.com/s/TQQ5qIWtonM1pZ83jZOK7A)
   - 微信公众号「AILab笔记」
     - [2023-06-08，【文献】视觉transformer研究进展——史上最全综述](https://mp.weixin.qq.com/s/zCbFEl8pvPIfjnfIgv8Hqw)
+  - 微信公众号「CVer」
+    - [2023-08-02，ICCV 2023｜目标检测新突破！AlignDet：支持各类检测器完全自监督预训练的框架](https://mp.weixin.qq.com/s/t7jlTyUP6UxplpythX0dOw)
   - [bilibili](https://wallstreetcn.com/)
     - [2023-07-19，【官方教程】ChatGLM2-6B 部署与微调](https://www.bilibili.com/video/BV1D94y1i7Qp/?spm_id_from=333.999.0.0)   
   - [华尔街见闻](https://wallstreetcn.com/)
