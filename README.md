@@ -663,6 +663,13 @@
 
     - [xhu248/AutoSAM](https://github.com/xhu248/AutoSAM) <img src="https://img.shields.io/github/stars/xhu248/AutoSAM?style=social"/> : "How to Efficiently Adapt Large Segmentation Model(SAM) to Medical Images". (**[arXiv 2023](https://arxiv.org/abs/2306.13731)**).
 
+    - [DoctorGPT](https://github.com/llSourcell/DoctorGPT) <img src="https://img.shields.io/github/stars/llSourcell/DoctorGPT?style=social"/> :   DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
+
+
+
+
+
+
 
 
   - ### Legal Field
@@ -1291,6 +1298,7 @@
     - [2023-08-07，阿里开源通义千问模型](https://mp.weixin.qq.com/s/SHNg2ti5a8Doop6nbPuRRA)  
     - [2023-08-10，能当老板的多智体框架MetaGPT](https://mp.weixin.qq.com/s/PtixAzNoxmJ_WN9WPJGuGg)  
     - [2023-08-10，Chie：类似ChatGPT的跨平台桌面应用](https://mp.weixin.qq.com/s/Lh4NuKd2ENTNuseB6U8WbQ)  
+    - [2023-08-13，Windows桌面版Whisper客户端](https://mp.weixin.qq.com/s/U0CIIibKx5uzZXl3Waz0IA)  
   - 微信公众号「山行AI」
     - [2023-06-17，基于LangChain的优秀项目资源库](https://mp.weixin.qq.com/s/G9aqBFzd5j8wVPTH160pZA)  
     - [2023-06-19，GPT4All——可本地布署的AI助理](https://mp.weixin.qq.com/s/KJRyAbUAxmNrcPcFJ3f-cw)  
