@@ -79,6 +79,8 @@
 
         - [LangChain](https://github.com/hwchase17/langchain) <img src="https://img.shields.io/github/stars/hwchase17/langchain?style=social"/> :  🦜️🔗 LangChain.⚡ Building applications with LLMs through composability ⚡ [langchain-langchain.vercel.app](https://langchain-langchain.vercel.app/)
 
+        - [Embedchain](https://github.com/embedchain/embedchain) <img src="https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social"/> :  Framework to create ChatGPT like bots over your dataset [embedchain.ai](https://embedchain.ai/)
+
         - [AutoChain](https://github.com/Forethought-Technologies/AutoChain) <img src="https://img.shields.io/github/stars/Forethought-Technologies/AutoChain?style=social"/> :  AutoChain: Build lightweight, extensible, and testable LLM Agents. [autochain.forethought.ai](https://autochain.forethought.ai/)
 
         - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) <img src="https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social"/> : Auto-GPT: An Autonomous GPT-4 Experiment. Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. This program, driven by GPT-4, chains together LLM "thoughts", to autonomously achieve whatever goal you set. As one of the first examples of GPT-4 running fully autonomously, Auto-GPT pushes the boundaries of what is possible with AI. [agpt.co](https://news.agpt.co/)
