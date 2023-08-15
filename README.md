@@ -37,6 +37,7 @@
     - [Question Answering System](#question-answering-system)
     - [Academic Field](#academic-field)
     - [Medical Field](#medical-field)
+    - [Mental Health Field](#mental-health-field)
     - [Legal Field](#legal-field)
     - [Financial Field](#Financial-field)
     - [Math Field](#math-field)
@@ -294,9 +295,11 @@
 
         - [mosaicml/diffusion](https://github.com/mosaicml/diffusion) <img src="https://img.shields.io/github/stars/mosaicml/diffusion?style=social"/> : Stable Diffusion Training with MosaicML. This repo contains code used to train your own Stable Diffusion model on your own data.
 
+        - [VisorGPT](https://github.com/Sierkinhane/VisorGPT) <img src="https://img.shields.io/github/stars/Sierkinhane/VisorGPT?style=social"/> : Customize spatial layouts for conditional image synthesis models, e.g., ControlNet, using GPT. "VisorGPT: Learning Visual Prior via Generative Pre-Training". (**[arXiv 2023](https://arxiv.org/abs/2305.13777)**).  
+
         - [ControlNet](https://github.com/lllyasviel/ControlNet) <img src="https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social"/> : Let us control diffusion models! "Adding Conditional Control to Text-to-Image Diffusion Models". (**[arXiv 2023](https://arxiv.org/abs/2302.05543)**).  
 
-        - [VisorGPT](https://github.com/Sierkinhane/VisorGPT) <img src="https://img.shields.io/github/stars/Sierkinhane/VisorGPT?style=social"/> : Customize spatial layouts for conditional image synthesis models, e.g., ControlNet, using GPT. "VisorGPT: Learning Visual Prior via Generative Pre-Training". (**[arXiv 2023](https://arxiv.org/abs/2305.13777)**).  
+        - [Fooocus](https://github.com/lllyasviel/Fooocus) <img src="https://img.shields.io/github/stars/llyasviel/Fooocus?style=social"/> : Fooocus is an image generating software. Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs. "微信公众号「GitHubStore」《[Fooocus : 集Stable Diffusion 和 Midjourney 优点于一身的开源AI绘图软件](https://mp.weixin.qq.com/s/adyXek6xcz5aOPAGqZBrvg)》"。   
 
         - [Midjourney](https://www.midjourney.com/) : Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 
@@ -351,6 +354,10 @@
     - #### Rust Implementation
 
       - [Candle](https://github.com/huggingface/candle) <img src="https://img.shields.io/github/stars/huggingface/candle?style=social"/> : Minimalist ML framework for Rust.
+
+      - [Tokenizers](https://github.com/huggingface/tokenizers) <img src="https://img.shields.io/github/stars/huggingface/tokenizers?style=social"/> : 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production. [huggingface.co/docs/tokenizers](https://huggingface.co/docs/tokenizers/index)
+
+      - [Safetensors](https://github.com/huggingface/safetensors) <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social"/> : Simple, safe way to store and distribute tensors. [huggingface.co/docs/safetensors](https://huggingface.co/docs/safetensors/index)
 
       - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
 
@@ -669,7 +676,13 @@
 
 
 
+  - ### Mental Health Field
+    #### 心理健康领域
 
+    - [MeChat](https://github.com/qiuhuachuan/smile) <img src="https://img.shields.io/github/stars/qiuhuachuan/smile?style=social"/> : MeChat：中文心理健康支持对话大模型与数据集。 "SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support". (**[arXiv 2023](https://arxiv.org/abs/2305.00450)**). 
+
+
+    
 
 
   - ### Legal Field
@@ -750,6 +763,10 @@
 
     - [RealChar](https://github.com/Shaunwei/RealChar) <img src="https://img.shields.io/github/stars/Shaunwei/RealChar?style=social"/> : 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖 [RealChar.ai/](https://realchar.ai/)
 
+    - [VirtualWife](https://github.com/yakami129/VirtualWife) <img src="https://img.shields.io/github/stars/yakami129/VirtualWife?style=social"/> : VirtualWife 是一个虚拟主播项目，目前支持在B站进行直播，用户可以自由更换VRM人物模型，大家可以将他作为一个虚拟主播入门demo，在上面扩展自己喜欢功能。 
+
+    - [ChatVRM](https://github.com/pixiv/ChatVRM) <img src="https://img.shields.io/github/stars/pixiv/ChatVRM?style=social"/> : ChatVRMはブラウザで簡単に3Dキャラクターと会話ができるデモアプリケーションです。
+
 
 
 
@@ -758,6 +775,8 @@
     #### 图形用户界面
 
     - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) <img src="https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social"/> : Stable Diffusion web UI. A browser interface based on Gradio library for Stable Diffusion.
+
+    - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) <img src="https://img.shields.io/github/stars/Mikubill/sd-webui-controlnet?style=social"/> : ControlNet for Stable Diffusion WebUI. The WebUI extension for ControlNet and other injection-based SD controls.
 
     - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) <img src="https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social"/> : Text generation web UI. A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 
@@ -873,6 +892,7 @@
     - [2023-05-21，从 GPU 到 ChatGPT](https://mp.weixin.qq.com/s/oobtNmLlvwZyheAk5jADmA)
     - [2023-07-29，语言模型的前世今生与GPT的人生哲学](https://mp.weixin.qq.com/s/uHyz2Rt05GtH6GRRgCFUGQ)
     - [2023-08-06，张钹院士：GPT时代的人工智能安全](https://mp.weixin.qq.com/s/FJ-jhD_b7o-5D4ikKcNcEw)
+    - [2023-08-15，谷歌发现大模型「领悟」现象！训练久了突然不再死记硬背，多么痛的领悟](https://mp.weixin.qq.com/s/d9K5fkgmvIkGQRPGIiSPaA)
   - 微信公众号「硅星人」
     - [2022-12-03，行走的代码生成器：chatGPT要让谷歌和程序员“下岗”了](https://mp.weixin.qq.com/s/DXzZ_5RrRbVe5bWkpwFV6Q)
     - [2023-01-18，微软下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/xjNipZ77I3eKbeYU5ZztZQ)
@@ -930,7 +950,8 @@
     - [2023-07-07，中科院多语言大模型：BayLing(百聆)，性能媲美GPT，可在线体验！](https://mp.weixin.qq.com/s/bvn70GNlU3zHJSDHV5BsRA)
     - [2023-07-10，十分钟读懂Diffusion：图解Diffusion扩散模型原理](https://mp.weixin.qq.com/s/54g-3foInJWI1wnB0X4odA)
     - [2023-07-14，AI算法应用，模型部署服务代码实战](https://mp.weixin.qq.com/s/vFRTHcWjerFDlgV9TV6FWQ)
-    - [2023-08-07， GPT-5出世，需5万张H100！全球需求43万张， 英伟达GPU陷短缺风暴](https://mp.weixin.qq.com/s/l1Un2V6KreyA1djyc3juFA)
+    - [2023-08-07，GPT-5出世，需5万张H100！全球需求43万张， 英伟达GPU陷短缺风暴](https://mp.weixin.qq.com/s/l1Un2V6KreyA1djyc3juFA)
+    - [2023-08-15，万字长文，深入浅出Llama搭建及源码解读](https://mp.weixin.qq.com/s/qDLVH9ADKrHySvPtr3carw)
   - 微信公众号「WeThinkln」
     - [2023-02-12，Rocky和ChatGPT“谈笑风生”的日子 |【AI行研&商业价值分析】](https://mp.weixin.qq.com/s/rV6J6UZgsJT-4HI49GBBaw)
     - [2023-02-26，深入浅出解析ChatGPT引领的科技浪潮 |【AI行研&商业价值分析】](https://mp.weixin.qq.com/s/FLLtb_9shzFmH1wpV7oP_Q)
@@ -1109,6 +1130,7 @@
     - [2023-04-23，最新综述！AIGC到底是什么？都有哪些应用？一文尽览！](https://mp.weixin.qq.com/s/rp9XVUBrh17Wr57SPFgTvg)
   - 微信公众号「人工智能前沿讲习」
     - [2023-04-23，【综述专栏】“ChatGPT的问题、风险与机遇”会议综述](https://mp.weixin.qq.com/s/-Gi4xMUXYiI13DaTVgwUdQ)
+    - [2023-08-15，【综述专栏】伦敦大学、MetaAI、StabilityAI联合发布70页综述，盘点大模型的16大挑战](https://mp.weixin.qq.com/s/Q9PGJK4Z7vyuYzjXVK9yCw)
   - 微信公众号「澎湃新闻」
     - [2023-05-17，莫言给余华写颁奖词，找ChatGPT帮忙](https://mp.weixin.qq.com/s/ym0w_1ftIw5BpPnGSDLsYg)
   - 微信公众号「宅码」
@@ -1195,7 +1217,7 @@
     - [2023-08-03，生成式AI领域拓展！MetaAI开源AudioCraft：一个支持AudioGen、MusicGen等模型的音频生成开发框架](https://mp.weixin.qq.com/s/OLLCiMqKHQJxGGR1sPA3qw) 
     - [2023-08-07，MetaGPT技术全解析：另一个AutoGPT，一个可以替代小型软件开发团队的LLM框架，产品经理、系统设计、代码实现一条龙](https://mp.weixin.qq.com/s/OteOLYsO6WoAjA1j3HMrbg) 
     - [2023-08-09，ChatGLM团队发布AI Agent能力评测工具AgentBench：GPT-4一骑绝尘，开源模型表现非常糟糕！](https://mp.weixin.qq.com/s/wUuAHsiZJmpCPn_3uvT4Aw) 
-    - [2023-08-09，ChatGLM团队发布AI Agent能力评测工具AgentBench：GPT-4一骑绝尘，开源模型表现非常糟糕！](https://mp.weixin.qq.com/s/wUuAHsiZJmpCPn_3uvT4Aw) 
+    - [2023-08-10，《流浪地球2》的数字生命计划可能快实现了！HeyGen即将发布下一代AI真人视频生成技术，效果逼真到无法几乎分辨！](https://mp.weixin.qq.com/s/70Fj9HCe3ruiI43WmMZLjQ) 
   - 微信公众号「算法美食屋」
     - [2023-07-03，60分钟吃掉ChatGLM2-6b微调范例~](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w)       
     - [2023-07-08，单样本微调给ChatGLM2注入知识~](https://mp.weixin.qq.com/s/hANR9OVDVEZMMvK8uxtChA) 
@@ -1215,6 +1237,8 @@
     - [2023-07-17，开源版的OpenAI ChatGPT Code interpreter实现](https://mp.weixin.qq.com/s/7iDXnRm3j4-xkJLDxfVS_A) 
     - [2023-07-28，Chidori是一个LangChain的替代品](https://mp.weixin.qq.com/s/2p00yh65pb4dcDUTfRwJjQ) 
     - [2023-08-12，小米发布了他们的大模型MiLM-6B](https://mp.weixin.qq.com/s/kLpgRzy3j6fAqhM50cC2xg) 
+    - [2023-08-14，VirtualWife - 一个虚拟主播项目](https://mp.weixin.qq.com/s/QgVfKx2CkUwDUIRTqFELqA) 
+    - [2023-08-14，MeChat：中文心理健康支持对话大模型与数据集](https://mp.weixin.qq.com/s/yKxXi6SiIJpBhLozqe_XYQ) 
   - 微信公众号「NewBeeNLP」
     - [2023-02-07，ChatGPT Prompt工程：设计、实践与思考](https://mp.weixin.qq.com/s/a8hjzZ_Rzl6pOU1PRAARJQ)   
     - [2023-07-19，谁才是真正的 OpenAI？更大更强的Llama 2来啦，可直接商用](https://mp.weixin.qq.com/s/2kN6hI17VpKEMgvK8iEqDg)   
@@ -1299,6 +1323,8 @@
     - [2023-08-10，能当老板的多智体框架MetaGPT](https://mp.weixin.qq.com/s/PtixAzNoxmJ_WN9WPJGuGg)  
     - [2023-08-10，Chie：类似ChatGPT的跨平台桌面应用](https://mp.weixin.qq.com/s/Lh4NuKd2ENTNuseB6U8WbQ)  
     - [2023-08-13，Windows桌面版Whisper客户端](https://mp.weixin.qq.com/s/U0CIIibKx5uzZXl3Waz0IA)  
+    - [2023-08-14，Doctor GPT：通过了美国医学执照考试的大型语言模型](https://mp.weixin.qq.com/s/zsXMg1H9T-bBi_X7Exeh0g)  
+    - [2023-08-15，Fooocus : 集Stable Diffusion 和 Midjourney 优点于一身的开源AI绘图软件](https://mp.weixin.qq.com/s/adyXek6xcz5aOPAGqZBrvg)  
   - 微信公众号「山行AI」
     - [2023-06-17，基于LangChain的优秀项目资源库](https://mp.weixin.qq.com/s/G9aqBFzd5j8wVPTH160pZA)  
     - [2023-06-19，GPT4All——可本地布署的AI助理](https://mp.weixin.qq.com/s/KJRyAbUAxmNrcPcFJ3f-cw)  
@@ -1357,9 +1383,11 @@
     - [2023-07-20，Llama2技术细节&开源影响](https://mp.weixin.qq.com/s/rHJkJw9TFGaAR8bWDM5wmg)
   - 微信公众号「对白的算法屋」
     - [2023-07-27，北交大TransGPT，开源了！](https://mp.weixin.qq.com/s/jSwvUIbNI_VQTBWGmwd3wg)
+    - [2023-08-14，科大讯飞星火大模型2.0 终于体验上了！](https://mp.weixin.qq.com/s/fp3mnMLlh5oL5q7G0zsnpQ)
   - 微信公众号「Llama中文社区」
     - [2023-07-26，欢迎加入Llama中文社区！](https://mp.weixin.qq.com/s/mYdQ8L-J9hD8g3kesjDYmw)
     - [2023-08-01，首发！真正意义上的Llama2中文版大模型](https://mp.weixin.qq.com/s/lExUU7z_MvgJ7tzQPF8tUQ)
+    - [2023-08-13，零门槛没GPU也能训练自己的大语言模型，Llama中文社区推出共享训练平台！](https://mp.weixin.qq.com/s/uJc-67VyF9u3a72nMFjdvQ)
   - 微信公众号「极客公园」
     - [2023-07-25，一文读懂 OpenAI 创始人的「世界币」](https://mp.weixin.qq.com/s/7E2O2-iXt-4DCOUgldvfUQ)
   - 微信公众号「智车科技」
@@ -1368,6 +1396,8 @@
     - [2023-06-08，【文献】视觉transformer研究进展——史上最全综述](https://mp.weixin.qq.com/s/zCbFEl8pvPIfjnfIgv8Hqw)
   - 微信公众号「CVer」
     - [2023-08-02，ICCV 2023｜目标检测新突破！AlignDet：支持各类检测器完全自监督预训练的框架](https://mp.weixin.qq.com/s/t7jlTyUP6UxplpythX0dOw)
+  - 微信公众号「EmacsTalk」
+    - [2023-08-13，大模型入门指南](https://mp.weixin.qq.com/s/9nJ7g2mo7nOv4iGXT_CPNg)
   - [bilibili](https://wallstreetcn.com/)
     - [2023-07-19，【官方教程】ChatGLM2-6B 部署与微调](https://www.bilibili.com/video/BV1D94y1i7Qp/?spm_id_from=333.999.0.0)   
   - [华尔街见闻](https://wallstreetcn.com/)
