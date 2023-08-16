@@ -79,7 +79,7 @@
 
         - [LangChain](https://github.com/hwchase17/langchain) <img src="https://img.shields.io/github/stars/hwchase17/langchain?style=social"/> :  🦜️🔗 LangChain.⚡ Building applications with LLMs through composability ⚡ [langchain-langchain.vercel.app](https://langchain-langchain.vercel.app/)
 
-        - [Embedchain](https://github.com/embedchain/embedchain) <img src="https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social"/> :  Framework to create ChatGPT like bots over your dataset [embedchain.ai](https://embedchain.ai/)
+        - [Embedchain](https://github.com/embedchain/embedchain) <img src="https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social"/> : Framework to create ChatGPT like bots over your dataset. [embedchain.ai](https://embedchain.ai/)
 
         - [AutoChain](https://github.com/Forethought-Technologies/AutoChain) <img src="https://img.shields.io/github/stars/Forethought-Technologies/AutoChain?style=social"/> :  AutoChain: Build lightweight, extensible, and testable LLM Agents. [autochain.forethought.ai](https://autochain.forethought.ai/)
 
@@ -155,7 +155,7 @@
 
         - [AmineDiro/cria](https://github.com/AmineDiro/cria) <img src="https://img.shields.io/github/stars/AmineDiro/cria?style=social"/> : OpenAI compatible API for serving LLAMA-2 model.
 
-
+        - [Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) <img src="https://img.shields.io/github/stars/microsoft/Llama-2-Onnx?style=social"/> : Llama 2 Powered By ONNX.
 
 
 
@@ -211,7 +211,7 @@
 
         - [商汤科技-日日新SenseNova](https://techday.sensetime.com/?utm_source=baidu-sem-pc&utm_medium=cpc&utm_campaign=PC-%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%97%A5-%E4%BA%A7%E5%93%81%E8%AF%8D-%E6%97%A5%E6%97%A5%E6%96%B0&utm_content=%E6%97%A5%E6%97%A5%E6%96%B0&utm_term=%E6%97%A5%E6%97%A5%E6%96%B0SenseNova&e_creative=73937788324&e_keywordid=594802524403) : 日日新（SenseNova），是商汤科技宣布推出的大模型体系，包括自然语言处理模型“商量”（SenseChat）、文生图模型“秒画”和数字人视频生成平台“如影”（SenseAvatar）等。
 
-
+        - [讯飞星火认知大模型](https://xinghuo.xfyun.cn/) : 新一代认知智能大模型，拥有跨领域知识和语言理解能力，能够基于自然对话方式理解与执行任务。
 
 
 
@@ -269,6 +269,12 @@
         - [SAM-PT](https://github.com/SysCV/sam-pt) <img src="https://img.shields.io/github/stars/SysCV/sam-pt?style=social"/> : SAM-PT: Extending SAM to zero-shot video segmentation with point-based tracking. "Segment Anything Meets Point Tracking". (**[arXiv 2023](https://arxiv.org/abs/2307.01197)**).  
 
         - [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) <img src="https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA?style=social"/> : "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding". (**[arXiv 2023](https://arxiv.org/abs/2306.02858)**).   
+
+        - [MobileSAM](https://github.com/ChaoningZhang/MobileSAM) <img src="https://img.shields.io/github/stars/ChaoningZhang/MobileSAM?style=social"/> : "Faster Segment Anything: Towards Lightweight SAM for Mobile Applications". (**[arXiv 2023](https://arxiv.org/abs/2306.14289)**).   
+
+        - [BuboGPT](https://github.com/magic-research/bubogpt) <img src="https://img.shields.io/github/stars/magic-research/bubogpt?style=social"/> : "BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs". (**[arXiv 2023](https://arxiv.org/abs/2307.08581)**).   
+
+
 
 
 
@@ -581,6 +587,8 @@
   - ### Chatbot 
     #### 聊天机器人
 
+    - [ChatHub](https://github.com/chathub-dev/chathub) <img src="https://img.shields.io/github/stars/chathub-dev/chathub?style=social"/> : ChatHub is an all-in-one chatbot client. [chathub.gg/?utm_source=github](https://chathub.gg/?utm_source=github)
+
     - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) <img src="https://img.shields.io/github/stars/OpenGVLab/Ask-Anything?style=social"/> : [VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS. [vchat.opengvlab.com/](https://vchat.opengvlab.com/). "VideoChat: Chat-Centric Video Understanding". (**[arXiv 2023](https://arxiv.org/abs/2305.06355)**).
 
     - [a16z-infra/llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot) <img src="https://img.shields.io/github/stars/a16z-infra/llama2-chatbot?style=social"/> : LLaMA 2 Chatbot App ⚡
@@ -611,7 +619,7 @@
   - ### Local knowledge Base
     #### 本地知识库
 
-    - [chatchat-space/langchain-ChatGLM](https://github.com/chatchat-space/langchain-ChatGLM) <img src="https://img.shields.io/github/stars/chatchat-space/langchain-ChatGLM?style=social"/> : langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答。
+    - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) <img src="https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social"/> : lLangchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答。 
 
     - [yanqiangmiffy/Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain) <img src="https://img.shields.io/github/stars/yanqiangmiffy/Chinese-LangChain?style=social"/> : Chinese-LangChain：中文langchain项目，基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成。俗称：小必应，Q.Talk，强聊，QiangTalk。
 
@@ -765,6 +773,8 @@
 
     - [RealChar](https://github.com/Shaunwei/RealChar) <img src="https://img.shields.io/github/stars/Shaunwei/RealChar?style=social"/> : 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖 [RealChar.ai/](https://realchar.ai/)
 
+    - [FaceChain](https://github.com/modelscope/facechain) <img src="https://img.shields.io/github/stars/modelscope/facechain?style=social"/> : FaceChain is a deep-learning toolchain for generating your Digital-Twin. FaceChain is a deep-learning toolchain for generating your Digital-Twin. With a minimum of 1 portrait-photo, you can create a Digital-Twin of your own and start generating personal portraits in different settings (multiple styles now supported!). You may train your Digital-Twin model and generate photos via FaceChain's Python scripts, or via the familiar Gradio interface. FaceChain是一个可以用来打造个人数字形象的深度学习模型工具。用户仅需要提供最低三张照片即可获得独属于自己的个人形象数字替身。FaceChain支持在gradio的界面中使用模型训练和推理能力，也支持资深开发者使用python脚本进行训练推理。
+
     - [VirtualWife](https://github.com/yakami129/VirtualWife) <img src="https://img.shields.io/github/stars/yakami129/VirtualWife?style=social"/> : VirtualWife 是一个虚拟主播项目，目前支持在B站进行直播，用户可以自由更换VRM人物模型，大家可以将他作为一个虚拟主播入门demo，在上面扩展自己喜欢功能。 
 
     - [ChatVRM](https://github.com/pixiv/ChatVRM) <img src="https://img.shields.io/github/stars/pixiv/ChatVRM?style=social"/> : ChatVRMはブラウザで簡単に3Dキャラクターと会話ができるデモアプリケーションです。
@@ -773,14 +783,15 @@
 
 
 
+
+
+
   - ### GUI
     #### 图形用户界面
 
-    - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) <img src="https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social"/> : Stable Diffusion web UI. A browser interface based on Gradio library for Stable Diffusion.
+    - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) <img src="https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web?style=social"/> : A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 
 
-    - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) <img src="https://img.shields.io/github/stars/Mikubill/sd-webui-controlnet?style=social"/> : ControlNet for Stable Diffusion WebUI. The WebUI extension for ControlNet and other injection-based SD controls.
-
-    - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) <img src="https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social"/> : Text generation web UI. A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
+    - [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) <img src="https://img.shields.io/github/stars/AprilNEA/ChatGPT-Admin-Web?style=social"/> : 带有用户管理和后台管理系统的 ChatGPT WebUI. [caw.sku.moe](https://caw.sku.moe/)
 
     - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) <img src="https://img.shields.io/github/stars/lencx/ChatGPT?style=social"/> : 🔮 ChatGPT Desktop Application (Mac, Windows and Linux). [NoFWL](https://app.nofwl.com/).
 
@@ -789,8 +800,6 @@
     - [Poordeveloper/chatgpt-app](https://github.com/Poordeveloper/chatgpt-app) <img src="https://img.shields.io/github/stars/Poordeveloper/chatgpt-app?style=social"/> : A ChatGPT App for all platforms. Built with Rust + Tauri + Vue + Axum.
 
     - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) <img src="https://img.shields.io/github/stars/sonnylazuardi/chat-ai-desktop?style=social"/> : Chat AI Desktop App. Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust.
-
-    - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) <img src="https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web?style=social"/> : 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI. 
 
     - [202252197/ChatGPT_JCM](https://github.com/202252197/ChatGPT_JCM) <img src="https://img.shields.io/github/stars/202252197/ChatGPT_JCM?style=social"/> : OpenAI Manage Web. OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作。
 
@@ -801,8 +810,6 @@
     - [wieslawsoltes/ChatGPT](https://github.com/wieslawsoltes/ChatGPT) <img src="https://img.shields.io/github/stars/wieslawsoltes/ChatGPT?style=social"/> : A ChatGPT C# client for graphical user interface runs on MacOS, Windows, Linux, Android, iOS and Browser. Powered by [Avalonia UI](https://www.avaloniaui.net/) framework. [wieslawsoltes.github.io/ChatGPT/](https://wieslawsoltes.github.io/ChatGPT/)
 
     - [sigoden/aichat](https://github.com/GaiZhenbiao/ChuanhuChatGPT) <img src="https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=social"/> : GUI for ChatGPT API and any LLM. 川虎 Chat 🐯 Chuanhu Chat. 为ChatGPT/ChatGLM/LLaMA/StableLM/MOSS等多种LLM提供了一个轻快好用的Web图形界。
-
-    - [SolidUI](https://github.com/CloudOrc/SolidUI) <img src="https://img.shields.io/github/stars/CloudOrc/SolidUI?style=social"/> : AI-generated visualization prototyping and editing platform.
 
     - [amrrs/chatgpt-clone](https://github.com/amrrs/chatgpt-clone) <img src="https://img.shields.io/github/stars/amrrs/chatgpt-clone?style=social"/> :  Build Yo'own ChatGPT with OpenAI API & Gradio.
     
@@ -816,6 +823,13 @@
 
     - [cLangUI](https://github.com/ahmadbilaldev/langui) <img src="https://img.shields.io/github/stars/ahmadbilaldev/langui?style=social"/> : AUI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects. 
 
+    - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) <img src="https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social"/> : Stable Diffusion web UI. A browser interface based on Gradio library for Stable Diffusion.
+
+    - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) <img src="https://img.shields.io/github/stars/Mikubill/sd-webui-controlnet?style=social"/> : ControlNet for Stable Diffusion WebUI. The WebUI extension for ControlNet and other injection-based SD controls.
+
+    - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) <img src="https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social"/> : Text generation web UI. A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
+    
+    - [SolidUI](https://github.com/CloudOrc/SolidUI) <img src="https://img.shields.io/github/stars/CloudOrc/SolidUI?style=social"/> : AI-generated visualization prototyping and editing platform.
 
 
 
@@ -832,6 +846,8 @@
   - 微信公众号「微软科技」
     - [2023-02-16，揭秘ChatGPT走红背后的独门云科技！](https://mp.weixin.qq.com/s/qYZ7G5uLHTiLG8AonIch8g)
     - [2023-07-26，Llama 2 登陆 Azure 和 Windows，微软与 Meta 拓展人工智能合作伙伴关系](https://mp.weixin.qq.com/s/pQLd5ZVNLdhnguPmmaDlCg)
+  - 微信公众号「微软亚洲研究院」
+    - [2023-08-16，ResNet四位作者获得2023未来科学大奖](https://mp.weixin.qq.com/s/PKXW-RqIuHQXjTuanqdAbQ)
   - 微信公众号「Azure云科技」
     - [2023-02-15，微软 Azure 作为 OpenAI 独家云服务提供商，助力企业致胜人工智能时代](https://mp.weixin.qq.com/s/SCmWX4uz3Ici2Shy6r1x7Q)
   - 微信公众号「量子位」
@@ -852,6 +868,7 @@
     - [2023-07-31，何恺明官宣加入MIT，正式回归学术界！](https://mp.weixin.qq.com/s/x2P0G6-Zm0tivmWLTYTprw)
     - [2023-08-05，马斯克xAI创始成员国内首发声：ChatGPT时代「乱世出英雄」，下一步要多用数学科学数据训练](https://mp.weixin.qq.com/s/DncxAtjV47sMqpnxG0azgQ)
     - [2023-08-07，Llama2等30+模型接入千帆大模型平台，推理成本降50%！还有超全Prompt模板开放体验](https://mp.weixin.qq.com/s/OBgl6-QOX-6cOsnl6waKxw)
+    - [2023-08-16，OpenAI进军内容审核行业，学校图书馆已经用ChatGPT筛选色情描述了](https://mp.weixin.qq.com/s/Bp62epgjN0XcBs6AoGUk7A)
   - 微信公众号「机器之心」
     - [2023-02-15，开源方案复现ChatGPT流程！1.62GB显存即可体验，单机训练提速7.73倍](https://mp.weixin.qq.com/s/j8gvD_4ViRE4WQaQlcnmrQ)
     - [2023-02-19，跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文](https://mp.weixin.qq.com/s/s5WrGn_dQyHrsZP8qsI2ag)
@@ -930,6 +947,7 @@
     - [2023-06-21，走向CV的通用人工智能：从GPT和大型语言模型中汲取的经验教训 (上)](https://mp.weixin.qq.com/s/6Sl8ELrA9zulal5iJoQXJA)
     - [2023-07-03，ChatGPT实践应用和大模型技术解析](https://mp.weixin.qq.com/s/4GFc1e06hRjK4crfVPc2JA)
     - [2023-07-03，DeepSpeed ZeRO++：降低4倍网络通信，显著提高大模型及类ChatGPT模型训练效率](https://mp.weixin.qq.com/s/sSIw7y-_vcN_y80b1tP6oQ)
+    - [2023-08-16，轻量级MobileSAM：比FastSAM快4倍，处理一张图像仅需10ms（附源代码）](https://mp.weixin.qq.com/s/3VhGKWpKTFY3u8hVJUYp_A)
   - 微信公众号「江大白」
     - [2023-02-15，万字拆解，ChatGPT各项能力的起源追溯](https://mp.weixin.qq.com/s/l0uGPO4vdFQzwCSP-HQQgg)
     - [2023-03-02，ChatGPT团队背景研究报告，大厂不再是顶尖人才第一选择！](https://mp.weixin.qq.com/s/F_9fChIMkuZLoUfhnenwAw)
@@ -1006,6 +1024,7 @@
     - [2023-04-23，复旦MOSS升级版开源上线；马斯克启动TruthGPT；海康训练出百亿参数CV大模型丨AIGC大事周报](https://mp.weixin.qq.com/s/gBDcHw1SFSCWpJIxeC5vHg)
     - [2023-05-16，北京打响大模型地方战第一枪：公布通用人工智能发展21项措施](https://mp.weixin.qq.com/s/HdTkIaLL33ZMhrQ00fVYZQ)
     - [2023-07-25，重磅，ChatGPT老板官宣“世界币”，价格暴涨、用户超两百万，要给全世界每个人发钱](https://mp.weixin.qq.com/s/MVfp_wZIxtLlADIN4hoN_A)
+    - [2023-08-15，讯飞星火V2.0突破代码能力，一个指令生成贪吃蛇游戏，10分钟开发“凌空手写”](https://mp.weixin.qq.com/s/544ysBQ0C_j9mD2NAx-cyg)
   - 微信公众号「CSDN」
     - [2023-03-25，ChatGPT 已成为下一代的新操作系统！](https://mp.weixin.qq.com/s/MwrMhVydbhpP6c0AvPp8oQ)
     - [2023-04-06，CV 迎来 GPT-3 时刻，Meta 开源万物可分割 AI 模型和 1100 万张照片，1B+掩码数据集！](https://mp.weixin.qq.com/s/spBwU0UecbxbEl88SA4GJQ)
@@ -1014,6 +1033,7 @@
     - [2023-05-17，OpenAI CEO 在美国国会首秀：回应对 AI 的一切质疑，主动要求接受监管！](https://mp.weixin.qq.com/s/B6AXGXgwELNrG4FffTfiug)
     - [2023-07-11，ChatGPT 最强代码解释器突破“封印”：30 秒出片、5 分钟制作游戏、可视化分析...样样精通！](https://mp.weixin.qq.com/s/VrxL0Ufxd0meMaY_exttCQ)
     - [2023-07-19，格局打开，Meta 发布免费商业应用的开源 AI 模型 Llama 2，网友：微软又赢麻了！](https://mp.weixin.qq.com/s/DUCZ6LmaaoD6LTiAroM9xQ)
+    - [2023-08-16，从失望到精通：AI 大模型实践与实用技巧](https://mp.weixin.qq.com/s/6QwJrmHS7vY1jo4WzyG-2A)
   - 微信公众号「刘润」
     - [2023-02-08，ChatGPT：一个人不管有多大的梦想，还是要有盖世武功](https://mp.weixin.qq.com/s/Dd28kONcjwiBYPuDUD8R7g)
     - [2023-02-09，ChatGPT：你来了，那我怎么办？](https://mp.weixin.qq.com/s/3wikMRAJqZtWHaC5dUVgbQ)
@@ -1241,6 +1261,9 @@
     - [2023-08-12，小米发布了他们的大模型MiLM-6B](https://mp.weixin.qq.com/s/kLpgRzy3j6fAqhM50cC2xg) 
     - [2023-08-14，VirtualWife - 一个虚拟主播项目](https://mp.weixin.qq.com/s/QgVfKx2CkUwDUIRTqFELqA) 
     - [2023-08-14，MeChat：中文心理健康支持对话大模型与数据集](https://mp.weixin.qq.com/s/yKxXi6SiIJpBhLozqe_XYQ) 
+    - [2023-08-16，原Langchain-ChatGLM项目正式发布v0.2.0版本](https://mp.weixin.qq.com/s/fBPEE34_EBf_2-RM4ZqAzg) 
+    - [2023-08-16，Llama2模型的优化版本：Llama-2-Onnx](https://mp.weixin.qq.com/s/Z2nBkaIgtLIa8OEeFJP4jg) 
+    - [2023-08-16，妙鸭相机开源版工具FaceChain](https://mp.weixin.qq.com/s/qF7WVqHpMN1zODTe_W8J7A) 
   - 微信公众号「NewBeeNLP」
     - [2023-02-07，ChatGPT Prompt工程：设计、实践与思考](https://mp.weixin.qq.com/s/a8hjzZ_Rzl6pOU1PRAARJQ)   
     - [2023-07-19，谁才是真正的 OpenAI？更大更强的Llama 2来啦，可直接商用](https://mp.weixin.qq.com/s/2kN6hI17VpKEMgvK8iEqDg)   
@@ -1252,6 +1275,7 @@
     - [2023-06-13，自动驾驶大模型亮相2023北京智源大会！顾维灏：DriveGPT将重塑汽车智能化技术路线](https://mp.weixin.qq.com/s/ybtjyY7gjgywl6Jvjd5RMg)  
   - 微信公众号「智源研究院」
     - [2023-06-11，悟道·天鹰 Aquila + 天秤 FlagEval，打造大模型能力与评测标准双标杆](https://mp.weixin.qq.com/s/8oP9nongpkkfHuE1RsKx8A)   
+    - [2023-08-15，FlagEval 8月榜单：新增通义千问、Llama2等多个模型评测，新增基座模型代码生成能力评测](https://mp.weixin.qq.com/s/RYccZXQNs9hHHNRJI9tLgg)   
   - 微信公众号「CLUE中文语言理解测评基准」
     - [2023-06-19，最新大模型排名！中文大模型评测基准SuperCLUE发布6月榜单](https://mp.weixin.qq.com/s/lTqAOO8iqKUW3B_4VMswtw)   
     - [2023-07-20，Meta开源免费商用大模型Llama2-13B测评揭晓 | SuperCLUE](https://mp.weixin.qq.com/s/ZowePHkDouP8AiZshR-MXw)   
@@ -1280,6 +1304,7 @@
   - 微信公众号「深度学习自然语言处理」
     - [2023-06-26，ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%，在中文榜单位列榜首](https://mp.weixin.qq.com/s/7Dn_R-9q_uGZBEEQcIZJGg) 
     - [2023-07-21，iPhone、Mac上都能跑，刷屏的Llama 2究竟性能如何？](https://mp.weixin.qq.com/s/B8LnEVjRt6dwaECRQIlHfw)    
+    - [2023-08-15，字节 | 大模型BuboGPT：引入视觉定位，实现细粒度多模态，已开源](https://mp.weixin.qq.com/s/1yM83EO9qh_iM_9CkbjuCw)    
   - 微信公众号「集智书童」
     - [2023-06-28，MobileSAM来啦 | 比SAM小60倍，比FastSAM快4倍，速度和效果双赢](https://mp.weixin.qq.com/s/gTsdqVNgKpfnU-4S7DJhnA)  
     - [2023-07-03，医疗SAM也来啦 | AutoSAM告诉你如何在医疗领域更快更好开发大模型](https://mp.weixin.qq.com/s/vd7bxoxB_BiffcSu-oHPbg)  
@@ -1327,6 +1352,8 @@
     - [2023-08-13，Windows桌面版Whisper客户端](https://mp.weixin.qq.com/s/U0CIIibKx5uzZXl3Waz0IA)  
     - [2023-08-14，Doctor GPT：通过了美国医学执照考试的大型语言模型](https://mp.weixin.qq.com/s/zsXMg1H9T-bBi_X7Exeh0g)  
     - [2023-08-15，Fooocus : 集Stable Diffusion 和 Midjourney 优点于一身的开源AI绘图软件](https://mp.weixin.qq.com/s/adyXek6xcz5aOPAGqZBrvg)  
+    - [2023-08-16，OpenChat 大规模更新！](https://mp.weixin.qq.com/s/Xq8PLZ8CeSMZHFzD89by8A)  
+    - [2023-08-16，FaceChain：三张照片打造个人数字替身！](https://mp.weixin.qq.com/s/y4FdOifwgSWjRmtRJI2mgw)  
   - 微信公众号「山行AI」
     - [2023-06-17，基于LangChain的优秀项目资源库](https://mp.weixin.qq.com/s/G9aqBFzd5j8wVPTH160pZA)  
     - [2023-06-19，GPT4All——可本地布署的AI助理](https://mp.weixin.qq.com/s/KJRyAbUAxmNrcPcFJ3f-cw)  
@@ -1365,6 +1392,7 @@
     - [2023-07-28，五道口大模型简史](https://mp.weixin.qq.com/s/fm37ofUwLQyItKkkLMjG5Q)
   - 微信公众号「自动驾驶之心」
     - [2023-07-04，最新综述！AIGC到底是什么？都有哪些应用？一文尽览！](https://mp.weixin.qq.com/s/DseSOGMdsmZGfF_ep-wpSg)
+    - [2023-08-14，超越UniAD！FusionAD：预测与规划任务的多模态融合方案](https://mp.weixin.qq.com/s/-IC9ZWRPUWB83Lj43YtQSw)
   - 微信公众号「酷酷的群」
     - [2023-07-12，InstructGPT：语言模型的人类反馈指令对齐](https://mp.weixin.qq.com/s/qMpGxhpixut5-7YHcq1OOw)
   - 微信公众号「汀丶人工智能」
