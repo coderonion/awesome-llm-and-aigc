@@ -169,17 +169,17 @@
 
         - [MOSS](https://github.com/OpenLMLab/MOSS) <img src="https://img.shields.io/github/stars/OpenLMLab/MOSS?style=social"/> : An open-source tool-augmented conversational language model from Fudan University. MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon系列模型具有160亿参数，在FP16精度下可在单张A100/A800或两张3090显卡运行，在INT4/8精度下可在单张3090显卡运行。MOSS基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。[txsun1997.github.io/blogs/moss.html](https://txsun1997.github.io/blogs/moss.html)
 
-        - [BayLing|百聆](https://github.com/ictnlp/BayLing) <img src="https://img.shields.io/github/stars/OpenLMLab/MOSS?style=social"/> : “百聆”是一个具有增强的语言对齐的英语/中文大语言模型，具有优越的英语/中文能力，在多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction. [nlp.ict.ac.cn/bayling](http://nlp.ict.ac.cn/bayling). "BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2306.10968)**). 
+        - [BayLing｜百聆](https://github.com/ictnlp/BayLing) <img src="https://img.shields.io/github/stars/OpenLMLab/MOSS?style=social"/> : “百聆”是一个具有增强的语言对齐的英语/中文大语言模型，具有优越的英语/中文能力，在多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction. [nlp.ict.ac.cn/bayling](http://nlp.ict.ac.cn/bayling). "BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2306.10968)**). 
 
-        - [Baichuan-7B|百川-7B](https://github.com/baichuan-inc/Baichuan-7B) <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-7B?style=social"/> : A large-scale 7B pretraining language model developed by BaiChuan-Inc. Baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型。基于 Transformer 结构，在大约 1.2 万亿 tokens 上训练的 70 亿参数模型，支持中英双语，上下文窗口长度为 4096。在标准的中文和英文 benchmark（C-Eval/MMLU）上均取得同尺寸最好的效果。[huggingface.co/baichuan-inc/baichuan-7B](https://huggingface.co/baichuan-inc/Baichuan-7B)
+        - [Baichuan-7B｜百川-7B](https://github.com/baichuan-inc/Baichuan-7B) <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-7B?style=social"/> : A large-scale 7B pretraining language model developed by BaiChuan-Inc. Baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型。基于 Transformer 结构，在大约 1.2 万亿 tokens 上训练的 70 亿参数模型，支持中英双语，上下文窗口长度为 4096。在标准的中文和英文 benchmark（C-Eval/MMLU）上均取得同尺寸最好的效果。[huggingface.co/baichuan-inc/baichuan-7B](https://huggingface.co/baichuan-inc/Baichuan-7B)
 
-        - [Baichuan-13B|百川-13B](https://github.com/baichuan-inc/Baichuan-13B) <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-13B?style=social"/> : A 13B large language model developed by Baichuan Intelligent Technology. Baichuan-13B 是由百川智能继 Baichuan-7B 之后开发的包含 130 亿参数的开源可商用的大规模语言模型，在权威的中文和英文 benchmark 上均取得同尺寸最好的效果。本次发布包含有预训练 (Baichuan-13B-Base) 和对齐 (Baichuan-13B-Chat) 两个版本。[huggingface.co/baichuan-inc/Baichuan-13B-Chat](https://huggingface.co/baichuan-inc/Baichuan-13B-Chat)
+        - [Baichuan-13B｜百川-13B](https://github.com/baichuan-inc/Baichuan-13B) <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-13B?style=social"/> : A 13B large language model developed by Baichuan Intelligent Technology. Baichuan-13B 是由百川智能继 Baichuan-7B 之后开发的包含 130 亿参数的开源可商用的大规模语言模型，在权威的中文和英文 benchmark 上均取得同尺寸最好的效果。本次发布包含有预训练 (Baichuan-13B-Base) 和对齐 (Baichuan-13B-Chat) 两个版本。[huggingface.co/baichuan-inc/Baichuan-13B-Chat](https://huggingface.co/baichuan-inc/Baichuan-13B-Chat)
 
-        - [FlagAI|悟道·天鹰（Aquila）](https://github.com/FlagAI-Open/FlagAI) <img src="https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social"/> : FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. Our goal is to support training, fine-tuning, and deployment of large-scale models on various downstream tasks with multi-modality.
+        - [FlagAI｜悟道·天鹰（Aquila）](https://github.com/FlagAI-Open/FlagAI) <img src="https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social"/> : FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. Our goal is to support training, fine-tuning, and deployment of large-scale models on various downstream tasks with multi-modality.
 
-        - [InternLM|书生](https://github.com/InternLM/InternLM) <img src="https://img.shields.io/github/stars/InternLM/InternLM?style=social"/> : InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system. InternLM ，即书生·浦语大模型，包含面向实用场景的70亿参数基础模型与对话模型 （InternLM-7B）。
+        - [InternLM｜书生](https://github.com/InternLM/InternLM) <img src="https://img.shields.io/github/stars/InternLM/InternLM?style=social"/> : InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system. InternLM ，即书生·浦语大模型，包含面向实用场景的70亿参数基础模型与对话模型 （InternLM-7B）。
 
-        - [YuLan-Chat|玉兰](https://github.com/RUC-GSAI/YuLan-Chat/) <img src="https://img.shields.io/github/stars/RUC-GSAI/YuLan-Chat?style=social"/> : YuLan-Chat models are chat-based large language models, which are developed by the researchers in GSAI, Renmin University of China (YuLan, which represents Yulan Magnolia, is the campus flower of Renmin University of China). The newest version is developed by continually-pretraining and instruction-tuning [LLaMA-2](https://github.com/facebookresearch/llama) with high-quality English and Chinese data. YuLan-Chat系列模型是中国人民大学高瓴人工智能学院师生共同开发的支持聊天的大语言模型（名字"玉兰"取自中国人民大学校花）。 最新版本基于LLaMA-2进行了中英文双语的继续预训练和指令微调。
+        - [YuLan-Chat｜玉兰](https://github.com/RUC-GSAI/YuLan-Chat/) <img src="https://img.shields.io/github/stars/RUC-GSAI/YuLan-Chat?style=social"/> : YuLan-Chat models are chat-based large language models, which are developed by the researchers in GSAI, Renmin University of China (YuLan, which represents Yulan Magnolia, is the campus flower of Renmin University of China). The newest version is developed by continually-pretraining and instruction-tuning [LLaMA-2](https://github.com/facebookresearch/llama) with high-quality English and Chinese data. YuLan-Chat系列模型是中国人民大学高瓴人工智能学院师生共同开发的支持聊天的大语言模型（名字"玉兰"取自中国人民大学校花）。 最新版本基于LLaMA-2进行了中英文双语的继续预训练和指令微调。
 
         - [MiLM-6B](https://github.com/XiaoMi/MiLM-6B) <img src="https://img.shields.io/github/stars/XiaoMi/MiLM-6B?style=social"/> : MiLM-6B 是由小米开发的一个大规模预训练语言模型，参数规模为64亿。在 C-Eval 和 CMMLU 上均取得同尺寸最好的效果。
 
@@ -201,7 +201,7 @@
 
         - [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) <img src="https://img.shields.io/github/stars/Morizeyao/GPT2-Chinese?style=social"/> : Chinese version of GPT2 training code, using BERT tokenizer. 
 
-        - [QwenLM|通义千问](https://github.com/QwenLM/Qwen-7B) <img src="https://img.shields.io/github/stars/QwenLM/Qwen-7B?style=social"/> : Qwen-7B is the 7B-parameter version of the large language model series, Qwen (abbr. Tongyi Qianwen), proposed by Alibaba Cloud. Qwen-7B is a Transformer-based large language model, which is pretrained on a large volume of data, including web texts, books, codes, etc. Additionally, based on the pretrained Qwen-7B, we release Qwen-7B-Chat, a large-model-based AI assistant, which is trained with alignment techniques. 通义千问-7B（Qwen-7B） 是阿里云研发的通义千问大模型系列的70亿参数规模的模型。Qwen-7B是基于Transformer的大语言模型, 在超大规模的预训练数据上进行训练得到。预训练数据类型多样，覆盖广泛，包括大量网络文本、专业书籍、代码等。同时，在Qwen-7B的基础上，我们使用对齐机制打造了基于大语言模型的AI助手Qwen-7B-Chat。[通义达模型](https://tongyi.aliyun.com/)
+        - [QwenLM｜通义千问](https://github.com/QwenLM/Qwen-7B) <img src="https://img.shields.io/github/stars/QwenLM/Qwen-7B?style=social"/> : Qwen-7B is the 7B-parameter version of the large language model series, Qwen (abbr. Tongyi Qianwen), proposed by Alibaba Cloud. Qwen-7B is a Transformer-based large language model, which is pretrained on a large volume of data, including web texts, books, codes, etc. Additionally, based on the pretrained Qwen-7B, we release Qwen-7B-Chat, a large-model-based AI assistant, which is trained with alignment techniques. 通义千问-7B（Qwen-7B） 是阿里云研发的通义千问大模型系列的70亿参数规模的模型。Qwen-7B是基于Transformer的大语言模型, 在超大规模的预训练数据上进行训练得到。预训练数据类型多样，覆盖广泛，包括大量网络文本、专业书籍、代码等。同时，在Qwen-7B的基础上，我们使用对齐机制打造了基于大语言模型的AI助手Qwen-7B-Chat。[通义达模型](https://tongyi.aliyun.com/)
 
         - [百度-文心大模型](https://wenxin.baidu.com/) : 百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感。
 
@@ -211,7 +211,10 @@
 
         - [商汤科技-日日新SenseNova](https://techday.sensetime.com/?utm_source=baidu-sem-pc&utm_medium=cpc&utm_campaign=PC-%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%97%A5-%E4%BA%A7%E5%93%81%E8%AF%8D-%E6%97%A5%E6%97%A5%E6%96%B0&utm_content=%E6%97%A5%E6%97%A5%E6%96%B0&utm_term=%E6%97%A5%E6%97%A5%E6%96%B0SenseNova&e_creative=73937788324&e_keywordid=594802524403) : 日日新（SenseNova），是商汤科技宣布推出的大模型体系，包括自然语言处理模型“商量”（SenseChat）、文生图模型“秒画”和数字人视频生成平台“如影”（SenseAvatar）等。
 
-        - [讯飞星火认知大模型](https://xinghuo.xfyun.cn/) : 新一代认知智能大模型，拥有跨领域知识和语言理解能力，能够基于自然对话方式理解与执行任务。
+        - [科大讯飞-星火认知大模型](https://xinghuo.xfyun.cn/) : 新一代认知智能大模型，拥有跨领域知识和语言理解能力，能够基于自然对话方式理解与执行任务。
+
+        - [字节跳动-豆包](https://www.doubao.com/) : 豆包。
+
 
 
 
@@ -309,6 +312,10 @@
 
         - [Fooocus](https://github.com/lllyasviel/Fooocus) <img src="https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social"/> : Fooocus is an image generating software. Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs. "微信公众号「GitHubStore」《[Fooocus : 集Stable Diffusion 和 Midjourney 优点于一身的开源AI绘图软件](https://mp.weixin.qq.com/s/adyXek6xcz5aOPAGqZBrvg)》"。   
 
+        - [MindDiffuser](https://github.com/ReedOnePeck/MindDiffuser) <img src="https://img.shields.io/github/stars/ReedOnePeck/MindDiffuser?style=social"/> : "MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion". (**[arXiv 2023](https://arxiv.org/abs/2308.04249)**).  
+
+
+
         - [Midjourney](https://www.midjourney.com/) : Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 
         - [DreamStudio](https://dreamstudio.ai/) : Effortless image generation for creators with big dreams.
@@ -322,6 +329,9 @@
         - [Peppertype.ai](https://www.peppercontent.io/peppertype-ai/) : Leverage the AI-powered platform to ideate, create, distribute, and measure your content and prove your content marketing ROI.
 
         - [ChatPPT](https://chat-ppt.com/) : ChatPPT来袭命令式一键生成PPT。
+
+
+
 
 
 
@@ -568,7 +578,9 @@
     #### 多模态数据集
 
     - [Youku-mPLUG](https://github.com/X-PLUG/Youku-mPLUG) <img src="https://img.shields.io/github/stars/X-PLUG/Youku-mPLUG?style=social"/> : "Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks". (**[arXiv 2023](https://arxiv.org/abs/2306.04362)**). "微信公众号「我爱计算机视觉」《[YouKu-mPLUG 最大中文视频语言数据集，助力增强多模态大型模型性能](https://mp.weixin.qq.com/s/iJoaKCykO09R3jTCylRTVA)》"。 
-
+    
+    - [Intern · WanJuan｜书生·万卷](https://github.com/opendatalab/WanJuan1.0) <img src="https://img.shields.io/github/stars/opendatalab/WanJuan1.0?style=social"/> : Intern · WanJuan Multimodal Corpus. 万卷1.0多模态语料。
+    
     - [matrix-alpha/Accountable-Textual-Visual-Chat](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) <img src="https://img.shields.io/github/stars/matrix-alpha/Accountable-Textual-Visual-Chat?style=social"/> : "Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation". (**[arXiv 2023](https://arxiv.org/abs/2303.05983)**). [https://matrix-alpha.github.io/](https://matrix-alpha.github.io/)
 
 
@@ -682,6 +694,7 @@
 
     - [DoctorGPT](https://github.com/llSourcell/DoctorGPT) <img src="https://img.shields.io/github/stars/llSourcell/DoctorGPT?style=social"/> :   DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 
+    - [仲景](https://github.com/SupritYoung/Zhongjing) <img src="https://img.shields.io/github/stars/SupritYoung/Zhongjing?style=social"/> : 仲景：首个实现从预训练到 RLHF 全流程训练的中文医疗大模型。 "Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue". (**[arXiv 2023](https://arxiv.org/abs/2308.03549)**). 
 
 
 
@@ -777,12 +790,11 @@
 
     - [VirtualWife](https://github.com/yakami129/VirtualWife) <img src="https://img.shields.io/github/stars/yakami129/VirtualWife?style=social"/> : VirtualWife 是一个虚拟主播项目，目前支持在B站进行直播，用户可以自由更换VRM人物模型，大家可以将他作为一个虚拟主播入门demo，在上面扩展自己喜欢功能。 
 
+    - [GPT-vup](https://github.com/jiran214/GPT-vup) <img src="https://img.shields.io/github/stars/jiran214/GPT-vup?style=social"/> : GPT-vup Live2D数字人直播。GPT-vup BIliBili | 抖音 | AI | 虚拟主播。
+
     - [ChatVRM](https://github.com/pixiv/ChatVRM) <img src="https://img.shields.io/github/stars/pixiv/ChatVRM?style=social"/> : ChatVRMはブラウザで簡単に3Dキャラクターと会話ができるデモアプリケーションです。
 
-
-
-
-
+    - [HeyGen](https://www.heygen.com/) : Scale your video production with customizable AI avatars. "微信公众号「DataLearner」《[《流浪地球2》的数字生命计划可能快实现了！HeyGen即将发布下一代AI真人视频生成技术，效果逼真到无法几乎分辨！](https://mp.weixin.qq.com/s/70Fj9HCe3ruiI43WmMZLjQ)》"。 
 
 
 
@@ -837,8 +849,10 @@
 
 ## Blogs
 
-  - [知乎「猛猿」](https://www.zhihu.com/people/lemonround)
-    - [2023-02-25，ChatGPT技术解析系列之：GPT1、GPT2与GPT3](https://zhuanlan.zhihu.com/p/609367098?utm_id=0)    
+  - 微信公众号「Hugging Face」
+    - [2023-08-16，关于 Llama 2 的一切资源，我们都帮你整理好了](https://mp.weixin.qq.com/s/-01Dg9ZVfPYM4mZ4iKt8Cw)  
+  - 微信公众号「腾讯技术工程」
+    - [2023-08-17，一文入门最热的LLM应用开发框架LangChain](https://mp.weixin.qq.com/s/bYzNNL3F0998Do2Jl0PQtw)
   - 微信公众号「GLM大模型」
     - [2023-06-25，【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA)  
     - [2023-07-14，【公告】ChatGLM2-6B，免费商用](https://mp.weixin.qq.com/s/pNMcR2c6kFV1TVaI8wzHRg)
@@ -895,6 +909,9 @@
     - [2023-07-23，开源的Llama 2背后，有这些年轻华人的力量](https://mp.weixin.qq.com/s/miwc-beG2vrGG1oryCmtpw)
     - [2023-07-31，大神回归学界：何恺明宣布加入 MIT](https://mp.weixin.qq.com/s/MwPMBESMtVTjjAfjGQPsLA)
     - [2023-08-09，百川发布530亿大模型，融入搜索能力：第一时间内测体验已来](https://mp.weixin.qq.com/s/z0xUQH7GRd-YaMFTmynKkg)
+    - [2023-08-18，字节跳动类ChatGPT产品「豆包」邀测，我们先试了一下](https://mp.weixin.qq.com/s/DG-Dq9bAz1HpVpF5qxgoug)
+    - [2023-08-18，扩散模型「读脑术」，自动化所MindDiffuser清晰重建人脑视觉画面](https://mp.weixin.qq.com/s/FUvd2cU1LjBSERANko88nw)
+    - [2023-08-18，稚晖君人形机器人问世：大模型加持，会自己换胳膊，要上生产线造车](https://mp.weixin.qq.com/s/cgfbJgl9enzGXGTb6q6FGA)
   - 微信公众号「图灵人工智能」
     - [2023-02-04，盖茨盛赞ChatGPT：人工智能历史意义不亚于“PC或互联网诞生”](https://mp.weixin.qq.com/s/51v_fUjQe3EewwOIxlLghw)
     - [2023-02-06，ChatGPT专题|ChatGPT之父传奇：8岁会编程，16岁出柜，2个月做到月活过亿](https://mp.weixin.qq.com/s/jodwa-a644vECTnrRqCuAA)
@@ -912,6 +929,7 @@
     - [2023-07-29，语言模型的前世今生与GPT的人生哲学](https://mp.weixin.qq.com/s/uHyz2Rt05GtH6GRRgCFUGQ)
     - [2023-08-06，张钹院士：GPT时代的人工智能安全](https://mp.weixin.qq.com/s/FJ-jhD_b7o-5D4ikKcNcEw)
     - [2023-08-15，谷歌发现大模型「领悟」现象！训练久了突然不再死记硬背，多么痛的领悟](https://mp.weixin.qq.com/s/d9K5fkgmvIkGQRPGIiSPaA)
+    - [2023-08-17，谷歌：大模型不仅有涌现能力，训练时间长了还有「领悟」能力](https://mp.weixin.qq.com/s/FEuViHRAYvQvKS5iCtX86Q)
   - 微信公众号「硅星人」
     - [2022-12-03，行走的代码生成器：chatGPT要让谷歌和程序员“下岗”了](https://mp.weixin.qq.com/s/DXzZ_5RrRbVe5bWkpwFV6Q)
     - [2023-01-18，微软下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/xjNipZ77I3eKbeYU5ZztZQ)
@@ -983,6 +1001,7 @@
     - [2023-07-19，更强的Llama 2开源，可直接商用：一夜之间，大模型格局变了](https://mp.weixin.qq.com/s/PJyFoLP7IBxjbswq-NBEkA)
     - [2023-07-31，强推！大语言模型『百宝书』，一文缕清所有大模型！](https://mp.weixin.qq.com/s/7K5cMlLekUUtKwEtCHwGtg)
     - [2023-08-10，大模型的数据隐私问题有解了，浙江大学提出联邦大语言模型](https://mp.weixin.qq.com/s/5Ejc2JNefZK0lockU70l-Q)
+    - [2023-08-17，文心一言杀疯了！大模型社区、插件系统来了，码农神器发布，AI原生时代降临](https://mp.weixin.qq.com/s/M3WKKr7CvCHgZQgKVfR3SA)
   - 微信公众号「所向披靡的张大刀」
     - [2023-04-07，分割大一统——Segment Anything深度体验](https://mp.weixin.qq.com/s/qtk1Ds3hdNi4NOwrw2tDrg)
   - 微信公众号「算法邦」
@@ -1017,6 +1036,7 @@
     - [2023-07-12，Transformer八子全部叛逃谷歌！最后一位共同作者月底离职创业](https://mp.weixin.qq.com/s/ltQsq6Z36nvPSRa4IC8a_A)
     - [2023-07-20，Llama 2宇宙大爆炸！伯克利实测排第8，iPhone本地可跑，一大波应用免费玩，LeCun狂转](https://mp.weixin.qq.com/s/tc2Tz_K30358t07w-IHxfQ)
     - [2023-07-29，ChatGPT羊驼家族全沦陷！CMU博士击破LLM护栏，人类毁灭计划脱口而出](https://mp.weixin.qq.com/s/9UaYiLoIaXixfE8Ka8um5A)
+    - [2023-08-18，天才少年稚晖君智元机器人走路进场！AI模型做大脑，目标售价20万以内](https://mp.weixin.qq.com/s/0SE0w0ne3npFjrEdjYhZdg)
   - 微信公众号「智东西」
     - [2023-02-06，ChatGPT版搜索引擎突然上线，科技巨头们坐不住了！](https://mp.weixin.qq.com/s/lncJm6hmK3AQNF2paWI5Dw)
     - [2023-04-07，ChatGPT和Matter两大风口汇合！AWE同期AIoT智能家居峰会月底举行，首批嘉宾公布](https://mp.weixin.qq.com/s/cuI8sSff_zGiLtwukAcLRw)
@@ -1153,6 +1173,7 @@
   - 微信公众号「人工智能前沿讲习」
     - [2023-04-23，【综述专栏】“ChatGPT的问题、风险与机遇”会议综述](https://mp.weixin.qq.com/s/-Gi4xMUXYiI13DaTVgwUdQ)
     - [2023-08-15，【综述专栏】伦敦大学、MetaAI、StabilityAI联合发布70页综述，盘点大模型的16大挑战](https://mp.weixin.qq.com/s/Q9PGJK4Z7vyuYzjXVK9yCw)
+    - [2023-08-18，【【综述专栏】可信赖的大型语言模型](https://mp.weixin.qq.com/s/K3wWV6l7q_acKp2cEezakw)
   - 微信公众号「澎湃新闻」
     - [2023-05-17，莫言给余华写颁奖词，找ChatGPT帮忙](https://mp.weixin.qq.com/s/ym0w_1ftIw5BpPnGSDLsYg)
   - 微信公众号「宅码」
@@ -1240,6 +1261,7 @@
     - [2023-08-07，MetaGPT技术全解析：另一个AutoGPT，一个可以替代小型软件开发团队的LLM框架，产品经理、系统设计、代码实现一条龙](https://mp.weixin.qq.com/s/OteOLYsO6WoAjA1j3HMrbg) 
     - [2023-08-09，ChatGLM团队发布AI Agent能力评测工具AgentBench：GPT-4一骑绝尘，开源模型表现非常糟糕！](https://mp.weixin.qq.com/s/wUuAHsiZJmpCPn_3uvT4Aw) 
     - [2023-08-10，《流浪地球2》的数字生命计划可能快实现了！HeyGen即将发布下一代AI真人视频生成技术，效果逼真到无法几乎分辨！](https://mp.weixin.qq.com/s/70Fj9HCe3ruiI43WmMZLjQ) 
+    - [2023-08-16，国产大模型与全球最强大模型大比拼：语义理解、数学推理同台竞技，究竟谁更厉害~ ](https://mp.weixin.qq.com/s/lVQorSHWUmYjDK2MgVm9bg) 
   - 微信公众号「算法美食屋」
     - [2023-07-03，60分钟吃掉ChatGLM2-6b微调范例~](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w)       
     - [2023-07-08，单样本微调给ChatGLM2注入知识~](https://mp.weixin.qq.com/s/hANR9OVDVEZMMvK8uxtChA) 
@@ -1264,6 +1286,8 @@
     - [2023-08-16，原Langchain-ChatGLM项目正式发布v0.2.0版本](https://mp.weixin.qq.com/s/fBPEE34_EBf_2-RM4ZqAzg) 
     - [2023-08-16，Llama2模型的优化版本：Llama-2-Onnx](https://mp.weixin.qq.com/s/Z2nBkaIgtLIa8OEeFJP4jg) 
     - [2023-08-16，妙鸭相机开源版工具FaceChain](https://mp.weixin.qq.com/s/qF7WVqHpMN1zODTe_W8J7A) 
+    - [2023-08-18，仲景：首个实现从预训练到 RLHF 全流程训练的中文医疗大模型](https://mp.weixin.qq.com/s/Rhir7Il0NnsetzpX03Cjjw) 
+    - [2023-08-18，书生·万卷多模态语料库](https://mp.weixin.qq.com/s/spl-N87mySAkRpBoMIYPuA) 
   - 微信公众号「NewBeeNLP」
     - [2023-02-07，ChatGPT Prompt工程：设计、实践与思考](https://mp.weixin.qq.com/s/a8hjzZ_Rzl6pOU1PRAARJQ)   
     - [2023-07-19，谁才是真正的 OpenAI？更大更强的Llama 2来啦，可直接商用](https://mp.weixin.qq.com/s/2kN6hI17VpKEMgvK8iEqDg)   
@@ -1295,7 +1319,9 @@
     - [2023-07-05，GPT-Migrate：让你的项目轻松更换语言或框架](https://mp.weixin.qq.com/s/Cl5jvzoKe6kU7zeTi4plqA)   
     - [2023-07-09，让每个人都可以轻松、快速、廉价地使用vLLM进行服务](https://mp.weixin.qq.com/s/N1ursW7evovFsYKEc_x6NA)   
     - [2023-07-09，InternLM：强大的开源模型和弹性工作流程建设工具](https://mp.weixin.qq.com/s/OQLy7ZM81Cde0-Qba4sHMg) 
-    - [2023-07-19，deepspeed发布0.10.0，加入ZeRO++：降低4倍网络通信，显著提高大模型及类ChatGPT模型训练效率、](https://mp.weixin.qq.com/s/GWauayszfYWDV2pZr9Wf5g)   
+    - [2023-07-19，deepspeed发布0.10.0，加入ZeRO++：降低4倍网络通信，显著提高大模型及类ChatGPT模型训练效率](https://mp.weixin.qq.com/s/GWauayszfYWDV2pZr9Wf5g)   
+    - [2023-08-17，memochat: 将llms优化为使用备忘录以实现一致的长程对话](https://mp.weixin.qq.com/s/dkaXAxHTNLIAoFEwwL_ifg)   
+    - [2023-08-17，diaggpt: 基于大模型的多轮对话话题管理](https://mp.weixin.qq.com/s/cMYEp8J4SzU7yjGTF2TG9Q)   
   - 微信公众号「AI浪潮时代」
     - [2023-06-18，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（1/15）](https://mp.weixin.qq.com/s/T8A_FpFwOHHwsyvNggf7yA)   
     - [2023-06-20，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（2/15）](https://mp.weixin.qq.com/s/IaolSkSOFakF6eBJVEsFyA) 
@@ -1354,6 +1380,7 @@
     - [2023-08-15，Fooocus : 集Stable Diffusion 和 Midjourney 优点于一身的开源AI绘图软件](https://mp.weixin.qq.com/s/adyXek6xcz5aOPAGqZBrvg)  
     - [2023-08-16，OpenChat 大规模更新！](https://mp.weixin.qq.com/s/Xq8PLZ8CeSMZHFzD89by8A)  
     - [2023-08-16，FaceChain：三张照片打造个人数字替身！](https://mp.weixin.qq.com/s/y4FdOifwgSWjRmtRJI2mgw)  
+    - [2023-08-17，GPT-vup: Live2D数字人直播](https://mp.weixin.qq.com/s/A1NAsYQaxTuUUKZ_q2ahkQ)  
   - 微信公众号「山行AI」
     - [2023-06-17，基于LangChain的优秀项目资源库](https://mp.weixin.qq.com/s/G9aqBFzd5j8wVPTH160pZA)  
     - [2023-06-19，GPT4All——可本地布署的AI助理](https://mp.weixin.qq.com/s/KJRyAbUAxmNrcPcFJ3f-cw)  
@@ -1384,6 +1411,8 @@
     - [2023-07-07，OpenChat：性能高达105.7%，第一个超越ChatGPT的开源模型？](https://mp.weixin.qq.com/s/XUZOnOck6TUDBZnMqVj1_Q)
   - 微信公众号「智能车情报」
     - [2023-07-10，最新综述一览！自动驾驶中基于Transformer的模型和硬件加速分析](https://mp.weixin.qq.com/s/CLKkPeHjCESkE5qNvn7XBg)
+  - 微信公众号「智能车参考」
+    - [2023-08-18，芜湖起飞！两个安徽老乡握手，1700亿参数大模型上车，“超过ChatGPT！”](https://mp.weixin.qq.com/s/J6IHMf7THKJ9QTxsjG87lg)
   - 微信公众号「InfoQ」
     - [2023-07-11，OpenAI 宣布 GPT-4 API 全面开放使用！](https://mp.weixin.qq.com/s/caRvuREB_bxPa5GU4rkVMA)
   - 微信公众号「自然语言处理及深度学习」
@@ -1428,6 +1457,10 @@
     - [2023-08-02，ICCV 2023｜目标检测新突破！AlignDet：支持各类检测器完全自监督预训练的框架](https://mp.weixin.qq.com/s/t7jlTyUP6UxplpythX0dOw)
   - 微信公众号「EmacsTalk」
     - [2023-08-13，大模型入门指南](https://mp.weixin.qq.com/s/9nJ7g2mo7nOv4iGXT_CPNg)
+  - 微信公众号「深度学习初学者」
+    - [2023-08-18，决策树、随机森林、bagging、boosting、Adaboost、GBDT、XGBoost总结](https://mp.weixin.qq.com/s/OP_RM1Vl_PcIChCuuCaEXA)
+  - [知乎「猛猿」](https://www.zhihu.com/people/lemonround)
+    - [2023-02-25，ChatGPT技术解析系列之：GPT1、GPT2与GPT3](https://zhuanlan.zhihu.com/p/609367098?utm_id=0)
   - [bilibili](https://wallstreetcn.com/)
     - [2023-07-19，【官方教程】ChatGLM2-6B 部署与微调](https://www.bilibili.com/video/BV1D94y1i7Qp/?spm_id_from=333.999.0.0)   
   - [华尔街见闻](https://wallstreetcn.com/)
