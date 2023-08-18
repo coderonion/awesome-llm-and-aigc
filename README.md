@@ -46,7 +46,7 @@
     - [Adversarial Attack Field](#adversarial-attack-field)
     - [Multi-Agent Collaboration](#multi-agent-collaboration)
     - [Device Deployment](#device-deployment)
-    - [AI Character](#ai-character)
+    - [AI Avatar](#ai-avatar)
     - [GUI](#gui)
   - [Blogs](#blogs)
 
@@ -781,8 +781,8 @@
 
 
 
-  - ### AI Character
-    #### AI数字人
+  - ### AI Avatar
+    #### AI数字生命
 
     - [RealChar](https://github.com/Shaunwei/RealChar) <img src="https://img.shields.io/github/stars/Shaunwei/RealChar?style=social"/> : 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖 [RealChar.ai/](https://realchar.ai/)
 
