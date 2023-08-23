@@ -73,9 +73,9 @@
 
         - [GPT-4](https://openai.com/product/gpt-4): GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses. "Sparks of Artificial General Intelligence: Early experiments with GPT-4". (**[arXiv 2023](https://arxiv.org/abs/2303.12712)**). "GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE". (**[SemianAlysis, 2023](https://www.semianalysis.com/p/gpt-4-architecture-infrastructure)**).
 
-        - [Claude](https://www.anthropic.com/product) : Claude is a next-generation AI assistant based on Anthropic’s research into training helpful, honest, and harmless AI systems. 
+        - [Claude](https://www.anthropic.com/product) : Claude is a next-generation AI assistant based on Anthropic’s research into training helpful, honest, and harmless AI systems.
 
-        - [Llama 2](https://github.com/facebookresearch/llama) <img src="https://img.shields.io/github/stars/facebookresearch/llama?style=social"/> : Inference code for LLaMA models. "LLaMA: Open and Efficient Foundation Language Models". (**[arXiv 2023](https://arxiv.org/abs/2302.13971)**). "Llama 2: Open Foundation and Fine-Tuned Chat Models". (**[ai.meta.com, 2023-07-18](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)**). (**[2023-07-18, Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)**). 
+        - [Llama 2](https://github.com/facebookresearch/llama) <img src="https://img.shields.io/github/stars/facebookresearch/llama?style=social"/> : Inference code for LLaMA models. "LLaMA: Open and Efficient Foundation Language Models". (**[arXiv 2023](https://arxiv.org/abs/2302.13971)**). "Llama 2: Open Foundation and Fine-Tuned Chat Models". (**[ai.meta.com, 2023-07-18](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)**). (**[2023-07-18, Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)**).
 
         - [LangChain](https://github.com/hwchase17/langchain) <img src="https://img.shields.io/github/stars/hwchase17/langchain?style=social"/> :  🦜️🔗 LangChain.⚡ Building applications with LLMs through composability ⚡ [langchain-langchain.vercel.app](https://langchain-langchain.vercel.app/)
 
@@ -87,7 +87,7 @@
 
         - [LiteChain](https://github.com/rogeriochaves/litechain) <img src="https://img.shields.io/github/stars/rogeriochaves/litechain?style=social"/> : Build robust LLM applications with true composability 🔗. [rogeriochaves.github.io/litechain/](https://rogeriochaves.github.io/litechain/)
 
-        - [Whisper](https://github.com/openai/whisper) <img src="https://img.shields.io/github/stars/openai/whisper?style=social"/> : Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification. "Robust Speech Recognition via Large-Scale Weak Supervision". (**[arXiv 2022](https://arxiv.org/abs/2212.04356)**). 
+        - [Whisper](https://github.com/openai/whisper) <img src="https://img.shields.io/github/stars/openai/whisper?style=social"/> : Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification. "Robust Speech Recognition via Large-Scale Weak Supervision". (**[arXiv 2022](https://arxiv.org/abs/2212.04356)**).
 
         - [OpenChat](https://github.com/imoneoi/openchat) <img src="https://img.shields.io/github/stars/imoneoi/openchat?style=social"/> : OpenChat: Advancing Open-source Language Models with Imperfect Data. [huggingface.co/openchat/openchat](https://huggingface.co/openchat/openchat)
 
@@ -95,13 +95,13 @@
 
         - [StableLM](https://github.com/Stability-AI/StableLM) <img src="https://img.shields.io/github/stars/Stability-AI/StableLM?style=social"/> : StableLM: Stability AI Language Models.
 
-        - [JARVIS](https://github.com/microsoft/JARVIS) <img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social"/> : JARVIS, a system to connect LLMs with ML community. "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace". (**[arXiv 2023](https://arxiv.org/abs/2303.17580)**). 
+        - [JARVIS](https://github.com/microsoft/JARVIS) <img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social"/> : JARVIS, a system to connect LLMs with ML community. "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace". (**[arXiv 2023](https://arxiv.org/abs/2303.17580)**).
 
         - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) <img src="https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social"/> : MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models. [minigpt-4.github.io](https://minigpt-4.github.io/)
 
         - [minGPT](https://github.com/karpathy/minGPT) <img src="https://img.shields.io/github/stars/karpathy/minGPT?style=social"/> : A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training.
 
-        - [nanoGPT](https://github.com/karpathy/nanoGPT) <img src="https://img.shields.io/github/stars/karpathy/nanoGPT?style=social"/> : The simplest, fastest repository for training/finetuning medium-sized GPTs. 
+        - [nanoGPT](https://github.com/karpathy/nanoGPT) <img src="https://img.shields.io/github/stars/karpathy/nanoGPT?style=social"/> : The simplest, fastest repository for training/finetuning medium-sized GPTs.
 
         - [MicroGPT](https://github.com/muellerberndt/micro-gpt) <img src="https://img.shields.io/github/stars/muellerberndt/micro-gpt?style=social"/> : A simple and effective autonomous agent compatible with GPT-3.5-Turbo and GPT-4. MicroGPT aims to be as compact and reliable as possible.
 
@@ -111,14 +111,14 @@
 
         - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) <img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social"/> : OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. [open-assistant.io](https://open-assistant.io/)
 
-        - [Colossal-AI](https://github.com/hpcaitech/ColossalAI) <img src="https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social"/> : Making big AI models cheaper, easier, and scalable. [www.colossalai.org](www.colossalai.org). "Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training". (**[arXiv 2021](https://arxiv.org/abs/2110.14883)**). 
+        - [Colossal-AI](https://github.com/hpcaitech/ColossalAI) <img src="https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social"/> : Making big AI models cheaper, easier, and scalable. [www.colossalai.org](www.colossalai.org). "Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training". (**[arXiv 2021](https://arxiv.org/abs/2110.14883)**).
 
-        - [Lit-LLaMA](https://github.com/Lightning-AI/lit-llama) <img src="https://img.shields.io/github/stars/Lightning-AI/lit-llama?style=social"/> : ⚡ Lit-LLaMA. Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed. 
+        - [Lit-LLaMA](https://github.com/Lightning-AI/lit-llama) <img src="https://img.shields.io/github/stars/Lightning-AI/lit-llama?style=social"/> : ⚡ Lit-LLaMA. Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 
-        - [GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) <img src="https://img.shields.io/github/stars/Instruction-Tuning-with-GPT-4/GPT-4-LLM?style=social"/> : "Instruction Tuning with GPT-4". (**[arXiv 2023](https://arxiv.org/abs/2304.03277)**). [instruction-tuning-with-gpt-4.github.io/](https://instruction-tuning-with-gpt-4.github.io/) 
+        - [GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) <img src="https://img.shields.io/github/stars/Instruction-Tuning-with-GPT-4/GPT-4-LLM?style=social"/> : "Instruction Tuning with GPT-4". (**[arXiv 2023](https://arxiv.org/abs/2304.03277)**). [instruction-tuning-with-gpt-4.github.io/](https://instruction-tuning-with-gpt-4.github.io/)
 
         - [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) <img src="https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social"/> : Stanford Alpaca: An Instruction-following LLaMA Model.
-        
+
         - [feizc/Visual-LLaMA](https://github.com/feizc/Visual-LLaMA) <img src="https://img.shields.io/github/stars/feizc/Visual-LLaMA?style=social"/> : Open LLaMA Eyes to See the World. This project aims to optimize LLaMA model for visual information understanding like GPT-4 and further explore the potentional of large language model.
 
         - [Lightning-AI/lightning-colossalai](https://github.com/Lightning-AI/lightning-colossalai) <img src="https://img.shields.io/github/stars/Lightning-AI/lightning-colossalai?style=social"/> : Efficient Large-Scale Distributed Training with [Colossal-AI](https://colossalai.org/) and [Lightning AI](https://lightning.ai/).
@@ -135,13 +135,13 @@
 
         - [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) <img src="https://img.shields.io/github/stars/X-PLUG/mPLUG-Owl?style=social"/> : mPLUG-Owl🦉: Modularization Empowers Large Language Models with Multimodality.
 
-        - [i-Code](https://github.com/microsoft/i-Code) <img src="https://img.shields.io/github/stars/microsoft/i-Code?style=social"/> : The ambition of the i-Code project is to build integrative and composable multimodal Artificial Intelligence. The "i" stands for integrative multimodal learning. "CoDi: Any-to-Any Generation via Composable Diffusion". (**[arXiv 2023](https://arxiv.org/abs/2305.11846)**). 
+        - [i-Code](https://github.com/microsoft/i-Code) <img src="https://img.shields.io/github/stars/microsoft/i-Code?style=social"/> : The ambition of the i-Code project is to build integrative and composable multimodal Artificial Intelligence. The "i" stands for integrative multimodal learning. "CoDi: Any-to-Any Generation via Composable Diffusion". (**[arXiv 2023](https://arxiv.org/abs/2305.11846)**).
 
-        - [WorkGPT](https://github.com/h2oai/h2ogpt) <img src="https://img.shields.io/github/stars/h2oai/h2ogpt?style=social"/> : WorkGPT is an agent framework in a similar fashion to AutoGPT or LangChain. 
+        - [WorkGPT](https://github.com/h2oai/h2ogpt) <img src="https://img.shields.io/github/stars/h2oai/h2ogpt?style=social"/> : WorkGPT is an agent framework in a similar fashion to AutoGPT or LangChain.
 
-        - [h2oGPT](https://github.com/team-openpm/workgpt) <img src="https://img.shields.io/github/stars/team-openpm/workgpt?style=social"/> : h2oGPT is a large language model (LLM) fine-tuning framework and chatbot UI with document(s) question-answer capabilities. "h2oGPT: Democratizing Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2306.08161)**).  
+        - [h2oGPT](https://github.com/team-openpm/workgpt) <img src="https://img.shields.io/github/stars/team-openpm/workgpt?style=social"/> : h2oGPT is a large language model (LLM) fine-tuning framework and chatbot UI with document(s) question-answer capabilities. "h2oGPT: Democratizing Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2306.08161)**).
 
-        - [LongLLaMA ](https://github.com/CStanKonrad/long_llama) <img src="https://img.shields.io/github/stars/CStanKonrad/long_llama?style=social"/> : LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method. 
+        - [LongLLaMA ](https://github.com/CStanKonrad/long_llama) <img src="https://img.shields.io/github/stars/CStanKonrad/long_llama?style=social"/> : LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
 
         - [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) <img src="https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter?style=social"/> : Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters. LLaMA-Adapter: Efficient Fine-tuning of LLaMA 🚀
 
@@ -149,7 +149,7 @@
 
         - [Lamini](https://github.com/lamini-ai/lamini) <img src="https://img.shields.io/github/stars/lamini-ai/lamini?style=social"/> : Lamini: The LLM engine for rapidly customizing models 🦙
 
-        - [xorbitsai/inference](https://github.com/xorbitsai/inference) <img src="https://img.shields.io/github/stars/xorbitsai/inference?style=social"/> : Xorbits Inference (Xinference) is a powerful and versatile library designed to serve LLMs, speech recognition models, and multimodal models, even on your laptop. It supports a variety of models compatible with GGML, such as llama, chatglm, baichuan, whisper, vicuna, orac, and many others. 
+        - [xorbitsai/inference](https://github.com/xorbitsai/inference) <img src="https://img.shields.io/github/stars/xorbitsai/inference?style=social"/> : Xorbits Inference (Xinference) is a powerful and versatile library designed to serve LLMs, speech recognition models, and multimodal models, even on your laptop. It supports a variety of models compatible with GGML, such as llama, chatglm, baichuan, whisper, vicuna, orac, and many others.
 
         - [epfLLM/Megatron-LLM](https://github.com/epfLLM/Megatron-LLM) <img src="https://img.shields.io/github/stars/epfLLM/Megatron-LLM?style=social"/> : distributed trainer for LLMs.
 
@@ -163,13 +163,13 @@
 
 
 
-        - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型。 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**). 
+        - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型。 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**).
 
         - [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM2-6B?style=social"/> : ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型。ChatGLM2-6B 是开源中英双语对话模型 ChatGLM-6B 的第二代版本，在保留了初代模型对话流畅、部署门槛较低等众多优秀特性的基础之上，ChatGLM2-6B 引入了更强大的性能、更强大的性能、更高效的推理、更开放的协议。
 
         - [MOSS](https://github.com/OpenLMLab/MOSS) <img src="https://img.shields.io/github/stars/OpenLMLab/MOSS?style=social"/> : An open-source tool-augmented conversational language model from Fudan University. MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon系列模型具有160亿参数，在FP16精度下可在单张A100/A800或两张3090显卡运行，在INT4/8精度下可在单张3090显卡运行。MOSS基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。[txsun1997.github.io/blogs/moss.html](https://txsun1997.github.io/blogs/moss.html)
 
-        - [BayLing｜百聆](https://github.com/ictnlp/BayLing) <img src="https://img.shields.io/github/stars/OpenLMLab/MOSS?style=social"/> : “百聆”是一个具有增强的语言对齐的英语/中文大语言模型，具有优越的英语/中文能力，在多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction. [nlp.ict.ac.cn/bayling](http://nlp.ict.ac.cn/bayling). "BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2306.10968)**). 
+        - [BayLing｜百聆](https://github.com/ictnlp/BayLing) <img src="https://img.shields.io/github/stars/OpenLMLab/MOSS?style=social"/> : “百聆”是一个具有增强的语言对齐的英语/中文大语言模型，具有优越的英语/中文能力，在多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction. [nlp.ict.ac.cn/bayling](http://nlp.ict.ac.cn/bayling). "BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2306.10968)**).
 
         - [Baichuan-7B｜百川-7B](https://github.com/baichuan-inc/Baichuan-7B) <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-7B?style=social"/> : A large-scale 7B pretraining language model developed by BaiChuan-Inc. Baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型。基于 Transformer 结构，在大约 1.2 万亿 tokens 上训练的 70 亿参数模型，支持中英双语，上下文窗口长度为 4096。在标准的中文和英文 benchmark（C-Eval/MMLU）上均取得同尺寸最好的效果。[huggingface.co/baichuan-inc/baichuan-7B](https://huggingface.co/baichuan-inc/Baichuan-7B)
 
@@ -185,21 +185,21 @@
 
         - [活字](https://github.com/HIT-SCIR/huozi) <img src="https://img.shields.io/github/stars/HIT-SCIR/huozi?style=social"/> : 活字是由哈工大自然语言处理研究所多位老师和学生参与开发的一个开源可商用的大规模预训练语言模型。 该模型基于 Bloom 结构的70 亿参数模型，支持中英双语，上下文窗口长度为 2048。 在标准的中文和英文基准以及主观评测上均取得同尺寸中优异的结果。
 
-        - [Chinese LLaMA and Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) <img src="https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca?style=social"/> : 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)。"Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca". (**[arXiv 2023](https://arxiv.org/abs/2304.08177)**). 
+        - [Chinese LLaMA and Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) <img src="https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca?style=social"/> : 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)。"Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca". (**[arXiv 2023](https://arxiv.org/abs/2304.08177)**).
 
         - [Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) <img src="https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca-2?style=social"/> : 中文 LLaMA-2 & Alpaca-2 大模型二期项目 (Chinese LLaMA-2 & Alpaca-2 LLMs).
 
         - [FlagAlpha/Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) <img src="https://img.shields.io/github/stars/FlagAlpha/Llama2-Chinese?style=social"/> : Llama中文社区，最好的中文Llama大模型，完全开源可商用。
 
-        - [michael-wzhu/Chinese-LlaMA2](https://github.com/michael-wzhu/Chinese-LlaMA2) <img src="https://img.shields.io/github/stars/michael-wzhu/Chinese-LlaMA2?style=social"/> : Repo for adapting Meta LlaMA2 in Chinese! META最新发布的LlaMA2的汉化版！ （完全开源可商用）  
+        - [michael-wzhu/Chinese-LlaMA2](https://github.com/michael-wzhu/Chinese-LlaMA2) <img src="https://img.shields.io/github/stars/michael-wzhu/Chinese-LlaMA2?style=social"/> : Repo for adapting Meta LlaMA2 in Chinese! META最新发布的LlaMA2的汉化版！ （完全开源可商用）
 
         - [CPM-Bee](https://github.com/OpenBMB/CPM-Bee) <img src="https://img.shields.io/github/stars/OpenBMB/CPM-Bee?style=social"/> : CPM-Bee是一个完全开源、允许商用的百亿参数中英文基座模型，也是[CPM-Live](https://live.openbmb.org/)训练的第二个里程碑。
 
         - [PandaLM](https://github.com/WeOpenML/PandaLM) <img src="https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social"/> : PandaLM: Reproducible and Automated Language Model Assessment.
 
-        - [SpeechGPT](https://github.com/0nutation/SpeechGPT) <img src="https://img.shields.io/github/stars/0nutation/SpeechGPT?style=social"/> : "SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities". (**[arXiv 2023](https://arxiv.org/abs/2305.11000)**). 
+        - [SpeechGPT](https://github.com/0nutation/SpeechGPT) <img src="https://img.shields.io/github/stars/0nutation/SpeechGPT?style=social"/> : "SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities". (**[arXiv 2023](https://arxiv.org/abs/2305.11000)**).
 
-        - [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) <img src="https://img.shields.io/github/stars/Morizeyao/GPT2-Chinese?style=social"/> : Chinese version of GPT2 training code, using BERT tokenizer. 
+        - [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) <img src="https://img.shields.io/github/stars/Morizeyao/GPT2-Chinese?style=social"/> : Chinese version of GPT2 training code, using BERT tokenizer.
 
         - [QwenLM｜通义千问](https://github.com/QwenLM/Qwen-7B) <img src="https://img.shields.io/github/stars/QwenLM/Qwen-7B?style=social"/> : Qwen-7B is the 7B-parameter version of the large language model series, Qwen (abbr. Tongyi Qianwen), proposed by Alibaba Cloud. Qwen-7B is a Transformer-based large language model, which is pretrained on a large volume of data, including web texts, books, codes, etc. Additionally, based on the pretrained Qwen-7B, we release Qwen-7B-Chat, a large-model-based AI assistant, which is trained with alignment techniques. 通义千问-7B（Qwen-7B） 是阿里云研发的通义千问大模型系列的70亿参数规模的模型。Qwen-7B是基于Transformer的大语言模型, 在超大规模的预训练数据上进行训练得到。预训练数据类型多样，覆盖广泛，包括大量网络文本、专业书籍、代码等。同时，在Qwen-7B的基础上，我们使用对齐机制打造了基于大语言模型的AI助手Qwen-7B-Chat。[通义达模型](https://tongyi.aliyun.com/)
 
@@ -207,7 +207,7 @@
 
         - [百度智能云-千帆大模型](https://cloud.baidu.com/product/wenxinworkshop) : 百度智能云千帆大模型平台一站式企业级大模型平台，提供先进的生成式AI生产及应用全流程开发工具链。
 
-        - [华为云-盘古大模型](https://www.huaweicloud.com/product/pangu.html) : 盘古大模型致力于深耕行业，打造金融、政务、制造、矿山、气象、铁路等领域行业大模型和能力集，将行业知识know-how与大模型能力相结合，重塑千行百业，成为各组织、企业、个人的专家助手。"Accurate medium-range global weather forecasting with 3D neural networks". (**[Nature 2023](https://www.nature.com/articles/s41586-023-06185-3)**). 
+        - [华为云-盘古大模型](https://www.huaweicloud.com/product/pangu.html) : 盘古大模型致力于深耕行业，打造金融、政务、制造、矿山、气象、铁路等领域行业大模型和能力集，将行业知识know-how与大模型能力相结合，重塑千行百业，成为各组织、企业、个人的专家助手。"Accurate medium-range global weather forecasting with 3D neural networks". (**[Nature 2023](https://www.nature.com/articles/s41586-023-06185-3)**).
 
         - [商汤科技-日日新SenseNova](https://techday.sensetime.com/?utm_source=baidu-sem-pc&utm_medium=cpc&utm_campaign=PC-%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%97%A5-%E4%BA%A7%E5%93%81%E8%AF%8D-%E6%97%A5%E6%97%A5%E6%96%B0&utm_content=%E6%97%A5%E6%97%A5%E6%96%B0&utm_term=%E6%97%A5%E6%97%A5%E6%96%B0SenseNova&e_creative=73937788324&e_keywordid=594802524403) : 日日新（SenseNova），是商汤科技宣布推出的大模型体系，包括自然语言处理模型“商量”（SenseChat）、文生图模型“秒画”和数字人视频生成平台“如影”（SenseAvatar）等。
 
@@ -223,59 +223,59 @@
       - ##### Vision Foundation Model
         ###### 视觉大模型（VFM）
 
-        - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) <img src="https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social"/> : Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models". (**[arXiv 2023](https://arxiv.org/abs/2303.04671)**). 
+        - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) <img src="https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social"/> : Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models". (**[arXiv 2023](https://arxiv.org/abs/2303.04671)**).
 
-        - [InternImage](https://github.com/OpenGVLab/InternImage) <img src="https://img.shields.io/github/stars/OpenGVLab/InternImage?style=social"/> : "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions". (**[CVPR 2023](https://arxiv.org/abs/2211.05778)**). 
+        - [InternImage](https://github.com/OpenGVLab/InternImage) <img src="https://img.shields.io/github/stars/OpenGVLab/InternImage?style=social"/> : "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions". (**[CVPR 2023](https://arxiv.org/abs/2211.05778)**).
 
-        - [GLIP](https://github.com/microsoft/GLIP) <img src="https://img.shields.io/github/stars/microsoft/GLIP?style=social"/> : "Grounded Language-Image Pre-training". (**[CVPR 2022](https://arxiv.org/abs/2112.03857)**). 
+        - [GLIP](https://github.com/microsoft/GLIP) <img src="https://img.shields.io/github/stars/microsoft/GLIP?style=social"/> : "Grounded Language-Image Pre-training". (**[CVPR 2022](https://arxiv.org/abs/2112.03857)**).
 
-        - [GLIPv2](https://github.com/microsoft/GLIP) <img src="https://img.shields.io/github/stars/microsoft/GLIP?style=social"/> : "GLIPv2: Unifying Localization and Vision-Language Understanding". (**[arXiv 2022](https://arxiv.org/abs/2206.05836)**). 
+        - [GLIPv2](https://github.com/microsoft/GLIP) <img src="https://img.shields.io/github/stars/microsoft/GLIP?style=social"/> : "GLIPv2: Unifying Localization and Vision-Language Understanding". (**[arXiv 2022](https://arxiv.org/abs/2206.05836)**).
 
-        - [DINO](https://github.com/IDEA-Research/DINO) <img src="https://img.shields.io/github/stars/IDEA-Research/DINO?style=social"/> : "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection". (**[ICLR 2023](https://arxiv.org/abs/2203.03605)**). 
+        - [DINO](https://github.com/IDEA-Research/DINO) <img src="https://img.shields.io/github/stars/IDEA-Research/DINO?style=social"/> : "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection". (**[ICLR 2023](https://arxiv.org/abs/2203.03605)**).
 
-        - [DINOv2](https://github.com/facebookresearch/dinov2) <img src="https://img.shields.io/github/stars/facebookresearch/dinov2?style=social"/> : "DINOv2: Learning Robust Visual Features without Supervision". (**[arXiv 2023](https://arxiv.org/abs/2304.07193)**). 
+        - [DINOv2](https://github.com/facebookresearch/dinov2) <img src="https://img.shields.io/github/stars/facebookresearch/dinov2?style=social"/> : "DINOv2: Learning Robust Visual Features without Supervision". (**[arXiv 2023](https://arxiv.org/abs/2304.07193)**).
 
         - [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[arXiv 2023](https://arxiv.org/abs/2303.05499)**). "知乎「三分钟热度」《[十分钟解读Grounding DINO-根据文字提示检测任意目标](https://zhuanlan.zhihu.com/p/627646794)》"。
 
-        - [SAM](https://github.com/facebookresearch/segment-anything) <img src="https://img.shields.io/github/stars/facebookresearch/segment-anything?style=social"/> : The repository provides code for running inference with the Segment Anything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. "Segment Anything". (**[arXiv 2023](https://arxiv.org/abs/2304.02643)**). 
+        - [SAM](https://github.com/facebookresearch/segment-anything) <img src="https://img.shields.io/github/stars/facebookresearch/segment-anything?style=social"/> : The repository provides code for running inference with the Segment Anything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. "Segment Anything". (**[arXiv 2023](https://arxiv.org/abs/2304.02643)**).
 
         - [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything) <img src="https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything?style=social"/> : Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs. We plan to create a very interesting demo by combining [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) and [Segment Anything](https://github.com/facebookresearch/segment-anything) which aims to detect and segment Anything with text inputs!
 
-        - [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) <img src="https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once?style=social"/> : We introduce SEEM that can Segment Everything Everywhere with Multi-modal prompts all at once. SEEM allows users to easily segment an image using prompts of different types including visual prompts (points, marks, boxes, scribbles and image segments) and language prompts (text and audio), etc. It can also work with any combinations of prompts or generalize to custom prompts! "Segment Everything Everywhere All at Once". (**[arXiv 2023](https://arxiv.org/abs/2304.06718)**). 
+        - [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) <img src="https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once?style=social"/> : We introduce SEEM that can Segment Everything Everywhere with Multi-modal prompts all at once. SEEM allows users to easily segment an image using prompts of different types including visual prompts (points, marks, boxes, scribbles and image segments) and language prompts (text and audio), etc. It can also work with any combinations of prompts or generalize to custom prompts! "Segment Everything Everywhere All at Once". (**[arXiv 2023](https://arxiv.org/abs/2304.06718)**).
 
-        - [SAM3D](https://github.com/DYZhang09/SAM3D) <img src="https://img.shields.io/github/stars/DYZhang09/SAM3D?style=social"/> : "SAM3D: Zero-Shot 3D Object Detection via [Segment Anything](https://github.com/facebookresearch/segment-anything) Model". (**[arXiv 2023](https://arxiv.org/abs/2306.02245)**). 
+        - [SAM3D](https://github.com/DYZhang09/SAM3D) <img src="https://img.shields.io/github/stars/DYZhang09/SAM3D?style=social"/> : "SAM3D: Zero-Shot 3D Object Detection via [Segment Anything](https://github.com/facebookresearch/segment-anything) Model". (**[arXiv 2023](https://arxiv.org/abs/2306.02245)**).
 
-        - [ImageBind](https://github.com/facebookresearch/ImageBind) <img src="https://img.shields.io/github/stars/facebookresearch/ImageBind?style=social"/> : "ImageBind: One Embedding Space To Bind Them All". (**[CVPR 2023](https://arxiv.org/abs/2305.05665)**).  
+        - [ImageBind](https://github.com/facebookresearch/ImageBind) <img src="https://img.shields.io/github/stars/facebookresearch/ImageBind?style=social"/> : "ImageBind: One Embedding Space To Bind Them All". (**[CVPR 2023](https://arxiv.org/abs/2305.05665)**).
 
-        - [Track-Anything](https://github.com/gaomingqi/Track-Anything) <img src="https://img.shields.io/github/stars/gaomingqi/Track-Anything?style=social"/> : Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI. "Track Anything: Segment Anything Meets Videos". (**[arXiv 2023](https://arxiv.org/abs/2304.11968)**). 
+        - [Track-Anything](https://github.com/gaomingqi/Track-Anything) <img src="https://img.shields.io/github/stars/gaomingqi/Track-Anything?style=social"/> : Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI. "Track Anything: Segment Anything Meets Videos". (**[arXiv 2023](https://arxiv.org/abs/2304.11968)**).
 
-        - [qianqianwang68/omnimotion](https://github.com/qianqianwang68/omnimotion) <img src="https://img.shields.io/github/stars/qianqianwang68/omnimotion?style=social"/> : "Tracking Everything Everywhere All at Once". (**[arXiv 2023](https://arxiv.org/abs/2306.05422)**). 
+        - [qianqianwang68/omnimotion](https://github.com/qianqianwang68/omnimotion) <img src="https://img.shields.io/github/stars/qianqianwang68/omnimotion?style=social"/> : "Tracking Everything Everywhere All at Once". (**[arXiv 2023](https://arxiv.org/abs/2306.05422)**).
 
-        - [LLaVA](https://github.com/haotian-liu/LLaVA) <img src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social"/> : 🌋 LLaVA: Large Language and Vision Assistant. Visual instruction tuning towards large language and vision models with GPT-4 level capabilities. [llava.hliu.cc](https://llava.hliu.cc/). "Visual Instruction Tuning". (**[arXiv 2023](https://arxiv.org/abs/2304.08485)**). 
+        - [LLaVA](https://github.com/haotian-liu/LLaVA) <img src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social"/> : 🌋 LLaVA: Large Language and Vision Assistant. Visual instruction tuning towards large language and vision models with GPT-4 level capabilities. [llava.hliu.cc](https://llava.hliu.cc/). "Visual Instruction Tuning". (**[arXiv 2023](https://arxiv.org/abs/2304.08485)**).
 
-        - [M3I-Pretraining](https://github.com/OpenGVLab/M3I-Pretraining) <img src="https://img.shields.io/github/stars/OpenGVLab/M3I-Pretraining?style=social"/> : "Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information". (**[arXiv 2022](https://arxiv.org/abs/2211.09807)**). 
+        - [M3I-Pretraining](https://github.com/OpenGVLab/M3I-Pretraining) <img src="https://img.shields.io/github/stars/OpenGVLab/M3I-Pretraining?style=social"/> : "Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information". (**[arXiv 2022](https://arxiv.org/abs/2211.09807)**).
 
-        - [BEVFormer](https://github.com/fundamentalvision/BEVFormer) <img src="https://img.shields.io/github/stars/fundamentalvision/BEVFormer?style=social"/> : BEVFormer: a Cutting-edge Baseline for Camera-based Detection. "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers". (**[arXiv 2022](https://arxiv.org/abs/2203.17270)**). 
+        - [BEVFormer](https://github.com/fundamentalvision/BEVFormer) <img src="https://img.shields.io/github/stars/fundamentalvision/BEVFormer?style=social"/> : BEVFormer: a Cutting-edge Baseline for Camera-based Detection. "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers". (**[arXiv 2022](https://arxiv.org/abs/2203.17270)**).
 
-        - [Uni-Perceiver](https://github.com/fundamentalvision/Uni-Perceiver) <img src="https://img.shields.io/github/stars/fundamentalvision/Uni-Perceiver?style=social"/> : "Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Uni-Perceiver_Pre-Training_Unified_Architecture_for_Generic_Perception_for_Zero-Shot_and_CVPR_2022_paper.html)**). 
+        - [Uni-Perceiver](https://github.com/fundamentalvision/Uni-Perceiver) <img src="https://img.shields.io/github/stars/fundamentalvision/Uni-Perceiver?style=social"/> : "Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Uni-Perceiver_Pre-Training_Unified_Architecture_for_Generic_Perception_for_Zero-Shot_and_CVPR_2022_paper.html)**).
 
         - [AnyLabeling](https://github.com/vietanhdev/anylabeling) <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : 🌟 AnyLabeling 🌟. Effortless data labeling with AI support from YOLO and Segment Anything! Effortless data labeling with AI support from YOLO and Segment Anything!
 
         - [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) <img src="https://img.shields.io/github/stars/CVHub520/X-AnyLabeling?style=social"/> : 💫 X-AnyLabeling 💫. Effortless data labeling with AI support from Segment Anything and other awesome models!
 
-        - [Label Anything](https://github.com/open-mmlab/playground/tree/main/label_anything) <img src="https://img.shields.io/github/stars/open-mmlab/playground?style=social"/> : OpenMMLab PlayGround: Semi-Automated Annotation with Label-Studio and SAM. 
+        - [Label Anything](https://github.com/open-mmlab/playground/tree/main/label_anything) <img src="https://img.shields.io/github/stars/open-mmlab/playground?style=social"/> : OpenMMLab PlayGround: Semi-Automated Annotation with Label-Studio and SAM.
 
-        - [RevCol](https://github.com/megvii-research/RevCol) <img src="https://img.shields.io/github/stars/megvii-research/RevCol?style=social"/> : "Reversible Column Networks". (**[arXiv 2023](https://arxiv.org/abs/2212.11696)**). 
+        - [RevCol](https://github.com/megvii-research/RevCol) <img src="https://img.shields.io/github/stars/megvii-research/RevCol?style=social"/> : "Reversible Column Networks". (**[arXiv 2023](https://arxiv.org/abs/2212.11696)**).
 
         - [Macaw-LLM](https://github.com/lyuchenyang/Macaw-LLM) <img src="https://img.shields.io/github/stars/lyuchenyang/Macaw-LLM?style=social"/> : Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration.
 
-        - [SAM-PT](https://github.com/SysCV/sam-pt) <img src="https://img.shields.io/github/stars/SysCV/sam-pt?style=social"/> : SAM-PT: Extending SAM to zero-shot video segmentation with point-based tracking. "Segment Anything Meets Point Tracking". (**[arXiv 2023](https://arxiv.org/abs/2307.01197)**).  
+        - [SAM-PT](https://github.com/SysCV/sam-pt) <img src="https://img.shields.io/github/stars/SysCV/sam-pt?style=social"/> : SAM-PT: Extending SAM to zero-shot video segmentation with point-based tracking. "Segment Anything Meets Point Tracking". (**[arXiv 2023](https://arxiv.org/abs/2307.01197)**).
 
-        - [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) <img src="https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA?style=social"/> : "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding". (**[arXiv 2023](https://arxiv.org/abs/2306.02858)**).   
+        - [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) <img src="https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA?style=social"/> : "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding". (**[arXiv 2023](https://arxiv.org/abs/2306.02858)**).
 
-        - [MobileSAM](https://github.com/ChaoningZhang/MobileSAM) <img src="https://img.shields.io/github/stars/ChaoningZhang/MobileSAM?style=social"/> : "Faster Segment Anything: Towards Lightweight SAM for Mobile Applications". (**[arXiv 2023](https://arxiv.org/abs/2306.14289)**).   
+        - [MobileSAM](https://github.com/ChaoningZhang/MobileSAM) <img src="https://img.shields.io/github/stars/ChaoningZhang/MobileSAM?style=social"/> : "Faster Segment Anything: Towards Lightweight SAM for Mobile Applications". (**[arXiv 2023](https://arxiv.org/abs/2306.14289)**).
 
-        - [BuboGPT](https://github.com/magic-research/bubogpt) <img src="https://img.shields.io/github/stars/magic-research/bubogpt?style=social"/> : "BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs". (**[arXiv 2023](https://arxiv.org/abs/2307.08581)**).   
+        - [BuboGPT](https://github.com/magic-research/bubogpt) <img src="https://img.shields.io/github/stars/magic-research/bubogpt?style=social"/> : "BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs". (**[arXiv 2023](https://arxiv.org/abs/2307.08581)**).
 
 
 
@@ -288,31 +288,31 @@
       - ##### AI Generated Content
         ###### 人工智能生成内容（AIGC）
 
-        - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) <img src="https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social"/> : Stable Diffusion is a latent text-to-image diffusion model. Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**). 
+        - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) <img src="https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social"/> : Stable Diffusion is a latent text-to-image diffusion model. Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**).
 
-        - [Stable Diffusion Version 2](https://github.com/Stability-AI/stablediffusion) <img src="https://img.shields.io/github/stars/Stability-AI/stablediffusion?style=social"/> : This repository contains [Stable Diffusion](https://github.com/CompVis/stable-diffusion) models trained from scratch and will be continuously updated with new checkpoints. "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**). 
+        - [Stable Diffusion Version 2](https://github.com/Stability-AI/stablediffusion) <img src="https://img.shields.io/github/stars/Stability-AI/stablediffusion?style=social"/> : This repository contains [Stable Diffusion](https://github.com/CompVis/stable-diffusion) models trained from scratch and will be continuously updated with new checkpoints. "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**).
 
         - [StableStudio](https://github.com/Stability-AI/StableStudio) <img src="https://img.shields.io/github/stars/Stability-AI/StableStudio?style=social"/> : StableStudio by [Stability AI](https://stability.ai/). 👋 Welcome to the community repository for StableStudio, the open-source version of [DreamStudio](https://dreamstudio.ai/).
 
-        - [AudioCraft](https://github.com/facebookresearch/audiocraft) <img src="https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social"/> : Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. 
+        - [AudioCraft](https://github.com/facebookresearch/audiocraft) <img src="https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social"/> : Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 
         - [InvokeAI](https://github.com/invoke-ai/InvokeAI) <img src="https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social"/> : Invoke AI - Generative AI for Professional Creatives. Professional Creative Tools for Stable Diffusion, Custom-Trained Models, and more. [invoke-ai.github.io/InvokeAI/](https://invoke-ai.github.io/InvokeAI/)
 
-        - [DragGAN](https://github.com/XingangPan/DragGAN) <img src="https://img.shields.io/github/stars/XingangPan/DragGAN?style=social"/> : "Stable Diffusion Training with MosaicML. This repo contains code used to train your own Stable Diffusion model on your own data". (**[SIGGRAPH 2023](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)**).          
-      
+        - [DragGAN](https://github.com/XingangPan/DragGAN) <img src="https://img.shields.io/github/stars/XingangPan/DragGAN?style=social"/> : "Stable Diffusion Training with MosaicML. This repo contains code used to train your own Stable Diffusion model on your own data". (**[SIGGRAPH 2023](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)**).
+
         - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) <img src="https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social"/> : AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.
 
         - [PandasAI](https://github.com/gventuri/pandas-ai) <img src="https://img.shields.io/github/stars/gventuri/pandas-ai?style=social"/> : Pandas AI is a Python library that adds generative artificial intelligence capabilities to Pandas, the popular data analysis and manipulation tool. It is designed to be used in conjunction with Pandas, and is not a replacement for it.
 
         - [mosaicml/diffusion](https://github.com/mosaicml/diffusion) <img src="https://img.shields.io/github/stars/mosaicml/diffusion?style=social"/> : Stable Diffusion Training with MosaicML. This repo contains code used to train your own Stable Diffusion model on your own data.
 
-        - [VisorGPT](https://github.com/Sierkinhane/VisorGPT) <img src="https://img.shields.io/github/stars/Sierkinhane/VisorGPT?style=social"/> : Customize spatial layouts for conditional image synthesis models, e.g., ControlNet, using GPT. "VisorGPT: Learning Visual Prior via Generative Pre-Training". (**[arXiv 2023](https://arxiv.org/abs/2305.13777)**).  
+        - [VisorGPT](https://github.com/Sierkinhane/VisorGPT) <img src="https://img.shields.io/github/stars/Sierkinhane/VisorGPT?style=social"/> : Customize spatial layouts for conditional image synthesis models, e.g., ControlNet, using GPT. "VisorGPT: Learning Visual Prior via Generative Pre-Training". (**[arXiv 2023](https://arxiv.org/abs/2305.13777)**).
 
-        - [ControlNet](https://github.com/lllyasviel/ControlNet) <img src="https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social"/> : Let us control diffusion models! "Adding Conditional Control to Text-to-Image Diffusion Models". (**[arXiv 2023](https://arxiv.org/abs/2302.05543)**).  
+        - [ControlNet](https://github.com/lllyasviel/ControlNet) <img src="https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social"/> : Let us control diffusion models! "Adding Conditional Control to Text-to-Image Diffusion Models". (**[arXiv 2023](https://arxiv.org/abs/2302.05543)**).
 
-        - [Fooocus](https://github.com/lllyasviel/Fooocus) <img src="https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social"/> : Fooocus is an image generating software. Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs. "微信公众号「GitHubStore」《[Fooocus : 集Stable Diffusion 和 Midjourney 优点于一身的开源AI绘图软件](https://mp.weixin.qq.com/s/adyXek6xcz5aOPAGqZBrvg)》"。   
+        - [Fooocus](https://github.com/lllyasviel/Fooocus) <img src="https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social"/> : Fooocus is an image generating software. Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs. "微信公众号「GitHubStore」《[Fooocus : 集Stable Diffusion 和 Midjourney 优点于一身的开源AI绘图软件](https://mp.weixin.qq.com/s/adyXek6xcz5aOPAGqZBrvg)》"。
 
-        - [MindDiffuser](https://github.com/ReedOnePeck/MindDiffuser) <img src="https://img.shields.io/github/stars/ReedOnePeck/MindDiffuser?style=social"/> : "MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion". (**[arXiv 2023](https://arxiv.org/abs/2308.04249)**).  
+        - [MindDiffuser](https://github.com/ReedOnePeck/MindDiffuser) <img src="https://img.shields.io/github/stars/ReedOnePeck/MindDiffuser?style=social"/> : "MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion". (**[arXiv 2023](https://arxiv.org/abs/2308.04249)**).
 
 
 
@@ -359,7 +359,7 @@
 
       - [Const-me/Whisper](https://github.com/Const-me/Whisper) <img src="https://img.shields.io/github/stars/Const-me/Whisper?style=social"/> : High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model.
 
-      - [wangzhaode/ChatGLM-MNN](https://github.com/wangzhaode/ChatGLM-MNN) <img src="https://img.shields.io/github/stars/wangzhaode/ChatGLM-MNN?style=social"/> : Pure C++, Easy Deploy ChatGLM-6B. 
+      - [wangzhaode/ChatGLM-MNN](https://github.com/wangzhaode/ChatGLM-MNN) <img src="https://img.shields.io/github/stars/wangzhaode/ChatGLM-MNN?style=social"/> : Pure C++, Easy Deploy ChatGLM-6B.
 
       - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) <img src="https://img.shields.io/github/stars/ztxz16/fastllm?style=social"/> : 纯c++实现，无第三方依赖的大模型库，支持CUDA加速，目前支持国产大模型ChatGLM-6B，MOSS; 可以在安卓设备上流畅运行ChatGLM-6B。
 
@@ -379,7 +379,7 @@
 
       - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
 
-      - [llama2.rs](https://github.com/gaxler/llama2.rs) <img src="https://img.shields.io/github/stars/gaxler/llama2.rs?style=social"/> : Inference Llama 2 in one file of pure Rust 🦀 
+      - [llama2.rs](https://github.com/gaxler/llama2.rs) <img src="https://img.shields.io/github/stars/gaxler/llama2.rs?style=social"/> : Inference Llama 2 in one file of pure Rust 🦀
 
       - [Llama2-burn](https://github.com/Gadersd/llama2-burn) <img src="https://img.shields.io/github/stars/Gadersd/llama2-burn?style=social"/> : Llama2 LLM ported to Rust burn.
 
@@ -387,7 +387,7 @@
 
       - [stable-diffusion-burn](https://github.com/Gadersd/stable-diffusion-burn) <img src="https://img.shields.io/github/stars/Gadersd/stable-diffusion-burn?style=social"/> : Stable Diffusion v1.4 ported to Rust's burn framework.
 
-      - [coreylowman/llama-dfdx](https://github.com/coreylowman/llama-dfdx) <img src="https://img.shields.io/github/stars/coreylowman/llama-dfdx?style=social"/> : [LLaMa 7b](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) with CUDA acceleration implemented in rust. Minimal GPU memory needed! 
+      - [coreylowman/llama-dfdx](https://github.com/coreylowman/llama-dfdx) <img src="https://img.shields.io/github/stars/coreylowman/llama-dfdx?style=social"/> : [LLaMa 7b](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) with CUDA acceleration implemented in rust. Minimal GPU memory needed!
 
       - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) <img src="https://img.shields.io/github/stars/tazz4843/whisper-rs?style=social"/> : Rust bindings to [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
 
@@ -401,7 +401,7 @@
 
       - [Noeda/rllama](https://github.com/Noeda/rllama) <img src="https://img.shields.io/github/stars/Noeda/rllama?style=social"/> : Rust+OpenCL+AVX2 implementation of LLaMA inference code.
 
-      - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) <img src="https://img.shields.io/github/stars/Cormanz/smartgpt?style=social"/> : A program that provides LLMs with the ability to complete complex tasks using plugins. 
+      - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) <img src="https://img.shields.io/github/stars/Cormanz/smartgpt?style=social"/> : A program that provides LLMs with the ability to complete complex tasks using plugins.
 
       - [femtoGPT](https://github.com/keyvank/femtoGPT) <img src="https://img.shields.io/github/stars/keyvank/femtoGPT?style=social"/> : femtoGPT is a pure Rust implementation of a minimal Generative Pretrained Transformer. [discord.gg/wTJFaDVn45](https://github.com/keyvank/femtoGPT)
 
@@ -415,17 +415,17 @@
 
     - #### Zig Implementation
 
-      - [llama2.zig](https://github.com/cgbur/llama2.zig) <img src="https://img.shields.io/github/stars/cgbur/llama2.zig?style=social"/> : Inference Llama 2 in one file of pure Zig. 
+      - [llama2.zig](https://github.com/cgbur/llama2.zig) <img src="https://img.shields.io/github/stars/cgbur/llama2.zig?style=social"/> : Inference Llama 2 in one file of pure Zig.
 
       - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) <img src="https://img.shields.io/github/stars/renerocksai/gpt4all.zig?style=social"/> : ZIG build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa.
 
-      - [EugenHotaj/zig_inference](https://github.com/EugenHotaj/zig_inference) <img src="https://img.shields.io/github/stars/EugenHotaj/zig_inference?style=social"/> : Neural Network Inference Engine in Zig.  
+      - [EugenHotaj/zig_inference](https://github.com/EugenHotaj/zig_inference) <img src="https://img.shields.io/github/stars/EugenHotaj/zig_inference?style=social"/> : Neural Network Inference Engine in Zig.
 
 
 
 
     - #### Go Implementation
-    
+
       - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) <img src="https://img.shields.io/github/stars/go-skynet/LocalAI?style=social"/> : 🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other. [localai.io](https://localai.io/)
 
 
@@ -437,19 +437,19 @@
 
     - [xx025/carrot](https://github.com/xx025/carrot) <img src="https://img.shields.io/github/stars/xx025/carrot?style=social"/> : Free ChatGPT Site List. [cc.ai55.cc](https://cc.ai55.cc/)
 
-    - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) <img src="https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social"/> : 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
+    - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) <img src="https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social"/> : 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
     - [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) <img src="https://img.shields.io/github/stars/lzwme/chatgpt-sites?style=social"/> : 搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新。[lzw.me/x/chatgpt-sites/](https://lzw.me/x/chatgpt-sites/)
 
     - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) <img src="https://img.shields.io/github/stars/eugeneyan/open-llms?style=social"/> : 📋 A list of open LLMs available for commercial use.
 
-    - [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt) <img src="https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social"/> : A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.  
+    - [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt) <img src="https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social"/> : A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
 
     - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) <img src="https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social"/> : Awesome-LLM: a curated list of Large Language Model.
 
-    - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) <img src="https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?style=social"/> : 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 
+    - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) <img src="https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?style=social"/> : 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 
-    - [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) <img src="https://img.shields.io/github/stars/cedrickchee/awesome-transformer-nlp?style=social"/> : A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning. 
+    - [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) <img src="https://img.shields.io/github/stars/cedrickchee/awesome-transformer-nlp?style=social"/> : A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
 
     - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) <img src="https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social"/> : A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites.
 
@@ -459,27 +459,27 @@
 
     - [csbl-br/awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt) <img src="https://img.shields.io/github/stars/csbl-br/awesome-compbio-chatgpt?style=social"/> : An awesome repository of community-curated applications of ChatGPT and other LLMs in computational biology!
 
-    - [atfortes/LLM-Reasoning-Papers](https://github.com/atfortes/LLM-Reasoning-Papers) <img src="https://img.shields.io/github/stars/atfortes/LLM-Reasoning-Papers?style=social"/> : Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others. 
+    - [atfortes/LLM-Reasoning-Papers](https://github.com/atfortes/LLM-Reasoning-Papers) <img src="https://img.shields.io/github/stars/atfortes/LLM-Reasoning-Papers?style=social"/> : Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others.
 
     - [yzfly/Awesome-AGI](https://github.com/yzfly/Awesome-AGI) <img src="https://img.shields.io/github/stars/yzfly/Awesome-AGI?style=social"/> : A curated list of awesome AGI frameworks, software and resources.
 
     - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) <img src="https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social"/> : A curated list of modern Generative Artificial Intelligence projects and services.
 
-    - [wshzd/Awesome-AIGC](https://github.com/wshzd/Awesome-AIGC) <img src="https://img.shields.io/github/stars/wshzd/Awesome-AIGC?style=social"/> : AIGC资料汇总学习，持续更新...... 
+    - [wshzd/Awesome-AIGC](https://github.com/wshzd/Awesome-AIGC) <img src="https://img.shields.io/github/stars/wshzd/Awesome-AIGC?style=social"/> : AIGC资料汇总学习，持续更新......
 
-    - [doanbactam/awesome-stable-diffusion](https://github.com/doanbactam/awesome-stable-diffusion) <img src="https://img.shields.io/github/stars/doanbactam/awesome-stable-diffusion?style=social"/> : A curated list of awesome stable diffusion resources 🌟 
+    - [doanbactam/awesome-stable-diffusion](https://github.com/doanbactam/awesome-stable-diffusion) <img src="https://img.shields.io/github/stars/doanbactam/awesome-stable-diffusion?style=social"/> : A curated list of awesome stable diffusion resources 🌟
 
-    - [Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) <img src="https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image?style=social"/> : (ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis. 
+    - [Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) <img src="https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image?style=social"/> : (ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.
 
     - [SeedV/generative-ai-roadmap](https://github.com/SeedV/generative-ai-roadmap) <img src="https://img.shields.io/github/stars/SeedV/generative-ai-roadmap?style=social"/> : 生成式AI的应用路线图 The roadmap of generative AI: use cases and applications.
 
-    
+
 
 
   - ### Paper Overview
 
     - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) <img src="https://img.shields.io/github/stars/RUCAIBox/LLMSurvey?style=social"/> : The official GitHub page for the survey paper "A Survey of Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2303.18223)**). " 微信公众号「RUC AI Box」《[大模型综述升级啦](https://mp.weixin.qq.com/s/9YMUSSrGLSBKMFY3JYlaoQ)》"。
- 
+
     - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) <img src="https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social"/> : ✨✨Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. "A Survey on Multimodal Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2306.13549)**). " 微信公众号「我爱计算机视觉」《[中科大腾讯发布首篇《多模态大语言模型综述》](https://mp.weixin.qq.com/s/IiPZWEVdAJ4xrlgyWtDwng)》"。
 
     - [daochenzha/data-centric-AI](https://github.com/daochenzha/data-centric-AI) <img src="https://img.shields.io/github/stars/daochenzha/data-centric-AI?style=social"/> : A curated, but incomplete, list of data-centric AI resources. "Data-centric Artificial Intelligence: A Survey". (**[arXiv 2023](https://arxiv.org/abs/2303.10158)**).
@@ -501,11 +501,11 @@
 
     - [cystanford/aigc_LLM_engineering](https://github.com/cystanford/aigc_LLM_engineering) <img src="https://img.shields.io/github/stars/cystanford/aigc_LLM_engineering?style=social"/> :  aigc_LLM_engineering.
 
-    - [km1994/LLMsNineStoryDemonTower](https://github.com/km1994/LLMsNineStoryDemonTower) <img src="https://img.shields.io/github/stars/km1994/LLMsNineStoryDemonTower?style=social"/> :  【LLMs九层妖塔】分享 LLMs在自然语言处理（ChatGLM、Chinese-LLaMA-Alpaca、小羊驼 Vicuna、LLaMA、GPT4ALL等）、信息检索（langchain）、语言合成、语言识别、多模态等领域（Stable Diffusion、MiniGPT-4、VisualGLM-6B、Ziya-Visual等）等 实战与经验。 
+    - [km1994/LLMsNineStoryDemonTower](https://github.com/km1994/LLMsNineStoryDemonTower) <img src="https://img.shields.io/github/stars/km1994/LLMsNineStoryDemonTower?style=social"/> :  【LLMs九层妖塔】分享 LLMs在自然语言处理（ChatGLM、Chinese-LLaMA-Alpaca、小羊驼 Vicuna、LLaMA、GPT4ALL等）、信息检索（langchain）、语言合成、语言识别、多模态等领域（Stable Diffusion、MiniGPT-4、VisualGLM-6B、Ziya-Visual等）等 实战与经验。
 
-    - [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) <img src="https://img.shields.io/github/stars/DjangoPeng/openai-quickstart?style=social"/> :  A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for AIGC applications. 
+    - [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) <img src="https://img.shields.io/github/stars/DjangoPeng/openai-quickstart?style=social"/> :  A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for AIGC applications.
 
-    - [phodal/aigc](https://github.com/phodal/aigc) <img src="https://img.shields.io/github/stars/phodal/aigc?style=social"/> : 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。 
+    - [phodal/aigc](https://github.com/phodal/aigc) <img src="https://img.shields.io/github/stars/phodal/aigc?style=social"/> : 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 
 
 
@@ -514,7 +514,7 @@
 
     - [Hugging Face](https://huggingface.co/) : The AI community building the future. The platform where the machine learning community collaborates on models, datasets, and applications.
 
-    - [The official LangChain blog](https://blog.langchain.dev/) : LangChain. The official LangChain blog. 
+    - [The official LangChain blog](https://blog.langchain.dev/) : LangChain. The official LangChain blog.
 
 
 
@@ -522,7 +522,7 @@
 ## Prompts
 ### 提示语（魔法）
 
-  - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better. 
+  - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better.
 
   - [travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) <img src="https://img.shields.io/github/stars/travistangvh/ChatGPT-Data-Science-Prompts?style=social"/> : 🚀 ChatGPT Prompts for Data Science! A repository of 60 useful data science prompts for ChatGPT.
 
@@ -547,7 +547,7 @@
 
   - ### Rust API
 
-    - [uiuifree/rust-openai-chatgpt-api](https://github.com/uiuifree/rust-openai-chatgpt-api) <img src="https://img.shields.io/github/stars/uiuifree/rust-openai-chatgpt-api?style=social"/> : "rust-openai-chatgpt-api" is a Rust library for accessing the ChatGPT API, a powerful NLP platform by OpenAI. The library provides a simple and efficient interface for sending requests and receiving responses, including chat. It uses reqwest and serde for HTTP requests and JSON serialization. 
+    - [uiuifree/rust-openai-chatgpt-api](https://github.com/uiuifree/rust-openai-chatgpt-api) <img src="https://img.shields.io/github/stars/uiuifree/rust-openai-chatgpt-api?style=social"/> : "rust-openai-chatgpt-api" is a Rust library for accessing the ChatGPT API, a powerful NLP platform by OpenAI. The library provides a simple and efficient interface for sending requests and receiving responses, including chat. It uses reqwest and serde for HTTP requests and JSON serialization.
 
 
 
@@ -577,10 +577,10 @@
   - ### Multimodal Datasets
     #### 多模态数据集
 
-    - [Youku-mPLUG](https://github.com/X-PLUG/Youku-mPLUG) <img src="https://img.shields.io/github/stars/X-PLUG/Youku-mPLUG?style=social"/> : "Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks". (**[arXiv 2023](https://arxiv.org/abs/2306.04362)**). "微信公众号「我爱计算机视觉」《[YouKu-mPLUG 最大中文视频语言数据集，助力增强多模态大型模型性能](https://mp.weixin.qq.com/s/iJoaKCykO09R3jTCylRTVA)》"。 
-    
+    - [Youku-mPLUG](https://github.com/X-PLUG/Youku-mPLUG) <img src="https://img.shields.io/github/stars/X-PLUG/Youku-mPLUG?style=social"/> : "Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks". (**[arXiv 2023](https://arxiv.org/abs/2306.04362)**). "微信公众号「我爱计算机视觉」《[YouKu-mPLUG 最大中文视频语言数据集，助力增强多模态大型模型性能](https://mp.weixin.qq.com/s/iJoaKCykO09R3jTCylRTVA)》"。
+
     - [Intern · WanJuan｜书生·万卷](https://github.com/opendatalab/WanJuan1.0) <img src="https://img.shields.io/github/stars/opendatalab/WanJuan1.0?style=social"/> : Intern · WanJuan Multimodal Corpus. 万卷1.0多模态语料。
-    
+
     - [matrix-alpha/Accountable-Textual-Visual-Chat](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) <img src="https://img.shields.io/github/stars/matrix-alpha/Accountable-Textual-Visual-Chat?style=social"/> : "Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation". (**[arXiv 2023](https://arxiv.org/abs/2303.05983)**). [https://matrix-alpha.github.io/](https://matrix-alpha.github.io/)
 
 
@@ -596,7 +596,7 @@
     - [Cursor](https://github.com/getcursor/cursor) <img src="https://img.shields.io/github/stars/getcursor/cursor?style=social"/> : An editor made for programming with AI 🤖. Long term, our plan is to build Cursor into the world's most productive development environment. [cursor.so](https://www.cursor.so/)
 
 
-  - ### Chatbot 
+  - ### Chatbot
     #### 聊天机器人
 
     - [ChatHub](https://github.com/chathub-dev/chathub) <img src="https://img.shields.io/github/stars/chathub-dev/chathub?style=social"/> : ChatHub is an all-in-one chatbot client. [chathub.gg/?utm_source=github](https://chathub.gg/?utm_source=github)
@@ -609,10 +609,10 @@
 
 
 
-  - ### Code Generation 
+  - ### Code Generation
     #### 代码生成
 
-    - [StarCoder](https://github.com/bigcode-project/starcoder) <img src="https://img.shields.io/github/stars/bigcode-project/starcoder?style=social"/> : 💫 StarCoder is a language model (LM) trained on source code and natural language text. Its training data incorporates more that 80 different programming languages as well as text extracted from GitHub issues and commits and from notebooks. 
+    - [StarCoder](https://github.com/bigcode-project/starcoder) <img src="https://img.shields.io/github/stars/bigcode-project/starcoder?style=social"/> : 💫 StarCoder is a language model (LM) trained on source code and natural language text. Its training data incorporates more that 80 different programming languages as well as text extracted from GitHub issues and commits and from notebooks.
 
     - [CodeGeeX2](https://github.com/THUDM/CodeGeeX2) <img src="https://img.shields.io/github/stars/THUDM/CodeGeeX2?style=social"/> : CodeGeeX2: A More Powerful Multilingual Code Generation Model. [codegeex.cn](https://codegeex.cn/zh-CN)
 
@@ -631,7 +631,7 @@
   - ### Local knowledge Base
     #### 本地知识库
 
-    - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) <img src="https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social"/> : lLangchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答。 
+    - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) <img src="https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social"/> : lLangchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答。
 
     - [yanqiangmiffy/Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain) <img src="https://img.shields.io/github/stars/yanqiangmiffy/Chinese-LangChain?style=social"/> : Chinese-LangChain：中文langchain项目，基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成。俗称：小必应，Q.Talk，强聊，QiangTalk。
 
@@ -642,9 +642,9 @@
   - ### Question Answering System
     #### 问答系统
 
-    - [THUDM/WebGLM](https://github.com/THUDM/WebGLM) <img src="https://img.shields.io/github/stars/THUDM/WebGLM?style=social"/> : WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023). "WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences". (**[arXiv 2023](https://arxiv.org/abs/2306.07906)**). 
+    - [THUDM/WebGLM](https://github.com/THUDM/WebGLM) <img src="https://img.shields.io/github/stars/THUDM/WebGLM?style=social"/> : WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023). "WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences". (**[arXiv 2023](https://arxiv.org/abs/2306.07906)**).
 
-    - [THUDM/WebGLM](https://github.com/afaqueumer/DocQA) <img src="https://img.shields.io/github/stars/afaqueumer/DocQA?style=social"/> : Question Answering with Custom FIles using LLM. DocQA 🤖 is a web application built using Streamlit 🔥 and the LangChain 🦜🔗 framework, allowing users to leverage the power of LLMs for Generative Question Answering. 🌟 
+    - [THUDM/WebGLM](https://github.com/afaqueumer/DocQA) <img src="https://img.shields.io/github/stars/afaqueumer/DocQA?style=social"/> : Question Answering with Custom FIles using LLM. DocQA 🤖 is a web application built using Streamlit 🔥 and the LangChain 🦜🔗 framework, allowing users to leverage the power of LLMs for Generative Question Answering. 🌟
 
 
 
@@ -680,7 +680,7 @@
   - ### Medical Field
     #### 医药领域
 
-    - [本草[原名：华驼(HuaTuo)]](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) <img src="https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese?style=social"/> : Repo for BenTsao [original name: HuaTuo (华驼)], Llama-7B tuned with Chinese medical knowledge. 本草[原名：华驼(HuaTuo)]: 基于中文医学知识的LLaMA微调模型。本项目开源了经过中文医学指令精调/指令微调(Instruct-tuning) 的LLaMA-7B模型。我们通过医学知识图谱和GPT3.5 API构建了中文医学指令数据集，并在此基础上对LLaMA进行了指令微调，提高了LLaMA在医疗领域的问答效果。 "HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge". (**[arXiv 2023](https://arxiv.org/abs/2304.06975)**). 
+    - [本草[原名：华驼(HuaTuo)]](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) <img src="https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese?style=social"/> : Repo for BenTsao [original name: HuaTuo (华驼)], Llama-7B tuned with Chinese medical knowledge. 本草[原名：华驼(HuaTuo)]: 基于中文医学知识的LLaMA微调模型。本项目开源了经过中文医学指令精调/指令微调(Instruct-tuning) 的LLaMA-7B模型。我们通过医学知识图谱和GPT3.5 API构建了中文医学指令数据集，并在此基础上对LLaMA进行了指令微调，提高了LLaMA在医疗领域的问答效果。 "HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge". (**[arXiv 2023](https://arxiv.org/abs/2304.06975)**).
 
     - [MedSAM](https://github.com/bowang-lab/MedSAM) <img src="https://img.shields.io/github/stars/bowang-lab/MedSAM?style=social"/> : "Segment Anything in Medical Images". (**[arXiv 2023](https://arxiv.org/abs/2304.12306)**). "微信公众号「江大白」《[MedSAM在医学领域，图像分割中的落地应用（附论文及源码）](https://mp.weixin.qq.com/s/JJ0umIzJ5VKJ87A_jnDtOw)》"。
 
@@ -694,7 +694,7 @@
 
     - [DoctorGPT](https://github.com/llSourcell/DoctorGPT) <img src="https://img.shields.io/github/stars/llSourcell/DoctorGPT?style=social"/> :   DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 
-    - [仲景](https://github.com/SupritYoung/Zhongjing) <img src="https://img.shields.io/github/stars/SupritYoung/Zhongjing?style=social"/> : 仲景：首个实现从预训练到 RLHF 全流程训练的中文医疗大模型。 "Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue". (**[arXiv 2023](https://arxiv.org/abs/2308.03549)**). 
+    - [仲景](https://github.com/SupritYoung/Zhongjing) <img src="https://img.shields.io/github/stars/SupritYoung/Zhongjing?style=social"/> : 仲景：首个实现从预训练到 RLHF 全流程训练的中文医疗大模型。 "Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue". (**[arXiv 2023](https://arxiv.org/abs/2308.03549)**).
 
 
 
@@ -702,10 +702,10 @@
   - ### Mental Health Field
     #### 心理健康领域
 
-    - [MeChat](https://github.com/qiuhuachuan/smile) <img src="https://img.shields.io/github/stars/qiuhuachuan/smile?style=social"/> : MeChat：中文心理健康支持对话大模型与数据集。 "SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support". (**[arXiv 2023](https://arxiv.org/abs/2305.00450)**). 
+    - [MeChat](https://github.com/qiuhuachuan/smile) <img src="https://img.shields.io/github/stars/qiuhuachuan/smile?style=social"/> : MeChat：中文心理健康支持对话大模型与数据集。 "SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support". (**[arXiv 2023](https://arxiv.org/abs/2305.00450)**).
 
 
-    
+
 
 
   - ### Legal Field
@@ -788,20 +788,20 @@
 
     - [FaceChain](https://github.com/modelscope/facechain) <img src="https://img.shields.io/github/stars/modelscope/facechain?style=social"/> : FaceChain is a deep-learning toolchain for generating your Digital-Twin. FaceChain is a deep-learning toolchain for generating your Digital-Twin. With a minimum of 1 portrait-photo, you can create a Digital-Twin of your own and start generating personal portraits in different settings (multiple styles now supported!). You may train your Digital-Twin model and generate photos via FaceChain's Python scripts, or via the familiar Gradio interface. FaceChain是一个可以用来打造个人数字形象的深度学习模型工具。用户仅需要提供最低三张照片即可获得独属于自己的个人形象数字替身。FaceChain支持在gradio的界面中使用模型训练和推理能力，也支持资深开发者使用python脚本进行训练推理。
 
-    - [VirtualWife](https://github.com/yakami129/VirtualWife) <img src="https://img.shields.io/github/stars/yakami129/VirtualWife?style=social"/> : VirtualWife 是一个虚拟主播项目，目前支持在B站进行直播，用户可以自由更换VRM人物模型，大家可以将他作为一个虚拟主播入门demo，在上面扩展自己喜欢功能。 
+    - [VirtualWife](https://github.com/yakami129/VirtualWife) <img src="https://img.shields.io/github/stars/yakami129/VirtualWife?style=social"/> : VirtualWife 是一个虚拟主播项目，目前支持在B站进行直播，用户可以自由更换VRM人物模型，大家可以将他作为一个虚拟主播入门demo，在上面扩展自己喜欢功能。
 
     - [GPT-vup](https://github.com/jiran214/GPT-vup) <img src="https://img.shields.io/github/stars/jiran214/GPT-vup?style=social"/> : GPT-vup Live2D数字人直播。GPT-vup BIliBili | 抖音 | AI | 虚拟主播。
 
     - [ChatVRM](https://github.com/pixiv/ChatVRM) <img src="https://img.shields.io/github/stars/pixiv/ChatVRM?style=social"/> : ChatVRMはブラウザで簡単に3Dキャラクターと会話ができるデモアプリケーションです。
 
-    - [HeyGen](https://www.heygen.com/) : Scale your video production with customizable AI avatars. "微信公众号「DataLearner」《[《流浪地球2》的数字生命计划可能快实现了！HeyGen即将发布下一代AI真人视频生成技术，效果逼真到无法几乎分辨！](https://mp.weixin.qq.com/s/70Fj9HCe3ruiI43WmMZLjQ)》"。 
+    - [HeyGen](https://www.heygen.com/) : Scale your video production with customizable AI avatars. "微信公众号「DataLearner」《[《流浪地球2》的数字生命计划可能快实现了！HeyGen即将发布下一代AI真人视频生成技术，效果逼真到无法几乎分辨！](https://mp.weixin.qq.com/s/70Fj9HCe3ruiI43WmMZLjQ)》"。
 
 
 
   - ### GUI
     #### 图形用户界面
 
-    - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) <img src="https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web?style=social"/> : A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 
+    - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) <img src="https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web?style=social"/> : A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 
     - [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) <img src="https://img.shields.io/github/stars/AprilNEA/ChatGPT-Admin-Web?style=social"/> : 带有用户管理和后台管理系统的 ChatGPT WebUI. [caw.sku.moe](https://caw.sku.moe/)
 
@@ -817,15 +817,15 @@
 
     - [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) <img src="https://img.shields.io/github/stars/m1guelpf/browser-agent?style=social"/> : A browser AI agent, using GPT-4. [docs.rs/browser-agent](https://docs.rs/browser-agent/latest/browser_agent/)
 
-    - [sigoden/aichat](https://github.com/sigoden/aichat) <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social"/> : Using ChatGPT/GPT-3.5/GPT-4 in the terminal. 
+    - [sigoden/aichat](https://github.com/sigoden/aichat) <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social"/> : Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 
     - [wieslawsoltes/ChatGPT](https://github.com/wieslawsoltes/ChatGPT) <img src="https://img.shields.io/github/stars/wieslawsoltes/ChatGPT?style=social"/> : A ChatGPT C# client for graphical user interface runs on MacOS, Windows, Linux, Android, iOS and Browser. Powered by [Avalonia UI](https://www.avaloniaui.net/) framework. [wieslawsoltes.github.io/ChatGPT/](https://wieslawsoltes.github.io/ChatGPT/)
 
     - [sigoden/aichat](https://github.com/GaiZhenbiao/ChuanhuChatGPT) <img src="https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=social"/> : GUI for ChatGPT API and any LLM. 川虎 Chat 🐯 Chuanhu Chat. 为ChatGPT/ChatGLM/LLaMA/StableLM/MOSS等多种LLM提供了一个轻快好用的Web图形界。
 
     - [amrrs/chatgpt-clone](https://github.com/amrrs/chatgpt-clone) <img src="https://img.shields.io/github/stars/amrrs/chatgpt-clone?style=social"/> :  Build Yo'own ChatGPT with OpenAI API & Gradio.
-    
-    - [llama2-webui](https://github.com/liltom-eth/llama2-webui) <img src="https://img.shields.io/github/stars/liltom-eth/llama2-webui?style=social"/> : Run Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Supporting Llama-2-7B/13B/70B with 8-bit, 4-bit. Supporting GPU inference (6 GB VRAM) and CPU inference. 
+
+    - [llama2-webui](https://github.com/liltom-eth/llama2-webui) <img src="https://img.shields.io/github/stars/liltom-eth/llama2-webui?style=social"/> : Run Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Supporting Llama-2-7B/13B/70B with 8-bit, 4-bit. Supporting GPU inference (6 GB VRAM) and CPU inference.
 
     - [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) <img src="https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social"/> : An open source implementation of OpenAI's ChatGPT Code interpreter.
 
@@ -833,14 +833,14 @@
 
     - [chieapp/chie](https://github.com/chieapp/chie) <img src="https://img.shields.io/github/stars/chieapp/chie?style=social"/> : An extensive desktop app for ChatGPT and other LLMs. [chie.app](https://chie.app/)
 
-    - [cLangUI](https://github.com/ahmadbilaldev/langui) <img src="https://img.shields.io/github/stars/ahmadbilaldev/langui?style=social"/> : AUI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects. 
+    - [cLangUI](https://github.com/ahmadbilaldev/langui) <img src="https://img.shields.io/github/stars/ahmadbilaldev/langui?style=social"/> : AUI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 
     - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) <img src="https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social"/> : Stable Diffusion web UI. A browser interface based on Gradio library for Stable Diffusion.
 
     - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) <img src="https://img.shields.io/github/stars/Mikubill/sd-webui-controlnet?style=social"/> : ControlNet for Stable Diffusion WebUI. The WebUI extension for ControlNet and other injection-based SD controls.
 
     - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) <img src="https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social"/> : Text generation web UI. A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
-    
+
     - [SolidUI](https://github.com/CloudOrc/SolidUI) <img src="https://img.shields.io/github/stars/CloudOrc/SolidUI?style=social"/> : AI-generated visualization prototyping and editing platform.
 
 
@@ -850,13 +850,13 @@
 ## Blogs
 
   - 微信公众号「Hugging Face」
-    - [2023-08-16，关于 Llama 2 的一切资源，我们都帮你整理好了](https://mp.weixin.qq.com/s/-01Dg9ZVfPYM4mZ4iKt8Cw)  
+    - [2023-08-16，关于 Llama 2 的一切资源，我们都帮你整理好了](https://mp.weixin.qq.com/s/-01Dg9ZVfPYM4mZ4iKt8Cw)
   - 微信公众号「腾讯技术工程」
     - [2023-08-17，一文入门最热的LLM应用开发框架LangChain](https://mp.weixin.qq.com/s/bYzNNL3F0998Do2Jl0PQtw)
   - 微信公众号「GLM大模型」
-    - [2023-06-25，【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA)  
+    - [2023-06-25，【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA)
     - [2023-07-14，【公告】ChatGLM2-6B，免费商用](https://mp.weixin.qq.com/s/pNMcR2c6kFV1TVaI8wzHRg)
-    - [2023-07-25，【发布】代码模型 CodeGeeX2-6B 开源，最低6GB显存，性能优于StarCoder](https://mp.weixin.qq.com/s/qw31ThM4AjG6RrjNwsfZwg)  
+    - [2023-07-25，【发布】代码模型 CodeGeeX2-6B 开源，最低6GB显存，性能优于StarCoder](https://mp.weixin.qq.com/s/qw31ThM4AjG6RrjNwsfZwg)
   - 微信公众号「微软科技」
     - [2023-02-16，揭秘ChatGPT走红背后的独门云科技！](https://mp.weixin.qq.com/s/qYZ7G5uLHTiLG8AonIch8g)
     - [2023-07-26，Llama 2 登陆 Azure 和 Windows，微软与 Meta 拓展人工智能合作伙伴关系](https://mp.weixin.qq.com/s/pQLd5ZVNLdhnguPmmaDlCg)
@@ -984,7 +984,7 @@
     - [2023-06-21，AIGC 10亿参数模型进手机！15秒即可出图，飞行模式也能用！](https://mp.weixin.qq.com/s/chy2qMyD5ILTP2R6DpL4Yg)
     - [2023-06-23，硬核详解SAM TensorRT模型，实战转换教程](https://mp.weixin.qq.com/s/Y5Y1b3iLcJWgQ2i3pPFNyg)
     - [2023-06-26，CV通用人工智能：GPT和大语言模型带来的启发和感悟](https://mp.weixin.qq.com/s/Vu7svINOBSXqz9vjMgOjSw)
-    - [2023-06-30，MobileSAM来啦，比SAM小60倍，速度和效果双赢（附源码）](https://mp.weixin.qq.com/s/BRv9GDle40QS--Tt-hNPjg)   
+    - [2023-06-30，MobileSAM来啦，比SAM小60倍，速度和效果双赢（附源码）](https://mp.weixin.qq.com/s/BRv9GDle40QS--Tt-hNPjg)
     - [2023-07-07，中科院多语言大模型：BayLing(百聆)，性能媲美GPT，可在线体验！](https://mp.weixin.qq.com/s/bvn70GNlU3zHJSDHV5BsRA)
     - [2023-07-10，十分钟读懂Diffusion：图解Diffusion扩散模型原理](https://mp.weixin.qq.com/s/54g-3foInJWI1wnB0X4odA)
     - [2023-07-14，AI算法应用，模型部署服务代码实战](https://mp.weixin.qq.com/s/vFRTHcWjerFDlgV9TV6FWQ)
@@ -1159,8 +1159,8 @@
     - [2023-06-07，三万字长文带你全面解读生成式AI](https://mp.weixin.qq.com/s/BDYHCnkihSChKBJHVxqywA)
     - [2023-06-08，微软发布医学多模态大模型LLaVA-Med | 基于LLaVA的医学指令微调](https://mp.weixin.qq.com/s/gzyVtbMArWDnfSzfCkxl9w)
     - [2023-06-13，VisorGPT: 如何基于 GPT 和 AIGC 模型定制一个可控的生成模型](https://mp.weixin.qq.com/s/0XHjkGz7XN5jZZi2mvEKxA)
-    - [2023-07-30，大连理工联合阿里达摩院发布HQTrack | 高精度视频多目标跟踪大模型](https://mp.weixin.qq.com/s/Jl2mr7tszulZX19Fx4ZNgw) 
-    - [2023-08-07，万字长文带你全面解读视觉大模型](https://mp.weixin.qq.com/s/aA_f4ZPWquoYbbPRqiv60g) 
+    - [2023-07-30，大连理工联合阿里达摩院发布HQTrack | 高精度视频多目标跟踪大模型](https://mp.weixin.qq.com/s/Jl2mr7tszulZX19Fx4ZNgw)
+    - [2023-08-07，万字长文带你全面解读视觉大模型](https://mp.weixin.qq.com/s/aA_f4ZPWquoYbbPRqiv60g)
   - 微信公众号「芯榜」
     - [2023-04-16，思特威：人工智能浪潮，将机器视觉冲向新蓝海](https://mp.weixin.qq.com/s/jtJvltmjSeCi47XiVOzzdw)
   - 微信公众号「数智前线」
@@ -1222,181 +1222,181 @@
   - 微信公众号「APPSO」
     - [2023-06-01，ChatGPT路线图曝光：没有GPT-5、识图功能要等到明年、GPT-3或将开源](https://mp.weixin.qq.com/s/yKst4w3x0II3kGy5VqY2gA)
   - 微信公众号「佐思汽车研究」
-    - [2023-05-26，大模型上不了车](https://mp.weixin.qq.com/s/guxGFY5Jg_YdWDxnIyTZsA) 
+    - [2023-05-26，大模型上不了车](https://mp.weixin.qq.com/s/guxGFY5Jg_YdWDxnIyTZsA)
   - 微信公众号「芯东西」
-    - [2023-06-14，1530亿颗晶体管！AMD甩出最强AI芯片，单个GPU跑大模型](https://mp.weixin.qq.com/s/b47zVOa_KGEN47_d3Dlibw)     
+    - [2023-06-14，1530亿颗晶体管！AMD甩出最强AI芯片，单个GPU跑大模型](https://mp.weixin.qq.com/s/b47zVOa_KGEN47_d3Dlibw)
   - 微信公众号「开源技术服务中心」
-    - [2023-05-31，河套IT WALK(总第64期)：AI与自动驾驶科技：打造未来生活方式](https://mp.weixin.qq.com/s/wGupibJ9cKrjdSbUv9cQgQ)   
+    - [2023-05-31，河套IT WALK(总第64期)：AI与自动驾驶科技：打造未来生活方式](https://mp.weixin.qq.com/s/wGupibJ9cKrjdSbUv9cQgQ)
   - 微信公众号「OneFlow」
-    - [2023-06-09，GPT总设计师：大型语言模型的未来](https://mp.weixin.qq.com/s/DAV4ZQ5HVKw3z-mQnM7cWA)   
+    - [2023-06-09，GPT总设计师：大型语言模型的未来](https://mp.weixin.qq.com/s/DAV4ZQ5HVKw3z-mQnM7cWA)
   - 微信公众号「AINLP」
-    - [2023-08-06，Llama深入浅出](https://mp.weixin.qq.com/s/grayNg0IvAmILTF1dCEWTA)  
+    - [2023-08-06，Llama深入浅出](https://mp.weixin.qq.com/s/grayNg0IvAmILTF1dCEWTA)
     - [2023-08-06，哈工大开源“活字”对话大模型](https://mp.weixin.qq.com/s/gmKjMjr7VVESPEAWIQW3wQ)
   - 微信公众号「AINLPer」
-    - [2023-06-05，近乎完美！最强算术语言模型: Goar-7B，干翻GPT-4，怒越PaLM-540B！24G可训练](https://mp.weixin.qq.com/s/_haINkHNV4bMszm9F41yXA)  
-    - [2023-06-06，Amazon | 深入研究LLMs与AutoGPT的结合：揭示出GPT-4惊人的人类决策能力！](https://mp.weixin.qq.com/s/Gbz7ZVVdeTq64mj1-__aQA) 
-    - [2023-06-16，FinGPT：一个「专用于金融领域」的开源大语言模型（LLM）框架，源码公开！](https://mp.weixin.qq.com/s/A9euFin675nxGGciiX6rJQ) 
-    - [2023-06-26，ChatGLM2-6B 发布：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/zDf9YbOEc681Otcjh0FJxw) 
+    - [2023-06-05，近乎完美！最强算术语言模型: Goar-7B，干翻GPT-4，怒越PaLM-540B！24G可训练](https://mp.weixin.qq.com/s/_haINkHNV4bMszm9F41yXA)
+    - [2023-06-06，Amazon | 深入研究LLMs与AutoGPT的结合：揭示出GPT-4惊人的人类决策能力！](https://mp.weixin.qq.com/s/Gbz7ZVVdeTq64mj1-__aQA)
+    - [2023-06-16，FinGPT：一个「专用于金融领域」的开源大语言模型（LLM）框架，源码公开！](https://mp.weixin.qq.com/s/A9euFin675nxGGciiX6rJQ)
+    - [2023-06-26，ChatGLM2-6B 发布：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/zDf9YbOEc681Otcjh0FJxw)
   - 微信公众号「ArronAI」
-    - [2023-06-13，高性能支持LLM的机器学习Tensor库](https://mp.weixin.qq.com/s/hdwWP39BHb68VHtCcUcM7Q)  
-    - [2023-07-19，Meta发布升级大模型LLaMA 2：开源可商用](https://mp.weixin.qq.com/s/cahpaMKbdKNMJCp1Rot5KA)  
-    - [2023-07-30，大模型部署框架 FastLLM 实现细节解析](https://mp.weixin.qq.com/s/AFUZC9RAgA7_Mj6KsgYqSw)  
-    - [2023-07-31，ChatGLM-6B VS 昆仑万维天工对比](https://mp.weixin.qq.com/s/I4RdHFzOhyxzOYkVGMH-og)  
+    - [2023-06-13，高性能支持LLM的机器学习Tensor库](https://mp.weixin.qq.com/s/hdwWP39BHb68VHtCcUcM7Q)
+    - [2023-07-19，Meta发布升级大模型LLaMA 2：开源可商用](https://mp.weixin.qq.com/s/cahpaMKbdKNMJCp1Rot5KA)
+    - [2023-07-30，大模型部署框架 FastLLM 实现细节解析](https://mp.weixin.qq.com/s/AFUZC9RAgA7_Mj6KsgYqSw)
+    - [2023-07-31，ChatGLM-6B VS 昆仑万维天工对比](https://mp.weixin.qq.com/s/I4RdHFzOhyxzOYkVGMH-og)
   - 微信公众号「DataLearner」
-    - [2023-05-19，ChatGLM-6B重磅升级！清华大学开源VisualGLM-6B技术解析：一个可以在本地运行的读懂图片的语言模型！](https://mp.weixin.qq.com/s/nZwiNk_80uTPcS2QrofnrQ) 
-    - [2023-05-27，Falcon-40B：截止目前最强大的开源大语言模型，超越MetaAI的LLaMA-65B的开源大语言模型](https://mp.weixin.qq.com/s/Vy_xWBuZU0AaaPMCIhKIyw) 
-    - [2023-06-13，国产开源大模型再添重要玩家：BAAI发布开源可商用大模型Aquila](https://mp.weixin.qq.com/s/n8GwkDt9wXI9nNfFTIRcBQ)  
-    - [2023-06-25，重磅！第二代ChatGLM-6B发布！清华大学THUDM发布ChatGLM2-6B：更快更准，更低资源更长输入！](https://mp.weixin.qq.com/s/7Y6_jqj0RBq82hEggFHTgg)  
-    - [2023-07-09，使用LangChain做大模型开发的一些问题：来自Hacker News的激烈讨论~ ](https://mp.weixin.qq.com/s/GKF28C1yzWZDtCXjJQ52hg) 
-    - [2023-07-14，重磅！清华大学第二代大模型ChatGLM2-6B现在转为免费商用授权协议了~](https://mp.weixin.qq.com/s/FpRAA2b3o6pj8gNpeSWb4g) 
-    - [2023-07-15，GPT4All发布可以在CPU上生成embeddings向量的模型：低成本、高质量、易上手的embedding模型新选择](https://mp.weixin.qq.com/s/hPQlthpVVlxjHhkSKLU0GA) 
-    - [2023-07-18，如何让开源大模型支持Code Interpreter：基于LangChain的开源项目Code Interpreter API](https://mp.weixin.qq.com/s/q5D4k4ZFxjRKX7LrKk3SEA) 
-    - [2023-07-19，重磅！Meta发布LLaMA2，最高700亿参数，在2万亿tokens上训练，各项得分远超第一代LLaMA~完全免费可商用！](https://mp.weixin.qq.com/s/I-zU5n_dXKKMa2x9wyxYgw) 
-    - [2023-07-22，关于大语言模型的11个应用方向和16个挑战总结：来自来自伦敦大学、MetaAI等机构合作的688篇参考文献与业界实践](https://mp.weixin.qq.com/s/fnyTrTAqFonrt1IxZnHRVw) 
-    - [2023-07-23，一文总结13个国内外ChatGPT平替产品：是时候可以不那么依赖ChatGPT了~](https://mp.weixin.qq.com/s/QvVkTYDT6k2eado1HEWLbg) 
-    - [2023-07-27，如何基于Gradio构建生成式AI的应用：吴恩达联合HuggingFace推出最新1小时短课](https://mp.weixin.qq.com/s/N0R2yC_zcmbWlbZZmXKwBQ) 
-    - [2023-07-29，Open ChatGPT：一个整合了GPT-4和多模态能力的ChatGTP服务商](https://mp.weixin.qq.com/s/23_3sFZhIxP6FDiFsNwr4w) 
-    - [2023-08-02，Megatron-LLM：支持大规模分布式语言模型(LLM)预训练和微调的库](https://mp.weixin.qq.com/s/WsK1MgMxIRf6RNWKzOUkOA) 
-    - [2023-08-03，生成式AI领域拓展！MetaAI开源AudioCraft：一个支持AudioGen、MusicGen等模型的音频生成开发框架](https://mp.weixin.qq.com/s/OLLCiMqKHQJxGGR1sPA3qw) 
-    - [2023-08-07，MetaGPT技术全解析：另一个AutoGPT，一个可以替代小型软件开发团队的LLM框架，产品经理、系统设计、代码实现一条龙](https://mp.weixin.qq.com/s/OteOLYsO6WoAjA1j3HMrbg) 
-    - [2023-08-09，ChatGLM团队发布AI Agent能力评测工具AgentBench：GPT-4一骑绝尘，开源模型表现非常糟糕！](https://mp.weixin.qq.com/s/wUuAHsiZJmpCPn_3uvT4Aw) 
-    - [2023-08-10，《流浪地球2》的数字生命计划可能快实现了！HeyGen即将发布下一代AI真人视频生成技术，效果逼真到无法几乎分辨！](https://mp.weixin.qq.com/s/70Fj9HCe3ruiI43WmMZLjQ) 
-    - [2023-08-16，国产大模型与全球最强大模型大比拼：语义理解、数学推理同台竞技，究竟谁更厉害~ ](https://mp.weixin.qq.com/s/lVQorSHWUmYjDK2MgVm9bg) 
+    - [2023-05-19，ChatGLM-6B重磅升级！清华大学开源VisualGLM-6B技术解析：一个可以在本地运行的读懂图片的语言模型！](https://mp.weixin.qq.com/s/nZwiNk_80uTPcS2QrofnrQ)
+    - [2023-05-27，Falcon-40B：截止目前最强大的开源大语言模型，超越MetaAI的LLaMA-65B的开源大语言模型](https://mp.weixin.qq.com/s/Vy_xWBuZU0AaaPMCIhKIyw)
+    - [2023-06-13，国产开源大模型再添重要玩家：BAAI发布开源可商用大模型Aquila](https://mp.weixin.qq.com/s/n8GwkDt9wXI9nNfFTIRcBQ)
+    - [2023-06-25，重磅！第二代ChatGLM-6B发布！清华大学THUDM发布ChatGLM2-6B：更快更准，更低资源更长输入！](https://mp.weixin.qq.com/s/7Y6_jqj0RBq82hEggFHTgg)
+    - [2023-07-09，使用LangChain做大模型开发的一些问题：来自Hacker News的激烈讨论~ ](https://mp.weixin.qq.com/s/GKF28C1yzWZDtCXjJQ52hg)
+    - [2023-07-14，重磅！清华大学第二代大模型ChatGLM2-6B现在转为免费商用授权协议了~](https://mp.weixin.qq.com/s/FpRAA2b3o6pj8gNpeSWb4g)
+    - [2023-07-15，GPT4All发布可以在CPU上生成embeddings向量的模型：低成本、高质量、易上手的embedding模型新选择](https://mp.weixin.qq.com/s/hPQlthpVVlxjHhkSKLU0GA)
+    - [2023-07-18，如何让开源大模型支持Code Interpreter：基于LangChain的开源项目Code Interpreter API](https://mp.weixin.qq.com/s/q5D4k4ZFxjRKX7LrKk3SEA)
+    - [2023-07-19，重磅！Meta发布LLaMA2，最高700亿参数，在2万亿tokens上训练，各项得分远超第一代LLaMA~完全免费可商用！](https://mp.weixin.qq.com/s/I-zU5n_dXKKMa2x9wyxYgw)
+    - [2023-07-22，关于大语言模型的11个应用方向和16个挑战总结：来自来自伦敦大学、MetaAI等机构合作的688篇参考文献与业界实践](https://mp.weixin.qq.com/s/fnyTrTAqFonrt1IxZnHRVw)
+    - [2023-07-23，一文总结13个国内外ChatGPT平替产品：是时候可以不那么依赖ChatGPT了~](https://mp.weixin.qq.com/s/QvVkTYDT6k2eado1HEWLbg)
+    - [2023-07-27，如何基于Gradio构建生成式AI的应用：吴恩达联合HuggingFace推出最新1小时短课](https://mp.weixin.qq.com/s/N0R2yC_zcmbWlbZZmXKwBQ)
+    - [2023-07-29，Open ChatGPT：一个整合了GPT-4和多模态能力的ChatGTP服务商](https://mp.weixin.qq.com/s/23_3sFZhIxP6FDiFsNwr4w)
+    - [2023-08-02，Megatron-LLM：支持大规模分布式语言模型(LLM)预训练和微调的库](https://mp.weixin.qq.com/s/WsK1MgMxIRf6RNWKzOUkOA)
+    - [2023-08-03，生成式AI领域拓展！MetaAI开源AudioCraft：一个支持AudioGen、MusicGen等模型的音频生成开发框架](https://mp.weixin.qq.com/s/OLLCiMqKHQJxGGR1sPA3qw)
+    - [2023-08-07，MetaGPT技术全解析：另一个AutoGPT，一个可以替代小型软件开发团队的LLM框架，产品经理、系统设计、代码实现一条龙](https://mp.weixin.qq.com/s/OteOLYsO6WoAjA1j3HMrbg)
+    - [2023-08-09，ChatGLM团队发布AI Agent能力评测工具AgentBench：GPT-4一骑绝尘，开源模型表现非常糟糕！](https://mp.weixin.qq.com/s/wUuAHsiZJmpCPn_3uvT4Aw)
+    - [2023-08-10，《流浪地球2》的数字生命计划可能快实现了！HeyGen即将发布下一代AI真人视频生成技术，效果逼真到无法几乎分辨！](https://mp.weixin.qq.com/s/70Fj9HCe3ruiI43WmMZLjQ)
+    - [2023-08-16，国产大模型与全球最强大模型大比拼：语义理解、数学推理同台竞技，究竟谁更厉害~ ](https://mp.weixin.qq.com/s/lVQorSHWUmYjDK2MgVm9bg)
   - 微信公众号「算法美食屋」
-    - [2023-07-03，60分钟吃掉ChatGLM2-6b微调范例~](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w)       
-    - [2023-07-08，单样本微调给ChatGLM2注入知识~](https://mp.weixin.qq.com/s/hANR9OVDVEZMMvK8uxtChA) 
-    - [2023-07-16，用Kaggle免费GPU微调ChatGLM2](https://mp.weixin.qq.com/s/PSWSN5OJfaSU8tLqOaZE3A)       
+    - [2023-07-03，60分钟吃掉ChatGLM2-6b微调范例~](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w)
+    - [2023-07-08，单样本微调给ChatGLM2注入知识~](https://mp.weixin.qq.com/s/hANR9OVDVEZMMvK8uxtChA)
+    - [2023-07-16，用Kaggle免费GPU微调ChatGLM2](https://mp.weixin.qq.com/s/PSWSN5OJfaSU8tLqOaZE3A)
   - 微信公众号「KBQA沉思录」
-    - [2023-06-14，【中文医疗大模型】训练全流程源码剖析](https://mp.weixin.qq.com/s/DTHIxyDb9vG793hAKGLt2g)  
+    - [2023-06-14，【中文医疗大模型】训练全流程源码剖析](https://mp.weixin.qq.com/s/DTHIxyDb9vG793hAKGLt2g)
   - 微信公众号「技术狂潮AI」
-    - [2023-05-31，基于ChatGLM-6B构建本地私有化离线知识库](https://mp.weixin.qq.com/s/2TVP0WcLfLdnDQw88eGIGg) 
-    - [2023-06-23，ChromaDB：开源向量嵌入数据库，让你的AI应用程序拥有记忆力](https://mp.weixin.qq.com/s/kqd41FeuQcy8ag8jQwEQNg)  
+    - [2023-05-31，基于ChatGLM-6B构建本地私有化离线知识库](https://mp.weixin.qq.com/s/2TVP0WcLfLdnDQw88eGIGg)
+    - [2023-06-23，ChromaDB：开源向量嵌入数据库，让你的AI应用程序拥有记忆力](https://mp.weixin.qq.com/s/kqd41FeuQcy8ag8jQwEQNg)
   - 微信公众号「NLP日志录」
-    - [2023-06-16，WorkGPT：一个智能体框架，类似于AutoGPT或LangChain](https://mp.weixin.qq.com/s/OdRrAQcEMfuuT8xLFPijZQ)  
-    - [2023-06-19，Awesome-Chinese-LLM：整理开源的中文大语言模型](https://mp.weixin.qq.com/s/bn97j_OKWPakwMDYQYEgyw) 
-    - [2023-06-25，LLaMA Server：将LLaMA C++和Chatbot UI结合的LLaMA服务](https://mp.weixin.qq.com/s/-kNS6WX4OVCWS_mEHBL_rQ) 
-    - [2023-06-26，什么是HuggingFace](https://mp.weixin.qq.com/s/EscXWBLM09bgfgfUT66C9Q) 
-    - [2023-07-05，ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型](https://mp.weixin.qq.com/s/p3nxReh3-syDPSu6tK4PbA)  
-    - [2023-07-14，eigenGPT：GPT2的最小化C++实现](https://mp.weixin.qq.com/s/ivVQxXUI-RP0rsYkSKg3zQ) 
-    - [2023-07-17，开源版的OpenAI ChatGPT Code interpreter实现](https://mp.weixin.qq.com/s/7iDXnRm3j4-xkJLDxfVS_A) 
-    - [2023-07-28，Chidori是一个LangChain的替代品](https://mp.weixin.qq.com/s/2p00yh65pb4dcDUTfRwJjQ) 
-    - [2023-08-12，小米发布了他们的大模型MiLM-6B](https://mp.weixin.qq.com/s/kLpgRzy3j6fAqhM50cC2xg) 
-    - [2023-08-14，VirtualWife - 一个虚拟主播项目](https://mp.weixin.qq.com/s/QgVfKx2CkUwDUIRTqFELqA) 
-    - [2023-08-14，MeChat：中文心理健康支持对话大模型与数据集](https://mp.weixin.qq.com/s/yKxXi6SiIJpBhLozqe_XYQ) 
-    - [2023-08-16，原Langchain-ChatGLM项目正式发布v0.2.0版本](https://mp.weixin.qq.com/s/fBPEE34_EBf_2-RM4ZqAzg) 
-    - [2023-08-16，Llama2模型的优化版本：Llama-2-Onnx](https://mp.weixin.qq.com/s/Z2nBkaIgtLIa8OEeFJP4jg) 
-    - [2023-08-16，妙鸭相机开源版工具FaceChain](https://mp.weixin.qq.com/s/qF7WVqHpMN1zODTe_W8J7A) 
-    - [2023-08-18，仲景：首个实现从预训练到 RLHF 全流程训练的中文医疗大模型](https://mp.weixin.qq.com/s/Rhir7Il0NnsetzpX03Cjjw) 
-    - [2023-08-18，书生·万卷多模态语料库](https://mp.weixin.qq.com/s/spl-N87mySAkRpBoMIYPuA) 
+    - [2023-06-16，WorkGPT：一个智能体框架，类似于AutoGPT或LangChain](https://mp.weixin.qq.com/s/OdRrAQcEMfuuT8xLFPijZQ)
+    - [2023-06-19，Awesome-Chinese-LLM：整理开源的中文大语言模型](https://mp.weixin.qq.com/s/bn97j_OKWPakwMDYQYEgyw)
+    - [2023-06-25，LLaMA Server：将LLaMA C++和Chatbot UI结合的LLaMA服务](https://mp.weixin.qq.com/s/-kNS6WX4OVCWS_mEHBL_rQ)
+    - [2023-06-26，什么是HuggingFace](https://mp.weixin.qq.com/s/EscXWBLM09bgfgfUT66C9Q)
+    - [2023-07-05，ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型](https://mp.weixin.qq.com/s/p3nxReh3-syDPSu6tK4PbA)
+    - [2023-07-14，eigenGPT：GPT2的最小化C++实现](https://mp.weixin.qq.com/s/ivVQxXUI-RP0rsYkSKg3zQ)
+    - [2023-07-17，开源版的OpenAI ChatGPT Code interpreter实现](https://mp.weixin.qq.com/s/7iDXnRm3j4-xkJLDxfVS_A)
+    - [2023-07-28，Chidori是一个LangChain的替代品](https://mp.weixin.qq.com/s/2p00yh65pb4dcDUTfRwJjQ)
+    - [2023-08-12，小米发布了他们的大模型MiLM-6B](https://mp.weixin.qq.com/s/kLpgRzy3j6fAqhM50cC2xg)
+    - [2023-08-14，VirtualWife - 一个虚拟主播项目](https://mp.weixin.qq.com/s/QgVfKx2CkUwDUIRTqFELqA)
+    - [2023-08-14，MeChat：中文心理健康支持对话大模型与数据集](https://mp.weixin.qq.com/s/yKxXi6SiIJpBhLozqe_XYQ)
+    - [2023-08-16，原Langchain-ChatGLM项目正式发布v0.2.0版本](https://mp.weixin.qq.com/s/fBPEE34_EBf_2-RM4ZqAzg)
+    - [2023-08-16，Llama2模型的优化版本：Llama-2-Onnx](https://mp.weixin.qq.com/s/Z2nBkaIgtLIa8OEeFJP4jg)
+    - [2023-08-16，妙鸭相机开源版工具FaceChain](https://mp.weixin.qq.com/s/qF7WVqHpMN1zODTe_W8J7A)
+    - [2023-08-18，仲景：首个实现从预训练到 RLHF 全流程训练的中文医疗大模型](https://mp.weixin.qq.com/s/Rhir7Il0NnsetzpX03Cjjw)
+    - [2023-08-18，书生·万卷多模态语料库](https://mp.weixin.qq.com/s/spl-N87mySAkRpBoMIYPuA)
   - 微信公众号「NewBeeNLP」
-    - [2023-02-07，ChatGPT Prompt工程：设计、实践与思考](https://mp.weixin.qq.com/s/a8hjzZ_Rzl6pOU1PRAARJQ)   
-    - [2023-07-19，谁才是真正的 OpenAI？更大更强的Llama 2来啦，可直接商用](https://mp.weixin.qq.com/s/2kN6hI17VpKEMgvK8iEqDg)   
-    - [2023-02-07，ChatGPT Prompt工程：设计、实践与思考](https://mp.weixin.qq.com/s/a8hjzZ_Rzl6pOU1PRAARJQ) 
-    - [2023-08-07，大模型时代必看！Open AI创始人演讲《State Of GPT》](https://mp.weixin.qq.com/s/gQ4LnMebEHvtBVt52oxT-w)   
+    - [2023-02-07，ChatGPT Prompt工程：设计、实践与思考](https://mp.weixin.qq.com/s/a8hjzZ_Rzl6pOU1PRAARJQ)
+    - [2023-07-19，谁才是真正的 OpenAI？更大更强的Llama 2来啦，可直接商用](https://mp.weixin.qq.com/s/2kN6hI17VpKEMgvK8iEqDg)
+    - [2023-02-07，ChatGPT Prompt工程：设计、实践与思考](https://mp.weixin.qq.com/s/a8hjzZ_Rzl6pOU1PRAARJQ)
+    - [2023-08-07，大模型时代必看！Open AI创始人演讲《State Of GPT》](https://mp.weixin.qq.com/s/gQ4LnMebEHvtBVt52oxT-w)
   - 微信公众号「AI寒武纪」
-    - [2023-06-19，重磅：未来10年生成式人工智能将这样影响所有人](https://mp.weixin.qq.com/s/qsLOke8-jckhF1XYxswFtQ)  
+    - [2023-06-19，重磅：未来10年生成式人工智能将这样影响所有人](https://mp.weixin.qq.com/s/qsLOke8-jckhF1XYxswFtQ)
   - 微信公众号「毫末智行」
-    - [2023-06-13，自动驾驶大模型亮相2023北京智源大会！顾维灏：DriveGPT将重塑汽车智能化技术路线](https://mp.weixin.qq.com/s/ybtjyY7gjgywl6Jvjd5RMg)  
+    - [2023-06-13，自动驾驶大模型亮相2023北京智源大会！顾维灏：DriveGPT将重塑汽车智能化技术路线](https://mp.weixin.qq.com/s/ybtjyY7gjgywl6Jvjd5RMg)
   - 微信公众号「智源研究院」
-    - [2023-06-11，悟道·天鹰 Aquila + 天秤 FlagEval，打造大模型能力与评测标准双标杆](https://mp.weixin.qq.com/s/8oP9nongpkkfHuE1RsKx8A)   
-    - [2023-08-15，FlagEval 8月榜单：新增通义千问、Llama2等多个模型评测，新增基座模型代码生成能力评测](https://mp.weixin.qq.com/s/RYccZXQNs9hHHNRJI9tLgg)   
+    - [2023-06-11，悟道·天鹰 Aquila + 天秤 FlagEval，打造大模型能力与评测标准双标杆](https://mp.weixin.qq.com/s/8oP9nongpkkfHuE1RsKx8A)
+    - [2023-08-15，FlagEval 8月榜单：新增通义千问、Llama2等多个模型评测，新增基座模型代码生成能力评测](https://mp.weixin.qq.com/s/RYccZXQNs9hHHNRJI9tLgg)
   - 微信公众号「CLUE中文语言理解测评基准」
-    - [2023-06-19，最新大模型排名！中文大模型评测基准SuperCLUE发布6月榜单](https://mp.weixin.qq.com/s/lTqAOO8iqKUW3B_4VMswtw)   
-    - [2023-07-20，Meta开源免费商用大模型Llama2-13B测评揭晓 | SuperCLUE](https://mp.weixin.qq.com/s/ZowePHkDouP8AiZshR-MXw)   
+    - [2023-06-19，最新大模型排名！中文大模型评测基准SuperCLUE发布6月榜单](https://mp.weixin.qq.com/s/lTqAOO8iqKUW3B_4VMswtw)
+    - [2023-07-20，Meta开源免费商用大模型Llama2-13B测评揭晓 | SuperCLUE](https://mp.weixin.qq.com/s/ZowePHkDouP8AiZshR-MXw)
   - 微信公众号「AI范儿」
-    - [2023-06-09，Midjourney指令的终极列表：完整指南](https://mp.weixin.qq.com/s/wyAe6hDDusbSC6M2naAHVA)   
-    - [2023-07-19，细观察 - Llama-2开源新闻刷屏背后...... 商用？没戏，“中文”被排除在外！](https://mp.weixin.qq.com/s/imVXxEJ4TJL3kRP2Aze2nA)   
+    - [2023-06-09，Midjourney指令的终极列表：完整指南](https://mp.weixin.qq.com/s/wyAe6hDDusbSC6M2naAHVA)
+    - [2023-07-19，细观察 - Llama-2开源新闻刷屏背后...... 商用？没戏，“中文”被排除在外！](https://mp.weixin.qq.com/s/imVXxEJ4TJL3kRP2Aze2nA)
   - 微信公众号「机器学习实验室」
-    - [2023-06-26，Midjourney 5.2震撼发布！](https://mp.weixin.qq.com/s/l8a6T2ha4q13go3dRbt8pA)  
-    - [2023-07-06，「分割一切」视频版SAM来了！](https://mp.weixin.qq.com/s/FdbOe_kvFwDJxF2KMzUO5g) 
-    - [2023-07-09，ChatGPT神器Code Interpreter来了！奉上一份保姆级教程](https://mp.weixin.qq.com/s/-PhTEwe8xZ3pXRck7imYsA)   
-    - [2023-07-20，Meta 开源 Llama 2！大模型竞争格局变了](https://mp.weixin.qq.com/s/EesOpLmGDyvKSkiu2OlcgQ)   
+    - [2023-06-26，Midjourney 5.2震撼发布！](https://mp.weixin.qq.com/s/l8a6T2ha4q13go3dRbt8pA)
+    - [2023-07-06，「分割一切」视频版SAM来了！](https://mp.weixin.qq.com/s/FdbOe_kvFwDJxF2KMzUO5g)
+    - [2023-07-09，ChatGPT神器Code Interpreter来了！奉上一份保姆级教程](https://mp.weixin.qq.com/s/-PhTEwe8xZ3pXRck7imYsA)
+    - [2023-07-20，Meta 开源 Llama 2！大模型竞争格局变了](https://mp.weixin.qq.com/s/EesOpLmGDyvKSkiu2OlcgQ)
   - 微信公众号「无数据不智能」
-    - [2023-05-31，WebGLM：10B 堪比 webGPT 175B](https://mp.weixin.qq.com/s/3bXpWUq6twqBmumU1xH0yg)   
-    - [2023-06-14，一份大模型应用到各领域的综述，包括法律、金融、教育、软件工程、生物等等](https://mp.weixin.qq.com/s/dui1xcCIIVyBv-sLslHeTg)   
-    - [2023-06-16，H2OGPT：开源代码仓库套件,开源GPT替代品,包括可商用的代码、数据、模型、微调工具](https://mp.weixin.qq.com/s/QIPMIqG8C8rNJqSKTjFWxg)   
-    - [2023-06-17，macaw-llm：开源图像、音频、视频和文本的多模态语言建模模型](https://mp.weixin.qq.com/s/O3ryffaCghfU3_tUUu2TIA)   
-    - [2023-07-05，GPT-Migrate：让你的项目轻松更换语言或框架](https://mp.weixin.qq.com/s/Cl5jvzoKe6kU7zeTi4plqA)   
-    - [2023-07-09，让每个人都可以轻松、快速、廉价地使用vLLM进行服务](https://mp.weixin.qq.com/s/N1ursW7evovFsYKEc_x6NA)   
-    - [2023-07-09，InternLM：强大的开源模型和弹性工作流程建设工具](https://mp.weixin.qq.com/s/OQLy7ZM81Cde0-Qba4sHMg) 
-    - [2023-07-19，deepspeed发布0.10.0，加入ZeRO++：降低4倍网络通信，显著提高大模型及类ChatGPT模型训练效率](https://mp.weixin.qq.com/s/GWauayszfYWDV2pZr9Wf5g)   
-    - [2023-08-17，memochat: 将llms优化为使用备忘录以实现一致的长程对话](https://mp.weixin.qq.com/s/dkaXAxHTNLIAoFEwwL_ifg)   
-    - [2023-08-17，diaggpt: 基于大模型的多轮对话话题管理](https://mp.weixin.qq.com/s/cMYEp8J4SzU7yjGTF2TG9Q)   
+    - [2023-05-31，WebGLM：10B 堪比 webGPT 175B](https://mp.weixin.qq.com/s/3bXpWUq6twqBmumU1xH0yg)
+    - [2023-06-14，一份大模型应用到各领域的综述，包括法律、金融、教育、软件工程、生物等等](https://mp.weixin.qq.com/s/dui1xcCIIVyBv-sLslHeTg)
+    - [2023-06-16，H2OGPT：开源代码仓库套件,开源GPT替代品,包括可商用的代码、数据、模型、微调工具](https://mp.weixin.qq.com/s/QIPMIqG8C8rNJqSKTjFWxg)
+    - [2023-06-17，macaw-llm：开源图像、音频、视频和文本的多模态语言建模模型](https://mp.weixin.qq.com/s/O3ryffaCghfU3_tUUu2TIA)
+    - [2023-07-05，GPT-Migrate：让你的项目轻松更换语言或框架](https://mp.weixin.qq.com/s/Cl5jvzoKe6kU7zeTi4plqA)
+    - [2023-07-09，让每个人都可以轻松、快速、廉价地使用vLLM进行服务](https://mp.weixin.qq.com/s/N1ursW7evovFsYKEc_x6NA)
+    - [2023-07-09，InternLM：强大的开源模型和弹性工作流程建设工具](https://mp.weixin.qq.com/s/OQLy7ZM81Cde0-Qba4sHMg)
+    - [2023-07-19，deepspeed发布0.10.0，加入ZeRO++：降低4倍网络通信，显著提高大模型及类ChatGPT模型训练效率](https://mp.weixin.qq.com/s/GWauayszfYWDV2pZr9Wf5g)
+    - [2023-08-17，memochat: 将llms优化为使用备忘录以实现一致的长程对话](https://mp.weixin.qq.com/s/dkaXAxHTNLIAoFEwwL_ifg)
+    - [2023-08-17，diaggpt: 基于大模型的多轮对话话题管理](https://mp.weixin.qq.com/s/cMYEp8J4SzU7yjGTF2TG9Q)
   - 微信公众号「AI浪潮时代」
-    - [2023-06-18，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（1/15）](https://mp.weixin.qq.com/s/T8A_FpFwOHHwsyvNggf7yA)   
-    - [2023-06-20，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（2/15）](https://mp.weixin.qq.com/s/IaolSkSOFakF6eBJVEsFyA) 
-    - [2023-06-21，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（3/15）](https://mp.weixin.qq.com/s/h45GnzshxyI0p-xAW1hdNA)  
-    - [2023-07-07，重大消息！GPT-4.0API，即将全面开发使用](https://mp.weixin.qq.com/s/sJT8Kj5GPxfLoaB4hCsueg)  
+    - [2023-06-18，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（1/15）](https://mp.weixin.qq.com/s/T8A_FpFwOHHwsyvNggf7yA)
+    - [2023-06-20，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（2/15）](https://mp.weixin.qq.com/s/IaolSkSOFakF6eBJVEsFyA)
+    - [2023-06-21，150个ChatGPT角色扮演指令，全网的角色扮演指令都在这里！让你的ChatGPT成为任何领域的专家（3/15）](https://mp.weixin.qq.com/s/h45GnzshxyI0p-xAW1hdNA)
+    - [2023-07-07，重大消息！GPT-4.0API，即将全面开发使用](https://mp.weixin.qq.com/s/sJT8Kj5GPxfLoaB4hCsueg)
   - 微信公众号「深度学习自然语言处理」
-    - [2023-06-26，ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%，在中文榜单位列榜首](https://mp.weixin.qq.com/s/7Dn_R-9q_uGZBEEQcIZJGg) 
-    - [2023-07-21，iPhone、Mac上都能跑，刷屏的Llama 2究竟性能如何？](https://mp.weixin.qq.com/s/B8LnEVjRt6dwaECRQIlHfw)    
-    - [2023-08-15，字节 | 大模型BuboGPT：引入视觉定位，实现细粒度多模态，已开源](https://mp.weixin.qq.com/s/1yM83EO9qh_iM_9CkbjuCw)    
+    - [2023-06-26，ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%，在中文榜单位列榜首](https://mp.weixin.qq.com/s/7Dn_R-9q_uGZBEEQcIZJGg)
+    - [2023-07-21，iPhone、Mac上都能跑，刷屏的Llama 2究竟性能如何？](https://mp.weixin.qq.com/s/B8LnEVjRt6dwaECRQIlHfw)
+    - [2023-08-15，字节 | 大模型BuboGPT：引入视觉定位，实现细粒度多模态，已开源](https://mp.weixin.qq.com/s/1yM83EO9qh_iM_9CkbjuCw)
   - 微信公众号「集智书童」
-    - [2023-06-28，MobileSAM来啦 | 比SAM小60倍，比FastSAM快4倍，速度和效果双赢](https://mp.weixin.qq.com/s/gTsdqVNgKpfnU-4S7DJhnA)  
-    - [2023-07-03，医疗SAM也来啦 | AutoSAM告诉你如何在医疗领域更快更好开发大模型](https://mp.weixin.qq.com/s/vd7bxoxB_BiffcSu-oHPbg)  
-    - [2023-07-04，聊聊大火的AIGC和扩散模型](https://mp.weixin.qq.com/s/y2rakG6A-vWRp3i0ka9DPA)  
-    - [2023-07-04，中科院版「分割一切」模型来了，比Meta原版提速50倍 | GitHub 4.2K+星](https://mp.weixin.qq.com/s/u_IcsEldPR2TCtjJVIvZ6g)  
-    - [2023-07-10，SAM增强技术 | SAMAug提出Point Prompt增强，让SAM模型天天向上](https://mp.weixin.qq.com/s/KPP07jWt8DYUslkRCMGuKw)  
+    - [2023-06-28，MobileSAM来啦 | 比SAM小60倍，比FastSAM快4倍，速度和效果双赢](https://mp.weixin.qq.com/s/gTsdqVNgKpfnU-4S7DJhnA)
+    - [2023-07-03，医疗SAM也来啦 | AutoSAM告诉你如何在医疗领域更快更好开发大模型](https://mp.weixin.qq.com/s/vd7bxoxB_BiffcSu-oHPbg)
+    - [2023-07-04，聊聊大火的AIGC和扩散模型](https://mp.weixin.qq.com/s/y2rakG6A-vWRp3i0ka9DPA)
+    - [2023-07-04，中科院版「分割一切」模型来了，比Meta原版提速50倍 | GitHub 4.2K+星](https://mp.weixin.qq.com/s/u_IcsEldPR2TCtjJVIvZ6g)
+    - [2023-07-10，SAM增强技术 | SAMAug提出Point Prompt增强，让SAM模型天天向上](https://mp.weixin.qq.com/s/KPP07jWt8DYUslkRCMGuKw)
   - 微信公众号「分布式实验室」
-    - [2023-07-11，万字长文详解GPT](https://mp.weixin.qq.com/s/sBKaW5W_uyXxzUVx3nMYsg) 
-    - [2023-07-12，王小川的百川智能发布Baichuan-13B AI大模型](https://mp.weixin.qq.com/s/tudo6INXBGfUcDaGwtpctQ)   
-    - [2023-07-19，Meta开源LLama 2，可商用的大语言模型](https://mp.weixin.qq.com/s/3Rmx05-X5EeFi0O6Q2_ccw)   
-    - [2023-07-20，LangChain初学者入门指南](https://mp.weixin.qq.com/s/F4QokLPrimFS1LRjXDbwQQ)   
+    - [2023-07-11，万字长文详解GPT](https://mp.weixin.qq.com/s/sBKaW5W_uyXxzUVx3nMYsg)
+    - [2023-07-12，王小川的百川智能发布Baichuan-13B AI大模型](https://mp.weixin.qq.com/s/tudo6INXBGfUcDaGwtpctQ)
+    - [2023-07-19，Meta开源LLama 2，可商用的大语言模型](https://mp.weixin.qq.com/s/3Rmx05-X5EeFi0O6Q2_ccw)
+    - [2023-07-20，LangChain初学者入门指南](https://mp.weixin.qq.com/s/F4QokLPrimFS1LRjXDbwQQ)
   - 微信公众号「浩瀚的苍穹」
-    - [2023-06-26，利用 GPT-4 & LangChain 本地部署企业知识库(技术篇)](https://mp.weixin.qq.com/s/-UNRLV9ttgI79A5iFmO7zQ)     
+    - [2023-06-26，利用 GPT-4 & LangChain 本地部署企业知识库(技术篇)](https://mp.weixin.qq.com/s/-UNRLV9ttgI79A5iFmO7zQ)
   - 微信公众号「AI育未来」
-    - [2023-07-13，解读8月15日实施的《生成式人工智能服务管理暂行办法》，AI的春天来了](https://mp.weixin.qq.com/s/mScsxyYH56oFEoMC0XWopw)    
+    - [2023-07-13，解读8月15日实施的《生成式人工智能服务管理暂行办法》，AI的春天来了](https://mp.weixin.qq.com/s/mScsxyYH56oFEoMC0XWopw)
   - 微信公众号「SolidUI」
-    - [2023-07-06，SolidUI AI生成可视化，开创性开源项目，版本0.1.0 功能讲解](https://mp.weixin.qq.com/s/X0wxx9ZN982iOY6JzFBmAA)   
+    - [2023-07-06，SolidUI AI生成可视化，开创性开源项目，版本0.1.0 功能讲解](https://mp.weixin.qq.com/s/X0wxx9ZN982iOY6JzFBmAA)
   - 微信公众号「RUC AI Box」
-    - [2023-07-05，大模型综述升级啦](https://mp.weixin.qq.com/s/9YMUSSrGLSBKMFY3JYlaoQ)  
-    - [2023-08-07，YuLan-Chat-2：基于LLaMA-2的全新中英文对话大模型](https://mp.weixin.qq.com/s/dKiclXeYRI83p4uy3ruSSQ)   
+    - [2023-07-05，大模型综述升级啦](https://mp.weixin.qq.com/s/9YMUSSrGLSBKMFY3JYlaoQ)
+    - [2023-08-07，YuLan-Chat-2：基于LLaMA-2的全新中英文对话大模型](https://mp.weixin.qq.com/s/dKiclXeYRI83p4uy3ruSSQ)
   - 微信公众号「电子发烧友网」
-    - [2023-07-08，探索大模型落地应用成为当前主旋律！众多垂直领域大模型陆续发布！](https://mp.weixin.qq.com/s/QvRt6Sm9Qti4GPE4aucpYg)  
+    - [2023-07-08，探索大模型落地应用成为当前主旋律！众多垂直领域大模型陆续发布！](https://mp.weixin.qq.com/s/QvRt6Sm9Qti4GPE4aucpYg)
   - 微信公众号「CSDN程序人生」
-    - [2023-07-11，华为盘古大模型3.0发布！](https://mp.weixin.qq.com/s/G9OEi27CeZJq7KVNF1U2sA)    
+    - [2023-07-11，华为盘古大模型3.0发布！](https://mp.weixin.qq.com/s/G9OEi27CeZJq7KVNF1U2sA)
   - 微信公众号「GitHubStore」
-    - [2023-06-29, ChatGLM.cpp：ChatGLM-6B的C++实现版，可在macBook上运行 ，ChatGLM.cpp：ChatGLM-6B的C++实现版，可在macBook上运行](https://mp.weixin.qq.com/s/QuaK09Z5Na04SH-fncfbiA)  
-    - [2023-07-11，LiteChain：构建LLMs应用的轻量级LangChain](https://mp.weixin.qq.com/s/kp7oBS8kwIHB3HJo4vWtdQ)  
-    - [2023-07-12，gpt4free：提供免费的gpt API](https://mp.weixin.qq.com/s/d8mWZFa2QANlcuFQHBaLpg)  
-    - [2023-07-17，RealChar：实时AI数字人](https://mp.weixin.qq.com/s/v1UcB5Y77JWz_KGwZt8rJw) 
-    - [2023-07-20，开源多模态模型LLaVA重大更新，支持LLaMA2!](https://mp.weixin.qq.com/s/8u9GPluromcbqalKaYWQKw)  
-    - [2023-07-24，MLC LLM：让每个人都能在每个人的设备上开发、优化和部署人工智能模型](https://mp.weixin.qq.com/s/DNn89Gmqt7EvrYAVW39A3Q)  
-    - [2023-07-28，AutoChain : LangChain 的替代品](https://mp.weixin.qq.com/s/v4c4JzXiVEJfwi9CQbJ2Tg)  
-    - [2023-07-29，Xorbits Inference：大模型推理， 轻而易举](https://mp.weixin.qq.com/s/dDmUwoQAknvq27rCJePtxQ)  
-    - [2023-07-29，Chidori: LangChain的替代品](https://mp.weixin.qq.com/s/graiS0SluRWrAQb6N7bkGQ) 
-    - [2023-07-30，magentic：将LLM无缝集成到Python函数](https://mp.weixin.qq.com/s/-5ZQvix-gfPgwkC3Qn8YFw)  
-    - [2023-07-30，llama2-webui：在本地使用Gradio用户界面在GPU或CPU上运行Llama 2](https://mp.weixin.qq.com/s/e8PupfNNHyNm9pEOFEoV5w)  
-    - [2023-08-04，重磅！Facebook 开源 AudioCraft！](https://mp.weixin.qq.com/s/gEwfu7JbHqjmsXIwumnVSQ)  
-    - [2023-08-05，哈工大科大讯飞联合推出中文LLaMA-2 & Alpaca-2大语言模型](https://mp.weixin.qq.com/s/sJ_imBdHCD4NibVy58EO2w)  
-    - [2023-08-06，ToolLLM: 利用大型语言模型掌握 16000 多个真实世界的 API](https://mp.weixin.qq.com/s/dQc58kMqtiiYM2JfpS5jRg)  
-    - [2023-08-09，Whisper Burn: Rust实现的OpenAI's Whisper语音转录模型](https://mp.weixin.qq.com/s/-QMaS3BmtsmSaFLW629N8w)  
-    - [2023-08-09，Cria - 像使用OpenAI一样使用LLAMA-2](https://mp.weixin.qq.com/s/bFzQzD_gYtIbN04Dy9foUA)  
-    - [2023-08-07，阿里开源通义千问模型](https://mp.weixin.qq.com/s/SHNg2ti5a8Doop6nbPuRRA)  
-    - [2023-08-10，能当老板的多智体框架MetaGPT](https://mp.weixin.qq.com/s/PtixAzNoxmJ_WN9WPJGuGg)  
-    - [2023-08-10，Chie：类似ChatGPT的跨平台桌面应用](https://mp.weixin.qq.com/s/Lh4NuKd2ENTNuseB6U8WbQ)  
-    - [2023-08-13，Windows桌面版Whisper客户端](https://mp.weixin.qq.com/s/U0CIIibKx5uzZXl3Waz0IA)  
-    - [2023-08-14，Doctor GPT：通过了美国医学执照考试的大型语言模型](https://mp.weixin.qq.com/s/zsXMg1H9T-bBi_X7Exeh0g)  
-    - [2023-08-15，Fooocus : 集Stable Diffusion 和 Midjourney 优点于一身的开源AI绘图软件](https://mp.weixin.qq.com/s/adyXek6xcz5aOPAGqZBrvg)  
-    - [2023-08-16，OpenChat 大规模更新！](https://mp.weixin.qq.com/s/Xq8PLZ8CeSMZHFzD89by8A)  
-    - [2023-08-16，FaceChain：三张照片打造个人数字替身！](https://mp.weixin.qq.com/s/y4FdOifwgSWjRmtRJI2mgw)  
-    - [2023-08-17，GPT-vup: Live2D数字人直播](https://mp.weixin.qq.com/s/A1NAsYQaxTuUUKZ_q2ahkQ)  
+    - [2023-06-29, ChatGLM.cpp：ChatGLM-6B的C++实现版，可在macBook上运行 ，ChatGLM.cpp：ChatGLM-6B的C++实现版，可在macBook上运行](https://mp.weixin.qq.com/s/QuaK09Z5Na04SH-fncfbiA)
+    - [2023-07-11，LiteChain：构建LLMs应用的轻量级LangChain](https://mp.weixin.qq.com/s/kp7oBS8kwIHB3HJo4vWtdQ)
+    - [2023-07-12，gpt4free：提供免费的gpt API](https://mp.weixin.qq.com/s/d8mWZFa2QANlcuFQHBaLpg)
+    - [2023-07-17，RealChar：实时AI数字人](https://mp.weixin.qq.com/s/v1UcB5Y77JWz_KGwZt8rJw)
+    - [2023-07-20，开源多模态模型LLaVA重大更新，支持LLaMA2!](https://mp.weixin.qq.com/s/8u9GPluromcbqalKaYWQKw)
+    - [2023-07-24，MLC LLM：让每个人都能在每个人的设备上开发、优化和部署人工智能模型](https://mp.weixin.qq.com/s/DNn89Gmqt7EvrYAVW39A3Q)
+    - [2023-07-28，AutoChain : LangChain 的替代品](https://mp.weixin.qq.com/s/v4c4JzXiVEJfwi9CQbJ2Tg)
+    - [2023-07-29，Xorbits Inference：大模型推理， 轻而易举](https://mp.weixin.qq.com/s/dDmUwoQAknvq27rCJePtxQ)
+    - [2023-07-29，Chidori: LangChain的替代品](https://mp.weixin.qq.com/s/graiS0SluRWrAQb6N7bkGQ)
+    - [2023-07-30，magentic：将LLM无缝集成到Python函数](https://mp.weixin.qq.com/s/-5ZQvix-gfPgwkC3Qn8YFw)
+    - [2023-07-30，llama2-webui：在本地使用Gradio用户界面在GPU或CPU上运行Llama 2](https://mp.weixin.qq.com/s/e8PupfNNHyNm9pEOFEoV5w)
+    - [2023-08-04，重磅！Facebook 开源 AudioCraft！](https://mp.weixin.qq.com/s/gEwfu7JbHqjmsXIwumnVSQ)
+    - [2023-08-05，哈工大科大讯飞联合推出中文LLaMA-2 & Alpaca-2大语言模型](https://mp.weixin.qq.com/s/sJ_imBdHCD4NibVy58EO2w)
+    - [2023-08-06，ToolLLM: 利用大型语言模型掌握 16000 多个真实世界的 API](https://mp.weixin.qq.com/s/dQc58kMqtiiYM2JfpS5jRg)
+    - [2023-08-09，Whisper Burn: Rust实现的OpenAI's Whisper语音转录模型](https://mp.weixin.qq.com/s/-QMaS3BmtsmSaFLW629N8w)
+    - [2023-08-09，Cria - 像使用OpenAI一样使用LLAMA-2](https://mp.weixin.qq.com/s/bFzQzD_gYtIbN04Dy9foUA)
+    - [2023-08-07，阿里开源通义千问模型](https://mp.weixin.qq.com/s/SHNg2ti5a8Doop6nbPuRRA)
+    - [2023-08-10，能当老板的多智体框架MetaGPT](https://mp.weixin.qq.com/s/PtixAzNoxmJ_WN9WPJGuGg)
+    - [2023-08-10，Chie：类似ChatGPT的跨平台桌面应用](https://mp.weixin.qq.com/s/Lh4NuKd2ENTNuseB6U8WbQ)
+    - [2023-08-13，Windows桌面版Whisper客户端](https://mp.weixin.qq.com/s/U0CIIibKx5uzZXl3Waz0IA)
+    - [2023-08-14，Doctor GPT：通过了美国医学执照考试的大型语言模型](https://mp.weixin.qq.com/s/zsXMg1H9T-bBi_X7Exeh0g)
+    - [2023-08-15，Fooocus : 集Stable Diffusion 和 Midjourney 优点于一身的开源AI绘图软件](https://mp.weixin.qq.com/s/adyXek6xcz5aOPAGqZBrvg)
+    - [2023-08-16，OpenChat 大规模更新！](https://mp.weixin.qq.com/s/Xq8PLZ8CeSMZHFzD89by8A)
+    - [2023-08-16，FaceChain：三张照片打造个人数字替身！](https://mp.weixin.qq.com/s/y4FdOifwgSWjRmtRJI2mgw)
+    - [2023-08-17，GPT-vup: Live2D数字人直播](https://mp.weixin.qq.com/s/A1NAsYQaxTuUUKZ_q2ahkQ)
   - 微信公众号「山行AI」
-    - [2023-06-17，基于LangChain的优秀项目资源库](https://mp.weixin.qq.com/s/G9aqBFzd5j8wVPTH160pZA)  
-    - [2023-06-19，GPT4All——可本地布署的AI助理](https://mp.weixin.qq.com/s/KJRyAbUAxmNrcPcFJ3f-cw)  
-    - [2023-06-20，优秀的多模态大模型(LLM)资源库](https://mp.weixin.qq.com/s/n9ICXF1d2ZO2Vw3RgF-RyQ) 
-    - [2023-06-22，open-llms 开源可商用的优秀大模型资源库](https://mp.weixin.qq.com/s/3W2a06OV0fLTptqjs4f-AQ)  
-    - [2023-06-27，LocalAI——一款可在消费级硬件上本地运行 LLMs的AI应用](https://mp.weixin.qq.com/s/J-3Apw2aJJrwrrkKKfcjuQ)  
-    - [2023-07-17，Chatgpt-Retrieval-Plugin—GPT AI插件 真正联网的人工智能](https://mp.weixin.qq.com/s/_U-g1dw09tWbdH5TS4LIVw)  
-    - [2023-07-25，LangChain +Streamlit+ Llama ：将对话式人工智能引入您的本地设备](https://mp.weixin.qq.com/s/hBQRapWbtqsUH5y7vqlggw)  
+    - [2023-06-17，基于LangChain的优秀项目资源库](https://mp.weixin.qq.com/s/G9aqBFzd5j8wVPTH160pZA)
+    - [2023-06-19，GPT4All——可本地布署的AI助理](https://mp.weixin.qq.com/s/KJRyAbUAxmNrcPcFJ3f-cw)
+    - [2023-06-20，优秀的多模态大模型(LLM)资源库](https://mp.weixin.qq.com/s/n9ICXF1d2ZO2Vw3RgF-RyQ)
+    - [2023-06-22，open-llms 开源可商用的优秀大模型资源库](https://mp.weixin.qq.com/s/3W2a06OV0fLTptqjs4f-AQ)
+    - [2023-06-27，LocalAI——一款可在消费级硬件上本地运行 LLMs的AI应用](https://mp.weixin.qq.com/s/J-3Apw2aJJrwrrkKKfcjuQ)
+    - [2023-07-17，Chatgpt-Retrieval-Plugin—GPT AI插件 真正联网的人工智能](https://mp.weixin.qq.com/s/_U-g1dw09tWbdH5TS4LIVw)
+    - [2023-07-25，LangChain +Streamlit+ Llama ：将对话式人工智能引入您的本地设备](https://mp.weixin.qq.com/s/hBQRapWbtqsUH5y7vqlggw)
   - 微信公众号「凤凰网科技」
-    - [2023-06-20，AI前哨｜孙正义要对AI出手了：我天天都在和ChatGPT聊天](https://mp.weixin.qq.com/s/8BwhEKZLnphzUFlVK_Rc8A) 
+    - [2023-06-20，AI前哨｜孙正义要对AI出手了：我天天都在和ChatGPT聊天](https://mp.weixin.qq.com/s/8BwhEKZLnphzUFlVK_Rc8A)
   - 微信公众号「证券时报」
-    - [2023-06-22，软银孙正义：结束休眠，All in AI](https://mp.weixin.qq.com/s/3SrGGhwLeL-plHpKh_UCkw)   
+    - [2023-06-22，软银孙正义：结束休眠，All in AI](https://mp.weixin.qq.com/s/3SrGGhwLeL-plHpKh_UCkw)
   - 微信公众号「智王AI研究院」
     - [2023-06-03，langChain杀手2：MiniChain迷你链-全球首发](https://mp.weixin.qq.com/s/kkXR2G1CipYutu8M590nTw)
-    - [2023-06-27，GPT爆款：vicuna-33B](https://mp.weixin.qq.com/s/Bo06Rzmd1_NhGsPNkH9bYw)   
-    - [2023-07-20，全球首发：llama2架构图](https://mp.weixin.qq.com/s/gGt9rXYpqAYY1J4zAq-POA)   
+    - [2023-06-27，GPT爆款：vicuna-33B](https://mp.weixin.qq.com/s/Bo06Rzmd1_NhGsPNkH9bYw)
+    - [2023-07-20，全球首发：llama2架构图](https://mp.weixin.qq.com/s/gGt9rXYpqAYY1J4zAq-POA)
   - 微信公众号「关于NLP那些你不知道的事」
     - [2023-06-27，【LLMs 入门实战】 ChatGLM2-6B 模型学习与实战](https://mp.weixin.qq.com/s/11jCCeOpg1YbABIRLlnyvg)
     - [2023-07-21，重磅！Meta发布LLaMA2，最高700亿参数，在2万亿tokens上训练，各项得分远超第一代LLaMA~完全免费可商用！](https://mp.weixin.qq.com/s/IEhvq4Dw2JewF-QFzftlvA)
@@ -1462,9 +1462,9 @@
   - [知乎「猛猿」](https://www.zhihu.com/people/lemonround)
     - [2023-02-25，ChatGPT技术解析系列之：GPT1、GPT2与GPT3](https://zhuanlan.zhihu.com/p/609367098?utm_id=0)
   - [bilibili](https://wallstreetcn.com/)
-    - [2023-07-19，【官方教程】ChatGLM2-6B 部署与微调](https://www.bilibili.com/video/BV1D94y1i7Qp/?spm_id_from=333.999.0.0)   
+    - [2023-07-19，【官方教程】ChatGLM2-6B 部署与微调](https://www.bilibili.com/video/BV1D94y1i7Qp/?spm_id_from=333.999.0.0)
   - [华尔街见闻](https://wallstreetcn.com/)
-    - [2023-07-12，5年20亿美元！毕马威与微软签了大单，会计师事务所要All In AI了](https://wallstreetcn.com/articles/3693053)      
+    - [2023-07-12，5年20亿美元！毕马威与微软签了大单，会计师事务所要All In AI了](https://wallstreetcn.com/articles/3693053)
   - 「[The official LangChain blog](https://blog.langchain.dev/)」
     - [2023-07-18，Announcing LangSmith, a unified platform for debugging, testing, evaluating, and monitoring your LLM applications](https://blog.langchain.dev/announcing-langsmith/)
 
