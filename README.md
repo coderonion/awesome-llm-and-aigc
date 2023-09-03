@@ -497,6 +497,7 @@
 
     - [SeedV/generative-ai-roadmap](https://github.com/SeedV/generative-ai-roadmap) <img src="https://img.shields.io/github/stars/SeedV/generative-ai-roadmap?style=social"/> : 生成式AI的应用路线图 The roadmap of generative AI: use cases and applications.
 
+    - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) <img src="https://img.shields.io/github/stars/luban-agi/Awesome-AIGC-Tutorials?style=social"/> : Curated tutorials and resources for Large Language Models, AI Painting, and more.
 
 
 
