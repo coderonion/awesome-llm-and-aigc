@@ -77,7 +77,7 @@
 
         - [Llama 2](https://github.com/facebookresearch/llama) <img src="https://img.shields.io/github/stars/facebookresearch/llama?style=social"/> : Inference code for LLaMA models. "LLaMA: Open and Efficient Foundation Language Models". (**[arXiv 2023](https://arxiv.org/abs/2302.13971)**). "Llama 2: Open Foundation and Fine-Tuned Chat Models". (**[ai.meta.com, 2023-07-18](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)**). (**[2023-07-18, Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)**).
 
-        - [LangChain](https://github.com/hwchase17/langchain) <img src="https://img.shields.io/github/stars/hwchase17/langchain?style=social"/> :  🦜️🔗 LangChain.⚡ Building applications with LLMs through composability ⚡ [langchain-langchain.vercel.app](https://langchain-langchain.vercel.app/)
+        - [LangChain](https://github.com/langchain-ai/langchain) <img src="https://img.shields.io/github/stars/hwchase17/langchain?style=social"/> :  🦜️🔗 LangChain. ⚡ Building applications with LLMs through composability ⚡ [python.langchain.com](https://python.langchain.com/docs/get_started/introduction.html)
 
         - [Embedchain](https://github.com/embedchain/embedchain) <img src="https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social"/> : Framework to create ChatGPT like bots over your dataset. [embedchain.ai](https://embedchain.ai/)
 
@@ -381,9 +381,11 @@
 
       - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
 
-      - [llama2.rs](https://github.com/gaxler/llama2.rs) <img src="https://img.shields.io/github/stars/gaxler/llama2.rs?style=social"/> : Inference Llama 2 in one file of pure Rust 🦀
+      - [llama2.rs](https://github.com/srush/llama2.rs) <img src="https://img.shields.io/github/stars/srush/llama2.rs?style=social"/> : A fast llama2 decoder in pure Rust.
 
       - [Llama2-burn](https://github.com/Gadersd/llama2-burn) <img src="https://img.shields.io/github/stars/Gadersd/llama2-burn?style=social"/> : Llama2 LLM ported to Rust burn.
+
+      - [gaxler/llama2.rs](https://github.com/gaxler/llama2.rs) <img src="https://img.shields.io/github/stars/gaxler/llama2.rs?style=social"/> : Inference Llama 2 in one file of pure Rust 🦀
 
       - [whisper-burn](https://github.com/Gadersd/whisper-burn) <img src="https://img.shields.io/github/stars/Gadersd/whisper-burn?style=social"/> : A Rust implementation of OpenAI's Whisper model using the burn framework.
 
@@ -403,13 +405,33 @@
 
       - [Noeda/rllama](https://github.com/Noeda/rllama) <img src="https://img.shields.io/github/stars/Noeda/rllama?style=social"/> : Rust+OpenCL+AVX2 implementation of LLaMA inference code.
 
+      - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) <img src="https://img.shields.io/github/stars/lencx/ChatGPT?style=social"/> : 🔮 ChatGPT Desktop Application (Mac, Windows and Linux). [NoFWL](https://app.nofwl.com/).
+
+      - [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) <img src="https://img.shields.io/github/stars/Synaptrix/ChatGPT-Desktop?style=social"/> : Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
+
+      - [Poordeveloper/chatgpt-app](https://github.com/Poordeveloper/chatgpt-app) <img src="https://img.shields.io/github/stars/Poordeveloper/chatgpt-app?style=social"/> : A ChatGPT App for all platforms. Built with Rust + Tauri + Vue + Axum.
+
+      - [mxismean/chatgpt-app](https://github.com/mxismean/chatgpt-app) <img src="https://img.shields.io/github/stars/mxismean/chatgpt-app?style=social"/> : Tauri 项目：ChatGPT App.
+
+      - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) <img src="https://img.shields.io/github/stars/sonnylazuardi/chat-ai-desktop?style=social"/> : Chat AI Desktop App. Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust.
+
+      - [yetone/openai-translator](https://github.com/yetone/openai-translator) <img src="https://img.shields.io/github/stars/yetone/openai-translator?style=social"/> : The translator that does more than just translation - powered by OpenAI.
+
+      - [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) <img src="https://img.shields.io/github/stars/m1guelpf/browser-agent?style=social"/> : A browser AI agent, using GPT-4. [docs.rs/browser-agent](https://docs.rs/browser-agent/latest/browser_agent/)
+
+      - [sigoden/aichat](https://github.com/sigoden/aichat) <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social"/> : Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
+
+      - [uiuifree/rust-openai-chatgpt-api](https://github.com/uiuifree/rust-openai-chatgpt-api) <img src="https://img.shields.io/github/stars/uiuifree/rust-openai-chatgpt-api?style=social"/> : "rust-openai-chatgpt-api" is a Rust library for accessing the ChatGPT API, a powerful NLP platform by OpenAI. The library provides a simple and efficient interface for sending requests and receiving responses, including chat. It uses reqwest and serde for HTTP requests and JSON serialization.
+
+      - [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) <img src="https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social"/> : 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。
+
       - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) <img src="https://img.shields.io/github/stars/Cormanz/smartgpt?style=social"/> : A program that provides LLMs with the ability to complete complex tasks using plugins.
 
       - [femtoGPT](https://github.com/keyvank/femtoGPT) <img src="https://img.shields.io/github/stars/keyvank/femtoGPT?style=social"/> : femtoGPT is a pure Rust implementation of a minimal Generative Pretrained Transformer. [discord.gg/wTJFaDVn45](https://github.com/keyvank/femtoGPT)
 
-      - [pykeio/diffusers](https://github.com/pykeio/diffusers) <img src="https://img.shields.io/github/stars/pykeio/diffusers?style=social"/> : modular Rust library for optimized Stable Diffusion inference 🔮 [docs.rs/pyke-diffusers](https://docs.rs/pyke-diffusers/latest/pyke_diffusers/)
-
       - [shafishlabs/llmchain-rs](https://github.com/shafishlabs/llmchain-rs) <img src="https://img.shields.io/github/stars/shafishlabs/llmchain-rs?style=social"/> : 🦀Rust + Large Language Models - Make AI Services Freely and Easily. Inspired by LangChain.
+
+      - [flaneur2020/llama2.rs](https://github.com/flaneur2020/llama2.rs) <img src="https://img.shields.io/github/stars/flaneur2020/llama2.rs?style=social"/> : An rust reimplementatin of [https://github.com/karpathy/llama2.c](https://github.com/karpathy/llama2.c).
 
 
 
@@ -501,13 +523,13 @@
   - ### Learning Resources
     - [Microsoft OpenAI](https://aka.ms/cn/LearnOpenAI): Microsoft OpenAI 学习工具包。
 
+    - [phodal/aigc](https://github.com/phodal/aigc) <img src="https://img.shields.io/github/stars/phodal/aigc?style=social"/> : 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
+
     - [cystanford/aigc_LLM_engineering](https://github.com/cystanford/aigc_LLM_engineering) <img src="https://img.shields.io/github/stars/cystanford/aigc_LLM_engineering?style=social"/> :  aigc_LLM_engineering.
 
     - [km1994/LLMsNineStoryDemonTower](https://github.com/km1994/LLMsNineStoryDemonTower) <img src="https://img.shields.io/github/stars/km1994/LLMsNineStoryDemonTower?style=social"/> :  【LLMs九层妖塔】分享 LLMs在自然语言处理（ChatGLM、Chinese-LLaMA-Alpaca、小羊驼 Vicuna、LLaMA、GPT4ALL等）、信息检索（langchain）、语言合成、语言识别、多模态等领域（Stable Diffusion、MiniGPT-4、VisualGLM-6B、Ziya-Visual等）等 实战与经验。
 
     - [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) <img src="https://img.shields.io/github/stars/DjangoPeng/openai-quickstart?style=social"/> :  A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for AIGC applications.
-
-    - [phodal/aigc](https://github.com/phodal/aigc) <img src="https://img.shields.io/github/stars/phodal/aigc?style=social"/> : 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 
 
 
@@ -633,6 +655,8 @@
   - ### Local knowledge Base
     #### 本地知识库
 
+    - [privateGPT](https://github.com/imartinez/privateGPT) <img src="https://img.shields.io/github/stars/imartinez/privateGPT?style=social"/> :Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection! Built with [LangChain](https://github.com/langchain-ai/langchain), [GPT4All](https://github.com/nomic-ai/gpt4all), [LlamaCpp](https://github.com/ggerganov/llama.cpp), [Chroma](https://www.trychroma.com/) and [SentenceTransformers](https://www.sbert.net/).
+
     - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) <img src="https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social"/> : lLangchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答。
 
     - [yanqiangmiffy/Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain) <img src="https://img.shields.io/github/stars/yanqiangmiffy/Chinese-LangChain?style=social"/> : Chinese-LangChain：中文langchain项目，基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成。俗称：小必应，Q.Talk，强聊，QiangTalk。
@@ -655,26 +679,21 @@
   - ### Academic Field
     #### 学术领域
 
+    - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) <img src="https://img.shields.io/github/stars/binary-husky/gpt_academic?style=social"/> : 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
+
+    - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) <img src="https://img.shields.io/github/stars/kaixindelele/ChatPaper?style=social"/> : Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复。 💥💥💥面向全球，服务万千科研人的ChatPaper免费网页版正式上线：[https://chatpaper.org/](https://chatpaper.org/) 💥💥💥
+
     - [GPTZero](https://gptzero.me/): The World's #1 AI Detector with over 1 Million Users. Detect ChatGPT, GPT3, GPT4, Bard, and other AI models.
 
     - [BurhanUlTayyab/GPTZero](https://github.com/BurhanUlTayyab/GPTZero) <img src="https://img.shields.io/github/stars/BurhanUlTayyab/GPTZero?style=social"/> : An open-source implementation of [GPTZero](https://gptzero.me/). GPTZero is an AI model with some mathematical formulation to determine if a particular text fed to it is written by AI or a human being.
 
     - [BurhanUlTayyab/DetectGPT](https://github.com/BurhanUlTayyab/DetectGPT) <img src="https://img.shields.io/github/stars/BurhanUlTayyab/DetectGPT?style=social"/> : An open-source Pytorch implementation of [DetectGPT](https://arxiv.org/pdf/2301.11305.pdf). DetectGPT is an amazing method to determine whether a piece of text is written by large language models (like ChatGPT, GPT3, GPT2, BLOOM etc). However, we couldn't find any open-source implementation of it. Therefore this is the implementation of the paper. "DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature". (**[arXiv 2023](https://arxiv.org/abs/2301.11305v1)**).
 
-    - [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) <img src="https://img.shields.io/github/stars/binary-husky/chatgpt_academic?style=social"/> : ChatGPT 学术优化。科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能。
-
-    - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) <img src="https://img.shields.io/github/stars/kaixindelele/ChatPaper?style=social"/> : Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复。 💥💥💥面向全球，服务万千科研人的ChatPaper免费网页版正式上线：[https://chatpaper.org/](https://chatpaper.org/) 💥💥💥
-
     - [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle) <img src="https://img.shields.io/github/stars/WangRongsheng/ChatGenTitle?style=social"/> : 🌟 ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型。
 
     - [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer) <img src="https://img.shields.io/github/stars/nishiwen1214/ChatReviewer?style=social"/> : ChatReviewer: use ChatGPT to review papers; ChatResponse: use ChatGPT to respond to reviewers. 💥💥💥ChatReviewer的第一版网页出来了！！！ 直接点击：[https://huggingface.co/spaces/ShiwenNi/ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatReviewer)
 
     - [Shiling42/web-simulator-by-GPT4](https://github.com/Shiling42/web-simulator-by-GPT4) <img src="https://img.shields.io/github/stars/Shiling42/web-simulator-by-GPT4?style=social"/> : Online Interactive Physical Simulation Generated by GPT-4. [shilingliang.com/web-simulator-by-GPT4/](https://shilingliang.com/web-simulator-by-GPT4/)
-
-    - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) <img src="https://img.shields.io/github/stars/imartinez/privateGPT?style=social"/> :Interact privately with your documents using the power of GPT, 100% privately, no data leaks. Built with [LangChain](https://github.com/hwchase17/langchain) and [GPT4All](https://github.com/nomic-ai/gpt4all) and [LlamaCpp](https://github.com/ggerganov/llama.cpp).
-
-
-
 
 
 
@@ -857,6 +876,7 @@
 
   - 微信公众号「Hugging Face」
     - [2023-08-16，关于 Llama 2 的一切资源，我们都帮你整理好了](https://mp.weixin.qq.com/s/-01Dg9ZVfPYM4mZ4iKt8Cw)
+    - [2023-08-28，Hugging News #0821: Hugging Face 完成 2.35 亿美元 D 轮融资](https://mp.weixin.qq.com/s/s0lzSI5qZ5oJm5O0lh_5mg)
   - 微信公众号「腾讯技术工程」
     - [2023-08-17，一文入门最热的LLM应用开发框架LangChain](https://mp.weixin.qq.com/s/bYzNNL3F0998Do2Jl0PQtw)
   - 微信公众号「GLM大模型」
@@ -1272,11 +1292,14 @@
     - [2023-07-03，60分钟吃掉ChatGLM2-6b微调范例~](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w)
     - [2023-07-08，单样本微调给ChatGLM2注入知识~](https://mp.weixin.qq.com/s/hANR9OVDVEZMMvK8uxtChA)
     - [2023-07-16，用Kaggle免费GPU微调ChatGLM2](https://mp.weixin.qq.com/s/PSWSN5OJfaSU8tLqOaZE3A)
+    - [2023-07-23，微调BaiChuan13B来做命名实体识别](https://mp.weixin.qq.com/s/ElEkYqRiEI8gKtO-cgnaXw)
+    - [2023-08-21，BaiChuan13B多轮对话微调范例](https://mp.weixin.qq.com/s/4RUP7VaHwn11UCogyjlb7g)
   - 微信公众号「KBQA沉思录」
     - [2023-06-14，【中文医疗大模型】训练全流程源码剖析](https://mp.weixin.qq.com/s/DTHIxyDb9vG793hAKGLt2g)
   - 微信公众号「技术狂潮AI」
     - [2023-05-31，基于ChatGLM-6B构建本地私有化离线知识库](https://mp.weixin.qq.com/s/2TVP0WcLfLdnDQw88eGIGg)
     - [2023-06-23，ChromaDB：开源向量嵌入数据库，让你的AI应用程序拥有记忆力](https://mp.weixin.qq.com/s/kqd41FeuQcy8ag8jQwEQNg)
+    - [2023-08-27，LangChain-Chatchat：基于LangChain和ChatGLM2-6B构建本地离线私有化知识库](https://mp.weixin.qq.com/s/dfJ2qajJrmu1kaAqyijLaw)
   - 微信公众号「NLP日志录」
     - [2023-06-16，WorkGPT：一个智能体框架，类似于AutoGPT或LangChain](https://mp.weixin.qq.com/s/OdRrAQcEMfuuT8xLFPijZQ)
     - [2023-06-19，Awesome-Chinese-LLM：整理开源的中文大语言模型](https://mp.weixin.qq.com/s/bn97j_OKWPakwMDYQYEgyw)
@@ -1442,6 +1465,11 @@
     - [2023-07-19，更强的Llama 2开源，可直接商用](https://mp.weixin.qq.com/s/GcDo9jRv8xPhtuS30HNSNg)
   - 微信公众号「包包算法笔记」
     - [2023-07-19，大模型开源社区的原子弹Llama2](https://mp.weixin.qq.com/s/RvAyXJ9KWqJ73XO7ZL1McA)
+    - [2023-08-17，大模型面试八股含答案](https://mp.weixin.qq.com/s/qTXXEUeEbpR8EpIPoSAx5g)
+    - [2023-08-21，从零训练大模型教程](https://mp.weixin.qq.com/s/qQDV2L7EBQLivkoONgXR9A)
+    - [2023-08-26，大模型微调技术​报告汇总](https://mp.weixin.qq.com/s/4yAlLjvd-V1WI4fe_s9kgw)
+    - [2023-08-28，判断场景是否适合大模型](https://mp.weixin.qq.com/s/OOea-WC3dFdCC7iNKQcBMw)
+    - [2023-08-31，大模型来自面试的一些体会和分享](https://mp.weixin.qq.com/s/S7YlHn0ss0ApP0AC4waL4Q)
   - 微信公众号「SimpleAI」
     - [2023-07-21，基于 LoRA 的 RLHF: 记一次不太成功但有趣的百川大模型调教经历](https://mp.weixin.qq.com/s/4dt3XiLnZN7Q17VHz3lsng)
   - 微信公众号「NLP工作站」
@@ -1465,6 +1493,8 @@
     - [2023-08-13，大模型入门指南](https://mp.weixin.qq.com/s/9nJ7g2mo7nOv4iGXT_CPNg)
   - 微信公众号「深度学习初学者」
     - [2023-08-18，决策树、随机森林、bagging、boosting、Adaboost、GBDT、XGBoost总结](https://mp.weixin.qq.com/s/OP_RM1Vl_PcIChCuuCaEXA)
+  - 微信公众号「机器懂语言」
+    - [2023-08-26，Stable Diffusion 文生图技术原理](https://mp.weixin.qq.com/s/bNJZNEt7ftWCk5J0NwNz0A)
   - [知乎「猛猿」](https://www.zhihu.com/people/lemonround)
     - [2023-02-25，ChatGPT技术解析系列之：GPT1、GPT2与GPT3](https://zhuanlan.zhihu.com/p/609367098?utm_id=0)
   - [bilibili](https://wallstreetcn.com/)
