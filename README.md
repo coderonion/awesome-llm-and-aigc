@@ -167,8 +167,11 @@
 
 
 
+        - [Baichuan2](https://github.com/baichuan-inc/Baichuan2) <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=social"/> : A series of large language models developed by Baichuan Intelligent Technology. Baichuan 2 是百川智能推出的新一代开源大语言模型，采用 2.6 万亿 Tokens 的高质量语料训练。Baichuan 2 在多个权威的中文、英文和多语言的通用、领域 benchmark 上取得同尺寸最佳的效果。本次发布包含有 7B、13B 的 Base 和 Chat 版本，并提供了 Chat 版本的 4bits 量化。[huggingface.co/baichuan-inc](https://huggingface.co/baichuan-inc). "Baichuan 2: Open Large-scale Language Models". (**[arXiv 2023](https://arxiv.org/abs/2309.10305)**).
 
+        - [Baichuan-7B｜百川-7B](https://github.com/baichuan-inc/Baichuan-7B) <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-7B?style=social"/> : A large-scale 7B pretraining language model developed by BaiChuan-Inc. Baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型。基于 Transformer 结构，在大约 1.2 万亿 tokens 上训练的 70 亿参数模型，支持中英双语，上下文窗口长度为 4096。在标准的中文和英文 benchmark（C-Eval/MMLU）上均取得同尺寸最好的效果。[huggingface.co/baichuan-inc/baichuan-7B](https://huggingface.co/baichuan-inc/Baichuan-7B)
 
+        - [Baichuan-13B｜百川-13B](https://github.com/baichuan-inc/Baichuan-13B) <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-13B?style=social"/> : A 13B large language model developed by Baichuan Intelligent Technology. Baichuan-13B 是由百川智能继 Baichuan-7B 之后开发的包含 130 亿参数的开源可商用的大规模语言模型，在权威的中文和英文 benchmark 上均取得同尺寸最好的效果。本次发布包含有预训练 (Baichuan-13B-Base) 和对齐 (Baichuan-13B-Chat) 两个版本。[huggingface.co/baichuan-inc/Baichuan-13B-Chat](https://huggingface.co/baichuan-inc/Baichuan-13B-Chat)
 
         - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型。 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**).
 
@@ -177,10 +180,6 @@
         - [MOSS](https://github.com/OpenLMLab/MOSS) <img src="https://img.shields.io/github/stars/OpenLMLab/MOSS?style=social"/> : An open-source tool-augmented conversational language model from Fudan University. MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon系列模型具有160亿参数，在FP16精度下可在单张A100/A800或两张3090显卡运行，在INT4/8精度下可在单张3090显卡运行。MOSS基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。[txsun1997.github.io/blogs/moss.html](https://txsun1997.github.io/blogs/moss.html)
 
         - [BayLing｜百聆](https://github.com/ictnlp/BayLing) <img src="https://img.shields.io/github/stars/OpenLMLab/MOSS?style=social"/> : “百聆”是一个具有增强的语言对齐的英语/中文大语言模型，具有优越的英语/中文能力，在多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction. [nlp.ict.ac.cn/bayling](http://nlp.ict.ac.cn/bayling). "BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2306.10968)**).
-
-        - [Baichuan-7B｜百川-7B](https://github.com/baichuan-inc/Baichuan-7B) <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-7B?style=social"/> : A large-scale 7B pretraining language model developed by BaiChuan-Inc. Baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型。基于 Transformer 结构，在大约 1.2 万亿 tokens 上训练的 70 亿参数模型，支持中英双语，上下文窗口长度为 4096。在标准的中文和英文 benchmark（C-Eval/MMLU）上均取得同尺寸最好的效果。[huggingface.co/baichuan-inc/baichuan-7B](https://huggingface.co/baichuan-inc/Baichuan-7B)
-
-        - [Baichuan-13B｜百川-13B](https://github.com/baichuan-inc/Baichuan-13B) <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-13B?style=social"/> : A 13B large language model developed by Baichuan Intelligent Technology. Baichuan-13B 是由百川智能继 Baichuan-7B 之后开发的包含 130 亿参数的开源可商用的大规模语言模型，在权威的中文和英文 benchmark 上均取得同尺寸最好的效果。本次发布包含有预训练 (Baichuan-13B-Base) 和对齐 (Baichuan-13B-Chat) 两个版本。[huggingface.co/baichuan-inc/Baichuan-13B-Chat](https://huggingface.co/baichuan-inc/Baichuan-13B-Chat)
 
         - [FlagAI｜悟道·天鹰（Aquila）](https://github.com/FlagAI-Open/FlagAI) <img src="https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social"/> : FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. Our goal is to support training, fine-tuning, and deployment of large-scale models on various downstream tasks with multi-modality.
 
@@ -442,6 +441,12 @@
 
       - [flaneur2020/llama2.rs](https://github.com/flaneur2020/llama2.rs) <img src="https://img.shields.io/github/stars/flaneur2020/llama2.rs?style=social"/> : An rust reimplementatin of [https://github.com/karpathy/llama2.c](https://github.com/karpathy/llama2.c).
 
+      - [Heng30/chatbox](https://github.com/Heng30/chatbox) <img src="https://img.shields.io/github/stars/Heng30/chatbox?style=social"/> : A Chatbot for OpenAI ChatGPT. Based on Slint-ui and Rust.
+
+      - [fairjm/dioxus-openai-qa-gui](https://github.com/fairjm/dioxus-openai-qa-gui) <img src="https://img.shields.io/github/stars/fairjm/dioxus-openai-qa-gui?style=social"/> : a simple openai qa desktop app built with dioxus.
+
+      - [purton-tech/bionicgpt](https://github.com/purton-tech/bionicgpt) <img src="https://img.shields.io/github/stars/purton-tech/bionicgpt?style=social"/> : Accelerate LLM adoption in your organisation. Chat with your confidential data safely and securely. [bionic-gpt.com](https://bionic-gpt.com/)
+
 
 
 
@@ -536,15 +541,15 @@
 
     - [phodal/aigc](https://github.com/phodal/aigc) <img src="https://img.shields.io/github/stars/phodal/aigc?style=social"/> : 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 
-    - [cystanford/aigc_LLM_engineering](https://github.com/cystanford/aigc_LLM_engineering) <img src="https://img.shields.io/github/stars/cystanford/aigc_LLM_engineering?style=social"/> :  aigc_LLM_engineering.
+    - [cystanford/aigc_LLM_engineering](https://github.com/cystanford/aigc_LLM_engineering) <img src="https://img.shields.io/github/stars/cystanford/aigc_LLM_engineering?style=social"/> : aigc_LLM_engineering.
 
-    - [km1994/LLMsNineStoryDemonTower](https://github.com/km1994/LLMsNineStoryDemonTower) <img src="https://img.shields.io/github/stars/km1994/LLMsNineStoryDemonTower?style=social"/> :  【LLMs九层妖塔】分享 LLMs在自然语言处理（ChatGLM、Chinese-LLaMA-Alpaca、小羊驼 Vicuna、LLaMA、GPT4ALL等）、信息检索（langchain）、语言合成、语言识别、多模态等领域（Stable Diffusion、MiniGPT-4、VisualGLM-6B、Ziya-Visual等）等 实战与经验。
+    - [km1994/LLMsNineStoryDemonTower](https://github.com/km1994/LLMsNineStoryDemonTower) <img src="https://img.shields.io/github/stars/km1994/LLMsNineStoryDemonTower?style=social"/> : 【LLMs九层妖塔】分享 LLMs在自然语言处理（ChatGLM、Chinese-LLaMA-Alpaca、小羊驼 Vicuna、LLaMA、GPT4ALL等）、信息检索（langchain）、语言合成、语言识别、多模态等领域（Stable Diffusion、MiniGPT-4、VisualGLM-6B、Ziya-Visual等）等 实战与经验。
 
     - [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) <img src="https://img.shields.io/github/stars/DjangoPeng/openai-quickstart?style=social"/> :  A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for AIGC applications.
 
     - [RahulSChand/llama2.c-for-dummies](https://github.com/RahulSChand/llama2.c-for-dummies) <img src="https://img.shields.io/github/stars/RahulSChand/llama2.c-for-dummies?style=social"/> :  Step by step explanation/tutorial of llama2.c
 
-
+    - [liteli1987gmail/python_langchain_cn](https://github.com/liteli1987gmail/python_langchain_cn) <img src="https://img.shields.io/github/stars/liteli1987gmail/python_langchain_cn?style=social"/> : langchain中文网是langchain的python中文文档。[python.langchain.com.cn](https://python.langchain.com.cn/docs/)
 
 
 
@@ -1147,6 +1152,7 @@
     - [2023-02-15，ChatGPT数据集之谜](https://mp.weixin.qq.com/s/CFgsiJ7a2mXQNAWkQxScYQ)
     - [2023-03-10，王炸！微软发布Visual ChatGPT：视觉模型加持ChatGPT实现丝滑聊天](https://mp.weixin.qq.com/s/jQd0xujid66CrcBrhhZoLQ)
     - [2023-08-21，大模型榜单再次刷新，比Llama 2更强的大模型来了](https://mp.weixin.qq.com/s/5UYfqA8LES936V9pL8g-UA)
+    - [2023-09-05，DoctorGPT 模型：为每个人提供一个私人医生](https://mp.weixin.qq.com/s/JAc2GlBJOA1rPfZHGVwbmQ)
   - 微信公众号「量子学派」
     - [2023-02-10，封杀这个公式，ChatGPT智商将为零](https://mp.weixin.qq.com/s/l1Qxe3rGTYuIumHq02exsg)
     - [2023-02-10，ChatGPT，一种更中心化的权力？](https://mp.weixin.qq.com/s/-qmccVnv_rpKVdFP6x4GNg)
