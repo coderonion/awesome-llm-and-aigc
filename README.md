@@ -73,13 +73,13 @@
 
         - [GPT-4](https://openai.com/product/gpt-4): GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses. "Sparks of Artificial General Intelligence: Early experiments with GPT-4". (**[arXiv 2023](https://arxiv.org/abs/2303.12712)**). "GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE". (**[SemianAlysis, 2023](https://www.semianalysis.com/p/gpt-4-architecture-infrastructure)**).
 
-        - [Claude](https://www.anthropic.com/product) : Claude is a next-generation AI assistant based on Anthropic’s research into training helpful, honest, and harmless AI systems.
-
-        - [Llama 2](https://github.com/facebookresearch/llama) <img src="https://img.shields.io/github/stars/facebookresearch/llama?style=social"/> : Inference code for LLaMA models. "LLaMA: Open and Efficient Foundation Language Models". (**[arXiv 2023](https://arxiv.org/abs/2302.13971)**). "Llama 2: Open Foundation and Fine-Tuned Chat Models". (**[ai.meta.com, 2023-07-18](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)**). (**[2023-07-18, Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)**).
-
         - [LangChain](https://github.com/langchain-ai/langchain) <img src="https://img.shields.io/github/stars/hwchase17/langchain?style=social"/> :  🦜️🔗 LangChain. ⚡ Building applications with LLMs through composability ⚡ [python.langchain.com](https://python.langchain.com/docs/get_started/introduction.html)
 
         - [Dify](https://github.com/langgenius/dify) <img src="https://img.shields.io/github/stars/langgenius/dify?style=social"/> : An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine. [dify.ai](https://dify.ai/)
+
+        - [Claude](https://www.anthropic.com/product) : Claude is a next-generation AI assistant based on Anthropic’s research into training helpful, honest, and harmless AI systems.
+
+        - [Llama 2](https://github.com/facebookresearch/llama) <img src="https://img.shields.io/github/stars/facebookresearch/llama?style=social"/> : Inference code for LLaMA models. "LLaMA: Open and Efficient Foundation Language Models". (**[arXiv 2023](https://arxiv.org/abs/2302.13971)**). "Llama 2: Open Foundation and Fine-Tuned Chat Models". (**[ai.meta.com, 2023-07-18](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)**). (**[2023-07-18, Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)**).
 
         - [Embedchain](https://github.com/embedchain/embedchain) <img src="https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social"/> : Framework to create ChatGPT like bots over your dataset. [embedchain.ai](https://embedchain.ai/)
 
@@ -388,6 +388,10 @@
       - [Tokenizers](https://github.com/huggingface/tokenizers) <img src="https://img.shields.io/github/stars/huggingface/tokenizers?style=social"/> : 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production. [huggingface.co/docs/tokenizers](https://huggingface.co/docs/tokenizers/index)
 
       - [Safetensors](https://github.com/huggingface/safetensors) <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social"/> : Simple, safe way to store and distribute tensors. [huggingface.co/docs/safetensors](https://huggingface.co/docs/safetensors/index)
+
+
+      - [miketang84/candle_demo_openchat_35](https://github.com/miketang84/candle_demo_openchat_35) <img src="https://img.shields.io/github/stars/miketang84/candle_demo_openchat_35?style=social"/> : candle_demo_openchat_35.
+
 
       - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
 
