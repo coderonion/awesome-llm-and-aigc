@@ -485,6 +485,8 @@
 
     - [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) <img src="https://img.shields.io/github/stars/lzwme/chatgpt-sites?style=social"/> : 搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新。[lzw.me/x/chatgpt-sites/](https://lzw.me/x/chatgpt-sites/)
 
+    - [DefTruth/Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) <img src="https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference?style=social"/> : 📖A curated list of Awesome LLM Inference Paper with codes, TensorRT-LLM, vLLM, streaming-llm, AWQ, SmoothQuant, WINT8/4, Continuous Batching, FlashAttention, PagedAttention etc.
+
     - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) <img src="https://img.shields.io/github/stars/eugeneyan/open-llms?style=social"/> : 📋 A list of open LLMs available for commercial use.
 
     - [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt) <img src="https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social"/> : A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
@@ -521,6 +523,8 @@
 
 
 
+
+
   - ### Paper Overview
 
     - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) <img src="https://img.shields.io/github/stars/RUCAIBox/LLMSurvey?style=social"/> : The official GitHub page for the survey paper "A Survey of Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2303.18223)**). " 微信公众号「RUC AI Box」《[大模型综述升级啦](https://mp.weixin.qq.com/s/9YMUSSrGLSBKMFY3JYlaoQ)》"。
@@ -545,6 +549,8 @@
 
     - [Microsoft OpenAI](https://aka.ms/cn/LearnOpenAI): Microsoft OpenAI 学习工具包。
 
+    - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) <img src="https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social"/> :  Implementing a ChatGPT-like LLM from scratch, step by step. [https://www.manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+
     - [phodal/aigc](https://github.com/phodal/aigc) <img src="https://img.shields.io/github/stars/phodal/aigc?style=social"/> : 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 
     - [cystanford/aigc_LLM_engineering](https://github.com/cystanford/aigc_LLM_engineering) <img src="https://img.shields.io/github/stars/cystanford/aigc_LLM_engineering?style=social"/> : aigc_LLM_engineering.
@@ -556,6 +562,8 @@
     - [RahulSChand/llama2.c-for-dummies](https://github.com/RahulSChand/llama2.c-for-dummies) <img src="https://img.shields.io/github/stars/RahulSChand/llama2.c-for-dummies?style=social"/> :  Step by step explanation/tutorial of llama2.c
 
     - [liteli1987gmail/python_langchain_cn](https://github.com/liteli1987gmail/python_langchain_cn) <img src="https://img.shields.io/github/stars/liteli1987gmail/python_langchain_cn?style=social"/> : langchain中文网是langchain的python中文文档。[python.langchain.com.cn](https://python.langchain.com.cn/docs/)
+
+
 
 
 
