@@ -14,6 +14,7 @@
       - [C Implementation](#c-implementation)
       - [Cpp Implementation](#cpp-implementation)
       - [Rust Implementation](#rust-implementation)
+      - [Mojo Implementation](#mojo-implementation)
       - [zig Implementation](#zig-implementation)
       - [Go Implementation](#go-implementation)
     - [Awesome List](#awesome-list)
@@ -73,13 +74,17 @@
 
         - [GPT-4](https://openai.com/product/gpt-4): GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses. "Sparks of Artificial General Intelligence: Early experiments with GPT-4". (**[arXiv 2023](https://arxiv.org/abs/2303.12712)**). "GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE". (**[SemianAlysis, 2023](https://www.semianalysis.com/p/gpt-4-architecture-infrastructure)**).
 
-        - [LangChain](https://github.com/langchain-ai/langchain) <img src="https://img.shields.io/github/stars/hwchase17/langchain?style=social"/> :  🦜️🔗 LangChain. ⚡ Building applications with LLMs through composability ⚡ [python.langchain.com](https://python.langchain.com/docs/get_started/introduction.html)
-
-        - [Dify](https://github.com/langgenius/dify) <img src="https://img.shields.io/github/stars/langgenius/dify?style=social"/> : An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine. [dify.ai](https://dify.ai/)
-
         - [Claude](https://www.anthropic.com/product) : Claude is a next-generation AI assistant based on Anthropic’s research into training helpful, honest, and harmless AI systems.
 
         - [Llama 2](https://github.com/facebookresearch/llama) <img src="https://img.shields.io/github/stars/facebookresearch/llama?style=social"/> : Inference code for LLaMA models. "LLaMA: Open and Efficient Foundation Language Models". (**[arXiv 2023](https://arxiv.org/abs/2302.13971)**). "Llama 2: Open Foundation and Fine-Tuned Chat Models". (**[ai.meta.com, 2023-07-18](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)**). (**[2023-07-18, Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)**).
+
+        - [Gemma in PyTorch](https://github.com/google/gemma_pytorch) <img src="https://img.shields.io/github/stars/google/gemma_pytorch?style=social"/> :  The official PyTorch implementation of Google's Gemma models. [ai.google.dev/gemma](https://ai.google.dev/gemma)
+
+        - [gemma.cpp](https://github.com/google/gemma.cpp) <img src="https://img.shields.io/github/stars/google/gemma.cpp?style=social"/> :  gemma.cpp is a lightweight, standalone C++ inference engine for the Gemma foundation models from Google.
+
+        - [LangChain](https://github.com/langchain-ai/langchain) <img src="https://img.shields.io/github/stars/hwchase17/langchain?style=social"/> :  🦜️🔗 LangChain. ⚡ Building applications with LLMs through composability ⚡ [python.langchain.com](https://python.langchain.com/docs/get_started/introduction.html)
+
+        - [Dify](https://github.com/langgenius/dify) <img src="https://img.shields.io/github/stars/langgenius/dify?style=social"/> : An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine. [dify.ai](https://dify.ai/)
 
         - [Embedchain](https://github.com/embedchain/embedchain) <img src="https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social"/> : Framework to create ChatGPT like bots over your dataset. [embedchain.ai](https://embedchain.ai/)
 
@@ -300,6 +305,8 @@
       - ##### AI Generated Content
         ###### 人工智能生成内容（AIGC）
 
+        - [Sora](https://openai.com/sora) : Sora is an AI model that can create realistic and imaginative scenes from text instructions.
+        
         - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) <img src="https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social"/> : Stable Diffusion is a latent text-to-image diffusion model. Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**).
 
         - [Stable Diffusion Version 2](https://github.com/Stability-AI/stablediffusion) <img src="https://img.shields.io/github/stars/Stability-AI/stablediffusion?style=social"/> : This repository contains [Stable Diffusion](https://github.com/CompVis/stable-diffusion) models trained from scratch and will be continuously updated with new checkpoints. "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**).
@@ -357,8 +364,6 @@
 
 
 
-
-
     - #### Cpp Implementation
 
       - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : Inference of [LLaMA](https://github.com/facebookresearch/llama) model in pure C/C++.
@@ -389,11 +394,9 @@
 
       - [Safetensors](https://github.com/huggingface/safetensors) <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social"/> : Simple, safe way to store and distribute tensors. [huggingface.co/docs/safetensors](https://huggingface.co/docs/safetensors/index)
 
+      - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
 
       - [miketang84/candle_demo_openchat_35](https://github.com/miketang84/candle_demo_openchat_35) <img src="https://img.shields.io/github/stars/miketang84/candle_demo_openchat_35?style=social"/> : candle_demo_openchat_35.
-
-
-      - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
 
       - [llama2.rs](https://github.com/srush/llama2.rs) <img src="https://img.shields.io/github/stars/srush/llama2.rs?style=social"/> : A fast llama2 decoder in pure Rust.
 
@@ -456,6 +459,11 @@
 
 
 
+    - #### Mojo Implementation
+
+      - [llama2.🔥](https://github.com/tairov/llama2.mojo) <img src="https://img.shields.io/github/stars/tairov/llama2.mojo?style=social"/> : Inference Llama 2 in one file of pure 🔥
+
+
 
     - #### Zig Implementation
 
@@ -471,6 +479,8 @@
     - #### Go Implementation
 
       - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) <img src="https://img.shields.io/github/stars/go-skynet/LocalAI?style=social"/> : 🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other. [localai.io](https://localai.io/)
+
+
 
 
 
@@ -1590,4 +1600,4 @@
 
 ## Star History
 
-<img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sjinzh/awesome-llm-and-aigc&type=Date" />
+<img alt="Star History Chart" src="https://api.star-history.com/svg?repos=codingonion/awesome-llm-and-aigc&type=Date" />
