@@ -11,6 +11,7 @@
         - [Large Language Model](#large-language-model)
         - [Vision Foundation Model](#vision-foundation-model)
         - [AI Generated Content](#ai-generated-content)
+        - [LLM Inference Engine](#llm-inference-engine)
       - [C Implementation](#c-implementation)
       - [Cpp Implementation](#cpp-implementation)
       - [Rust Implementation](#rust-implementation)
@@ -50,6 +51,7 @@
     - [AI Avatar](#ai-avatar)
     - [GUI](#gui)
   - [Blogs](#blogs)
+  - [Videos](#videos)
 
 
 
@@ -306,7 +308,7 @@
         ###### 人工智能生成内容（AIGC）
 
         - [Sora](https://openai.com/sora) : Sora is an AI model that can create realistic and imaginative scenes from text instructions.
-        
+
         - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) <img src="https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social"/> : Stable Diffusion is a latent text-to-image diffusion model. Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**).
 
         - [Stable Diffusion Version 2](https://github.com/Stability-AI/stablediffusion) <img src="https://img.shields.io/github/stars/Stability-AI/stablediffusion?style=social"/> : This repository contains [Stable Diffusion](https://github.com/CompVis/stable-diffusion) models trained from scratch and will be continuously updated with new checkpoints. "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**).
@@ -350,8 +352,10 @@
         - [ChatPPT](https://chat-ppt.com/) : ChatPPT来袭命令式一键生成PPT。
 
 
+      - ##### LLM Inference Engine
+        ###### 大语言模型推理引擎
 
-
+        - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social"/> : TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. [nvidia.github.io/TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM)
 
 
 
@@ -813,9 +817,14 @@
   - ### Autonomous Driving Field
     #### 自动驾驶领域
 
+    - [DriveVLM](hhttps://tsinghua-mars-lab.github.io/DriveVLM/) : "DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models". (**[arXiv 2024](https://arxiv.org/abs/2402.12289)**).
+
     - [UniAD](https://github.com/OpenDriveLab/UniAD) <img src="https://img.shields.io/github/stars/OpenDriveLab/UniAD?style=social"/> : "Planning-oriented Autonomous Driving". (**[CVPR 2023](https://arxiv.org/abs/2212.10156)**).
 
     - [TransGPT|致远](https://github.com/DUOMO/TransGPT) <img src="https://img.shields.io/github/stars/DUOMO/TransGPT?style=social"/> : TransGPT是国内首款开源交通大模型，主要致力于在真实交通行业中发挥实际价值。它能够实现交通情况预测、智能咨询助手、公共交通服务、交通规划设计、交通安全教育、协助管理、交通事故报告和分析、自动驾驶辅助系统等功能。TransGPT作为一个通用常识交通大模型，可以为道路工程、桥梁工程、隧道工程、公路运输、水路运输、城市公共交通运输、交通运输经济、交通运输安全等行业提供通识常识。以此为基础，可以落脚到特定的交通应用场景中。
+
+
+
 
 
 
@@ -928,11 +937,15 @@
 
 ## Blogs
 
+  - 微信公众号「NVIDIA英伟达」
+    - [2023-10-27，现已公开发布！欢迎使用 NVIDIA TensorRT-LLM 优化大语言模型推理](https://mp.weixin.qq.com/s/QaSbvyAmI6XXtr0y6W4LNQ)
+
   - 微信公众号「Hugging Face」
     - [2023-08-16，关于 Llama 2 的一切资源，我们都帮你整理好了](https://mp.weixin.qq.com/s/-01Dg9ZVfPYM4mZ4iKt8Cw)
     - [2023-08-24，社区供稿 | 推理 1760 亿参数的 BLOOMZ，性能时延仅 3.7 秒](https://mp.weixin.qq.com/s/LNEK5DK3p03qHeMxpht7GQ)
     - [2023-08-24，使用 AutoGPTQ 和 transformers 让大语言模型更轻量化](https://mp.weixin.qq.com/s/uaIxZFpcVTsKE_uA-V37bQ)
     - [2023-08-28，Hugging News #0821: Hugging Face 完成 2.35 亿美元 D 轮融资](https://mp.weixin.qq.com/s/s0lzSI5qZ5oJm5O0lh_5mg)
+    - [2024-02-22，欢迎 Gemma: Google 最新推出开源大语言模型](https://mp.weixin.qq.com/s/E52nPpWrhnU7wMLpOhVz5Q)
   - 微信公众号「AIoffer」
     - [2023-08-24，商汤研究院基础视觉组(大模型专题)正式员工（校招、社招）[目前还有多个HC，含相应资深岗位需求]&实习生长期招聘](https://mp.weixin.qq.com/s/fFqeCh-kLbfcCqO97Jl6yQ)
   - 微信公众号「腾讯技术工程」
@@ -997,6 +1010,9 @@
     - [2023-08-18，扩散模型「读脑术」，自动化所MindDiffuser清晰重建人脑视觉画面](https://mp.weixin.qq.com/s/FUvd2cU1LjBSERANko88nw)
     - [2023-08-18，稚晖君人形机器人问世：大模型加持，会自己换胳膊，要上生产线造车](https://mp.weixin.qq.com/s/cgfbJgl9enzGXGTb6q6FGA)
     - [2023-08-24，千亿级、数学专用，MathGPT大模型开始公测了](https://mp.weixin.qq.com/s/Atm0RtifVdbZVkt4FE7rOg)
+    - [2024-02-23，2770亿美元，英伟达创史上最大单日涨幅，黄仁勋：生成式AI已到临界点](https://mp.weixin.qq.com/s/Wb4ZU-lYoS6Kj0gNezMlaA)
+    - [2024-02-23，Stable Diffusion 3震撼发布，采用Sora同源技术，文字终于不乱码了](https://mp.weixin.qq.com/s/KOjeMQJoTLQt6uDBGRMXeQ)
+    - [2024-02-23，清华叉院、理想提出DriveVLM，视觉大语言模型提升自动驾驶能力](https://mp.weixin.qq.com/s/v6f29qeZAZOi4NdnwRlvZw)
   - 微信公众号「图灵人工智能」
     - [2023-02-04，盖茨盛赞ChatGPT：人工智能历史意义不亚于“PC或互联网诞生”](https://mp.weixin.qq.com/s/51v_fUjQe3EewwOIxlLghw)
     - [2023-02-06，ChatGPT专题|ChatGPT之父传奇：8岁会编程，16岁出柜，2个月做到月活过亿](https://mp.weixin.qq.com/s/jodwa-a644vECTnrRqCuAA)
@@ -1087,6 +1103,7 @@
     - [2023-07-31，强推！大语言模型『百宝书』，一文缕清所有大模型！](https://mp.weixin.qq.com/s/7K5cMlLekUUtKwEtCHwGtg)
     - [2023-08-10，大模型的数据隐私问题有解了，浙江大学提出联邦大语言模型](https://mp.weixin.qq.com/s/5Ejc2JNefZK0lockU70l-Q)
     - [2023-08-17，文心一言杀疯了！大模型社区、插件系统来了，码农神器发布，AI原生时代降临](https://mp.weixin.qq.com/s/M3WKKr7CvCHgZQgKVfR3SA)
+    - [2024-02-23，符尧大佬一作发文，仅改训练数据，就让LLaMa-2上下文长度扩展20倍！](https://mp.weixin.qq.com/s/sTxoxhyG6mAm5fI8tKdMPw)
   - 微信公众号「所向披靡的张大刀」
     - [2023-04-07，分割大一统——Segment Anything深度体验](https://mp.weixin.qq.com/s/qtk1Ds3hdNi4NOwrw2tDrg)
   - 微信公众号「算法邦」
@@ -1125,6 +1142,9 @@
     - [2023-08-18，天才少年稚晖君智元机器人走路进场！AI模型做大脑，目标售价20万以内](https://mp.weixin.qq.com/s/0SE0w0ne3npFjrEdjYhZdg)
     - [2023-08-19，波士顿大学「鸭嘴兽-70B」登顶Hugging Face大模型排行榜！高效数据集+独特LoRA微调是关键](https://mp.weixin.qq.com/s/RED36cGaqrhOOC5SGD9buw)
     - [2023-08-22，GPT-4没有意识！但图灵奖得主Bengio等88页论文暗示「天网」迟早降临](https://mp.weixin.qq.com/s/VfUM_y7DdShHwhbrdkzoqA)
+    - [2023-09-10，H100推理飙升8倍！英伟达官宣开源TensorRT-LLM，支持10+模型](https://mp.weixin.qq.com/s/xcNQBG69XkS6mOstzqROAw)
+    - [2024-02-22，全球最强开源大模型一夜易主！谷歌Gemma 7B碾压Llama 2 13B，今夜重燃开源之战](https://mp.weixin.qq.com/s/fpKW9UV7_S-FiFhiIet82g)
+    - [2024-02-23，Stable Diffusion 3深夜横空出世！模型与Sora同架构，也能「理解」物理世界](https://mp.weixin.qq.com/s/PU_VCbFU29rkfgoIm2as0g)
   - 微信公众号「智东西」
     - [2023-02-06，ChatGPT版搜索引擎突然上线，科技巨头们坐不住了！](https://mp.weixin.qq.com/s/lncJm6hmK3AQNF2paWI5Dw)
     - [2023-04-07，ChatGPT和Matter两大风口汇合！AWE同期AIoT智能家居峰会月底举行，首批嘉宾公布](https://mp.weixin.qq.com/s/cuI8sSff_zGiLtwukAcLRw)
@@ -1142,6 +1162,7 @@
     - [2023-07-11，ChatGPT 最强代码解释器突破“封印”：30 秒出片、5 分钟制作游戏、可视化分析...样样精通！](https://mp.weixin.qq.com/s/VrxL0Ufxd0meMaY_exttCQ)
     - [2023-07-19，格局打开，Meta 发布免费商业应用的开源 AI 模型 Llama 2，网友：微软又赢麻了！](https://mp.weixin.qq.com/s/DUCZ6LmaaoD6LTiAroM9xQ)
     - [2023-08-16，从失望到精通：AI 大模型实践与实用技巧](https://mp.weixin.qq.com/s/6QwJrmHS7vY1jo4WzyG-2A)
+    - [2024-02-22，Google炸场！最强轻量级、开放模型Gemma发布，个人PC就能用，内部员工：强是强，但名字取得让我混乱！](https://mp.weixin.qq.com/s/LMsUnkbepab0KKqK59f7Gg)
   - 微信公众号「刘润」
     - [2023-02-08，ChatGPT：一个人不管有多大的梦想，还是要有盖世武功](https://mp.weixin.qq.com/s/Dd28kONcjwiBYPuDUD8R7g)
     - [2023-02-09，ChatGPT：你来了，那我怎么办？](https://mp.weixin.qq.com/s/3wikMRAJqZtWHaC5dUVgbQ)
@@ -1177,6 +1198,7 @@
     - [2023-03-10，王炸！微软发布Visual ChatGPT：视觉模型加持ChatGPT实现丝滑聊天](https://mp.weixin.qq.com/s/jQd0xujid66CrcBrhhZoLQ)
     - [2023-08-21，大模型榜单再次刷新，比Llama 2更强的大模型来了](https://mp.weixin.qq.com/s/5UYfqA8LES936V9pL8g-UA)
     - [2023-09-05，DoctorGPT 模型：为每个人提供一个私人医生](https://mp.weixin.qq.com/s/JAc2GlBJOA1rPfZHGVwbmQ)
+    - [2024-02-21，全网最细致的Sora技术推演](https://mp.weixin.qq.com/s/xl56nMgqNK5uih7uGoOU3w)
   - 微信公众号「量子学派」
     - [2023-02-10，封杀这个公式，ChatGPT智商将为零](https://mp.weixin.qq.com/s/l1Qxe3rGTYuIumHq02exsg)
     - [2023-02-10，ChatGPT，一种更中心化的权力？](https://mp.weixin.qq.com/s/-qmccVnv_rpKVdFP6x4GNg)
@@ -1510,6 +1532,7 @@
     - [2023-08-05，大模型思维链（Chain-of-Thought）技术原理](https://mp.weixin.qq.com/s/IlRhdwBJAtynhrnPSEdoRQ)
     - [2023-08-09，LLaMA2多GPU训练入门](https://mp.weixin.qq.com/s/At8HfnbKlZm-edojmeIRxQ)
     - [2023-08-13，LangChain+ChatGLM如何调优？](https://mp.weixin.qq.com/s/vinAWk3g8kwBYLmGDLXV6g)
+    - [2024-01-26，基于TensorRT-LLM的大模型部署(速通笔记)](https://mp.weixin.qq.com/s/2d6ihFFDTDfppYbjtBPHMw)
   - 微信公众号「前端立志传」
     - [2023-07-02，用Midjourney+剪映,我一天量产上百个精致短视频！](https://mp.weixin.qq.com/s/LBzHC2-x_ppnkElOOWFVBw)
   - 微信公众号「AI的潜意识」
@@ -1552,6 +1575,7 @@
     - [2023-07-21，基于 LoRA 的 RLHF: 记一次不太成功但有趣的百川大模型调教经历](https://mp.weixin.qq.com/s/4dt3XiLnZN7Q17VHz3lsng)
   - 微信公众号「NLP工作站」
     - [2023-07-20，Llama2技术细节&开源影响](https://mp.weixin.qq.com/s/rHJkJw9TFGaAR8bWDM5wmg)
+    - [2024-02-22，关于Google开源Gemma的一些想法](https://mp.weixin.qq.com/s/H2ie4vuhLqr4UKtgvZZtEQ)
   - 微信公众号「对白的算法屋」
     - [2023-07-27，北交大TransGPT，开源了！](https://mp.weixin.qq.com/s/jSwvUIbNI_VQTBWGmwd3wg)
     - [2023-08-14，科大讯飞星火大模型2.0 终于体验上了！](https://mp.weixin.qq.com/s/fp3mnMLlh5oL5q7G0zsnpQ)
@@ -1578,10 +1602,36 @@
     - [2023-02-10，下一个ChatGPT？去中心化社交软件迎来现象级产品](https://mp.weixin.qq.com/s/rHnNMNNJLL-QFx3Uj97ekg)
   - 微信公众号「长城汽车」
     - [2023-08-18，DriveGPT与ChatGPT分不清楚？一起来认识这位全能选手](https://mp.weixin.qq.com/s/sE3JeBoLcZhEdJMT_oy_xg)
+  - 微信公众号「稀土掘金技术社区」
+    - [2024-02-23，谷歌最强开源大模型亮相！Gemini技术下放，笔记本就能跑，可商用](https://mp.weixin.qq.com/s/46ilHz7lGPdUnaxnwxPNRA)
+  - 微信公众号「码科智能」
+    - [2024-02-09，小鹏开源AI视频生成项目！在任何场景中的无缝插入任何对象，Corner Case将不复存在](https://mp.weixin.qq.com/s/uF44KNOIVX5k6Qyu6ccsxQ)
+    - [2024-02-21，DriveVLM：自动驾驶和大型视觉语言模型的融合（理想汽车）](https://mp.weixin.qq.com/s/58rm-zVnVTzM52Hn2EjIYQ)
+    - [2024-02-23，欢迎 Gemma: Google 推出可商用的大语言模型，主打开源和轻量！](https://mp.weixin.qq.com/s/VEJxO8UpVdNzqkxyKQRXaA)
+
+  - 微信公众号「AI闲谈」
+    - [2024-02-20，追本溯源：OpenAI Sora 技术报告解读](https://mp.weixin.qq.com/s/FYIC3F5po7_v0VP89pEORQ)
+
+  - 微信公众号「Second State」
+    - [2024-02-22，本地运行 Google 最新开源的 Gemma 系列模型](https://mp.weixin.qq.com/s/RrSZTli9rcehOb3FHj9NuA)
+
+  - 微信公众号「AI大模型实验室」
+    - [2024-02-22，谷歌发布最强大模型Gemma，性能碾压Llama 2](https://mp.weixin.qq.com/s/8S7ExKurnJrj3LWUAGRPPQ)
+
+  - 微信公众号「董董灿是个攻城狮」
+    - [2024-02-21，OpenAI 开放 Sora 内测资格申请通道，附手把手教学](https://mp.weixin.qq.com/s/18Nm_Uy2p7Y8LzKruHIdww)
+
+  - 微信公众号「自动驾驶Daily」
+    - [2024-02-23，清华&理想 | DRIVEVLM：自动驾驶和大型视觉语言模型的融合（复杂条件下超越所有SOTA）](https://mp.weixin.qq.com/s/wFl6PSss3haVmLk0m-tlZg)
+
+  - 微信公众号「MicroComputer」
+    - [2024-02-22，TensorRT LLM加速Gemma！NVIDIA与谷歌牵手，RTX助推AI聊天](https://mp.weixin.qq.com/s/UmLziuo5kVrVF2AVqd8gPg)
+
+  - 微信公众号「Xsuperzone」
+    - [2024-02-23，NVIDIA TensorRT-LLM 为 Google Gemma 加速推理](https://mp.weixin.qq.com/s/W4hbfsrCqWjSLVFHeGvobQ)
+
   - [知乎「猛猿」](https://www.zhihu.com/people/lemonround)
     - [2023-02-25，ChatGPT技术解析系列之：GPT1、GPT2与GPT3](https://zhuanlan.zhihu.com/p/609367098?utm_id=0)
-  - [bilibili](https://wallstreetcn.com/)
-    - [2023-07-19，【官方教程】ChatGLM2-6B 部署与微调](https://www.bilibili.com/video/BV1D94y1i7Qp/?spm_id_from=333.999.0.0)
   - [华尔街见闻](https://wallstreetcn.com/)
     - [2023-07-12，5年20亿美元！毕马威与微软签了大单，会计师事务所要All In AI了](https://wallstreetcn.com/articles/3693053)
   - [Jay Alammar](https://jalammar.github.io/)
@@ -1590,9 +1640,12 @@
     - [2023-07-18，Announcing LangSmith, a unified platform for debugging, testing, evaluating, and monitoring your LLM applications](https://blog.langchain.dev/announcing-langsmith/)
 
 
+## Videos
 
-
-
+  - bilibili「ChatGLM」
+    - [2023-07-19，【官方教程】ChatGLM2-6B 部署与微调](https://www.bilibili.com/video/BV1D94y1i7Qp/)
+  - bilibili「OpenMMLab」
+    - [2024-01-03，书生·浦语大模型全链路开源体系](https://www.bilibili.com/video/BV1Rc411b7ns/)
 
 
 
