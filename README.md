@@ -558,12 +558,13 @@
 
 
 
-
   - ### Learning Resources
 
     - [Microsoft OpenAI](https://aka.ms/cn/LearnOpenAI): Microsoft OpenAI 学习工具包。
 
     - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) <img src="https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social"/> :  Implementing a ChatGPT-like LLM from scratch, step by step. [https://www.manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+
+    - [datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm) <img src="https://img.shields.io/github/stars/datawhalechina/hugging-llm?style=social"/> :  HuggingLLM, Hugging Future. 蝴蝶书ButterflyBook. 配套视频教程：[https://b23.tv/hdnXn1L](https://www.bilibili.com/video/BV1ek4y1J7Rd/)
 
     - [phodal/aigc](https://github.com/phodal/aigc) <img src="https://img.shields.io/github/stars/phodal/aigc?style=social"/> : 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 
@@ -939,7 +940,6 @@
 
   - 微信公众号「NVIDIA英伟达」
     - [2023-10-27，现已公开发布！欢迎使用 NVIDIA TensorRT-LLM 优化大语言模型推理](https://mp.weixin.qq.com/s/QaSbvyAmI6XXtr0y6W4LNQ)
-
   - 微信公众号「Hugging Face」
     - [2023-08-16，关于 Llama 2 的一切资源，我们都帮你整理好了](https://mp.weixin.qq.com/s/-01Dg9ZVfPYM4mZ4iKt8Cw)
     - [2023-08-24，社区供稿 | 推理 1760 亿参数的 BLOOMZ，性能时延仅 3.7 秒](https://mp.weixin.qq.com/s/LNEK5DK3p03qHeMxpht7GQ)
@@ -1608,28 +1608,22 @@
     - [2024-02-09，小鹏开源AI视频生成项目！在任何场景中的无缝插入任何对象，Corner Case将不复存在](https://mp.weixin.qq.com/s/uF44KNOIVX5k6Qyu6ccsxQ)
     - [2024-02-21，DriveVLM：自动驾驶和大型视觉语言模型的融合（理想汽车）](https://mp.weixin.qq.com/s/58rm-zVnVTzM52Hn2EjIYQ)
     - [2024-02-23，欢迎 Gemma: Google 推出可商用的大语言模型，主打开源和轻量！](https://mp.weixin.qq.com/s/VEJxO8UpVdNzqkxyKQRXaA)
-
   - 微信公众号「AI闲谈」
     - [2024-02-20，追本溯源：OpenAI Sora 技术报告解读](https://mp.weixin.qq.com/s/FYIC3F5po7_v0VP89pEORQ)
-
   - 微信公众号「Second State」
     - [2024-02-22，本地运行 Google 最新开源的 Gemma 系列模型](https://mp.weixin.qq.com/s/RrSZTli9rcehOb3FHj9NuA)
-
   - 微信公众号「AI大模型实验室」
     - [2024-02-22，谷歌发布最强大模型Gemma，性能碾压Llama 2](https://mp.weixin.qq.com/s/8S7ExKurnJrj3LWUAGRPPQ)
-
   - 微信公众号「董董灿是个攻城狮」
     - [2024-02-21，OpenAI 开放 Sora 内测资格申请通道，附手把手教学](https://mp.weixin.qq.com/s/18Nm_Uy2p7Y8LzKruHIdww)
-
   - 微信公众号「自动驾驶Daily」
     - [2024-02-23，清华&理想 | DRIVEVLM：自动驾驶和大型视觉语言模型的融合（复杂条件下超越所有SOTA）](https://mp.weixin.qq.com/s/wFl6PSss3haVmLk0m-tlZg)
-
   - 微信公众号「MicroComputer」
     - [2024-02-22，TensorRT LLM加速Gemma！NVIDIA与谷歌牵手，RTX助推AI聊天](https://mp.weixin.qq.com/s/UmLziuo5kVrVF2AVqd8gPg)
-
   - 微信公众号「Xsuperzone」
     - [2024-02-23，NVIDIA TensorRT-LLM 为 Google Gemma 加速推理](https://mp.weixin.qq.com/s/W4hbfsrCqWjSLVFHeGvobQ)
-
+  - 微信公众号「Datawhale」
+    - [2023-04-22，《ChatGPT开发应用指南》，Datawhale开源了！](https://mp.weixin.qq.com/s/UiW0z4Eb4cSw6YRgAZ7GMQ)
   - [知乎「猛猿」](https://www.zhihu.com/people/lemonround)
     - [2023-02-25，ChatGPT技术解析系列之：GPT1、GPT2与GPT3](https://zhuanlan.zhihu.com/p/609367098?utm_id=0)
   - [华尔街见闻](https://wallstreetcn.com/)
@@ -1646,7 +1640,8 @@
     - [2023-07-19，【官方教程】ChatGLM2-6B 部署与微调](https://www.bilibili.com/video/BV1D94y1i7Qp/)
   - bilibili「OpenMMLab」
     - [2024-01-03，书生·浦语大模型全链路开源体系](https://www.bilibili.com/video/BV1Rc411b7ns/)
-
+  - bilibili「二次元的Datawhale」
+    - [2023-04-25，学会如何使用大模型，让创意有能力落地成应用：HuggingLLM，Hugging未来](https://www.bilibili.com/video/BV1ek4y1J7Rd/)
 
 
 
