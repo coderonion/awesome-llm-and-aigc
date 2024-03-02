@@ -309,6 +309,8 @@
 
         - [Sora](https://openai.com/sora) : Sora is an AI model that can create realistic and imaginative scenes from text instructions.
 
+        - [EMO](https://github.com/HumanAIGC/EMO) <img src="https://img.shields.io/github/stars/HumanAIGC/EMO?style=social"/> : "EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions". (**[arXiv 2024](https://arxiv.org/abs/2402.17485)**).
+
         - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) <img src="https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social"/> : Stable Diffusion is a latent text-to-image diffusion model. Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**).
 
         - [Stable Diffusion Version 2](https://github.com/Stability-AI/stablediffusion) <img src="https://img.shields.io/github/stars/Stability-AI/stablediffusion?style=social"/> : This repository contains [Stable Diffusion](https://github.com/CompVis/stable-diffusion) models trained from scratch and will be continuously updated with new checkpoints. "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**).
@@ -499,6 +501,8 @@
 
     - [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) <img src="https://img.shields.io/github/stars/lzwme/chatgpt-sites?style=social"/> : 搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新。[lzw.me/x/chatgpt-sites/](https://lzw.me/x/chatgpt-sites/)
 
+    - [jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) <img src="https://img.shields.io/github/stars/jxzhangjhu/Awesome-LLM-RAG?style=social"/> : Awesome-LLM-RAG: a curated list of advanced retrieval augmented generation (RAG) in Large Language Models.
+
     - [DefTruth/Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) <img src="https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference?style=social"/> : 📖A curated list of Awesome LLM Inference Paper with codes, TensorRT-LLM, vLLM, streaming-llm, AWQ, SmoothQuant, WINT8/4, Continuous Batching, FlashAttention, PagedAttention etc.
 
     - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) <img src="https://img.shields.io/github/stars/eugeneyan/open-llms?style=social"/> : 📋 A list of open LLMs available for commercial use.
@@ -593,6 +597,8 @@
 
 ## Prompts
 ### 提示语（魔法）
+
+  - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) <img src="https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh?style=social"/> : ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。[chat.aimakex.com/](https://chat.aimakex.com/)
 
   - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better.
 
