@@ -309,6 +309,8 @@
 
         - [Sora](https://openai.com/sora) : Sora is an AI model that can create realistic and imaginative scenes from text instructions.
 
+        - [Open Sora Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) <img src="https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Pla?style=social"/> :his project aim to reproducing [Sora](https://openai.com/sora) (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. 本项目希望通过开源社区的力量复现Sora，由北大-兔展AIGC联合实验室共同发起，当前我们资源有限仅搭建了基础架构，无法进行完整训练，希望通过开源社区逐步增加模块并筹集资源进行训练，当前版本离目标差距巨大，仍需持续完善和快速迭代，欢迎Pull request！！！[Project Page](https://pku-yuangroup.github.io/Open-Sora-Plan/) [中文主页](https://pku-yuangroup.github.io/Open-Sora-Plan/blog_cn.html)
+
         - [EMO](https://github.com/HumanAIGC/EMO) <img src="https://img.shields.io/github/stars/HumanAIGC/EMO?style=social"/> : "EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions". (**[arXiv 2024](https://arxiv.org/abs/2402.17485)**).
 
         - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) <img src="https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social"/> : Stable Diffusion is a latent text-to-image diffusion model. Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work "High-Resolution Image Synthesis with Latent Diffusion Models". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)**).
@@ -396,13 +398,23 @@
 
       - [Candle](https://github.com/huggingface/candle) <img src="https://img.shields.io/github/stars/huggingface/candle?style=social"/> : Minimalist ML framework for Rust.
 
-      - [Tokenizers](https://github.com/huggingface/tokenizers) <img src="https://img.shields.io/github/stars/huggingface/tokenizers?style=social"/> : 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production. [huggingface.co/docs/tokenizers](https://huggingface.co/docs/tokenizers/index)
-
       - [Safetensors](https://github.com/huggingface/safetensors) <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social"/> : Simple, safe way to store and distribute tensors. [huggingface.co/docs/safetensors](https://huggingface.co/docs/safetensors/index)
+
+      - [Tokenizers](https://github.com/huggingface/tokenizers) <img src="https://img.shields.io/github/stars/huggingface/tokenizers?style=social"/> : 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production. [huggingface.co/docs/tokenizers](https://huggingface.co/docs/tokenizers/index)
 
       - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
 
-      - [miketang84/candle_demo_openchat_35](https://github.com/miketang84/candle_demo_openchat_35) <img src="https://img.shields.io/github/stars/miketang84/candle_demo_openchat_35?style=social"/> : candle_demo_openchat_35.
+      - [dfdx](https://github.com/coreylowman/dfdx) <img src="https://img.shields.io/github/stars/coreylowman/dfdx?style=social"/> : Deep learning in Rust, with shape checked tensors and neural networks.
+
+      - [luminal](https://github.com/jafioti/luminal) <img src="https://img.shields.io/github/stars/jafioti/luminal?style=social"/> : Deep learning at the speed of light. [www.luminalai.com/](https://www.luminalai.com/)
+
+      - [crabml](https://github.com/crabml/crabml) <img src="https://img.shields.io/github/stars/crabml/crabml?style=social"/> : crabml is focusing on the reimplementation of GGML using the Rust programming language.
+
+      - [TensorFlow Rust](https://github.com/tensorflow/rust) <img src="https://img.shields.io/github/stars/tensorflow/rust?style=social"/> : Rust language bindings for TensorFlow.
+
+      - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch.
+
+      - [rustai-solutions/candle_demo_openchat_35](https://github.com/rustai-solutions/candle_demo_openchat_35) <img src="https://img.shields.io/github/stars/rustai-solutions/candle_demo_openchat_35?style=social"/> : candle_demo_openchat_35.
 
       - [llama2.rs](https://github.com/srush/llama2.rs) <img src="https://img.shields.io/github/stars/srush/llama2.rs?style=social"/> : A fast llama2 decoder in pure Rust.
 
@@ -1614,6 +1626,7 @@
     - [2024-02-09，小鹏开源AI视频生成项目！在任何场景中的无缝插入任何对象，Corner Case将不复存在](https://mp.weixin.qq.com/s/uF44KNOIVX5k6Qyu6ccsxQ)
     - [2024-02-21，DriveVLM：自动驾驶和大型视觉语言模型的融合（理想汽车）](https://mp.weixin.qq.com/s/58rm-zVnVTzM52Hn2EjIYQ)
     - [2024-02-23，欢迎 Gemma: Google 推出可商用的大语言模型，主打开源和轻量！](https://mp.weixin.qq.com/s/VEJxO8UpVdNzqkxyKQRXaA)
+    - [2024-03-04，Open Sora Plan! 北大-兔展AIGC联合实验室共同发起，希望通过开源社区的力量复现Sora](https://mp.weixin.qq.com/s/FcJN-95C4Ox_uYpNTCwn9A)
   - 微信公众号「AI闲谈」
     - [2024-02-20，追本溯源：OpenAI Sora 技术报告解读](https://mp.weixin.qq.com/s/FYIC3F5po7_v0VP89pEORQ)
   - 微信公众号「Second State」
@@ -1630,6 +1643,8 @@
     - [2024-02-23，NVIDIA TensorRT-LLM 为 Google Gemma 加速推理](https://mp.weixin.qq.com/s/W4hbfsrCqWjSLVFHeGvobQ)
   - 微信公众号「Datawhale」
     - [2023-04-22，《ChatGPT开发应用指南》，Datawhale开源了！](https://mp.weixin.qq.com/s/UiW0z4Eb4cSw6YRgAZ7GMQ)
+  - 微信公众号「蜂耘网」
+    - [2024-03-04，北大发起Open-Sora开源计划，研究“国产版sora”](https://mp.weixin.qq.com/s/N5zoOafYLYZfxOzulqjNjg)
   - [知乎「猛猿」](https://www.zhihu.com/people/lemonround)
     - [2023-02-25，ChatGPT技术解析系列之：GPT1、GPT2与GPT3](https://zhuanlan.zhihu.com/p/609367098?utm_id=0)
   - [华尔街见闻](https://wallstreetcn.com/)
