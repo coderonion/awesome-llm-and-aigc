@@ -23,18 +23,17 @@
     - [Learning Resources](#learning-resources)
     - [Community](#community)
   - [Prompts](#prompts)
+  - [RAG Framework](#rag-framework)
   - [Open API](#open-api)
     - [Python API](#python-api)
     - [Rust API](#rust-api)
     - [Csharp API](#csharp-api)
     - [Node.js API](#node.js-api)
-  - [Datasets](#datasets)
-    - [Multimodal Datasets](#multimodal-datasets)
-  - [RAG Framework](#rag-framework)
   - [Applications](#applications)
     - [IDE](#ide)
     - [Chatbot](#chatbot)
-    - [Code Generation](#code-generation)
+    - [Embodied AI](#embodied-ai)
+    - [Code Assistant](#code-assistant)
     - [Translator](#translator)
     - [Local knowledge Base](#local-knowledge-base)
     - [Question Answering System](#question-answering-system)
@@ -44,6 +43,9 @@
     - [Legal Field](#legal-field)
     - [Financial Field](#Financial-field)
     - [Math Field](#math-field)
+    - [Music Field](#music-field)
+    - [Animation Field](#animation-field)
+    - [Food Field](#food-field)
     - [Tool Learning](#tool-learning)
     - [Autonomous Driving Field](#autonomous-driving-field)
     - [Adversarial Attack Field](#adversarial-attack-field)
@@ -51,6 +53,8 @@
     - [Device Deployment](#device-deployment)
     - [AI Avatar](#ai-avatar)
     - [GUI](#gui)
+  - [Datasets](#datasets)
+    - [Multimodal Datasets](#multimodal-datasets)
   - [Blogs](#blogs)
   - [Videos](#videos)
 
@@ -592,7 +596,9 @@
 
     - [datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm) <img src="https://img.shields.io/github/stars/datawhalechina/hugging-llm?style=social"/> :  HuggingLLM, Hugging Future. 蝴蝶书ButterflyBook. 配套视频教程：[https://b23.tv/hdnXn1L](https://www.bilibili.com/video/BV1ek4y1J7Rd/)
 
-    - [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) <img src="https://img.shields.io/github/stars/DjangoPeng/openai-quickstart?style=social"/> :   A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.
+    - [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) <img src="https://img.shields.io/github/stars/DjangoPeng/openai-quickstart?style=social"/> : A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.
+
+    - [SmartFlowAI/Hand-on-RAG](https://github.com/SmartFlowAI/Hand-on-RAG) <img src="https://img.shields.io/github/stars/SmartFlowAI/Hand-on-RAG?style=social"/> : Hand on RAG.  顾名思义：手搓的RAG。
 
     - [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) <img src="https://img.shields.io/github/stars/liguodongiot/llm-action?style=social"/> :  本项目旨在分享大模型相关技术原理以及实战经验。
 
@@ -622,6 +628,8 @@
 ## Prompts
 ### 提示语（魔法）
 
+  - [EmbraceAGI/LangGPT](https://github.com/EmbraceAGI/LangGPT) <img src="https://img.shields.io/github/stars/EmbraceAGI/LangGPT?style=social"/> : LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt [feishu.langgpt.ai/](http://feishu.langgpt.ai/)
+
   - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) <img src="https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh?style=social"/> : ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。[chat.aimakex.com/](https://chat.aimakex.com/)
 
   - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) <img src="https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social"/> : This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -630,6 +638,18 @@
 
   - [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) <img src="https://img.shields.io/github/stars/kevinamiri/Instructgpt-prompts?style=social"/> : A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text. [prompts.maila.ai/](https://prompts.maila.ai/)
 
+
+## RAG Framework
+
+  - [Dify](https://github.com/langgenius/dify) <img src="https://img.shields.io/github/stars/langgenius/dify?style=social"/> : An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine. [dify.ai](https://dify.ai/)
+
+  - [LlamaIndex](https://github.com/run-llama/llama_index) <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social"/> : LlamaIndex is a data framework for your LLM applications. [docs.llamaindex.ai](https://docs.llamaindex.ai/)
+
+  - [Embedchain](https://github.com/embedchain/embedchain) <img src="https://img.shields.io/github/stars/embedchain/embedchain?style=social"/> : The Open Source RAG framework. [docs.embedchain.ai](https://docs.embedchain.ai/)
+
+  - [R2R](https://github.com/SciPhi-AI/R2R) <img src="https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social"/> : A framework for rapid development and deployment of production-ready RAG systems. [docs.sciphi.ai](https://docs.sciphi.ai/)
+
+  - [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) <img src="https://img.shields.io/github/stars/langchain-ai/rag-from-scratch?style=social"/> : Retrieval augmented generation (RAG) comes is a general methodology for connecting LLMs with external data sources. These notebooks accompany a video series will build up an understanding of RAG from scratch, starting with the basics of indexing, retrieval, and generation.
 
 
 
@@ -672,32 +692,11 @@
 
 
 
-## Datasets
-### 数据集
-
-
-  - ### Multimodal Datasets
-    #### 多模态数据集
-
-    - [Youku-mPLUG](https://github.com/X-PLUG/Youku-mPLUG) <img src="https://img.shields.io/github/stars/X-PLUG/Youku-mPLUG?style=social"/> : "Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks". (**[arXiv 2023](https://arxiv.org/abs/2306.04362)**). "微信公众号「我爱计算机视觉」《[YouKu-mPLUG 最大中文视频语言数据集，助力增强多模态大型模型性能](https://mp.weixin.qq.com/s/iJoaKCykO09R3jTCylRTVA)》"。
-
-    - [Intern · WanJuan｜书生·万卷](https://github.com/opendatalab/WanJuan1.0) <img src="https://img.shields.io/github/stars/opendatalab/WanJuan1.0?style=social"/> : Intern · WanJuan Multimodal Corpus. 万卷1.0多模态语料。
-
-    - [matrix-alpha/Accountable-Textual-Visual-Chat](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) <img src="https://img.shields.io/github/stars/matrix-alpha/Accountable-Textual-Visual-Chat?style=social"/> : "Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation". (**[arXiv 2023](https://arxiv.org/abs/2303.05983)**). [https://matrix-alpha.github.io/](https://matrix-alpha.github.io/)
 
 
 
-## RAG Framework
 
-  - [Dify](https://github.com/langgenius/dify) <img src="https://img.shields.io/github/stars/langgenius/dify?style=social"/> : An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine. [dify.ai](https://dify.ai/)
 
-  - [LlamaIndex](https://github.com/run-llama/llama_index) <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social"/> : LlamaIndex is a data framework for your LLM applications. [docs.llamaindex.ai](https://docs.llamaindex.ai/)
-
-  - [Embedchain](https://github.com/embedchain/embedchain) <img src="https://img.shields.io/github/stars/embedchain/embedchain?style=social"/> : The Open Source RAG framework. [docs.embedchain.ai](https://docs.embedchain.ai/)
-
-  - [R2R](https://github.com/SciPhi-AI/R2R) <img src="https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social"/> : A framework for rapid development and deployment of production-ready RAG systems. [docs.sciphi.ai](https://docs.sciphi.ai/)
-
-  - [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) <img src="https://img.shields.io/github/stars/langchain-ai/rag-from-scratch?style=social"/> : Retrieval augmented generation (RAG) comes is a general methodology for connecting LLMs with external data sources. These notebooks accompany a video series will build up an understanding of RAG from scratch, starting with the basics of indexing, retrieval, and generation.
 
 
 
@@ -720,6 +719,24 @@
     - [a16z-infra/llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot) <img src="https://img.shields.io/github/stars/a16z-infra/llama2-chatbot?style=social"/> : LLaMA 2 Chatbot App ⚡
 
     - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) <img src="https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social"/> : Use ChatGPT On Wechat via wechaty.
+
+    - [InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou) <img src="https://img.shields.io/github/stars/InternLM/HuixiangDou?style=social"/> : “茴香豆”是一个基于 LLM 的领域知识助手。"HuixiangDou" is a domain-specific knowledge assistant based on the LLM.
+
+
+  - ### Role Play
+    #### 角色扮演
+
+    - [KMnO4-zx/xlab-huanhuan](https://github.com/KMnO4-zx/xlab-huanhuan) <img src="https://img.shields.io/github/stars/KMnO4-zx/xlab-huanhuan?style=social"/> : Chat-甄嬛是利用《甄嬛传》剧本中所有关于甄嬛的台词和语句，基于[InternLM2](https://github.com/InternLM/InternLM.git)进行LoRA微调或全量微调得到的模仿甄嬛语气的聊天语言模型。
+
+    - [JimmyMa99/Roleplay-with-XiYou](https://github.com/JimmyMa99/Roleplay-with-XiYou) <img src="https://img.shields.io/github/stars/JimmyMa99/Roleplay-with-XiYou?style=social"/> : Roleplay-with-XiYou 西游角色扮演。基于《西游记》原文、白话文、ChatGPT生成数据制作的，以InternLM2微调的角色扮演多LLM聊天室。 本项目将介绍关于角色扮演类 LLM 的一切，从数据获取、数据处理，到使用 XTuner 微调并部署至 OpenXLab，再到使用 LMDeploy 部署，以 openai api 的方式接入简单的聊天室，并可以观看不同角色的 LLM 互相交流、互怼。
+
+
+
+
+  - ### Embodied AI
+    #### 具身智能
+
+    - [BestAnHongjun/InternDog](https://github.com/BestAnHongjun/InternDog) <img src="https://img.shields.io/github/stars/BestAnHongjun/InternDog?style=social"/> : InternDog: 基于InternLM2大模型的离线具身智能导盲犬。
 
 
 
@@ -759,6 +776,7 @@
     - [yanqiangmiffy/Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain) <img src="https://img.shields.io/github/stars/yanqiangmiffy/Chinese-LangChain?style=social"/> : Chinese-LangChain：中文langchain项目，基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成。俗称：小必应，Q.Talk，强聊，QiangTalk。
 
     - [labring/FastGPT](https://github.com/labring/FastGPT) <img src="https://img.shields.io/github/stars/labring/FastGPT?style=social"/> : FastGPT is a knowledge-based question answering system built on the LLM. It offers out-of-the-box data processing and model invocation capabilities. Moreover, it allows for workflow orchestration through Flow visualization, thereby enabling complex question and answer scenarios! [fastgpt.run](https://fastgpt.run/)
+
 
 
 
@@ -825,6 +843,8 @@
 
     - [MeChat](https://github.com/qiuhuachuan/smile) <img src="https://img.shields.io/github/stars/qiuhuachuan/smile?style=social"/> : MeChat：中文心理健康支持对话大模型与数据集。 "SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support". (**[arXiv 2023](https://arxiv.org/abs/2305.00450)**).
 
+    - [SmartFlowAI/EmoLLM](https://github.com/SmartFlowAI/EmoLLM) <img src="https://img.shields.io/github/stars/SmartFlowAI/EmoLLM?style=social"/> : EmoLLM-心理健康大模型是一系列能够支持 理解用户-支持用户-帮助用户 心理健康辅导链路的心理健康大模型，由 LLM指令微调而来。心理健康大模型、LLM、The Big Model of Mental Health、Finetune、InternLM2、Qwen、ChatGLM、Baichuan、DeepSeek、Mixtral。
+
 
 
 
@@ -853,6 +873,30 @@
     - [Progressive-Hint](https://github.com/chuanyang-Zheng/Progressive-Hint) <img src="https://img.shields.io/github/stars/chuanyang-Zheng/Progressive-Hint?style=social"/> : "Progressive-Hint Prompting Improves Reasoning in Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2304.09797)**).
 
     - [Goat](https://github.com/liutiedong/goat) <img src="https://img.shields.io/github/stars/liutiedong/goat?style=social"/> : "Goat: Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks". (**[arXiv 2023](https://arxiv.org/abs/2305.14201)**). "微信公众号「AINLPer」《[近乎完美！最强算术语言模型: Goar-7B，干翻GPT-4，怒越PaLM-540B！24G可训练](https://mp.weixin.qq.com/s/_haINkHNV4bMszm9F41yXA)》"。
+
+    - [AXYZdong/AMchat](https://github.com/AXYZdong/AMchat) <img src="https://img.shields.io/github/stars/AXYZdong/AMchat?style=social"/> : AMchat 高等数学大模型。AM (Advanced Mathematics) Chat is a large language model that integrates advanced mathematical knowledge, exercises in higher mathematics, and their solutions. AM (Advanced Mathematics) chat 高等数学大模型。一个集成数学知识和高等数学习题及其解答的大语言模型。
+
+
+
+  - ### Music Field
+    #### 音乐领域
+
+    - [GuoYiFantastic/IMelodist](https://github.com/GuoYiFantastic/IMelodist) <img src="https://img.shields.io/github/stars/GuoYiFantastic/IMelodist?style=social"/> : 旋律大师-IMelodist. Music large model based on InternLM2-chat.
+
+
+
+
+  - ### Animation Field
+    #### 动漫领域
+
+    - [SaaRaaS-1300/InternLM2_horowag](https://github.com/SaaRaaS-1300/InternLM2_horowag) <img src="https://img.shields.io/github/stars/SaaRaaS-1300/InternLM2_horowag?style=social"/> : 🍿InternLM2_Horowag🍿 🍏专门为 2024 书生·浦语大模型挑战赛 (春季赛) 准备的 Repo🍎收录了赫萝相关的微调模型。
+
+
+  - ### Food Field
+    #### 食品领域
+
+    - [SmartFlowAI/TheGodOfCookery](https://github.com/SmartFlowAI/TheGodOfCookery) <img src="https://img.shields.io/github/stars/SmartFlowAI/TheGodOfCookery?style=social"/> : 食神（The God Of Cookery）。本项目名称为“食神”（ The God Of Cookery ），灵感来自喜剧大师周星驰主演的著名电影《食神》，旨在通过人工智能技术为用户提供烹饪咨询和食谱推荐，帮助用户更好地学习和实践烹饪技巧，降低烹饪门槛，实现《食神》电影中所讲的“只要用心，人人皆能做食神”。
+
 
 
 
@@ -985,6 +1029,20 @@
 
 
 
+## Datasets
+### 数据集
+
+
+  - ### Multimodal Datasets
+    #### 多模态数据集
+
+    - [Youku-mPLUG](https://github.com/X-PLUG/Youku-mPLUG) <img src="https://img.shields.io/github/stars/X-PLUG/Youku-mPLUG?style=social"/> : "Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks". (**[arXiv 2023](https://arxiv.org/abs/2306.04362)**). "微信公众号「我爱计算机视觉」《[YouKu-mPLUG 最大中文视频语言数据集，助力增强多模态大型模型性能](https://mp.weixin.qq.com/s/iJoaKCykO09R3jTCylRTVA)》"。
+
+    - [Intern · WanJuan｜书生·万卷](https://github.com/opendatalab/WanJuan1.0) <img src="https://img.shields.io/github/stars/opendatalab/WanJuan1.0?style=social"/> : Intern · WanJuan Multimodal Corpus. 万卷1.0多模态语料。
+
+    - [matrix-alpha/Accountable-Textual-Visual-Chat](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) <img src="https://img.shields.io/github/stars/matrix-alpha/Accountable-Textual-Visual-Chat?style=social"/> : "Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation". (**[arXiv 2023](https://arxiv.org/abs/2303.05983)**). [https://matrix-alpha.github.io/](https://matrix-alpha.github.io/)
+
+
 
 
 ## Blogs
@@ -997,14 +1055,18 @@
     - [2023-08-24，使用 AutoGPTQ 和 transformers 让大语言模型更轻量化](https://mp.weixin.qq.com/s/uaIxZFpcVTsKE_uA-V37bQ)
     - [2023-08-28，Hugging News #0821: Hugging Face 完成 2.35 亿美元 D 轮融资](https://mp.weixin.qq.com/s/s0lzSI5qZ5oJm5O0lh_5mg)
     - [2024-02-22，欢迎 Gemma: Google 最新推出开源大语言模型](https://mp.weixin.qq.com/s/E52nPpWrhnU7wMLpOhVz5Q)
-  - 微信公众号「AIoffer」
-    - [2023-08-24，商汤研究院基础视觉组(大模型专题)正式员工（校招、社招）[目前还有多个HC，含相应资深岗位需求]&实习生长期招聘](https://mp.weixin.qq.com/s/fFqeCh-kLbfcCqO97Jl6yQ)
-  - 微信公众号「腾讯技术工程」
-    - [2023-08-17，一文入门最热的LLM应用开发框架LangChain](https://mp.weixin.qq.com/s/bYzNNL3F0998Do2Jl0PQtw)
+  - 微信公众号「InternLM」
+    - [2024-03-05，你一票我一票，首期书生·浦语大模型实战营明星项目就出道！](https://mp.weixin.qq.com/s/-MpBhlV-kLMUf4lMeFoFlw)
+    - [2024-03-25，首届书生·浦源大模型挑战赛圆满收官，实战营学员大放异彩！](https://mp.weixin.qq.com/s/_n0OyGsYxlO9arUak8cMNg)
+    - [2024-03-26，LLM问答助手茴香豆发布web版，零开发集成微信&飞书群](https://mp.weixin.qq.com/s/Ru-JS-3QQVIRsdREjiDurg)
   - 微信公众号「GLM大模型」
     - [2023-06-25，【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA)
     - [2023-07-14，【公告】ChatGLM2-6B，免费商用](https://mp.weixin.qq.com/s/pNMcR2c6kFV1TVaI8wzHRg)
     - [2023-07-25，【发布】代码模型 CodeGeeX2-6B 开源，最低6GB显存，性能优于StarCoder](https://mp.weixin.qq.com/s/qw31ThM4AjG6RrjNwsfZwg)
+  - 微信公众号「腾讯研究院」
+    - [2024-03-04，从诊室到云端：医疗大模型的应用挑战与未来探索](https://mp.weixin.qq.com/s/BoDq30q0K0kEKYzZhn71sQ)
+  - 微信公众号「腾讯技术工程」
+    - [2023-08-17，一文入门最热的LLM应用开发框架LangChain](https://mp.weixin.qq.com/s/bYzNNL3F0998Do2Jl0PQtw)
   - 微信公众号「微软科技」
     - [2023-02-16，揭秘ChatGPT走红背后的独门云科技！](https://mp.weixin.qq.com/s/qYZ7G5uLHTiLG8AonIch8g)
     - [2023-07-26，Llama 2 登陆 Azure 和 Windows，微软与 Meta 拓展人工智能合作伙伴关系](https://mp.weixin.qq.com/s/pQLd5ZVNLdhnguPmmaDlCg)
@@ -1678,6 +1740,8 @@
     - [2023-04-22，《ChatGPT开发应用指南》，Datawhale开源了！](https://mp.weixin.qq.com/s/UiW0z4Eb4cSw6YRgAZ7GMQ)
   - 微信公众号「蜂耘网」
     - [2024-03-04，北大发起Open-Sora开源计划，研究“国产版sora”](https://mp.weixin.qq.com/s/N5zoOafYLYZfxOzulqjNjg)
+  - 微信公众号「AIoffer」
+    - [2023-08-24，商汤研究院基础视觉组(大模型专题)正式员工（校招、社招）[目前还有多个HC，含相应资深岗位需求]&实习生长期招聘](https://mp.weixin.qq.com/s/fFqeCh-kLbfcCqO97Jl6yQ)
   - [知乎「猛猿」](https://www.zhihu.com/people/lemonround)
     - [2023-02-25，ChatGPT技术解析系列之：GPT1、GPT2与GPT3](https://zhuanlan.zhihu.com/p/609367098?utm_id=0)
   - [华尔街见闻](https://wallstreetcn.com/)
@@ -1690,10 +1754,10 @@
 
 ## Videos
 
-  - bilibili「ChatGLM」
-    - [2023-07-19，【官方教程】ChatGLM2-6B 部署与微调](https://www.bilibili.com/video/BV1D94y1i7Qp/)
   - bilibili「OpenMMLab」
     - [2024-01-03，书生·浦语大模型全链路开源体系](https://www.bilibili.com/video/BV1Rc411b7ns/)
+  - bilibili「ChatGLM」
+    - [2023-07-19，【官方教程】ChatGLM2-6B 部署与微调](https://www.bilibili.com/video/BV1D94y1i7Qp/)
   - bilibili「二次元的Datawhale」
     - [2023-04-25，学会如何使用大模型，让创意有能力落地成应用：HuggingLLM，Hugging未来](https://www.bilibili.com/video/BV1ek4y1J7Rd/)
 
