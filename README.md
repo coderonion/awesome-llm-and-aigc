@@ -56,6 +56,7 @@
     - [AI Avatar](#ai-avatar)
     - [GUI](#gui)
   - [Datasets](#datasets)
+    - [SFT Datasets](#sft-datasets)
     - [Multimodal Datasets](#multimodal-datasets)
   - [Blogs](#blogs)
   - [Videos](#videos)
@@ -605,13 +606,20 @@
 
   - ### Learning Resources
 
-    - [Microsoft OpenAI](https://aka.ms/cn/LearnOpenAI): Microsoft OpenAI 学习工具包。
 
     - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) <img src="https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social"/> :  Implementing a ChatGPT-like LLM from scratch, step by step. [https://www.manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 
     - [datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm) <img src="https://img.shields.io/github/stars/datawhalechina/hugging-llm?style=social"/> :  HuggingLLM, Hugging Future. 蝴蝶书ButterflyBook. 配套视频教程：[https://b23.tv/hdnXn1L](https://www.bilibili.com/video/BV1ek4y1J7Rd/)
 
-    - [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) <img src="https://img.shields.io/github/stars/DjangoPeng/openai-quickstart?style=social"/> : A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.
+    - [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) <img src="https://img.shields.io/github/stars/DjangoPeng/openai-quickstart?style=social"/> : A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications. 本项目旨在为所有对大型语言模型及其在生成式人工智能（AIGC）场景中应用的人们提供一站式学习资源。通过提供理论基础，开发基础，和实践示例，该项目对这些前沿主题提供了全面的指导。
+
+    - [DLLXW/baby-llama2-chinese](https://github.com/DLLXW/baby-llama2-chinese) <img src="https://img.shields.io/github/stars/DLLXW/baby-llama2-chinese?style=social"/> : 用于从头预训练+SFT一个小参数量的中文LLaMa2的仓库；24G单卡即可运行得到一个具备简单中文问答能力的chat-llama2.
+
+    - [charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese) <img src="https://img.shields.io/github/stars/charent/ChatLM-mini-Chinese?style=social"/> : 中文对话0.2B小模型（ChatLM-Chinese-0.2B），开源所有数据集来源、数据清洗、tokenizer训练、模型预训练、SFT指令微调、RLHF优化等流程的全部代码。支持下游任务sft微调，给出三元组信息抽取微调示例。
+
+    - [charent/Phi2-mini-Chinese](https://github.com/charent/Phi2-mini-Chinese) <img src="https://img.shields.io/github/stars/charent/Phi2-mini-Chinese?style=social"/> : Phi2-Chinese-0.2B 从0开始训练自己的Phi2中文小模型，支持接入langchain加载本地知识库做检索增强生成RAG。Training your own Phi2 small chat model from scratch.
+
+    - [jiahe7ay/MINI_LLM](https://github.com/jiahe7ay/MINI_LLM) <img src="https://img.shields.io/github/stars/jiahe7ay/MINI_LLM?style=social"/> : This is a repository used by individuals to experiment and reproduce the pre-training process of LLM.
 
     - [SmartFlowAI/Hand-on-RAG](https://github.com/SmartFlowAI/Hand-on-RAG) <img src="https://img.shields.io/github/stars/SmartFlowAI/Hand-on-RAG?style=social"/> : Hand on RAG.  顾名思义：手搓的RAG。
 
@@ -1033,6 +1041,15 @@
 ### 数据集
 
 
+  - ### SFT Datasets
+    #### SFT数据集
+
+    - [chaoswork/sft_datasets](https://github.com/chaoswork/sft_datasets) <img src="https://img.shields.io/github/stars/chaoswork/sft_datasets?style=social"/> : 开源SFT数据集整理,随时补充。
+
+
+
+
+
   - ### Multimodal Datasets
     #### 多模态数据集
 
@@ -1041,6 +1058,12 @@
     - [Intern · WanJuan｜书生·万卷](https://github.com/opendatalab/WanJuan1.0) <img src="https://img.shields.io/github/stars/opendatalab/WanJuan1.0?style=social"/> : Intern · WanJuan Multimodal Corpus. 万卷1.0多模态语料。
 
     - [matrix-alpha/Accountable-Textual-Visual-Chat](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) <img src="https://img.shields.io/github/stars/matrix-alpha/Accountable-Textual-Visual-Chat?style=social"/> : "Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation". (**[arXiv 2023](https://arxiv.org/abs/2303.05983)**). [https://matrix-alpha.github.io/](https://matrix-alpha.github.io/)
+
+
+
+
+
+
 
 
 
@@ -1742,14 +1765,19 @@
     - [2024-03-04，北大发起Open-Sora开源计划，研究“国产版sora”](https://mp.weixin.qq.com/s/N5zoOafYLYZfxOzulqjNjg)
   - 微信公众号「AIoffer」
     - [2023-08-24，商汤研究院基础视觉组(大模型专题)正式员工（校招、社招）[目前还有多个HC，含相应资深岗位需求]&实习生长期招聘](https://mp.weixin.qq.com/s/fFqeCh-kLbfcCqO97Jl6yQ)
+  - [知乎「Lil2J」](https://www.zhihu.com/people/ai-er-sha-la-wei-81)
+    - [2024-03-02，从0开始预训练1.4b中文大模型实践](https://zhuanlan.zhihu.com/p/684946331)
+  - [知乎「老苏聊AI」](https://www.zhihu.com/people/su-pin-yu)
+    - [2023-12-16，中文大模型预训练数据集介绍](https://zhuanlan.zhihu.com/p/672560962)
   - [知乎「猛猿」](https://www.zhihu.com/people/lemonround)
-    - [2023-02-25，ChatGPT技术解析系列之：GPT1、GPT2与GPT3](https://zhuanlan.zhihu.com/p/609367098?utm_id=0)
+    - [2023-02-25，ChatGPT技术解析系列之：GPT1、GPT2与GPT3](https://zhuanlan.zhihu.com/p/609367098)
   - [华尔街见闻](https://wallstreetcn.com/)
     - [2023-07-12，5年20亿美元！毕马威与微软签了大单，会计师事务所要All In AI了](https://wallstreetcn.com/articles/3693053)
   - [Jay Alammar](https://jalammar.github.io/)
     - [2018-06-27，The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
   - 「[The official LangChain blog](https://blog.langchain.dev/)」
     - [2023-07-18，Announcing LangSmith, a unified platform for debugging, testing, evaluating, and monitoring your LLM applications](https://blog.langchain.dev/announcing-langsmith/)
+
 
 
 ## Videos
