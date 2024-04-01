@@ -56,8 +56,9 @@
     - [AI Avatar](#ai-avatar)
     - [GUI](#gui)
   - [Datasets](#datasets)
-    - [SFT Datasets](#sft-datasets)
+    - [Open Datasets Platform](#open-datasets-platform)
     - [Multimodal Datasets](#multimodal-datasets)
+    - [SFT Datasets](#sft-datasets)
   - [Blogs](#blogs)
   - [Videos](#videos)
 
@@ -606,12 +607,15 @@
 
   - ### Learning Resources
 
+    - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) <img src="https://img.shields.io/github/stars/mlabonne/llm-course?style=social"/> :  Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.[mlabonne.github.io/blog/](https://mlabonne.github.io/blog/)
 
     - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) <img src="https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social"/> :  Implementing a ChatGPT-like LLM from scratch, step by step. [https://www.manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 
     - [datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm) <img src="https://img.shields.io/github/stars/datawhalechina/hugging-llm?style=social"/> :  HuggingLLM, Hugging Future. 蝴蝶书ButterflyBook. 配套视频教程：[https://b23.tv/hdnXn1L](https://www.bilibili.com/video/BV1ek4y1J7Rd/)
 
     - [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) <img src="https://img.shields.io/github/stars/DjangoPeng/openai-quickstart?style=social"/> : A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications. 本项目旨在为所有对大型语言模型及其在生成式人工智能（AIGC）场景中应用的人们提供一站式学习资源。通过提供理论基础，开发基础，和实践示例，该项目对这些前沿主题提供了全面的指导。
+
+    - [InternLM/Tutorial](https://github.com/InternLM/Tutorial) <img src="https://img.shields.io/github/stars/InternLM/Tutorial?style=social"/> : 书生·浦语大模型实战营。为了推动大模型在更多行业落地开花，让开发者们更高效的学习大模型的开发与应用，上海人工智能实验室重磅推出书生·浦语大模型实战营，为广大开发者搭建大模型学习和实践开发的平台，两周时间带你玩转大模型微调、部署与评测全链路。
 
     - [DLLXW/baby-llama2-chinese](https://github.com/DLLXW/baby-llama2-chinese) <img src="https://img.shields.io/github/stars/DLLXW/baby-llama2-chinese?style=social"/> : 用于从头预训练+SFT一个小参数量的中文LLaMa2的仓库；24G单卡即可运行得到一个具备简单中文问答能力的chat-llama2.
 
@@ -1040,13 +1044,10 @@
 ## Datasets
 ### 数据集
 
+  - ### Open Datasets Platform
+    #### 开放数据集平台
 
-  - ### SFT Datasets
-    #### SFT数据集
-
-    - [chaoswork/sft_datasets](https://github.com/chaoswork/sft_datasets) <img src="https://img.shields.io/github/stars/chaoswork/sft_datasets?style=social"/> : 开源SFT数据集整理,随时补充。
-
-
+    - [OpenDataLab](https://opendatalab.org.cn/) : 为大模型提供高质量的开放数据集！
 
 
 
@@ -1059,6 +1060,12 @@
 
     - [matrix-alpha/Accountable-Textual-Visual-Chat](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) <img src="https://img.shields.io/github/stars/matrix-alpha/Accountable-Textual-Visual-Chat?style=social"/> : "Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation". (**[arXiv 2023](https://arxiv.org/abs/2303.05983)**). [https://matrix-alpha.github.io/](https://matrix-alpha.github.io/)
 
+
+
+  - ### SFT Datasets
+    #### SFT数据集
+
+    - [chaoswork/sft_datasets](https://github.com/chaoswork/sft_datasets) <img src="https://img.shields.io/github/stars/chaoswork/sft_datasets?style=social"/> : 开源SFT数据集整理,随时补充。
 
 
 
