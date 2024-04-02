@@ -14,6 +14,7 @@
       - [Application Development Platform](#application-development-platform)
       - [RAG Framework](#rag-framework)
       - [LLM Inference Framework](#llm-inference-framework)
+        - [LLM Inference benchmark](#llm-inference-benchmark)
         - [C Implementation](#c-implementation)
         - [CPP Implementation](#cpp-implementation)
         - [Rust Implementation](#rust-implementation)
@@ -173,7 +174,7 @@
 
         - [ChatGLM3](https://github.com/THUDM/ChatGLM3) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM3?style=social"/> : ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型。
 
-        - [InternLM｜书生](https://github.com/InternLM/InternLM) <img src="https://img.shields.io/github/stars/InternLM/InternLM?style=social"/> : InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system. InternLM ，即书生·浦语大模型，包含面向实用场景的70亿参数基础模型与对话模型 （InternLM-7B）。
+        - [InternLM｜书生·浦语](https://github.com/InternLM/InternLM) <img src="https://img.shields.io/github/stars/InternLM/InternLM?style=social"/> : Official release of InternLM2 7B and 20B base and chat models. 200K context support. [internlm.intern-ai.org.cn/](https://internlm.intern-ai.org.cn/)
 
         - [Baichuan-7B｜百川-7B](https://github.com/baichuan-inc/Baichuan-7B) <img src="https://img.shields.io/github/stars/baichuan-inc/Baichuan-7B?style=social"/> : A large-scale 7B pretraining language model developed by BaiChuan-Inc. Baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型。基于 Transformer 结构，在大约 1.2 万亿 tokens 上训练的 70 亿参数模型，支持中英双语，上下文窗口长度为 4096。在标准的中文和英文 benchmark（C-Eval/MMLU）上均取得同尺寸最好的效果。[huggingface.co/baichuan-inc/baichuan-7B](https://huggingface.co/baichuan-inc/Baichuan-7B)
 
@@ -386,6 +387,12 @@
     - #### LLM Inference Framework
       ##### 大语言模型推理框架
 
+
+        - ##### LLM Inference benchmark
+
+            - [ninehills/llm-inference-benchmark](https://github.com/ninehills/llm-inference-benchmark) <img src="https://img.shields.io/github/stars/ninehills/llm-inference-benchmark?style=social"/> : LLM Inference benchmark.
+
+
         - ##### C Implementation
 
             - [llama2.c](https://github.com/karpathy/llama2.c) <img src="https://img.shields.io/github/stars/karpathy/llama2.c?style=social"/> : Inference Llama 2 in one file of pure C.
@@ -397,13 +404,17 @@
 
             - [gemma.cpp](https://github.com/google/gemma.cpp) <img src="https://img.shields.io/github/stars/google/gemma.cpp?style=social"/> :  gemma.cpp is a lightweight, standalone C++ inference engine for the Gemma foundation models from Google.
 
-
-
             - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : Inference of [LLaMA](https://github.com/facebookresearch/llama) model in pure C/C++.
 
             - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) <img src="https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=social"/> : High-performance inference of [OpenAI's Whisper](https://github.com/openai/whisper) automatic speech recognition (ASR) model.
 
             - [ChatGLM.cpp](https://github.com/li-plus/chatglm.cpp) <img src="https://img.shields.io/github/stars/li-plus/chatglm.cpp?style=social"/> : C++ implementation of [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) and [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B).
+
+            - [MegEngine/InferLLM](https://github.com/MegEngine/InferLLM) <img src="https://img.shields.io/github/stars/MegEngine/InferLLM?style=social"/> : InferLLM is a lightweight LLM model inference framework that mainly references and borrows from the llama.cpp project.
+
+            - [DeployAI/nndeploy](https://github.com/DeployAI/nndeploy) <img src="https://img.shields.io/github/stars/DeployAI/nndeploy?style=social"/> : nndeploy是一款模型端到端部署框架。以多端推理以及基于有向无环图模型部署为内核，致力为用户提供跨平台、简单易用、高性能的模型部署体验。[nndeploy-zh.readthedocs.io/zh/latest/](https://nndeploy-zh.readthedocs.io/zh/latest/)
+
+            - [zjhellofss/KuiperInfer (自制深度学习推理框架)](https://github.com/zjhellofss/KuiperInfer) <img src="https://img.shields.io/github/stars/zjhellofss/KuiperInfer?style=social"/> :  带你从零实现一个高性能的深度学习推理库，支持llama 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step.
 
             - [skeskinen/llama-lite](https://github.com/skeskinen/llama-lite) <img src="https://img.shields.io/github/stars/skeskinen/llama-lite?style=social"/> : Embeddings focused small version of Llama NLP model.
 
@@ -416,7 +427,6 @@
             - [davidar/eigenGPT](https://github.com/davidar/eigenGPT) <img src="https://img.shields.io/github/stars/davidar/eigenGPT?style=social"/> : Minimal C++ implementation of GPT2.
 
 
-            - [InferLLM](https://github.com/MegEngine/InferLLM) <img src="https://img.shields.io/github/stars/MegEngine/InferLLM?style=social"/> : InferLLM is a lightweight LLM model inference framework that mainly references and borrows from the llama.cpp project.
 
 
 
@@ -730,11 +740,11 @@
 
     - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) <img src="https://img.shields.io/github/stars/OpenGVLab/Ask-Anything?style=social"/> : [VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS. [vchat.opengvlab.com/](https://vchat.opengvlab.com/). "VideoChat: Chat-Centric Video Understanding". (**[arXiv 2023](https://arxiv.org/abs/2305.06355)**).
 
+    - [InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou) <img src="https://img.shields.io/github/stars/InternLM/HuixiangDou?style=social"/> : HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance. "HuixiangDou" is a domain-specific knowledge assistant based on the LLM. “茴香豆”是一个基于 LLM 的领域知识助手。
+
     - [a16z-infra/llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot) <img src="https://img.shields.io/github/stars/a16z-infra/llama2-chatbot?style=social"/> : LLaMA 2 Chatbot App ⚡
 
     - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) <img src="https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social"/> : Use ChatGPT On Wechat via wechaty.
-
-    - [InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou) <img src="https://img.shields.io/github/stars/InternLM/HuixiangDou?style=social"/> : “茴香豆”是一个基于 LLM 的领域知识助手。"HuixiangDou" is a domain-specific knowledge assistant based on the LLM.
 
 
   - ### Role Play
