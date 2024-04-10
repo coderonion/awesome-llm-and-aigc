@@ -12,7 +12,8 @@
         - [Vision Foundation Model](#vision-foundation-model)
         - [AI Generated Content](#ai-generated-content)
       - [Application Development Platform](#application-development-platform)
-      - [RAG Framework](#rag-framework)
+      - [Fine-Tuning Framework](#fine-tuning-framework)
+      - [RAG Engine](#rag-engine)
       - [LLM Inference Framework](#llm-inference-framework)
         - [LLM Inference benchmark](#llm-inference-benchmark)
         - [C Implementation](#c-implementation)
@@ -90,7 +91,9 @@
 
         - [Llama 2](https://github.com/facebookresearch/llama) <img src="https://img.shields.io/github/stars/facebookresearch/llama?style=social"/> : Inference code for LLaMA models. "LLaMA: Open and Efficient Foundation Language Models". (**[arXiv 2023](https://arxiv.org/abs/2302.13971)**). "Llama 2: Open Foundation and Fine-Tuned Chat Models". (**[ai.meta.com, 2023-07-18](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)**). (**[2023-07-18, Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)**).
 
-        - [Gemma in PyTorch](https://github.com/google/gemma_pytorch) <img src="https://img.shields.io/github/stars/google/gemma_pytorch?style=social"/> :  The official PyTorch implementation of Google's Gemma models. [ai.google.dev/gemma](https://ai.google.dev/gemma)
+        - [Gemma](https://github.com/google/gemma_pytorch) <img src="https://img.shields.io/github/stars/google/gemma_pytorch?style=social"/> :  The official PyTorch implementation of Google's Gemma models. [ai.google.dev/gemma](https://ai.google.dev/gemma)
+
+        - [Grok-1](https://github.com/xai-org/grok-1) <img src="https://img.shields.io/github/stars/xai-org/grok-1?style=social"/> : This repository contains JAX example code for loading and running the Grok-1 open-weights model.
 
         - [Whisper](https://github.com/openai/whisper) <img src="https://img.shields.io/github/stars/openai/whisper?style=social"/> : Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification. "Robust Speech Recognition via Large-Scale Weak Supervision". (**[arXiv 2022](https://arxiv.org/abs/2212.04356)**).
 
@@ -161,6 +164,10 @@
         - [Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) <img src="https://img.shields.io/github/stars/microsoft/Llama-2-Onnx?style=social"/> : Llama 2 Powered By ONNX.
 
         - [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) <img src="https://img.shields.io/github/stars/mshumer/gpt-llm-trainer?style=social"/> : The goal of this project is to explore an experimental new pipeline to train a high-performing task-specific model. We try to abstract away all the complexity, so it's as easy as possible to go from idea -> performant fully-trained model.
+
+
+
+
 
 
 
@@ -371,13 +378,21 @@
         - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) <img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social"/> : OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. [open-assistant.io](https://open-assistant.io/)
 
 
+    - #### Fine-Tuning Framewor
+      ##### 微调框架
 
-    - #### RAG Framework
-      ##### 检索增强生成
+        - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) <img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social"/> : Unify Efficient Fine-Tuning of 100+ LLMs. Fine-tuning a large language model can be easy as...
+
+
+
+    - #### RAG Engine
+      ##### 检索增强生成引擎
 
         - [LlamaIndex](https://github.com/run-llama/llama_index) <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social"/> : LlamaIndex is a data framework for your LLM applications. [docs.llamaindex.ai](https://docs.llamaindex.ai/)
 
         - [Embedchain](https://github.com/embedchain/embedchain) <img src="https://img.shields.io/github/stars/embedchain/embedchain?style=social"/> : The Open Source RAG framework. [docs.embedchain.ai](https://docs.embedchain.ai/)
+
+        - [QAnything](https://github.com/netease-youdao/QAnything) <img src="https://img.shields.io/github/stars/netease-youdao/QAnything?style=social"/> : Question and Answer based on Anything. [qanything.ai](https://qanything.ai/)
 
         - [R2R](https://github.com/SciPhi-AI/R2R) <img src="https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social"/> : A framework for rapid development and deployment of production-ready RAG systems. [docs.sciphi.ai](https://docs.sciphi.ai/)
 
@@ -395,7 +410,9 @@
 
         - ##### C Implementation
 
-            - [llama2.c](https://github.com/karpathy/llama2.c) <img src="https://img.shields.io/github/stars/karpathy/llama2.c?style=social"/> : Inference Llama 2 in one file of pure C.
+            - [llm.c](https://github.com/karpathy/llm.c) <img src="https://img.shields.io/github/stars/karpathy/llm.c?style=social"/> : LLM training in simple, pure C/CUDA. There is no need for 245MB of PyTorch or 107MB of cPython. For example, training GPT-2 (CPU, fp32) is ~1,000 lines of clean code in a single file. It compiles and runs instantly, and exactly matches the PyTorch reference implementation.
+
+            - [llama2.c](https://github.com/karpathy/llama2.c) <img src="https://img.shields.io/github/stars/karpathy/llama2.c?style=social"/> : Inference Llama 2 in one file of pure C. Train the Llama 2 LLM architecture in PyTorch then inference it with one simple 700-line C file (run.c).
 
 
         - ##### CPP Implementation
@@ -548,11 +565,11 @@
 
   - ### Awesome List
 
-    - [xx025/carrot](https://github.com/xx025/carrot) <img src="https://img.shields.io/github/stars/xx025/carrot?style=social"/> : Free ChatGPT Site List. [cc.ai55.cc](https://cc.ai55.cc/)
+    - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) <img src="https://img.shields.io/github/stars/RUCAIBox/LLMSurvey?style=social"/> : The official GitHub page for the survey paper "A Survey of Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2303.18223)**). " 微信公众号「RUC AI Box」《[大模型综述升级啦](https://mp.weixin.qq.com/s/9YMUSSrGLSBKMFY3JYlaoQ)》"。
 
-    - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) <img src="https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social"/> : 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+    - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) <img src="https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social"/> : ✨✨Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. "A Survey on Multimodal Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2306.13549)**). " 微信公众号「我爱计算机视觉」《[中科大腾讯发布首篇《多模态大语言模型综述》](https://mp.weixin.qq.com/s/IiPZWEVdAJ4xrlgyWtDwng)》"。
 
-    - [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) <img src="https://img.shields.io/github/stars/lzwme/chatgpt-sites?style=social"/> : 搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新。[lzw.me/x/chatgpt-sites/](https://lzw.me/x/chatgpt-sites/)
+    - [hymie122/RAG-Survey](https://github.com/hymie122/RAG-Survey) <img src="https://img.shields.io/github/stars/hymie122/RAG-Survey?style=social"/> : Collecting awesome papers of RAG for AIGC. We propose a taxonomy of RAG foundations, enhancements, and applications in paper "Retrieval-Augmented Generation for AI-Generated Content: A Survey". (**[arXiv 2024](https://arxiv.org/abs/2402.19473)**). " 微信公众号「数智笔记」《[2024检索增强生成RAG最新综述](https://mp.weixin.qq.com/s/F-shRy1m7wQIS87ujOS7Dw)》"。
 
     - [jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) <img src="https://img.shields.io/github/stars/jxzhangjhu/Awesome-LLM-RAG?style=social"/> : Awesome-LLM-RAG: a curated list of advanced retrieval augmented generation (RAG) in Large Language Models.
 
@@ -592,6 +609,11 @@
 
     - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) <img src="https://img.shields.io/github/stars/luban-agi/Awesome-AIGC-Tutorials?style=social"/> : Curated tutorials and resources for Large Language Models, AI Painting, and more.
 
+    - [xx025/carrot](https://github.com/xx025/carrot) <img src="https://img.shields.io/github/stars/xx025/carrot?style=social"/> : Free ChatGPT Site List. [cc.ai55.cc](https://cc.ai55.cc/)
+
+    - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) <img src="https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social"/> : 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+
+    - [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) <img src="https://img.shields.io/github/stars/lzwme/chatgpt-sites?style=social"/> : 搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新。[lzw.me/x/chatgpt-sites/](https://lzw.me/x/chatgpt-sites/)
 
 
 
@@ -601,6 +623,8 @@
     - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) <img src="https://img.shields.io/github/stars/RUCAIBox/LLMSurvey?style=social"/> : The official GitHub page for the survey paper "A Survey of Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2303.18223)**). " 微信公众号「RUC AI Box」《[大模型综述升级啦](https://mp.weixin.qq.com/s/9YMUSSrGLSBKMFY3JYlaoQ)》"。
 
     - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) <img src="https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social"/> : ✨✨Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. "A Survey on Multimodal Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2306.13549)**). " 微信公众号「我爱计算机视觉」《[中科大腾讯发布首篇《多模态大语言模型综述》](https://mp.weixin.qq.com/s/IiPZWEVdAJ4xrlgyWtDwng)》"。
+
+    - [hymie122/RAG-Survey](https://github.com/hymie122/RAG-Survey) <img src="https://img.shields.io/github/stars/hymie122/RAG-Survey?style=social"/> : Collecting awesome papers of RAG for AIGC. We propose a taxonomy of RAG foundations, enhancements, and applications in paper "Retrieval-Augmented Generation for AI-Generated Content: A Survey". (**[arXiv 2024](https://arxiv.org/abs/2402.19473)**). " 微信公众号「数智笔记」《[2024检索增强生成RAG最新综述](https://mp.weixin.qq.com/s/F-shRy1m7wQIS87ujOS7Dw)》"。
 
     - [daochenzha/data-centric-AI](https://github.com/daochenzha/data-centric-AI) <img src="https://img.shields.io/github/stars/daochenzha/data-centric-AI?style=social"/> : A curated, but incomplete, list of data-centric AI resources. "Data-centric Artificial Intelligence: A Survey". (**[arXiv 2023](https://arxiv.org/abs/2303.10158)**).
 
@@ -656,6 +680,8 @@
   - ### Community
 
     - [Hugging Face](https://huggingface.co/) : The AI community building the future. The platform where the machine learning community collaborates on models, datasets, and applications.
+
+    - [ModelScope | 魔塔社区](https://github.com/modelscope/modelscope) <img src="https://img.shields.io/github/stars/modelscope/modelscope?style=social"/> : [ModelScope](https://www.modelscope.cn/home) is built upon the notion of “Model-as-a-Service” (MaaS). It seeks to bring together most advanced machine learning models from the AI community, and streamlines the process of leveraging AI models in real-world applications. [ModelScope](https://www.modelscope.cn/home) 是一个“模型即服务”(MaaS)平台，旨在汇集来自AI社区的最先进的机器学习模型，并简化在实际应用中使用AI模型的流程。ModelScope库使开发人员能够通过丰富的API设计执行推理、训练和评估，从而促进跨不同AI领域的最先进模型的统一体验。[www.modelscope.cn/](https://www.modelscope.cn/)
 
     - [The official LangChain blog](https://blog.langchain.dev/) : LangChain. The official LangChain blog.
 
@@ -1099,6 +1125,7 @@
     - [2024-03-05，你一票我一票，首期书生·浦语大模型实战营明星项目就出道！](https://mp.weixin.qq.com/s/-MpBhlV-kLMUf4lMeFoFlw)
     - [2024-03-25，首届书生·浦源大模型挑战赛圆满收官，实战营学员大放异彩！](https://mp.weixin.qq.com/s/_n0OyGsYxlO9arUak8cMNg)
     - [2024-03-26，LLM问答助手茴香豆发布web版，零开发集成微信&飞书群](https://mp.weixin.qq.com/s/Ru-JS-3QQVIRsdREjiDurg)
+    - [2024-04-02，InternLM2技术报告——社区翻译版](https://mp.weixin.qq.com/s/IUUj_CWUJPdrhLq1XAR-KA)
   - 微信公众号「GLM大模型」
     - [2023-06-25，【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA)
     - [2023-07-14，【公告】ChatGLM2-6B，免费商用](https://mp.weixin.qq.com/s/pNMcR2c6kFV1TVaI8wzHRg)
@@ -1166,6 +1193,7 @@
     - [2024-02-23，2770亿美元，英伟达创史上最大单日涨幅，黄仁勋：生成式AI已到临界点](https://mp.weixin.qq.com/s/Wb4ZU-lYoS6Kj0gNezMlaA)
     - [2024-02-23，Stable Diffusion 3震撼发布，采用Sora同源技术，文字终于不乱码了](https://mp.weixin.qq.com/s/KOjeMQJoTLQt6uDBGRMXeQ)
     - [2024-02-23，清华叉院、理想提出DriveVLM，视觉大语言模型提升自动驾驶能力](https://mp.weixin.qq.com/s/v6f29qeZAZOi4NdnwRlvZw)
+    - [2024-04-09，纯C语言手搓GPT-2，前OpenAI、特斯拉高管新项目火了](https://mp.weixin.qq.com/s/YMuq9Jo9Nibl1QFbLNxazg)
   - 微信公众号「图灵人工智能」
     - [2023-02-04，盖茨盛赞ChatGPT：人工智能历史意义不亚于“PC或互联网诞生”](https://mp.weixin.qq.com/s/51v_fUjQe3EewwOIxlLghw)
     - [2023-02-06，ChatGPT专题|ChatGPT之父传奇：8岁会编程，16岁出柜，2个月做到月活过亿](https://mp.weixin.qq.com/s/jodwa-a644vECTnrRqCuAA)
@@ -1257,6 +1285,8 @@
     - [2023-08-10，大模型的数据隐私问题有解了，浙江大学提出联邦大语言模型](https://mp.weixin.qq.com/s/5Ejc2JNefZK0lockU70l-Q)
     - [2023-08-17，文心一言杀疯了！大模型社区、插件系统来了，码农神器发布，AI原生时代降临](https://mp.weixin.qq.com/s/M3WKKr7CvCHgZQgKVfR3SA)
     - [2024-02-23，符尧大佬一作发文，仅改训练数据，就让LLaMa-2上下文长度扩展20倍！](https://mp.weixin.qq.com/s/sTxoxhyG6mAm5fI8tKdMPw)
+    - [2024-04-01，今日arXiv最热NLP大模型论文：Github万星！北航发布零代码大模型微调平台LlamaFactory](https://mp.weixin.qq.com/s/jJ5hItGNz91TiaDrdfYwUg)
+    - [2024-04-10，黑科技 ！AI届的“指环王”，已接入ChatGPT和Gemini！一个戒指可操控手机和智能家居，韩国公司研发](https://mp.weixin.qq.com/s/kS3BufC2_KBzxQ7_ZkPAvQ)
   - 微信公众号「所向披靡的张大刀」
     - [2023-04-07，分割大一统——Segment Anything深度体验](https://mp.weixin.qq.com/s/qtk1Ds3hdNi4NOwrw2tDrg)
   - 微信公众号「算法邦」
@@ -1298,6 +1328,7 @@
     - [2023-09-10，H100推理飙升8倍！英伟达官宣开源TensorRT-LLM，支持10+模型](https://mp.weixin.qq.com/s/xcNQBG69XkS6mOstzqROAw)
     - [2024-02-22，全球最强开源大模型一夜易主！谷歌Gemma 7B碾压Llama 2 13B，今夜重燃开源之战](https://mp.weixin.qq.com/s/fpKW9UV7_S-FiFhiIet82g)
     - [2024-02-23，Stable Diffusion 3深夜横空出世！模型与Sora同架构，也能「理解」物理世界](https://mp.weixin.qq.com/s/PU_VCbFU29rkfgoIm2as0g)
+    - [2024-04-09，1000行C语言搓出GPT-2！AI大神Karpathy新项目刚上线就狂揽2.5k星](https://mp.weixin.qq.com/s/_W2GlbO8nAfpLPtRtQJ-yw)
   - 微信公众号「智东西」
     - [2023-02-06，ChatGPT版搜索引擎突然上线，科技巨头们坐不住了！](https://mp.weixin.qq.com/s/lncJm6hmK3AQNF2paWI5Dw)
     - [2023-04-07，ChatGPT和Matter两大风口汇合！AWE同期AIoT智能家居峰会月底举行，首批嘉宾公布](https://mp.weixin.qq.com/s/cuI8sSff_zGiLtwukAcLRw)
@@ -1573,6 +1604,7 @@
   - 微信公众号「AI寒武纪」
     - [2023-06-19，重磅：未来10年生成式人工智能将这样影响所有人](https://mp.weixin.qq.com/s/qsLOke8-jckhF1XYxswFtQ)
     - [2023-08-31，国内首批8个大模型正式获批上线](https://mp.weixin.qq.com/s/ElUjTKpDFG4vYmOjSZfM3g)
+    - [2024-04-10，【太疯狂了】用 1000 行纯 C 代码实现 GPT-2 训练：Andrej Karpathy重塑LLM训练格局](https://mp.weixin.qq.com/s/hNKWVqepbega6YPf48b8ag)
   - 微信公众号「毫末智行」
     - [2023-06-13，自动驾驶大模型亮相2023北京智源大会！顾维灏：DriveGPT将重塑汽车智能化技术路线](https://mp.weixin.qq.com/s/ybtjyY7gjgywl6Jvjd5RMg)
   - 微信公众号「智源研究院」
@@ -1698,6 +1730,7 @@
     - [2023-08-18，芜湖起飞！两个安徽老乡握手，1700亿参数大模型上车，“超过ChatGPT！”](https://mp.weixin.qq.com/s/J6IHMf7THKJ9QTxsjG87lg)
   - 微信公众号「InfoQ」
     - [2023-07-11，OpenAI 宣布 GPT-4 API 全面开放使用！](https://mp.weixin.qq.com/s/caRvuREB_bxPa5GU4rkVMA)
+    - [2024-04-09，“真男人就应该用 C 编程”！用 1000 行 C 代码手搓了一个大模型，Mac 即可运行，特斯拉前AI总监爆火科普 LLM](https://mp.weixin.qq.com/s/qb0dhdFnXZS4LeW2mvG6fg)
   - 微信公众号「自然语言处理及深度学习」
     - [2023-05-17，ChatGLM-6B模型结构组件源码阅读](https://mp.weixin.qq.com/s/r7KEJmrpJZmY7KBP4veS6A)
   - 微信公众号「雷峰网」
@@ -1705,6 +1738,7 @@
   - 微信公众号「自动驾驶之心」
     - [2023-07-04，最新综述！AIGC到底是什么？都有哪些应用？一文尽览！](https://mp.weixin.qq.com/s/DseSOGMdsmZGfF_ep-wpSg)
     - [2023-08-14，超越UniAD！FusionAD：预测与规划任务的多模态融合方案](https://mp.weixin.qq.com/s/-IC9ZWRPUWB83Lj43YtQSw)
+    - [2024-04-08，一文看懂llama2（原理&模型&训练）](https://mp.weixin.qq.com/s/XP4xYbepZqTEOKWT_I-5ww)
   - 微信公众号「酷酷的群」
     - [2023-07-12，InstructGPT：语言模型的人类反馈指令对齐](https://mp.weixin.qq.com/s/qMpGxhpixut5-7YHcq1OOw)
   - 微信公众号「汀丶人工智能」
@@ -1762,6 +1796,7 @@
     - [2024-02-21，DriveVLM：自动驾驶和大型视觉语言模型的融合（理想汽车）](https://mp.weixin.qq.com/s/58rm-zVnVTzM52Hn2EjIYQ)
     - [2024-02-23，欢迎 Gemma: Google 推出可商用的大语言模型，主打开源和轻量！](https://mp.weixin.qq.com/s/VEJxO8UpVdNzqkxyKQRXaA)
     - [2024-03-04，Open Sora Plan! 北大-兔展AIGC联合实验室共同发起，希望通过开源社区的力量复现Sora](https://mp.weixin.qq.com/s/FcJN-95C4Ox_uYpNTCwn9A)
+    - [2024-04-10，又一大模型技术开源！有道自研 RAG 引擎 QAnything 正式开放下载，支持任意格式的文件问答](https://mp.weixin.qq.com/s/1kgW5cUds3slium3g1aWow)
   - 微信公众号「AI闲谈」
     - [2024-02-20，追本溯源：OpenAI Sora 技术报告解读](https://mp.weixin.qq.com/s/FYIC3F5po7_v0VP89pEORQ)
   - 微信公众号「Second State」
@@ -1778,10 +1813,31 @@
     - [2024-02-23，NVIDIA TensorRT-LLM 为 Google Gemma 加速推理](https://mp.weixin.qq.com/s/W4hbfsrCqWjSLVFHeGvobQ)
   - 微信公众号「Datawhale」
     - [2023-04-22，《ChatGPT开发应用指南》，Datawhale开源了！](https://mp.weixin.qq.com/s/UiW0z4Eb4cSw6YRgAZ7GMQ)
+    - [2024-04-07，一文带你了解基于大模型的Agent](https://mp.weixin.qq.com/s/tkdNkUIdmWoy_Ib37wiebQ)
   - 微信公众号「蜂耘网」
     - [2024-03-04，北大发起Open-Sora开源计划，研究“国产版sora”](https://mp.weixin.qq.com/s/N5zoOafYLYZfxOzulqjNjg)
   - 微信公众号「AIoffer」
     - [2023-08-24，商汤研究院基础视觉组(大模型专题)正式员工（校招、社招）[目前还有多个HC，含相应资深岗位需求]&实习生长期招聘](https://mp.weixin.qq.com/s/fFqeCh-kLbfcCqO97Jl6yQ)
+  - 微信公众号「数智笔记」
+    - [2024-04-04，2024检索增强生成RAG最新综述](https://mp.weixin.qq.com/s/F-shRy1m7wQIS87ujOS7Dw)
+  - 微信公众号「AI大模型应用实践」
+    - [2024-04-10，一文彻底搞懂Self-RAG【上】：自省式RAG的原理与应用](https://mp.weixin.qq.com/s/3e8GG6iO7DVat5TSUFbCUQ)
+  - 微信公众号「优必选科技」
+    - [2024-04-10，优必选亮相首届中国人形机器人产业大会暨具身智能峰会](https://mp.weixin.qq.com/s/_nuwVkwOa56IcojNSW-1TA)
+  - 微信公众号「AIGC开放社区」
+    - [2024-04-10，Llama 3下月正式发布，继续开源！](https://mp.weixin.qq.com/s/_iWt5oEcJgRyj0AMpIMRrQ)
+    - [2024-04-10，谷歌重磅发布Gemini 1.5 Pro：能自动写影评，理解视频！](https://mp.weixin.qq.com/s/E-0c8cHZcvga8eNqdu1msA)
+  - 微信公众号「Meet DSA」
+    - [2024-03-29，大语言模型硬件加速器综述](https://mp.weixin.qq.com/s/rtq8e_zVUWLc-vkT4V0qzQ)
+  - 微信公众号「RUC AI Engine」
+    - [2024-03-18，ICLR 2024 因果推断相关论文总结](https://mp.weixin.qq.com/s/zE4gCtd3uM0OD6d4aS9BNQ)
+    - [2024-03-30，AI-Engine实验室招生| We Want You!](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
+    - [2024-04-07，ICLR 2024 大语言模型多智能体研究总结](https://mp.weixin.qq.com/s/ROTFmXMarvKmbop4wT8gDw)
+  - 微信公众号「开放知识图谱」
+    - [2024-04-07，开源开放 | OpenRAG Base：RAG的开源开放知识库](https://mp.weixin.qq.com/s/MZ4jSH1torrEpYGTLTkiEw)
+  - 微信公众号「AI不止算法」
+    - [2024-04-09，全网首篇从tensorRT-LLM MoE CUDA kernel角度理解Mixtral-8x7b的推理加速及展望](https://mp.weixin.qq.com/s/3PsVUba-kTLIHK_s0RA2ow)
+
   - [知乎「Lil2J」](https://www.zhihu.com/people/ai-er-sha-la-wei-81)
     - [2024-03-02，从0开始预训练1.4b中文大模型实践](https://zhuanlan.zhihu.com/p/684946331)
   - [知乎「老苏聊AI」](https://www.zhihu.com/people/su-pin-yu)
@@ -1794,6 +1850,9 @@
     - [2018-06-27，The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
   - 「[The official LangChain blog](https://blog.langchain.dev/)」
     - [2023-07-18，Announcing LangSmith, a unified platform for debugging, testing, evaluating, and monitoring your LLM applications](https://blog.langchain.dev/announcing-langsmith/)
+
+
+
 
 
 
