@@ -92,7 +92,9 @@
 
         - [Llama 2](https://github.com/facebookresearch/llama) <img src="https://img.shields.io/github/stars/facebookresearch/llama?style=social"/> : Inference code for LLaMA models. "LLaMA: Open and Efficient Foundation Language Models". (**[arXiv 2023](https://arxiv.org/abs/2302.13971)**). "Llama 2: Open Foundation and Fine-Tuned Chat Models". (**[ai.meta.com, 2023-07-18](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)**). (**[2023-07-18, Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)**).
 
-        - [Gemma](https://github.com/google/gemma_pytorch) <img src="https://img.shields.io/github/stars/google/gemma_pytorch?style=social"/> :  The official PyTorch implementation of Google's Gemma models. [ai.google.dev/gemma](https://ai.google.dev/gemma)
+        - [Llama 3](https://github.com/meta-llama/llama3) <img src="https://img.shields.io/github/stars/meta-llama/llama3?style=social"/> : The official Meta Llama 3 GitHub site.
+
+        - [Gemma](https://github.com/google/gemma_pytorch) <img src="https://img.shields.io/github/stars/google/gemma_pytorch?style=social"/> : The official PyTorch implementation of Google's Gemma models. [ai.google.dev/gemma](https://ai.google.dev/gemma)
 
         - [Grok-1](https://github.com/xai-org/grok-1) <img src="https://img.shields.io/github/stars/xai-org/grok-1?style=social"/> : This repository contains JAX example code for loading and running the Grok-1 open-weights model.
 
