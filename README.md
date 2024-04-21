@@ -49,6 +49,7 @@
     - [Financial Field](#Financial-field)
     - [Math Field](#math-field)
     - [Music Field](#music-field)
+    - [Speech and audio Field](#speech-and-audio-field)
     - [Humor Generation](#humor-generation)
     - [Animation Field](#animation-field)
     - [Food Field](#food-field)
@@ -60,6 +61,7 @@
     - [GUI](#gui)
   - [Datasets](#datasets)
     - [Open Datasets Platform](#open-datasets-platform)
+    - [Text Datasets](#text-datasets)
     - [Multimodal Datasets](#multimodal-datasets)
     - [SFT Datasets](#sft-datasets)
   - [Blogs](#blogs)
@@ -88,8 +90,6 @@
 
         - [GPT-4](https://openai.com/product/gpt-4): GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses. "Sparks of Artificial General Intelligence: Early experiments with GPT-4". (**[arXiv 2023](https://arxiv.org/abs/2303.12712)**). "GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE". (**[SemianAlysis, 2023](https://www.semianalysis.com/p/gpt-4-architecture-infrastructure)**).
 
-        - [Claude](https://www.anthropic.com/product) : Claude is a next-generation AI assistant based on Anthropic’s research into training helpful, honest, and harmless AI systems.
-
         - [Llama 2](https://github.com/facebookresearch/llama) <img src="https://img.shields.io/github/stars/facebookresearch/llama?style=social"/> : Inference code for LLaMA models. "LLaMA: Open and Efficient Foundation Language Models". (**[arXiv 2023](https://arxiv.org/abs/2302.13971)**). "Llama 2: Open Foundation and Fine-Tuned Chat Models". (**[ai.meta.com, 2023-07-18](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)**). (**[2023-07-18, Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)**).
 
         - [Llama 3](https://github.com/meta-llama/llama3) <img src="https://img.shields.io/github/stars/meta-llama/llama3?style=social"/> : The official Meta Llama 3 GitHub site.
@@ -97,6 +97,8 @@
         - [Gemma](https://github.com/google/gemma_pytorch) <img src="https://img.shields.io/github/stars/google/gemma_pytorch?style=social"/> : The official PyTorch implementation of Google's Gemma models. [ai.google.dev/gemma](https://ai.google.dev/gemma)
 
         - [Grok-1](https://github.com/xai-org/grok-1) <img src="https://img.shields.io/github/stars/xai-org/grok-1?style=social"/> : This repository contains JAX example code for loading and running the Grok-1 open-weights model.
+
+        - [Claude](https://www.anthropic.com/product) : Claude is a next-generation AI assistant based on Anthropic’s research into training helpful, honest, and harmless AI systems.
 
         - [Whisper](https://github.com/openai/whisper) <img src="https://img.shields.io/github/stars/openai/whisper?style=social"/> : Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification. "Robust Speech Recognition via Large-Scale Weak Supervision". (**[arXiv 2022](https://arxiv.org/abs/2212.04356)**).
 
@@ -172,11 +174,9 @@
 
 
 
+        - [Qwen｜通义千问](https://github.com/QwenLM/Qwen) <img src="https://img.shields.io/github/stars/QwenLM/Qwen?style=social"/> : The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 
-
-
-
-        - [QwenLM｜通义千问](https://github.com/QwenLM/Qwen-7B) <img src="https://img.shields.io/github/stars/QwenLM/Qwen-7B?style=social"/> : Qwen-7B is the 7B-parameter version of the large language model series, Qwen (abbr. Tongyi Qianwen), proposed by Alibaba Cloud. Qwen-7B is a Transformer-based large language model, which is pretrained on a large volume of data, including web texts, books, codes, etc. Additionally, based on the pretrained Qwen-7B, we release Qwen-7B-Chat, a large-model-based AI assistant, which is trained with alignment techniques. 通义千问-7B（Qwen-7B） 是阿里云研发的通义千问大模型系列的70亿参数规模的模型。Qwen-7B是基于Transformer的大语言模型, 在超大规模的预训练数据上进行训练得到。预训练数据类型多样，覆盖广泛，包括大量网络文本、专业书籍、代码等。同时，在Qwen-7B的基础上，我们使用对齐机制打造了基于大语言模型的AI助手Qwen-7B-Chat。[通义达模型](https://tongyi.aliyun.com/)
+        - [Qwen1.5](https://github.com/QwenLM/Qwen1.5) <img src="https://img.shields.io/github/stars/QwenLM/Qwen1.5?style=social"/> : Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
 
         - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型。 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**).
 
@@ -659,7 +659,7 @@
 
     - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) <img src="https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social"/> :  Implementing a ChatGPT-like LLM from scratch, step by step. [https://www.manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 
-    - [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) <img src="https://img.shields.io/github/stars/datawhalechina/llm-universe?style=social"/> : 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：[https://datawhalechina.github.io/llm-universe/](https://datawhalechina.github.io/llm-universe/)
+    - [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) <img src="https://img.shields.io/github/stars/datawhalechina/llm-universe?style=social"/> : 动手学大模型应用开发。本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：[https://datawhalechina.github.io/llm-universe/](https://datawhalechina.github.io/llm-universe/)
 
     - [datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm) <img src="https://img.shields.io/github/stars/datawhalechina/hugging-llm?style=social"/> :  HuggingLLM, Hugging Future. 蝴蝶书ButterflyBook. 配套视频教程：[https://b23.tv/hdnXn1L](https://www.bilibili.com/video/BV1ek4y1J7Rd/)
 
@@ -948,6 +948,11 @@
     - [GuoYiFantastic/IMelodist](https://github.com/GuoYiFantastic/IMelodist) <img src="https://img.shields.io/github/stars/GuoYiFantastic/IMelodist?style=social"/> : 旋律大师-IMelodist. Music large model based on InternLM2-chat.
 
 
+  - ### Speech and Audio Field
+    #### 语音和音频领域
+
+    - [flinkerlab/neural_speech_decoding](https://github.com/flinkerlab/neural_speech_decoding) <img src="https://img.shields.io/github/stars/flinkerlab/neural_speech_decoding?style=social"/> : Neural Speech Decoding. "A neural speech decoding framework leveraging deep learning and speech synthesis" (**[Nature, 2024](https://www.nature.com/articles/s42256-024-00824-8)**). "微信公众号「量子位」《[脑电合成自然语音！LeCun转发Nature子刊新成果，代码开源](https://mp.weixin.qq.com/s/BcV3-3glmdsVF--fpPRU2g)》"。
+
 
   - ### Humor Generation
     #### 讲幽默笑话
@@ -1102,6 +1107,10 @@
 
     - [OpenDataLab](https://opendatalab.org.cn/) : 为大模型提供高质量的开放数据集！
 
+  - ### Text Datasets
+    #### 文本数据集
+
+    - [Leymore/ruozhiba](https://github.com/Leymore/ruozhiba) <img src="https://img.shields.io/github/stars/Leymore/ruozhiba?style=social"/> : 从百度[弱智吧](https://tieba.baidu.com/f?kw=%E5%BC%B1%E6%99%BA)上收集的一系列帖子。旨在启发人们娱乐性使用 ChatGPT 等 LLM 时的思路。
 
 
   - ### Multimodal Datasets
@@ -1136,17 +1145,9 @@
     - [2023-08-24，使用 AutoGPTQ 和 transformers 让大语言模型更轻量化](https://mp.weixin.qq.com/s/uaIxZFpcVTsKE_uA-V37bQ)
     - [2023-08-28，Hugging News #0821: Hugging Face 完成 2.35 亿美元 D 轮融资](https://mp.weixin.qq.com/s/s0lzSI5qZ5oJm5O0lh_5mg)
     - [2024-02-22，欢迎 Gemma: Google 最新推出开源大语言模型](https://mp.weixin.qq.com/s/E52nPpWrhnU7wMLpOhVz5Q)
-  - 微信公众号「InternLM」
-    - [2024-03-05，你一票我一票，首期书生·浦语大模型实战营明星项目就出道！](https://mp.weixin.qq.com/s/-MpBhlV-kLMUf4lMeFoFlw)
-    - [2024-03-25，首届书生·浦源大模型挑战赛圆满收官，实战营学员大放异彩！](https://mp.weixin.qq.com/s/_n0OyGsYxlO9arUak8cMNg)
-    - [2024-03-26，LLM问答助手茴香豆发布web版，零开发集成微信&飞书群](https://mp.weixin.qq.com/s/Ru-JS-3QQVIRsdREjiDurg)
-    - [2024-04-02，InternLM2技术报告——社区翻译版](https://mp.weixin.qq.com/s/IUUj_CWUJPdrhLq1XAR-KA)
-  - 微信公众号「GLM大模型」
-    - [2023-06-25，【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA)
-    - [2023-07-14，【公告】ChatGLM2-6B，免费商用](https://mp.weixin.qq.com/s/pNMcR2c6kFV1TVaI8wzHRg)
-    - [2023-07-25，【发布】代码模型 CodeGeeX2-6B 开源，最低6GB显存，性能优于StarCoder](https://mp.weixin.qq.com/s/qw31ThM4AjG6RrjNwsfZwg)
   - 微信公众号「腾讯研究院」
     - [2024-03-04，从诊室到云端：医疗大模型的应用挑战与未来探索](https://mp.weixin.qq.com/s/BoDq30q0K0kEKYzZhn71sQ)
+    - [2024-04-19，万字实录：中美大模型生态及技术趋势](https://mp.weixin.qq.com/s/pIOm2QZbuE6AvgW_ucdWBw)
   - 微信公众号「腾讯技术工程」
     - [2023-08-17，一文入门最热的LLM应用开发框架LangChain](https://mp.weixin.qq.com/s/bYzNNL3F0998Do2Jl0PQtw)
   - 微信公众号「微软科技」
@@ -1156,6 +1157,15 @@
     - [2023-08-16，ResNet四位作者获得2023未来科学大奖](https://mp.weixin.qq.com/s/PKXW-RqIuHQXjTuanqdAbQ)
   - 微信公众号「Azure云科技」
     - [2023-02-15，微软 Azure 作为 OpenAI 独家云服务提供商，助力企业致胜人工智能时代](https://mp.weixin.qq.com/s/SCmWX4uz3Ici2Shy6r1x7Q)
+  - 微信公众号「InternLM」
+    - [2024-03-05，你一票我一票，首期书生·浦语大模型实战营明星项目就出道！](https://mp.weixin.qq.com/s/-MpBhlV-kLMUf4lMeFoFlw)
+    - [2024-03-25，首届书生·浦源大模型挑战赛圆满收官，实战营学员大放异彩！](https://mp.weixin.qq.com/s/_n0OyGsYxlO9arUak8cMNg)
+    - [2024-03-26，LLM问答助手茴香豆发布web版，零开发集成微信&飞书群](https://mp.weixin.qq.com/s/Ru-JS-3QQVIRsdREjiDurg)
+    - [2024-04-02，InternLM2技术报告——社区翻译版](https://mp.weixin.qq.com/s/IUUj_CWUJPdrhLq1XAR-KA)
+  - 微信公众号「GLM大模型」
+    - [2023-06-25，【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA)
+    - [2023-07-14，【公告】ChatGLM2-6B，免费商用](https://mp.weixin.qq.com/s/pNMcR2c6kFV1TVaI8wzHRg)
+    - [2023-07-25，【发布】代码模型 CodeGeeX2-6B 开源，最低6GB显存，性能优于StarCoder](https://mp.weixin.qq.com/s/qw31ThM4AjG6RrjNwsfZwg)
   - 微信公众号「量子位」
     - [2023-02-05，教ChatGPT学会看图的方法来了](https://mp.weixin.qq.com/s/OyLnRKgsklzQ09y9irtdQg)
     - [2023-02-12，ChatGPT背后模型被证实具有人类心智！斯坦福新研究炸了，知名学者：“这一天终于来了”](https://mp.weixin.qq.com/s/zgrJVFvkqG69BrQCky193A)
@@ -1176,7 +1186,10 @@
     - [2023-08-07，Llama2等30+模型接入千帆大模型平台，推理成本降50%！还有超全Prompt模板开放体验](https://mp.weixin.qq.com/s/OBgl6-QOX-6cOsnl6waKxw)
     - [2023-08-16，OpenAI进军内容审核行业，学校图书馆已经用ChatGPT筛选色情描述了](https://mp.weixin.qq.com/s/Bp62epgjN0XcBs6AoGUk7A)
     - [2024-03-28，微软亚研院新作：让大模型一口气调用数百万个API！](https://mp.weixin.qq.com/s/fy9lw3QwOMryFMOEmTXfUA)
+    - [2024-04-04，弱智吧竟成最佳中文AI训练数据？！中科院等：8项测试第一，远超知乎豆瓣小红书](https://mp.weixin.qq.com/s/iq5lGyh9Y5P7NXLUS3-giA)
     - [2024-04-12，谷歌爆改Transformer，“无限注意力”让1B小模型读完10部小说，114倍信息压缩](https://mp.weixin.qq.com/s/Hkt9TMf6e1Wp2xziw878WQ)
+    - [2024-04-17，脑电合成自然语音！LeCun转发Nature子刊新成果，代码开源](https://mp.weixin.qq.com/s/BcV3-3glmdsVF--fpPRU2g)
+    - [2024-04-19，Llama 3突然来袭！开源社区再次沸腾：GPT-4级别模型可以自由访问的时代到来](https://mp.weixin.qq.com/s/r6aradJU83GvvVwkFkLXKQ)
   - 微信公众号「机器之心」
     - [2023-02-15，开源方案复现ChatGPT流程！1.62GB显存即可体验，单机训练提速7.73倍](https://mp.weixin.qq.com/s/j8gvD_4ViRE4WQaQlcnmrQ)
     - [2023-02-19，跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文](https://mp.weixin.qq.com/s/s5WrGn_dQyHrsZP8qsI2ag)
@@ -1211,6 +1224,7 @@
     - [2024-02-23，Stable Diffusion 3震撼发布，采用Sora同源技术，文字终于不乱码了](https://mp.weixin.qq.com/s/KOjeMQJoTLQt6uDBGRMXeQ)
     - [2024-02-23，清华叉院、理想提出DriveVLM，视觉大语言模型提升自动驾驶能力](https://mp.weixin.qq.com/s/v6f29qeZAZOi4NdnwRlvZw)
     - [2024-04-09，纯C语言手搓GPT-2，前OpenAI、特斯拉高管新项目火了](https://mp.weixin.qq.com/s/YMuq9Jo9Nibl1QFbLNxazg)
+    - [2024-04-19，开源大模型Llama 3王者归来！最大底牌4000亿参数，性能直逼GPT-4](https://mp.weixin.qq.com/s/KCyL8WTzXutPQ_k0Vl9Vwg)
   - 微信公众号「图灵人工智能」
     - [2023-02-04，盖茨盛赞ChatGPT：人工智能历史意义不亚于“PC或互联网诞生”](https://mp.weixin.qq.com/s/51v_fUjQe3EewwOIxlLghw)
     - [2023-02-06，ChatGPT专题|ChatGPT之父传奇：8岁会编程，16岁出柜，2个月做到月活过亿](https://mp.weixin.qq.com/s/jodwa-a644vECTnrRqCuAA)
@@ -1347,6 +1361,7 @@
     - [2024-02-23，Stable Diffusion 3深夜横空出世！模型与Sora同架构，也能「理解」物理世界](https://mp.weixin.qq.com/s/PU_VCbFU29rkfgoIm2as0g)
     - [2024-04-07，Llama提速500%！谷歌美女程序员手搓矩阵乘法内核](https://mp.weixin.qq.com/s/2ROw_Tmmh4NHf8WOiwnJLg)
     - [2024-04-09，1000行C语言搓出GPT-2！AI大神Karpathy新项目刚上线就狂揽2.5k星](https://mp.weixin.qq.com/s/_W2GlbO8nAfpLPtRtQJ-yw)
+    - [2024-04-19，全球首个「开源GPT-4」出世！Llama 3震撼发布，Meta AI免登录可用](https://mp.weixin.qq.com/s/jiEfe60I446jrDzZxDh_Vg)
   - 微信公众号「智东西」
     - [2023-02-06，ChatGPT版搜索引擎突然上线，科技巨头们坐不住了！](https://mp.weixin.qq.com/s/lncJm6hmK3AQNF2paWI5Dw)
     - [2023-04-07，ChatGPT和Matter两大风口汇合！AWE同期AIoT智能家居峰会月底举行，首批嘉宾公布](https://mp.weixin.qq.com/s/cuI8sSff_zGiLtwukAcLRw)
@@ -1412,6 +1427,7 @@
     - [2023-02-17，如何利用ChatGPT搞科研？](https://mp.weixin.qq.com/s/sW_utRBS_jJAaWfGo_eT5g)
   - 微信公众号「机器之能」
     - [2023-03-22，比尔·盖茨：AI时代已经开启，GPT是40年来最具革命性技术](https://mp.weixin.qq.com/s/j3D7g_1HeKZbznOqqU2pxw)
+    - [2024-04-19，开源大模型Llama 3王者归来！最大底牌4000亿参数，性能直逼GPT-4](https://mp.weixin.qq.com/s/eTN6kGFiJLoN0HKvAyWFug)
   - 微信公众号「机器学习研究组订阅」
     - [2023-03-26，震惊科学界！微软154页研究刷屏：GPT-4能力接近人类，「天网」初现？](https://mp.weixin.qq.com/s/C0qwDb_ASCbmP8sHgH97Jg)
   - 微信公众号「浮之静」
@@ -1583,6 +1599,7 @@
     - [2023-08-20，需要多少GPU显存才能运行预训练大语言模型？大语言模型参数规模与显存大小的关系估算方法~](https://mp.weixin.qq.com/s/-f9AY-nYRKaWKjDKhSW2iw)
     - [2023-08-24，大规模中文开源数据集发布！2TB、几十亿条可商用的中文数据集书生·万卷 1.0开源~中文大模型能力可能要更上一层楼了！](https://mp.weixin.qq.com/s/ImCt2OgIt8W7-off8W7hxQ)
     - [2024-04-10，重磅！Google开源CodeGemma编程大模型和基于RNN架构的新型大模型RecurrentGemma，同等参数规模表现优秀](https://mp.weixin.qq.com/s/58y65bUKFGYLo42nOXaGWQ)
+    - [2024-04-19，开源王者！全球最强的开源大模型Llama3发布！15万亿数据集训练，最高4000亿参数，数学评测超过GPT-4，全球第二！](https://mp.weixin.qq.com/s/m3rEZY-BFumitxBqg17Epw)
   - 微信公众号「算法美食屋」
     - [2023-07-03，60分钟吃掉ChatGLM2-6b微调范例~](https://mp.weixin.qq.com/s/Lf70i8M0KNDs9ZB8H32h4w)
     - [2023-07-08，单样本微调给ChatGLM2注入知识~](https://mp.weixin.qq.com/s/hANR9OVDVEZMMvK8uxtChA)
@@ -1742,6 +1759,7 @@
     - [2023-08-09，LLaMA2多GPU训练入门](https://mp.weixin.qq.com/s/At8HfnbKlZm-edojmeIRxQ)
     - [2023-08-13，LangChain+ChatGLM如何调优？](https://mp.weixin.qq.com/s/vinAWk3g8kwBYLmGDLXV6g)
     - [2024-01-26，基于TensorRT-LLM的大模型部署(速通笔记)](https://mp.weixin.qq.com/s/2d6ihFFDTDfppYbjtBPHMw)
+    - [2024-04-19，Llama-3问世，开源模型弯道超车闭源模型的历史时刻就在眼前了？ ](https://mp.weixin.qq.com/s/IvubUL147CPhlsBy1KG8gQ)
   - 微信公众号「前端立志传」
     - [2023-07-02，用Midjourney+剪映,我一天量产上百个精致短视频！](https://mp.weixin.qq.com/s/LBzHC2-x_ppnkElOOWFVBw)
   - 微信公众号「AI的潜意识」
@@ -1769,6 +1787,7 @@
     - [2023-07-16，人工智能大语言模型微调技术：SFT 监督微调、LoRA 微调方法、P-tuning v2 微调方法、Freeze 监督微调方法](https://mp.weixin.qq.com/s/N0Z1Kq0mrVrK-RED_gvJmw)
   - 微信公众号「吃果冻不吐果冻皮」
     - [2023-07-12，百川智能大模型baichuan-13B技术剖析](https://mp.weixin.qq.com/s/L3V3a4h3ZJtTM0SXacrZsg)
+    - [2024-04-19，迄今为止最强大的开源 LLM，15 万亿 Token 预训练的 LLaMA3 强势来袭](https://mp.weixin.qq.com/s/PmQL51LYPIzoTF5MBNrppg)
   - 微信公众号「OpenMMLab」
     - [2023-07-19，大模型社区再掀波澜，Meta重磅开源LLAMA-2，性能升级可商用](https://mp.weixin.qq.com/s/Eqh-ED4BgiR4BBQQbwXAmA)
   - 微信公众号「高通中国」
@@ -1782,6 +1801,7 @@
     - [2023-08-26，大模型微调技术​报告汇总](https://mp.weixin.qq.com/s/4yAlLjvd-V1WI4fe_s9kgw)
     - [2023-08-28，判断场景是否适合大模型](https://mp.weixin.qq.com/s/OOea-WC3dFdCC7iNKQcBMw)
     - [2023-08-31，大模型来自面试的一些体会和分享](https://mp.weixin.qq.com/s/S7YlHn0ss0ApP0AC4waL4Q)
+    - [2024-04-19，大模型重磅！Llama3发布！](https://mp.weixin.qq.com/s/FqkX3-iuxQdPHiRwI8CTNA)
   - 微信公众号「SimpleAI」
     - [2023-07-21，基于 LoRA 的 RLHF: 记一次不太成功但有趣的百川大模型调教经历](https://mp.weixin.qq.com/s/4dt3XiLnZN7Q17VHz3lsng)
   - 微信公众号「NLP工作站」
@@ -1795,6 +1815,7 @@
     - [2023-08-01，首发！真正意义上的Llama2中文版大模型](https://mp.weixin.qq.com/s/lExUU7z_MvgJ7tzQPF8tUQ)
     - [2023-08-13，零门槛没GPU也能训练自己的大语言模型，Llama中文社区推出共享训练平台！](https://mp.weixin.qq.com/s/uJc-67VyF9u3a72nMFjdvQ)
     - [2023-08-31，首批大模型牌照发放，我们还能做些什么？](https://mp.weixin.qq.com/s/srKxGlbySQw8NKgK4kHupA)
+    - [2024-04-19，和Llama中文社区一起玩转Llama3](https://mp.weixin.qq.com/s/b749y1NZKCY14a4gUmRTMw)
   - 微信公众号「极客公园」
     - [2023-07-25，一文读懂 OpenAI 创始人的「世界币」](https://mp.weixin.qq.com/s/7E2O2-iXt-4DCOUgldvfUQ)
   - 微信公众号「智车科技」
@@ -1829,6 +1850,7 @@
     - [2024-02-22，谷歌发布最强大模型Gemma，性能碾压Llama 2](https://mp.weixin.qq.com/s/8S7ExKurnJrj3LWUAGRPPQ)
     - [2024-04-11，Meta确认5月发布Llama 3，参数量达1400亿](https://mp.weixin.qq.com/s/KaVV0iiU7A3h8Y2Z7PIjkQ)
     - [2024-04-13，小模型的优势越来越明显了](https://mp.weixin.qq.com/s/tM3q-bp6Kq93f9vBbkPE1A)
+    - [2024-04-15，杨立昆：目标驱动AI才是未来](https://mp.weixin.qq.com/s/eaxMQbLf_akGGEMkaNwLyg)
   - 微信公众号「董董灿是个攻城狮」
     - [2024-02-21，OpenAI 开放 Sora 内测资格申请通道，附手把手教学](https://mp.weixin.qq.com/s/18Nm_Uy2p7Y8LzKruHIdww)
   - 微信公众号「自动驾驶Daily」
@@ -1871,8 +1893,22 @@
     - [2024-04-12，图解大模型计算加速系列：vLLM源码解析2，调度器策略(Scheduler)](https://mp.weixin.qq.com/s/UCdqQUM_9a36uXkO36wpSg)
   - 微信公众号「芝士AI吃鱼」
     - [2024-04-11，突破传统RAG限制！Adaptive-RAG实现高效复杂查询处理](https://mp.weixin.qq.com/s/PszyHnvTfQ6ZZZN89ZCxwg)
+    - [2024-04-21，RAG与LLM本身知识存在冲突时，大模型如何抉择？](https://mp.weixin.qq.com/s/0nkvkyLEarxR4iu6rNd6Qg)
   - 微信公众号「oldpan博客」
     - [2024-03-20，TensorRT-LLM初探（二）简析了结构，用的更明白](https://mp.weixin.qq.com/s/Jk-AK84sllBbkDDpvkv62w)
+  - 微信公众号「人工智能大讲堂」
+    - [2024-04-16，Facebook开源大模型可视分析工具：Transparency Tool ，将Transformer扒的一干二净](https://mp.weixin.qq.com/s/TSOkh5LEnE0sraE6yGRaCw)
+  - 微信公众号「手写AI」
+    - [2024-04-18，人形机器人哪家好？万字总结人形机器人发展近况！](https://mp.weixin.qq.com/s/hubkOpV521iDmEwkL1rWFg)
+  - 微信公众号「Founder Park」
+    - [2024-04-19，Llama 3 发布！目前最强开源大模型，全面登陆 Meta 系产品，即将推出 4000 亿模型](https://mp.weixin.qq.com/s/Ik29LVChNrq8aou8RXVg3Q)
+  - 微信公众号「智能涌现」
+    - [2024-04-19，Meta震撼发布Llama 3，一夜重回开源大模型铁王座](https://mp.weixin.qq.com/s/QJC76vH9ZrynQalkh0rXhg)
+  - 微信公众号「苏哲管理咨询」
+    - [2024-04-02，杨立昆教授哈佛大学数学系演讲稿全文-目标驱动的人工智能世界新模型](https://mp.weixin.qq.com/s/itFaooocbcSKVkAP-kERyQ)
+  - 微信公众号「美团技术团队」
+    - [2024-04-11，美团外卖基于GPU的向量检索系统实践](https://mp.weixin.qq.com/s/pPl-anyQnFNFkmBlVsrBpA)
+
   - [知乎「Lil2J」](https://www.zhihu.com/people/ai-er-sha-la-wei-81)
     - [2024-03-02，从0开始预训练1.4b中文大模型实践](https://zhuanlan.zhihu.com/p/684946331)
   - [知乎「老苏聊AI」](https://www.zhihu.com/people/su-pin-yu)
@@ -1906,9 +1942,13 @@
 
   - 微信公众号「CVHub」
     - [2024-04-12，自变量机器人（X Square）- 具身智能企业招聘 | 机器人大模型、多模态、SLAM、机器人开发、仿真、ROS](https://mp.weixin.qq.com/s/H8r-KEiLso7JZTKO-PrjHA)
-
-
-
+  - 微信公众号「美团技术团队」
+    - [2024-03-21，美团自动配送车2024春季招聘 | 社招专场](https://mp.weixin.qq.com/s/2e0g-7fD8Fbp65LbjGdVnA)
+  - 微信公众号「AINLP」
+    - [2024-04-19，【社招】NewsBreak北京招聘：多模态内容理解算法工程师（​北京）](https://mp.weixin.qq.com/s/OOn5Y2_BBJyq4wuvHmU--A)
+  - 微信公众号「大模型生态圈」
+    - [2024-04-21，推理部署工程师面试题库](https://mp.weixin.qq.com/s/q46vKFPlQhcN7LyZNTRhXA)
+    
 
 ## Star History
 
