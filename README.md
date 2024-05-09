@@ -8,6 +8,7 @@
   - [Summary](#summary)
     - [Frameworks](#frameworks)
       - [Official Version](#official-version)
+        - [Neural Network Architecture](#neural-network-architecture)
         - [Large Language Model](#large-language-model)
         - [Vision Foundation Model](#vision-foundation-model)
         - [AI Generated Content](#ai-generated-content)
@@ -19,6 +20,7 @@
         - [LLM Deployment Engine](#llm-deployment-engine)
         - [C Implementation](#c-implementation)
         - [CPP Implementation](#cpp-implementation)
+        - [Python Implementation](#python-implementation)
         - [Mojo Implementation](#mojo-implementation)
         - [Rust Implementation](#rust-implementation)
         - [zig Implementation](#zig-implementation)
@@ -37,10 +39,11 @@
   - [Applications](#applications)
     - [IDE](#ide)
     - [Chatbot](#chatbot)
-    - [Embodied AI](#embodied-ai)
+    - [Robotics and Embodied AI](#robotics-and-embodied-ai)
     - [Code Assistant](#code-assistant)
     - [Translator](#translator)
     - [Local knowledge Base](#local-knowledge-base)
+    - [Long-Term Memory](#long-term-memory)
     - [Question Answering System](#question-answering-system)
     - [Academic Field](#academic-field)
     - [Medical Field](#medical-field)
@@ -74,6 +77,17 @@
   - ### Frameworks
 
     - #### Official Version
+
+
+
+      - ##### Neural Network Architecture
+        ###### 神经网络架构
+
+        - [Transformer](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py) <img src="https://img.shields.io/github/stars/tensorflow/tensor2tensor?style=social"/> : "Attention is All You Need". (**[arXiv 2017](https://arxiv.org/abs/1706.03762)**).
+
+        - [KAN](https://github.com/KindXiaoming/pykan) <img src="https://img.shields.io/github/stars/KindXiaoming/pykan?style=social"/> : "KAN: Kolmogorov-Arnold Networks". (**[arXiv 2024](https://arxiv.org/abs/2404.19756)**).
+
+
 
       - ##### Large Language Model
         ###### 大语言模型（LLM）
@@ -169,6 +183,8 @@
         - [Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) <img src="https://img.shields.io/github/stars/microsoft/Llama-2-Onnx?style=social"/> : Llama 2 Powered By ONNX.
 
         - [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) <img src="https://img.shields.io/github/stars/mshumer/gpt-llm-trainer?style=social"/> : The goal of this project is to explore an experimental new pipeline to train a high-performing task-specific model. We try to abstract away all the complexity, so it's as easy as possible to go from idea -> performant fully-trained model.
+
+
 
 
 
@@ -475,6 +491,15 @@
             - [AmeyaWagh/llama2.cpp](https://github.com/AmeyaWagh/llama2.cpp) <img src="https://img.shields.io/github/stars/AmeyaWagh/llama2.cpp?style=social"/> : Inference Llama 2 in C++.
 
 
+        - ##### Python Implementation
+
+            - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) <img src="https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=social"/> : Python bindings for llama.cpp. [llama-cpp-python.readthedocs.io](https://llama-cpp-python.readthedocs.io/)
+
+            - [ggml-python](https://github.com/abetlen/ggml-python) <img src="https://img.shields.io/github/stars/abetlen/ggml-python?style=social"/> : Python bindings for ggml. [ggml-python.readthedocs.io](https://ggml-python.readthedocs.io/)
+
+
+
+
         - ##### Mojo Implementation
 
             - [llama2.mojo](https://github.com/tairov/llama2.mojo) <img src="https://img.shields.io/github/stars/tairov/llama2.mojo?style=social"/> : Inference Llama 2 in one file of pure 🔥
@@ -672,6 +697,8 @@
 
   - ### Learning Resources
 
+    - [动手学深度学习（Dive into Deep Learning，D2L.ai）](https://github.com/d2l-ai/d2l-zh) <img src="https://img.shields.io/github/stars/d2l-ai/d2l-zh?style=social"/> : 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。[zh.d2l.ai](http://zh.d2l.ai/)
+
     - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) <img src="https://img.shields.io/github/stars/mlabonne/llm-course?style=social"/> :  Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.[mlabonne.github.io/blog/](https://mlabonne.github.io/blog/)
 
     - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) <img src="https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social"/> :  Implementing a ChatGPT-like LLM from scratch, step by step. [https://www.manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
@@ -679,6 +706,8 @@
     - [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) <img src="https://img.shields.io/github/stars/datawhalechina/llm-universe?style=social"/> : 动手学大模型应用开发。本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：[https://datawhalechina.github.io/llm-universe/](https://datawhalechina.github.io/llm-universe/)
 
     - [datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm) <img src="https://img.shields.io/github/stars/datawhalechina/hugging-llm?style=social"/> :  HuggingLLM, Hugging Future. 蝴蝶书ButterflyBook. 配套视频教程：[https://b23.tv/hdnXn1L](https://www.bilibili.com/video/BV1ek4y1J7Rd/)
+
+    - [zyds/transformers-code](https://github.com/zyds/transformers-code) <img src="https://img.shields.io/github/stars/zyds/transformers-code?style=social"/> :  手把手带你实战 Huggingface Transformers 课程视频同步更新在B站与YouTube。
 
     - [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) <img src="https://img.shields.io/github/stars/DjangoPeng/openai-quickstart?style=social"/> : A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications. 本项目旨在为所有对大型语言模型及其在生成式人工智能（AIGC）场景中应用的人们提供一站式学习资源。通过提供理论基础，开发基础，和实践示例，该项目对这些前沿主题提供了全面的指导。
 
@@ -816,10 +845,14 @@
 
 
 
-  - ### Embodied AI
-    #### 具身智能
+  - ### Robotics and Embodied AI
+    #### 机器人与具身智能
+
+    - [LeRobot](https://github.com/huggingface/lerobot) <img src="https://img.shields.io/github/stars/huggingface/lerobot?style=social"/> : 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch.
 
     - [BestAnHongjun/InternDog](https://github.com/BestAnHongjun/InternDog) <img src="https://img.shields.io/github/stars/BestAnHongjun/InternDog?style=social"/> : InternDog: 基于InternLM2大模型的离线具身智能导盲犬。
+
+
 
 
 
@@ -849,7 +882,7 @@
   - ### Local knowledge Base
     #### 本地知识库
 
-    - [privateGPT](https://github.com/imartinez/privateGPT) <img src="https://img.shields.io/github/stars/imartinez/privateGPT?style=social"/> :Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection! Built with [LangChain](https://github.com/langchain-ai/langchain), [GPT4All](https://github.com/nomic-ai/gpt4all), [LlamaCpp](https://github.com/ggerganov/llama.cpp), [Chroma](https://www.trychroma.com/) and [SentenceTransformers](https://www.sbert.net/).
+    - [privateGPT](https://github.com/imartinez/privateGPT) <img src="https://img.shields.io/github/stars/imartinez/privateGPT?style=social"/> : Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection! Built with [LangChain](https://github.com/langchain-ai/langchain), [GPT4All](https://github.com/nomic-ai/gpt4all), [LlamaCpp](https://github.com/ggerganov/llama.cpp), [Chroma](https://www.trychroma.com/) and [SentenceTransformers](https://www.sbert.net/).
 
     - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) <img src="https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social"/> : lLangchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答。
 
@@ -859,6 +892,11 @@
 
 
 
+
+  - ### Long-Term Memory
+    #### 长期记忆
+
+    - [MemGPT](https://github.com/cpacker/MemGPT) <img src="https://img.shields.io/github/stars/cpacker/MemGPT?style=social"/> : Create LLM agents with long-term memory and custom tools 📚🦙. [memgpt.readme.io](https://memgpt.readme.io/)
 
 
 
