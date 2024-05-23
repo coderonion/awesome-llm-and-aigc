@@ -549,6 +549,8 @@
 
             - [llm-chain](https://github.com/sobelio/llm-chain) <img src="https://img.shields.io/github/stars/sobelio/llm-chain?style=social"/> : llm-chain is a collection of Rust crates designed to help you work with Large Language Models (LLMs) more effectively. [llm-chain.xyz](https://llm-chain.xyz/)
 
+            - [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) <img src="https://img.shields.io/github/stars/Abraxas-365/langchain-rust?style=social"/> : 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust.
+
             - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) <img src="https://img.shields.io/github/stars/Atome-FE/llama-node?style=social"/> : Believe in AI democratization. llama for nodejs backed by llama-rs and llama.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna model. [www.npmjs.com/package/llama-node](https://www.npmjs.com/package/llama-node)
 
             - [Noeda/rllama](https://github.com/Noeda/rllama) <img src="https://img.shields.io/github/stars/Noeda/rllama?style=social"/> : Rust+OpenCL+AVX2 implementation of LLaMA inference code.
@@ -702,6 +704,10 @@
     - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) <img src="https://img.shields.io/github/stars/mlabonne/llm-course?style=social"/> :  Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.[mlabonne.github.io/blog/](https://mlabonne.github.io/blog/)
 
     - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) <img src="https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social"/> :  Implementing a ChatGPT-like LLM from scratch, step by step. [https://www.manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+
+    - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) <img src="https://img.shields.io/github/stars/naklecha/llama3-from-scratch?style=social"/> :  llama3 implementation one matrix multiplication at a time.
+
+    - [zjhellofss/EdgeLLama](https://github.com/zjhellofss/EdgeLLama) <img src="https://img.shields.io/github/stars/zjhellofss/EdgeLLama?style=social"/> :  自制大模型推理框架。
 
     - [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) <img src="https://img.shields.io/github/stars/datawhalechina/llm-universe?style=social"/> : 动手学大模型应用开发。本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：[https://datawhalechina.github.io/llm-universe/](https://datawhalechina.github.io/llm-universe/)
 
@@ -1245,6 +1251,7 @@
     - [2024-04-12，谷歌爆改Transformer，“无限注意力”让1B小模型读完10部小说，114倍信息压缩](https://mp.weixin.qq.com/s/Hkt9TMf6e1Wp2xziw878WQ)
     - [2024-04-17，脑电合成自然语音！LeCun转发Nature子刊新成果，代码开源](https://mp.weixin.qq.com/s/BcV3-3glmdsVF--fpPRU2g)
     - [2024-04-19，Llama 3突然来袭！开源社区再次沸腾：GPT-4级别模型可以自由访问的时代到来](https://mp.weixin.qq.com/s/r6aradJU83GvvVwkFkLXKQ)
+    - [2024-05-14，GPT-4o深夜炸场！AI实时视频通话丝滑如人类，Plus功能免费可用，奥特曼：《她》来了](https://mp.weixin.qq.com/s/cAeLgg46Wq81rhgsJp0l4Q)
   - 微信公众号「机器之心」
     - [2023-02-15，开源方案复现ChatGPT流程！1.62GB显存即可体验，单机训练提速7.73倍](https://mp.weixin.qq.com/s/j8gvD_4ViRE4WQaQlcnmrQ)
     - [2023-02-19，跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文](https://mp.weixin.qq.com/s/s5WrGn_dQyHrsZP8qsI2ag)
@@ -1418,6 +1425,8 @@
     - [2024-04-09，1000行C语言搓出GPT-2！AI大神Karpathy新项目刚上线就狂揽2.5k星](https://mp.weixin.qq.com/s/_W2GlbO8nAfpLPtRtQJ-yw)
     - [2024-04-19，全球首个「开源GPT-4」出世！Llama 3震撼发布，Meta AI免登录可用](https://mp.weixin.qq.com/s/jiEfe60I446jrDzZxDh_Vg)
     - [2024-04-25，国产大模型卷翻机器人！这些火遍全网的机器人，都装上了星火「大脑」](https://mp.weixin.qq.com/s/ZU_oOH4-s6Sd6nD_-jmbgw)
+    - [2024-05-21，250行代码从头搭建Llama 3，GitHub一天4.6k星！Karpathy大赞](https://mp.weixin.qq.com/s/YL8EsZ3B6Mf1Nk1JCuXdzQ)
+
   - 微信公众号「智东西」
     - [2023-02-06，ChatGPT版搜索引擎突然上线，科技巨头们坐不住了！](https://mp.weixin.qq.com/s/lncJm6hmK3AQNF2paWI5Dw)
     - [2023-04-07，ChatGPT和Matter两大风口汇合！AWE同期AIoT智能家居峰会月底举行，首批嘉宾公布](https://mp.weixin.qq.com/s/cuI8sSff_zGiLtwukAcLRw)
@@ -1694,6 +1703,7 @@
     - [2023-08-22，llama2.c for Dummies：llama2.c手把手代码解析](https://mp.weixin.qq.com/s/AiFY_uu48KFX0hv3eDdAwQ)
     - [2024-04-16，本地 LLM 推理项目大列表](https://mp.weixin.qq.com/s/3O6nAO8GN4eYQDefqJCfQQ)
     - [2024-04-25，llama2.cpp：C++版本的Llama 2推理库](https://mp.weixin.qq.com/s/mr0aKhxV9V-vKeaJXOMijQ)
+    - [2024-05-17，LangChain Rust：用 Rust 语言实现的库](https://mp.weixin.qq.com/s/h82CidF97OAoQ-PmhzLBiQ)
   - 微信公众号「NewBeeNLP」
     - [2023-02-07，ChatGPT Prompt工程：设计、实践与思考](https://mp.weixin.qq.com/s/a8hjzZ_Rzl6pOU1PRAARJQ)
     - [2023-07-19，谁才是真正的 OpenAI？更大更强的Llama 2来啦，可直接商用](https://mp.weixin.qq.com/s/2kN6hI17VpKEMgvK8iEqDg)
@@ -2000,6 +2010,10 @@
     - [2024-04-13，如何微调Meta Llama-3 8B](https://mp.weixin.qq.com/s/mwaCtibKkFjQzPhDRKtCOw)
     - 微信公众号「DeepPrompting」
         - [2024-01-09，LLM推理库TensorRT-LLM深入分析](https://mp.weixin.qq.com/s/hI6maWtVGHnTi0uGPj6tmA)
+    - 微信公众号「AAIA亚太人工智能学会 AIGC」
+        - [2024-05-17，2024年重大新方向！华裔AI教母最新视频值得多看几遍](https://mp.weixin.qq.com/s/UpmsQTGk5EK8fPrWRknOew)
+
+
 
   - [知乎「Lil2J」](https://www.zhihu.com/people/ai-er-sha-la-wei-81)
     - [2024-03-02，从0开始预训练1.4b中文大模型实践](https://zhuanlan.zhihu.com/p/684946331)
