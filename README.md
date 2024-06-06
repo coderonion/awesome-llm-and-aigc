@@ -1982,12 +1982,14 @@
     - [2024-04-18，人形机器人哪家好？万字总结人形机器人发展近况！](https://mp.weixin.qq.com/s/hubkOpV521iDmEwkL1rWFg)
   - 微信公众号「Founder Park」
     - [2024-04-19，Llama 3 发布！目前最强开源大模型，全面登陆 Meta 系产品，即将推出 4000 亿模型](https://mp.weixin.qq.com/s/Ik29LVChNrq8aou8RXVg3Q)
+    - [2024-06-04，从 ImageNet 到 AlexNet，李飞飞万字自述人工智能诞生的关键进程](https://mp.weixin.qq.com/s/Pw3JjGATQLw-32puq20GLg)
   - 微信公众号「智能涌现」
     - [2024-04-19，Meta震撼发布Llama 3，一夜重回开源大模型铁王座](https://mp.weixin.qq.com/s/QJC76vH9ZrynQalkh0rXhg)
   - 微信公众号「苏哲管理咨询」
     - [2024-02-25，英伟达（NVIDA）崛起不平凡之路--老黄全球AI芯片新帝国简史](https://mp.weixin.qq.com/s/4c8FtVeJmNlXL6akj5lj8A)
     - [2024-03-31，杨立昆教授在哈佛大学数学系演讲稿-关于人工智能世界新模型](https://mp.weixin.qq.com/s/BUCKq4SWEMqwsy3gi_GULw)
     - [2024-04-02，杨立昆教授哈佛大学数学系演讲稿全文-目标驱动的人工智能世界新模型](https://mp.weixin.qq.com/s/itFaooocbcSKVkAP-kERyQ)
+    - [2024-05-26，杨立昆教授关于通用人工智能世界模型JEPA观点及争议](https://mp.weixin.qq.com/s/Ivn6X_IbobVo96LFEUjhew)
   - 微信公众号「美团技术团队」
     - [2024-04-11，美团外卖基于GPU的向量检索系统实践](https://mp.weixin.qq.com/s/pPl-anyQnFNFkmBlVsrBpA)
   - 微信公众号「大模型生态圈」
@@ -1998,6 +2000,8 @@
     - [2024-03-27，LLM 推理加速方式汇总](https://mp.weixin.qq.com/s/IlaQw6Ut25NNoTZkxs63Vg)
     - [2024-03-31，通往 LLM 算法工程师之路](https://mp.weixin.qq.com/s/1LzZ3HeXAYxrhi3cmAUL0A)
     - [2024-04-26，LLM推理量化：FP8 VS INT8](https://mp.weixin.qq.com/s/e7QZC1qNkETXNXZpcD9cRg)
+    - [2024-05-09，大模型精度（FP16，FP32，BF16）详解与实践](https://mp.weixin.qq.com/s/sTElpJeLteVjBcLxpnhAWA)
+    - [2024-06-02，[LLM推理优化][万字]TensorRT-LLM部署调优-指北](https://mp.weixin.qq.com/s/PGOleShWEjHCPpw1wuV7SA)
   - 微信公众号「前沿技术汇」
     - [2024-03-23，卷积神经网络（Convolutional Neural Network）的重要概念](https://mp.weixin.qq.com/s/VMPBhe2VmGoGE-1p-_OLQQ)
   - 微信公众号「CPP开发者」
@@ -2009,13 +2013,17 @@
     - [2024-04-25，​中科院联合多所高校提出 AdvLoRA | 通过数据增强，攻击检测等对抗模型攻击，提高模型安全性和鲁棒性！](https://mp.weixin.qq.com/s/37t5kwgPQzORR3Sxmxy14w)
   - 微信公众号「DeepLearning笔记」
     - [2024-04-13，如何微调Meta Llama-3 8B](https://mp.weixin.qq.com/s/mwaCtibKkFjQzPhDRKtCOw)
-    - 微信公众号「DeepPrompting」
-        - [2024-01-09，LLM推理库TensorRT-LLM深入分析](https://mp.weixin.qq.com/s/hI6maWtVGHnTi0uGPj6tmA)
-    - 微信公众号「AAIA亚太人工智能学会 AIGC」
-        - [2024-05-17，2024年重大新方向！华裔AI教母最新视频值得多看几遍](https://mp.weixin.qq.com/s/UpmsQTGk5EK8fPrWRknOew)
-        - [2024-05-23，OpenAI死对头Anthropic重磅发布：解锁LLM黑箱](https://mp.weixin.qq.com/s/vqsWUtWzWVzRfVwZqpwFvA)
-    - 微信公众号「科技译览」
-        - [2024-04-09，100行C代码重塑深度学习：用纯C/CUDA打造的极简LLM训练](https://mp.weixin.qq.com/s/Th3RX3_FS5git0qJEcu4ZA)
+  - 微信公众号「DeepPrompting」
+    - [2024-01-09，LLM推理库TensorRT-LLM深入分析](https://mp.weixin.qq.com/s/hI6maWtVGHnTi0uGPj6tmA)
+  - 微信公众号「AAIA亚太人工智能学会 AIGC」
+    - [2024-05-17，2024年重大新方向！华裔AI教母最新视频值得多看几遍](https://mp.weixin.qq.com/s/UpmsQTGk5EK8fPrWRknOew)
+    - [2024-05-23，OpenAI死对头Anthropic重磅发布：解锁LLM黑箱](https://mp.weixin.qq.com/s/vqsWUtWzWVzRfVwZqpwFvA)
+  - 微信公众号「科技译览」
+    - [2024-04-09，100行C代码重塑深度学习：用纯C/CUDA打造的极简LLM训练](https://mp.weixin.qq.com/s/Th3RX3_FS5git0qJEcu4ZA)
+  - 微信公众号「不糊弄的说」
+    - [2024-05-25， Transformer内部原理四部曲3D动画展示](https://mp.weixin.qq.com/s/QEvdSPaf6Ikz15iaEJXjlw)
+  - 微信公众号「AGI Hunt」
+    - [2024-05-04， OpenAI 前创始成员、特斯拉自动驾驶前负责人 Andrej Karpathy：llm.c项目在第24天实现了多GPU训练](https://mp.weixin.qq.com/s/gmrhQ_ZfTVlRrI4JbDaX6Q)
 
 
   - [知乎「Lil2J」](https://www.zhihu.com/people/ai-er-sha-la-wei-81)
