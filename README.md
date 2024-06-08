@@ -1252,6 +1252,7 @@
     - [2024-04-17，脑电合成自然语音！LeCun转发Nature子刊新成果，代码开源](https://mp.weixin.qq.com/s/BcV3-3glmdsVF--fpPRU2g)
     - [2024-04-19，Llama 3突然来袭！开源社区再次沸腾：GPT-4级别模型可以自由访问的时代到来](https://mp.weixin.qq.com/s/r6aradJU83GvvVwkFkLXKQ)
     - [2024-05-14，GPT-4o深夜炸场！AI实时视频通话丝滑如人类，Plus功能免费可用，奥特曼：《她》来了](https://mp.weixin.qq.com/s/cAeLgg46Wq81rhgsJp0l4Q)
+    - [2024-06-08，开源超闭源！通义千问Qwen2发布即爆火，网友：GPT-4o危](https://mp.weixin.qq.com/s/BOYnh-vvpK85Rmq9T9I3lQ)
   - 微信公众号「机器之心」
     - [2023-02-15，开源方案复现ChatGPT流程！1.62GB显存即可体验，单机训练提速7.73倍](https://mp.weixin.qq.com/s/j8gvD_4ViRE4WQaQlcnmrQ)
     - [2023-02-19，跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文](https://mp.weixin.qq.com/s/s5WrGn_dQyHrsZP8qsI2ag)
@@ -2024,6 +2025,9 @@
     - [2024-05-25， Transformer内部原理四部曲3D动画展示](https://mp.weixin.qq.com/s/QEvdSPaf6Ikz15iaEJXjlw)
   - 微信公众号「AGI Hunt」
     - [2024-05-04， OpenAI 前创始成员、特斯拉自动驾驶前负责人 Andrej Karpathy：llm.c项目在第24天实现了多GPU训练](https://mp.weixin.qq.com/s/gmrhQ_ZfTVlRrI4JbDaX6Q)
+  - 微信公众号「GiantPandaCV」
+    - [2024-06-07， LLM PTQ量化经典研究解析](https://mp.weixin.qq.com/s/01rDsMHY6pBHmGhwZhouvQ)
+
 
 
   - [知乎「Lil2J」](https://www.zhihu.com/people/ai-er-sha-la-wei-81)
