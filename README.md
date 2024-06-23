@@ -699,11 +699,17 @@
 
     - [动手学深度学习（Dive into Deep Learning，D2L.ai）](https://github.com/d2l-ai/d2l-zh) <img src="https://img.shields.io/github/stars/d2l-ai/d2l-zh?style=social"/> : 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。[zh.d2l.ai](http://zh.d2l.ai/)
 
-    - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) <img src="https://img.shields.io/github/stars/mlabonne/llm-course?style=social"/> :  Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.[mlabonne.github.io/blog/](https://mlabonne.github.io/blog/)
+    - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) <img src="https://img.shields.io/github/stars/mlabonne/llm-course?style=social"/> : Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.[mlabonne.github.io/blog/](https://mlabonne.github.io/blog/)
 
-    - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) <img src="https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social"/> :  Implementing a ChatGPT-like LLM from scratch, step by step. [https://www.manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+    - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) <img src="https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social"/> : Implementing a ChatGPT-like LLM from scratch, step by step. [https://www.manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 
-    - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) <img src="https://img.shields.io/github/stars/naklecha/llama3-from-scratch?style=social"/> :  llama3 implementation one matrix multiplication at a time.
+    - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) <img src="https://img.shields.io/github/stars/naklecha/llama3-from-scratch?style=social"/> : llama3 implementation one matrix multiplication at a time.
+
+    - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) <img src="https://img.shields.io/github/stars/karpathy/LLM101n?style=social"/> :  LLM101n: Let's build a Storyteller. In this course we will build a Storyteller AI Large Language Model (LLM). Hand in hand, you'll be able create, refine and illustrate little [stories](https://huggingface.co/datasets/roneneldan/TinyStories) with the AI. We are going to build everything end-to-end from basics to a functioning web app similar to ChatGPT, from scratch in Python, C and CUDA, and with minimal computer science prerequisits. By the end you should have a relatively deep understanding of AI, LLMs, and deep learning more generally.
+
+    - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) <img src="https://img.shields.io/github/stars/karpathy/nn-zero-to-hero?style=social"/> :  Neural Networks: Zero to Hero. A course on neural networks that starts all the way at the basics. The course is a series of YouTube videos where we code and train neural networks together. The Jupyter notebooks we build in the videos are then captured here inside the [lectures](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures) directory. Every lecture also has a set of exercises included in the video description.
+
+    - [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) <img src="https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp?style=social"/> :  LLM Zoomcamp - a free online course about building a Q&A system.
 
     - [zjhellofss/EdgeLLama](https://github.com/zjhellofss/EdgeLLama) <img src="https://img.shields.io/github/stars/zjhellofss/EdgeLLama?style=social"/> :  自制大模型推理框架。
 
