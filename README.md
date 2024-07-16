@@ -1219,6 +1219,9 @@
   - 微信公众号「腾讯研究院」
     - [2024-03-04，从诊室到云端：医疗大模型的应用挑战与未来探索](https://mp.weixin.qq.com/s/BoDq30q0K0kEKYzZhn71sQ)
     - [2024-04-19，万字实录：中美大模型生态及技术趋势](https://mp.weixin.qq.com/s/pIOm2QZbuE6AvgW_ucdWBw)
+    - [2024-07-01，机器人崛起：具身智能的技术、商业与社会落地路线图](https://mp.weixin.qq.com/s/rZXXD3tSfudsRiyfQV1-Dw)
+  - 微信公众号「腾讯科技」
+    - [2024-07-03，对话腾讯汤道生：AI不止于大模型](https://mp.weixin.qq.com/s/OrDYcic5a2obxdMn-UhE7Q)
   - 微信公众号「腾讯技术工程」
     - [2023-08-17，一文入门最热的LLM应用开发框架LangChain](https://mp.weixin.qq.com/s/bYzNNL3F0998Do2Jl0PQtw)
   - 微信公众号「微软科技」
@@ -1232,6 +1235,8 @@
     - [2024-05-01，爆款·大模型推理引擎PerfXLM发布](https://mp.weixin.qq.com/s/J0GPv-O8grZ7Qc5tBnGpvA)
     - [2024-06-27，RISC-V欧洲峰会 | 张先轶博士：大模型推理引擎PerfXLM面向RISC-V CPU的移植与优化](https://mp.weixin.qq.com/s/5FXfBG4vx9gcM2l7T_PX4w)
     - [2024-07-01，PerfXCloud大模型开发与部署平台开放注册](https://mp.weixin.qq.com/s/bfyPep1zrgeq0DJVY9-kQw)
+    - [2024-07-13，借助PerfXCloud和Dify，低成本构建大模型应用](https://mp.weixin.qq.com/s/pMPxXZnldJKZ4FIEMz-KEg)
+    - [2024-07-15，PerfXCloud助力Agently开源生态，加速大模型Agent原生应用开发](https://mp.weixin.qq.com/s/_b-6BoHgPkutqF32vowHnQ)
   - 微信公众号「InternLM」
     - [2024-03-05，你一票我一票，首期书生·浦语大模型实战营明星项目就出道！](https://mp.weixin.qq.com/s/-MpBhlV-kLMUf4lMeFoFlw)
     - [2024-03-25，首届书生·浦源大模型挑战赛圆满收官，实战营学员大放异彩！](https://mp.weixin.qq.com/s/_n0OyGsYxlO9arUak8cMNg)
@@ -1275,6 +1280,7 @@
     - [2024-06-21，最火AI角色扮演流量已达谷歌搜索20%！每秒处理2万推理请求，Transformer作者公开优化秘诀](https://mp.weixin.qq.com/s/M1XDYMfez2hrB9_qQkHNgQ)
     - [2024-06-21，新王Claude 3.5实测：阿里数学竞赛题不给选项直接做对](https://mp.weixin.qq.com/s/-nKJYHBh-Cm6cXZIe4NdHA)
     - [2024-06-24，小米大模型提效新框架：训练最高提速34%，推理最高提速52%！Kaldi之父合作出品](https://mp.weixin.qq.com/s/aNQVnf2W0yqLl5mdQxZ0cw)
+    - [2024-07-12，H100利用率飙升至75%！英伟达亲自下场FlashAttention三代升级，比标准注意力快16倍](https://mp.weixin.qq.com/s/0YrHdL9bEtAZpgYy2REkZw)
   - 微信公众号「机器之心」
     - [2023-02-15，开源方案复现ChatGPT流程！1.62GB显存即可体验，单机训练提速7.73倍](https://mp.weixin.qq.com/s/j8gvD_4ViRE4WQaQlcnmrQ)
     - [2023-02-19，跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文](https://mp.weixin.qq.com/s/s5WrGn_dQyHrsZP8qsI2ag)
@@ -1658,6 +1664,8 @@
     - [2023-06-01，ChatGPT路线图曝光：没有GPT-5、识图功能要等到明年、GPT-3或将开源](https://mp.weixin.qq.com/s/yKst4w3x0II3kGy5VqY2gA)
   - 微信公众号「佐思汽车研究」
     - [2023-05-26，大模型上不了车](https://mp.weixin.qq.com/s/guxGFY5Jg_YdWDxnIyTZsA)
+    - [2024-07-07，让算法工程师失业，用视觉语言大模型VLM做自动驾驶](https://mp.weixin.qq.com/s/6owg4FR9m-q4Ywbn3zug0g)
+    - [2024-07-13，两片Orin算力能翻倍么？英伟达最深的护城河：NVLink](https://mp.weixin.qq.com/s/-R3zObUubzkOy5VLP3KA3Q)
   - 微信公众号「芯东西」
     - [2023-06-14，1530亿颗晶体管！AMD甩出最强AI芯片，单个GPU跑大模型](https://mp.weixin.qq.com/s/b47zVOa_KGEN47_d3Dlibw)
   - 微信公众号「开源技术服务中心」
@@ -2099,7 +2107,11 @@
   - 微信公众号「子非AI」
     - [2024-06-07，国产开源大模型迎来新突破：Qwen2 与 GLM-4 性能直逼 GPT-4](https://mp.weixin.qq.com/s/sgH5J5OZmjXwcVia4d23zg)
   - 微信公众号「大模型新视界」
+    - [2024-06-20，大模型量化性能评价指标](https://mp.weixin.qq.com/s/S76alcWhBdM5gWJvT0udAQ)
     - [2024-06-24，FP8 量化基础 - 英伟达](https://mp.weixin.qq.com/s/MnOze4BGP-a7Un4K0sakbg)
+    - [2024-07-05，聊聊大模型推理中的分离式推理](https://mp.weixin.qq.com/s/4vO3j4LXcmsZ97WfabZzfA)
+    - [2024-07-09，[LLM性能优化]聊聊长文本推理性能优化方向 ](https://mp.weixin.qq.com/s/SdUKuBwImjUWgyaypjZyqw)
+    - [2024-07-11，FP8 低精度训练：Transformer Engine 简析](https://mp.weixin.qq.com/s/r836OOVNo9z_HHTX-MtO-A)
   - 微信公众号「奇点智源」
     - [2024-06-22，CS-Bench：首个评估LLM计算机科学能力的基准测试集](https://mp.weixin.qq.com/s/jl3fK-pO_OKTZ5xnAGfZAA)
   - 微信公众号「机器学习算法与自然语言处理」
@@ -2115,7 +2127,12 @@
     - [2024-04-29，2024北京车展 ：主流企业AI大模型上车应用情况梳理](https://mp.weixin.qq.com/s/gsbEHwLOnZxGLLrMQ4d_lg)
   - 微信公众号「开源AI项目落地」
     - [2024-05-04，MemGPT：9.2k星星！创建具有长期记忆和自定义工具的大模型Agent，完全开源！](https://mp.weixin.qq.com/s/egRyfHaYbzTV0_CIXD2KPw)
-
+  - 微信公众号「老牛同学」
+    - [2024-07-06，基于Qwen2/Lllama3等大模型，部署团队私有化RAG知识库系统的详细教程（Docker+AnythingLLM）](https://mp.weixin.qq.com/s/PpY3k3kReKfQdeOJyrB6aw)
+  - 微信公众号「Alter聊科技」
+    - [2024-06-14， 26岁的“天才少年”，带队面壁打通高效大模型之路](https://mp.weixin.qq.com/s/RMOpodWLrUtPnR6YBA0zpA)
+  - 微信公众号「NE时代智能车」
+    - [2024-07-09，理想是如何将视觉语言大模型部署到Orin-X上的？](https://mp.weixin.qq.com/s/EBnfgXY_fxlQI-7eykwqZA)
 
   - [知乎「Lil2J」](https://www.zhihu.com/people/ai-er-sha-la-wei-81)
     - [2024-03-02，从0开始预训练1.4b中文大模型实践](https://zhuanlan.zhihu.com/p/684946331)
