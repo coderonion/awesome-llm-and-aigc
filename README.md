@@ -2133,6 +2133,8 @@
     - [2024-06-14， 26岁的“天才少年”，带队面壁打通高效大模型之路](https://mp.weixin.qq.com/s/RMOpodWLrUtPnR6YBA0zpA)
   - 微信公众号「NE时代智能车」
     - [2024-07-09，理想是如何将视觉语言大模型部署到Orin-X上的？](https://mp.weixin.qq.com/s/EBnfgXY_fxlQI-7eykwqZA)
+  - 微信公众号「InfiniTensor」
+    - [2024-07-27，flash attention的CUDA编程](https://mp.weixin.qq.com/s/RRP45uuC-KgKZ88bzTLgUQ)
 
   - [知乎「Lil2J」](https://www.zhihu.com/people/ai-er-sha-la-wei-81)
     - [2024-03-02，从0开始预训练1.4b中文大模型实践](https://zhuanlan.zhihu.com/p/684946331)
