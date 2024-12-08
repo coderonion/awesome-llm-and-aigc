@@ -39,6 +39,7 @@
   - [Applications](#applications)
     - [IDE](#ide)
     - [Chatbot](#chatbot)
+    - [Autonomous Driving Field](#autonomous-driving-field)
     - [Robotics and Embodied AI](#robotics-and-embodied-ai)
     - [Code Assistant](#code-assistant)
     - [Translator](#translator)
@@ -57,7 +58,6 @@
     - [Animation Field](#animation-field)
     - [Food Field](#food-field)
     - [Tool Learning](#tool-learning)
-    - [Autonomous Driving Field](#autonomous-driving-field)
     - [Adversarial Attack Field](#adversarial-attack-field)
     - [Multi-Agent Collaboration](#multi-agent-collaboration)
     - [AI Avatar](#ai-avatar)
@@ -279,7 +279,11 @@
 
         - [DINOv2](https://github.com/facebookresearch/dinov2) <img src="https://img.shields.io/github/stars/facebookresearch/dinov2?style=social"/> : "DINOv2: Learning Robust Visual Features without Supervision". (**[arXiv 2023](https://arxiv.org/abs/2304.07193)**).
 
-        - [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[arXiv 2023](https://arxiv.org/abs/2303.05499)**). "知乎「三分钟热度」《[十分钟解读Grounding DINO-根据文字提示检测任意目标](https://zhuanlan.zhihu.com/p/627646794)》"。
+        - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
+
+        - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[ECCV 2024](https://arxiv.org/abs/2303.05499)**).
+
+        - [Autodistill](https://github.com/autodistill/autodistill) <img src="https://img.shields.io/github/stars/autodistill/autodistill?style=social"/> : Autodistill uses big, slower foundation models to train small, faster supervised models. Using autodistill, you can go from unlabeled images to inference on a custom model running at the edge with no human intervention in between. [docs.autodistill.com](https://docs.autodistill.com/)
 
         - [SAM](https://github.com/facebookresearch/segment-anything) <img src="https://img.shields.io/github/stars/facebookresearch/segment-anything?style=social"/> : The repository provides code for running inference with the Segment Anything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. "Segment Anything". (**[arXiv 2023](https://arxiv.org/abs/2304.02643)**).
 
@@ -368,6 +372,10 @@
 
 
 
+        - [World Labs](https://www.worldlabs.ai/) : We are a spatial intelligence company building Large World Models to perceive, generate, and interact with the 3D world.
+
+        - [Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) : Genie 2: A large-scale foundation world model.
+
         - [Midjourney](https://www.midjourney.com/) : Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 
         - [DreamStudio](https://dreamstudio.ai/) : Effortless image generation for creators with big dreams.
@@ -385,12 +393,18 @@
 
 
 
+
+
+
+
     - #### Application Development Platform
       ##### 应用程序开发平台
 
         - [LangChain](https://github.com/langchain-ai/langchain) <img src="https://img.shields.io/github/stars/hwchase17/langchain?style=social"/> :  🦜️🔗 LangChain. ⚡ Building applications with LLMs through composability ⚡ [python.langchain.com](https://python.langchain.com/docs/get_started/introduction.html)
 
         - [Dify](https://github.com/langgenius/dify) <img src="https://img.shields.io/github/stars/langgenius/dify?style=social"/> : An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine. [dify.ai](https://dify.ai/)
+
+        - [Lobe Chat](https://github.com/lobehub/lobe-chat) <img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=social"/> : 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application. [chat-preview.lobehub.com](https://chat-preview.lobehub.com/)
 
         - [AutoChain](https://github.com/Forethought-Technologies/AutoChain) <img src="https://img.shields.io/github/stars/Forethought-Technologies/AutoChain?style=social"/> :  AutoChain: Build lightweight, extensible, and testable LLM Agents. [autochain.forethought.ai](https://autochain.forethought.ai/)
 
@@ -856,6 +870,18 @@
 
 
 
+  - ### Autonomous Driving Field
+    #### 自动驾驶领域
+
+    - [DriveVLM](https://tsinghua-mars-lab.github.io/DriveVLM/) : "DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models". (**[CoRL 2024](https://arxiv.org/abs/2402.12289)**). "微信公众号「清华大学交叉信息研究院」《[DriveVLM：清华MARS Lab合作推出首个部署上车的自动驾驶视觉语言大模型](https://mp.weixin.qq.com/s/kpyapOSyDngtinYeheYxyA)》"。
+
+    - [UniAD](https://github.com/OpenDriveLab/UniAD) <img src="https://img.shields.io/github/stars/OpenDriveLab/UniAD?style=social"/> : "Planning-oriented Autonomous Driving". (**[CVPR 2023](https://arxiv.org/abs/2212.10156)**).
+
+    - [TransGPT|致远](https://github.com/DUOMO/TransGPT) <img src="https://img.shields.io/github/stars/DUOMO/TransGPT?style=social"/> : TransGPT是国内首款开源交通大模型，主要致力于在真实交通行业中发挥实际价值。它能够实现交通情况预测、智能咨询助手、公共交通服务、交通规划设计、交通安全教育、协助管理、交通事故报告和分析、自动驾驶辅助系统等功能。TransGPT作为一个通用常识交通大模型，可以为道路工程、桥梁工程、隧道工程、公路运输、水路运输、城市公共交通运输、交通运输经济、交通运输安全等行业提供通识常识。以此为基础，可以落脚到特定的交通应用场景中。
+
+    - [LLMLight](https://github.com/usail-hkust/LLMTSCS) <img src="https://img.shields.io/github/stars/usail-hkust/LLMTSCS?style=social"/> : "LLMLight: Large Language Models as Traffic Signal Control Agents". (**[arXiv 2024](https://arxiv.org/abs/2312.16044)**).
+
+
 
   - ### Robotics and Embodied AI
     #### 机器人与具身智能
@@ -1055,16 +1081,7 @@
 
 
 
-  - ### Autonomous Driving Field
-    #### 自动驾驶领域
 
-    - [DriveVLM](https://tsinghua-mars-lab.github.io/DriveVLM/) : "DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models". (**[arXiv 2024](https://arxiv.org/abs/2402.12289)**).
-
-    - [UniAD](https://github.com/OpenDriveLab/UniAD) <img src="https://img.shields.io/github/stars/OpenDriveLab/UniAD?style=social"/> : "Planning-oriented Autonomous Driving". (**[CVPR 2023](https://arxiv.org/abs/2212.10156)**).
-
-    - [TransGPT|致远](https://github.com/DUOMO/TransGPT) <img src="https://img.shields.io/github/stars/DUOMO/TransGPT?style=social"/> : TransGPT是国内首款开源交通大模型，主要致力于在真实交通行业中发挥实际价值。它能够实现交通情况预测、智能咨询助手、公共交通服务、交通规划设计、交通安全教育、协助管理、交通事故报告和分析、自动驾驶辅助系统等功能。TransGPT作为一个通用常识交通大模型，可以为道路工程、桥梁工程、隧道工程、公路运输、水路运输、城市公共交通运输、交通运输经济、交通运输安全等行业提供通识常识。以此为基础，可以落脚到特定的交通应用场景中。
-
-    - [LLMLight](https://github.com/usail-hkust/LLMTSCS) <img src="https://img.shields.io/github/stars/usail-hkust/LLMTSCS?style=social"/> : "LLMLight: Large Language Models as Traffic Signal Control Agents". (**[arXiv 2024](https://arxiv.org/abs/2312.16044)**).
 
 
 
@@ -1118,6 +1135,8 @@
 
   - ### GUI
     #### 图形用户界面
+
+    - [Lobe Chat](https://github.com/lobehub/lobe-chat) <img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=social"/> : 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application. [chat-preview.lobehub.com](https://chat-preview.lobehub.com/)
 
     - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) <img src="https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web?style=social"/> : A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 
@@ -1463,6 +1482,7 @@
     - [2024-05-21，250行代码从头搭建Llama 3，GitHub一天4.6k星！Karpathy大赞](https://mp.weixin.qq.com/s/YL8EsZ3B6Mf1Nk1JCuXdzQ)
     - [2024-05-02，MLP一夜被干掉！MIT加州理工等革命性KAN破记录，发现数学定理碾压DeepMind](https://mp.weixin.qq.com/s/vqhTFPbcUQaCsQnARZrn0g)
     - [2024-06-07，全球开源新王Qwen2-72B诞生，碾压Llama3-70B击败国产闭源模型！AI圈大佬转疯了](https://mp.weixin.qq.com/s/H6BbNfBNhyJTWs4ML6K1CQ)
+    - [2024-12-05，刚刚，DeepMind最强「基础世界模型」诞生！单图生1分钟游戏世界，解锁下一代智能体](https://mp.weixin.qq.com/s/lUf5_0vnka7OM4jfeAZkeg)
   - 微信公众号「智东西」
     - [2023-02-06，ChatGPT版搜索引擎突然上线，科技巨头们坐不住了！](https://mp.weixin.qq.com/s/lncJm6hmK3AQNF2paWI5Dw)
     - [2023-04-07，ChatGPT和Matter两大风口汇合！AWE同期AIoT智能家居峰会月底举行，首批嘉宾公布](https://mp.weixin.qq.com/s/cuI8sSff_zGiLtwukAcLRw)
@@ -1766,6 +1786,9 @@
     - [2024-04-12，【重磅】谷歌重塑Transformer：无限记忆力，无限长输入，LLM基础研究重大突破](https://mp.weixin.qq.com/s/bV2b9uJ4GFQPhhggHT3VIA)
     - [2024-04-14，【全球黑客加持】Karpathy 1000行纯C训练大模型速度已追平PyTorch](https://mp.weixin.qq.com/s/VvwDhMmq80yN-Wcb8s3aiQ)
     - [2024-06-13，【Yann LeCunn等联手打造LiveBench AI：阿里Qwen2开源模型排名第一](https://mp.weixin.qq.com/s/fowO2nBSwfa9QpK3iHrgdg)
+    - [2024-12-03，李飞飞「世界实验室」重磅推出 AI“造物主”：一张图片生成 3D 世界“任意门”](https://mp.weixin.qq.com/s/fuWQBKrgLVQGCUThbYKLTw)
+    - [2024-12-04，Andrej Karpathy 首次公开私人邮件：揭秘Transformer 注意力机制真相](https://mp.weixin.qq.com/s/H9OzsHhenH_TC1FTu5Zwag)
+    - [2024-12-05，打击李飞飞空间智能，DeepMind 造出“无限世界”Genie 2：AGI 训练场](https://mp.weixin.qq.com/s/QbZPg27w5do4lYMRDpvc-g)
   - 微信公众号「毫末智行」
     - [2023-06-13，自动驾驶大模型亮相2023北京智源大会！顾维灏：DriveGPT将重塑汽车智能化技术路线](https://mp.weixin.qq.com/s/ybtjyY7gjgywl6Jvjd5RMg)
   - 微信公众号「智源研究院」
@@ -1774,10 +1797,12 @@
   - 微信公众号「CLUE中文语言理解测评基准」
     - [2023-06-19，最新大模型排名！中文大模型评测基准SuperCLUE发布6月榜单](https://mp.weixin.qq.com/s/lTqAOO8iqKUW3B_4VMswtw)
     - [2023-07-20，Meta开源免费商用大模型Llama2-13B测评揭晓 | SuperCLUE](https://mp.weixin.qq.com/s/ZowePHkDouP8AiZshR-MXw)
+    - [2024-12-03，推理榜单更新：QwQ国内排名第一，与o1差距缩小](https://mp.weixin.qq.com/s/s_0pdBs9sWMoVzGVm8AHvA)
   - 微信公众号「AI范儿」
     - [2023-06-09，Midjourney指令的终极列表：完整指南](https://mp.weixin.qq.com/s/wyAe6hDDusbSC6M2naAHVA)
     - [2023-07-19，细观察 - Llama-2开源新闻刷屏背后...... 商用？没戏，“中文”被排除在外！](https://mp.weixin.qq.com/s/imVXxEJ4TJL3kRP2Aze2nA)
     - [2024-06-21，OpenAI官方透露GPT-5发布时间，模型能力从高中飞跃到博士！](https://mp.weixin.qq.com/s/id6xmaws_GU2Jbjsbl1lgw)
+    - [2024-12-07，Meta 推出 Llama 3.3：更小规模、更高性能的开源 AI 模型](https://mp.weixin.qq.com/s/_9F5qZ9P7xjZgH8Oov90Kg)
   - 微信公众号「机器学习实验室」
     - [2023-06-26，Midjourney 5.2震撼发布！](https://mp.weixin.qq.com/s/l8a6T2ha4q13go3dRbt8pA)
     - [2023-07-06，「分割一切」视频版SAM来了！](https://mp.weixin.qq.com/s/FdbOe_kvFwDJxF2KMzUO5g)
@@ -1971,6 +1996,7 @@
     - [2024-02-23，欢迎 Gemma: Google 推出可商用的大语言模型，主打开源和轻量！](https://mp.weixin.qq.com/s/VEJxO8UpVdNzqkxyKQRXaA)
     - [2024-03-04，Open Sora Plan! 北大-兔展AIGC联合实验室共同发起，希望通过开源社区的力量复现Sora](https://mp.weixin.qq.com/s/FcJN-95C4Ox_uYpNTCwn9A)
     - [2024-04-10，又一大模型技术开源！有道自研 RAG 引擎 QAnything 正式开放下载，支持任意格式的文件问答](https://mp.weixin.qq.com/s/1kgW5cUds3slium3g1aWow)
+    - [2024-11-28，OmniVision-968M：全球最紧凑、最小的边缘 AI 多模态视觉语言模型！附带本地安装部署运行教程](https://mp.weixin.qq.com/s/9988LrBquUNryvBWRSWXsQ)
   - 微信公众号「AI闲谈」
     - [2024-02-20，追本溯源：OpenAI Sora 技术报告解读](https://mp.weixin.qq.com/s/FYIC3F5po7_v0VP89pEORQ)
   - 微信公众号「Second State」
@@ -2112,6 +2138,7 @@
     - [2024-07-05，聊聊大模型推理中的分离式推理](https://mp.weixin.qq.com/s/4vO3j4LXcmsZ97WfabZzfA)
     - [2024-07-09，[LLM性能优化]聊聊长文本推理性能优化方向 ](https://mp.weixin.qq.com/s/SdUKuBwImjUWgyaypjZyqw)
     - [2024-07-11，FP8 低精度训练：Transformer Engine 简析](https://mp.weixin.qq.com/s/r836OOVNo9z_HHTX-MtO-A)
+    - [2024-12-06，大模型推理加速与KV Cache（一）：什么是KV Cache](https://mp.weixin.qq.com/s/jTDOHf5q_eyfucUhVAJCFQ)
   - 微信公众号「奇点智源」
     - [2024-06-22，CS-Bench：首个评估LLM计算机科学能力的基准测试集](https://mp.weixin.qq.com/s/jl3fK-pO_OKTZ5xnAGfZAA)
   - 微信公众号「机器学习算法与自然语言处理」
@@ -2127,6 +2154,7 @@
     - [2024-04-29，2024北京车展 ：主流企业AI大模型上车应用情况梳理](https://mp.weixin.qq.com/s/gsbEHwLOnZxGLLrMQ4d_lg)
   - 微信公众号「开源AI项目落地」
     - [2024-05-04，MemGPT：9.2k星星！创建具有长期记忆和自定义工具的大模型Agent，完全开源！](https://mp.weixin.qq.com/s/egRyfHaYbzTV0_CIXD2KPw)
+    - [2024-12-03，46.6k星星！最强开源AI集合系统，一键部署全网AI工具都能直接用，UI简直是视觉盛宴！](https://mp.weixin.qq.com/s/3iiKEklVOSAGELz1S5jHlw)
   - 微信公众号「老牛同学」
     - [2024-07-06，基于Qwen2/Lllama3等大模型，部署团队私有化RAG知识库系统的详细教程（Docker+AnythingLLM）](https://mp.weixin.qq.com/s/PpY3k3kReKfQdeOJyrB6aw)
   - 微信公众号「Alter聊科技」
@@ -2135,7 +2163,25 @@
     - [2024-07-09，理想是如何将视觉语言大模型部署到Orin-X上的？](https://mp.weixin.qq.com/s/EBnfgXY_fxlQI-7eykwqZA)
   - 微信公众号「InfiniTensor」
     - [2024-07-27，flash attention的CUDA编程](https://mp.weixin.qq.com/s/RRP45uuC-KgKZ88bzTLgUQ)
+  - 微信公众号「GeekSavvy」
+    - [2024-12-02，AI Agent与UX的研究与分析](https://mp.weixin.qq.com/s/YYgjhyhtbjqm_0QSYC2gIw)
+  - 微信公众号「清华大学交叉信息研究院」
+    - [2024-09-05，DriveVLM：清华MARS Lab合作推出首个部署上车的自动驾驶视觉语言大模型](https://mp.weixin.qq.com/s/kpyapOSyDngtinYeheYxyA)
+  - 微信公众号「阿旭算法与机器学习」
+    - [2024-11-19，【模型级联】YOLO-World与SAM2通过文本实现指定目标的零样本分割](https://mp.weixin.qq.com/s/cnpmKr04E1imBBnmx6VTQw)
+    - [2024-12-02，【实战】使用GroundingDino实现零样本自动标注【附源码】](https://mp.weixin.qq.com/s/dH5wFyOhevz37Lt4frVp0w)
+  - 微信公众号「PaperAgent」
+    - [2024-12-03，一篇78页大模型GUI Agents全面综述~](https://mp.weixin.qq.com/s/o8F3MsQSHvIlDx_rCvHvgQ)
+  - 微信公众号「ADFeed」
+    - [2024-08-18，DriveVLM：理想+清华团队重磅打造的视觉语言模型与双系统融合自动驾驶方案](https://mp.weixin.qq.com/s/txl46ybOOIi8xPxj03tavQ)
+  - 微信公众号「人工智能与图像处理」
+    - [2024-04-26，大模型之llama2](https://mp.weixin.qq.com/s/RpOJ1VFCHfiZoIhVbKRHQQ)
 
+
+
+
+  - [知乎「李小羊学AI​」](https://www.zhihu.com/people/san-fen-zhong-re-du-38-57)
+    - [2023-05-09，十分钟解读Grounding DINO-根据文字提示检测任意目标](https://zhuanlan.zhihu.com/p/627646794)
   - [知乎「Lil2J」](https://www.zhihu.com/people/ai-er-sha-la-wei-81)
     - [2024-03-02，从0开始预训练1.4b中文大模型实践](https://zhuanlan.zhihu.com/p/684946331)
   - [知乎「老苏聊AI」](https://www.zhihu.com/people/su-pin-yu)
