@@ -1,7 +1,7 @@
 # Awesome-llm-and-aigc
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🚀🚀🚀 This repository lists some awesome public projects about Large Language Model(LLM), Visual Language Model(VLM), AI Generated Content(AIGC), the related Datasets and Applications.
+🚀🚀🚀 This repository lists some awesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
 
 ## Contents
 - [Awesome-llm-and-aigc](#awesome-llm-and-aigc)
@@ -10,7 +10,8 @@
       - [Official Version](#official-version)
         - [Neural Network Architecture](#neural-network-architecture)
         - [Large Language Model](#large-language-model)
-        - [Visual Language Model](#visual-language-model)
+        - [Vision Language Model](#vision-language-model)
+        - [Vision Language Action](#vision-language-action)
         - [AI Generated Content](#ai-generated-content)
       - [Performance Analysis and Visualization](#performance-analysis-and-visualization)
       - [LLM Inference Framework](#llm-inference-framework)
@@ -271,7 +272,7 @@
 
 
 
-      - ##### Visual Language Model
+      - ##### Vision Language Model
         ###### 视觉语言模型（VLM）
 
         - [LLaVA](https://github.com/haotian-liu/LLaVA) <img src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social"/> : 🌋 LLaVA: Large Language and Vision Assistant. Visual instruction tuning towards large language and vision models with GPT-4 level capabilities. [llava.hliu.cc](https://llava.hliu.cc/). "Visual Instruction Tuning". (**[arXiv 2023](https://arxiv.org/abs/2304.08485)**).
