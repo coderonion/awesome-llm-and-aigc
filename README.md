@@ -199,6 +199,8 @@
 
         - [Qwen2.5](https://github.com/QwenLM/Qwen2.5) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=social"/> : Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 
+        - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social"/> : DeepSeek-V3.
+
         - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型。 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**).
 
         - [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM2-6B?style=social"/> : ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型。ChatGLM2-6B 是开源中英双语对话模型 ChatGLM-6B 的第二代版本，在保留了初代模型对话流畅、部署门槛较低等众多优秀特性的基础之上，ChatGLM2-6B 引入了更强大的性能、更强大的性能、更高效的推理、更开放的协议。
@@ -1297,6 +1299,7 @@
     - [2024-07-09，智源打造基于Triton的大模型算子库，助力AI芯片软硬件生态建设](https://mp.weixin.qq.com/s/03EYxAyu4uWI4tjMkFZjSQ)
   - 微信公众号「智源FlagOpen」
     - [2024-09-06，智源打造基于Triton的大模型算子库，助力AI芯片软硬件生态建设](https://mp.weixin.qq.com/s/QMzgj-h6q2mZHokS5QpXmg)
+    - [2024-12-19，智源大模型通用算子库FlagGems四大能力升级，为AI系统开源生态注入新活力](https://mp.weixin.qq.com/s/2X5DyY1MbYhz6zVusPpKww)
   - 微信公众号「IDEA数字经济研究院」
     - [2024-11-22，IDEA研究院发布DINO-X目标检测视觉大模型：万物识别，开放世界](https://mp.weixin.qq.com/s/bT_SbHlkyGaas-J6MkugPw)
   - 微信公众号「腾讯研究院」
@@ -1344,6 +1347,7 @@
     - [2024-06-21，英伟达超大号340B大模型技术报告](https://mp.weixin.qq.com/s/TDucumVeIhn4-G43hdw4vg)
     - [2024-06-21，openai原班人马最强模型Claude 3.5发布](https://mp.weixin.qq.com/s/r3EQHxvDAeSwoY5jbyYXPw)
     - [2024-06-29，月之暗面kimi底层推理系统方案揭秘](https://mp.weixin.qq.com/s/To97I4bU30fQssqkESTOGA)
+    - [2024-12-26，DeepSeek-V3即将开源](https://mp.weixin.qq.com/s/NN77oadRQmStxgDaWc2pVg)
   - 微信公众号「人工智能与图像处理」
     - [2024-04-26，大模型之llama2](https://mp.weixin.qq.com/s/RpOJ1VFCHfiZoIhVbKRHQQ)
     - [2024-04-27，大模型之llama3（概述+调用实践+微调实践）](https://mp.weixin.qq.com/s/uZgP82hMzlvgs7c-iUHeIQ)
@@ -1632,6 +1636,7 @@
     - [2024-06-07，全球开源新王Qwen2-72B诞生，碾压Llama3-70B击败国产闭源模型！AI圈大佬转疯了](https://mp.weixin.qq.com/s/H6BbNfBNhyJTWs4ML6K1CQ)
     - [2024-09-06，PyTorch官宣：告别CUDA，GPU推理迎来Triton加速新时代](https://mp.weixin.qq.com/s/AiViRkOOpmIUm8DfRUu4JA)
     - [2024-12-05，刚刚，DeepMind最强「基础世界模型」诞生！单图生1分钟游戏世界，解锁下一代智能体](https://mp.weixin.qq.com/s/lUf5_0vnka7OM4jfeAZkeg)
+    - [2024-12-22，微软Phi-4封神，14B小模型数学击败GPT-4o！合成数据占比40%，36页技术报告出炉](https://mp.weixin.qq.com/s/Z1yBY0ZBaqmHllf-fFfEJw)
   - 微信公众号「智东西」
     - [2023-02-06，ChatGPT版搜索引擎突然上线，科技巨头们坐不住了！](https://mp.weixin.qq.com/s/lncJm6hmK3AQNF2paWI5Dw)
     - [2023-04-07，ChatGPT和Matter两大风口汇合！AWE同期AIoT智能家居峰会月底举行，首批嘉宾公布](https://mp.weixin.qq.com/s/cuI8sSff_zGiLtwukAcLRw)
@@ -2314,10 +2319,15 @@
     - [2024-05-02，LLM的7种推理框架](https://mp.weixin.qq.com/s/zMEuDdXKhqF0Er5x0B1iUg)
   - 微信公众号「LiteAI」
     - [2024-12-11，理解llama.cpp怎么完成大模型推理的](https://mp.weixin.qq.com/s/4ETzVp1a46CJPzSb3U4saQ)
+    - [2024-12-20，llama.cpp快速上手（CPU&GPU）](https://mp.weixin.qq.com/s/V8ZBrGXLQgj748YgBgMuSw)
   - 微信公众号「潞晨科技」
     - [2024-03-25，3140亿参数Grok-1推理加速3.8倍，高效易用的PyTorch+HuggingFace版来了](https://mp.weixin.qq.com/s/eNClR6CkRDaiJ-O14buqzg)
   - 微信公众号「AI遇见云」
     - [2024-03-15，LLM微调技术调研](https://mp.weixin.qq.com/s/Z0o6sMeHKaKevKJOdDE1sA)
+  - 微信公众号「深度学习推理工具链」
+    - [2023-05-23，大模型推理性能优化之KV Cache解读](https://mp.weixin.qq.com/s/ydjcUOF9iUM581hUTSXPdw)
+    - [2023-09-19，LLM推理优化综述](https://mp.weixin.qq.com/s/0XSCs17zeBrc6kU31BJ1FA)
+
 
 
   - [知乎「李小羊学AI​」](https://www.zhihu.com/people/san-fen-zhong-re-du-38-57)
@@ -2373,6 +2383,7 @@
     - [2024-12-03，字节三面：attention中的Q,K,V怎么来的？](字节三面：attention中的Q,K,V怎么来的？ )
     - [2024-12-06，面试官扎心一问：大模型显存如何估算？](https://mp.weixin.qq.com/s/W_LiyC584qXLbwoxSBmnEg)
     - [2024-12-16，FlashAttention原理，终于看明白了！](https://mp.weixin.qq.com/s/jMgNZ1xpEdMpwLvclFV9Mg)
+    - [2024-12-25，腾讯大模型面试：MoE训练用TP还是EP？](https://mp.weixin.qq.com/s/smho0iiw82zKu-gsjJUSZQ)
 
 
 
