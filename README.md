@@ -67,9 +67,12 @@
     - [GUI](#gui)
   - [Datasets](#datasets)
     - [Open Datasets Platform](#open-datasets-platform)
+    - [Humanoid Robotics Datasets](#humanoid-robotics-datasets)
     - [Text Datasets](#text-datasets)
     - [Multimodal Datasets](#multimodal-datasets)
     - [SFT Datasets](#sft-datasets)
+
+
   - [Blogs](#blogs)
   - [Videos](#videos)
   - [Interview](#interview)
@@ -89,6 +92,8 @@
         - [Transformer](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py) <img src="https://img.shields.io/github/stars/tensorflow/tensor2tensor?style=social"/> : "Attention is All You Need". (**[arXiv 2017](https://arxiv.org/abs/1706.03762)**).
 
         - [KAN](https://github.com/KindXiaoming/pykan) <img src="https://img.shields.io/github/stars/KindXiaoming/pykan?style=social"/> : "KAN: Kolmogorov-Arnold Networks". (**[arXiv 2024](https://arxiv.org/abs/2404.19756)**).
+
+        - [FlashAttention](https://github.com/Dao-AILab/flash-attention) <img src="https://img.shields.io/github/stars/Dao-AILab/flash-attention?style=social"/> : Fast and memory-efficient exact attention. "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness". (**[arXiv 2022](https://arxiv.org/abs/2205.14135)**).
 
 
 
@@ -199,7 +204,7 @@
 
         - [Qwen2.5](https://github.com/QwenLM/Qwen2.5) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=social"/> : Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 
-        - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social"/> : DeepSeek-V3.
+        - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social"/> : "DeepSeek-V3 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.19437)**).
 
         - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型。 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**).
 
@@ -685,7 +690,7 @@
 
     - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) <img src="https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social"/> : Awesome-LLM: a curated list of Large Language Model.
 
-    - [DefTruth/Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) <img src="https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference?style=social"/> : 📖A curated list of Awesome LLM Inference Paper with codes, TensorRT-LLM, vLLM, streaming-llm, AWQ, SmoothQuant, WINT8/4, Continuous Batching, FlashAttention, PagedAttention etc.
+    - [DefTruth/Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) <img src="https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference?style=social"/> : 📖A curated list of Awesome LLM/VLM Inference Papers with codes, such as FlashAttention, PagedAttention, Parallelism, etc. 🎉🎉
 
     - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) <img src="https://img.shields.io/github/stars/RUCAIBox/LLMSurvey?style=social"/> : The official GitHub page for the survey paper "A Survey of Large Language Models". (**[arXiv 2023](https://arxiv.org/abs/2303.18223)**). " 微信公众号「RUC AI Box」《[大模型综述升级啦](https://mp.weixin.qq.com/s/9YMUSSrGLSBKMFY3JYlaoQ)》"。
 
@@ -761,13 +766,13 @@
 
   - ### Learning Resources
 
+    - [zjhellofss/KuiperLLama](https://github.com/zjhellofss/KuiperLLama) <img src="https://img.shields.io/github/stars/zjhellofss/KuiperLLama?style=social"/> : 《动手自制大模型推理框架》。KuiperLLama 动手自制大模型推理框架，支持LLama2/3和Qwen2.5。校招、秋招、春招、实习好项目，带你从零动手实现支持LLama2/3和Qwen2.5的大模型推理框架。
+
+    - [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) <img src="https://img.shields.io/github/stars/zjhellofss/KuiperInfer?style=social"/> :  校招、秋招、春招、实习好项目！带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step。
+
+    - [zjhellofss/kuiperdatawhale](https://github.com/zjhellofss/kuiperdatawhale) <img src="https://img.shields.io/github/stars/zjhellofss/kuiperdatawhale?style=social"/> :  从零自制深度学习推理框架。
+
     - [动手学深度学习（Dive into Deep Learning，D2L.ai）](https://github.com/d2l-ai/d2l-zh) <img src="https://img.shields.io/github/stars/d2l-ai/d2l-zh?style=social"/> : 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。[zh.d2l.ai](http://zh.d2l.ai/)
-
-    - [zjhellofss/KuiperLLama](https://github.com/zjhellofss/KuiperLLama) <img src="https://img.shields.io/github/stars/zjhellofss/KuiperLLama?style=social"/> : KuiperLLama 动手自制大模型推理框架，支持LLama2/3和Qwen2.5。校招、秋招、春招、实习好项目，带你从零动手实现支持LLama2/3和Qwen2.5的大模型推理框架。
-
-    - [wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note) <img src="https://img.shields.io/github/stars/wdndev/llm_interview_note?style=social"/> : 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题。[LLMs 相关知识及面试题](https://wdndev.github.io/llm_interview_note/)
-
-    - [wdndev/mllm_interview_note](https://github.com/wdndev/mllm_interview_note) <img src="https://img.shields.io/github/stars/wdndev/mllm_interview_note?style=social"/> : 主要记录大语言大模型（LLMs） 算法（应用）工程师多模态相关知识。[MLLMs 相关知识](https://wdndev.github.io/mllm_interview_note/)
 
     - [wdndev/tiny-llm-zh](https://github.com/wdndev/tiny-llm-zh) <img src="https://img.shields.io/github/stars/wdndev/tiny-llm-zh?style=social"/> : 从零实现一个小参数量中文大语言模型。
 
@@ -941,6 +946,8 @@
     #### 自动驾驶领域
 
     - [DriveVLM](https://tsinghua-mars-lab.github.io/DriveVLM/) : "DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models". (**[CoRL 2024](https://arxiv.org/abs/2402.12289)**). "微信公众号「清华大学交叉信息研究院」《[DriveVLM：清华MARS Lab合作推出首个部署上车的自动驾驶视觉语言大模型](https://mp.weixin.qq.com/s/kpyapOSyDngtinYeheYxyA)》"。
+
+    - [OpenEMMA](https://github.com/taco-group/OpenEMMA) <img src="https://img.shields.io/github/stars/taco-group/OpenEMMA?style=social"/> : "OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving". (**[arXiv 2024](https://arxiv.org/abs/2412.15208)**).
 
     - [UniAD](https://github.com/OpenDriveLab/UniAD) <img src="https://img.shields.io/github/stars/OpenDriveLab/UniAD?style=social"/> : "Planning-oriented Autonomous Driving". (**[CVPR 2023](https://arxiv.org/abs/2212.10156)**).
 
@@ -1263,6 +1270,16 @@
 
     - [OpenDataLab](https://opendatalab.org.cn/) : 为大模型提供高质量的开放数据集！
 
+
+  - ### Humanoid Robotics Datasets
+    #### 具身智能机器人数据集
+
+    - [RoboMIND](https://x-humanoid-robomind.github.io/) : "RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation". (**[arXiv 2024](https://arxiv.org/abs/2412.13877)**).
+
+
+
+
+
   - ### Text Datasets
     #### 文本数据集
 
@@ -1348,6 +1365,8 @@
     - [2024-06-21，openai原班人马最强模型Claude 3.5发布](https://mp.weixin.qq.com/s/r3EQHxvDAeSwoY5jbyYXPw)
     - [2024-06-29，月之暗面kimi底层推理系统方案揭秘](https://mp.weixin.qq.com/s/To97I4bU30fQssqkESTOGA)
     - [2024-12-26，DeepSeek-V3即将开源](https://mp.weixin.qq.com/s/NN77oadRQmStxgDaWc2pVg)
+    - [2025-01-03，从infra的视角聊聊DeepSeek-V3](https://mp.weixin.qq.com/s/d-LTf9CwLmnkg64q18AbTQ)
+    - [2025-01-05，DeepSeek-V3技术报告完整解读](https://mp.weixin.qq.com/s/M2HpgZTQ9MnhncUcnOmVxg)
   - 微信公众号「人工智能与图像处理」
     - [2024-04-26，大模型之llama2](https://mp.weixin.qq.com/s/RpOJ1VFCHfiZoIhVbKRHQQ)
     - [2024-04-27，大模型之llama3（概述+调用实践+微调实践）](https://mp.weixin.qq.com/s/uZgP82hMzlvgs7c-iUHeIQ)
@@ -1781,6 +1800,7 @@
     - [2023-04-18，AI大模型内卷加剧，商汤凭什么卷进来](https://mp.weixin.qq.com/s/-az_NylC3EyqN4iYx8Sbrw)
   - 微信公众号「深蓝AI」
     - [2023-04-23，最新综述！AIGC到底是什么？都有哪些应用？一文尽览！](https://mp.weixin.qq.com/s/rp9XVUBrh17Wr57SPFgTvg)
+    - [2025-01-05，RoboMIND：上央视新闻啦！我国首个通用多本体具身智能数据集发布](https://mp.weixin.qq.com/s/RWu2eLiGhdli380gNmSQbA)
   - 微信公众号「人工智能前沿讲习」
     - [2023-04-23，【综述专栏】“ChatGPT的问题、风险与机遇”会议综述](https://mp.weixin.qq.com/s/-Gi4xMUXYiI13DaTVgwUdQ)
     - [2023-08-15，【综述专栏】伦敦大学、MetaAI、StabilityAI联合发布70页综述，盘点大模型的16大挑战](https://mp.weixin.qq.com/s/Q9PGJK4Z7vyuYzjXVK9yCw)
@@ -2137,6 +2157,7 @@
     - [2024-11-28，OmniVision-968M：全球最紧凑、最小的边缘 AI 多模态视觉语言模型！附带本地安装部署运行教程](https://mp.weixin.qq.com/s/9988LrBquUNryvBWRSWXsQ)
   - 微信公众号「AI闲谈」
     - [2024-02-20，追本溯源：OpenAI Sora 技术报告解读](https://mp.weixin.qq.com/s/FYIC3F5po7_v0VP89pEORQ)
+    - [2025-01-03，DeepSeek V3 详细解读：模型&Infra 建设](https://mp.weixin.qq.com/s/DKdXcguKcCS5gcwIRLH-Cg)
   - 微信公众号「Second State」
     - [2024-02-22，本地运行 Google 最新开源的 Gemma 系列模型](https://mp.weixin.qq.com/s/RrSZTli9rcehOb3FHj9NuA)
     - [2024-06-18，阿里巴巴全球数学竞赛是什么难度？让阿里的Qwen2-72B 试一试](https://mp.weixin.qq.com/s/1cd5IiE8X0rBZHRGw5kscA)
@@ -2217,6 +2238,7 @@
     - [2024-04-25，​中科院联合多所高校提出 AdvLoRA | 通过数据增强，攻击检测等对抗模型攻击，提高模型安全性和鲁棒性！](https://mp.weixin.qq.com/s/37t5kwgPQzORR3Sxmxy14w)
   - 微信公众号「DeepLearning笔记」
     - [2024-04-13，如何微调Meta Llama-3 8B](https://mp.weixin.qq.com/s/mwaCtibKkFjQzPhDRKtCOw)
+    - [2024-12-27，DeepSeekV3 你真的好快啊](https://mp.weixin.qq.com/s/i_tbwIoVprgUB14xAbwPSg)
   - 微信公众号「AAIA亚太人工智能学会 AIGC」
     - [2024-05-17，2024年重大新方向！华裔AI教母最新视频值得多看几遍](https://mp.weixin.qq.com/s/UpmsQTGk5EK8fPrWRknOew)
     - [2024-05-23，OpenAI死对头Anthropic重磅发布：解锁LLM黑箱](https://mp.weixin.qq.com/s/vqsWUtWzWVzRfVwZqpwFvA)
@@ -2317,6 +2339,7 @@
     - [2024-11-17，多模态大模型系列 | 18：Qwen2-VL(最新版)解读及其实战(精炼版)](https://mp.weixin.qq.com/s/LcPTlDaCGR6WrKBDLgfcaA)
   - 微信公众号「大魏分享」
     - [2024-05-02，LLM的7种推理框架](https://mp.weixin.qq.com/s/zMEuDdXKhqF0Er5x0B1iUg)
+    - [2025-01-04，深挖一下深度学习中的FP8](https://mp.weixin.qq.com/s/6FJBsLHkKYLSMV-CHYjLmw)
   - 微信公众号「LiteAI」
     - [2024-12-11，理解llama.cpp怎么完成大模型推理的](https://mp.weixin.qq.com/s/4ETzVp1a46CJPzSb3U4saQ)
     - [2024-12-20，llama.cpp快速上手（CPU&GPU）](https://mp.weixin.qq.com/s/V8ZBrGXLQgj748YgBgMuSw)
@@ -2327,6 +2350,21 @@
   - 微信公众号「深度学习推理工具链」
     - [2023-05-23，大模型推理性能优化之KV Cache解读](https://mp.weixin.qq.com/s/ydjcUOF9iUM581hUTSXPdw)
     - [2023-09-19，LLM推理优化综述](https://mp.weixin.qq.com/s/0XSCs17zeBrc6kU31BJ1FA)
+  - 微信公众号「MINS」
+    - [2025-01-03，论文导读 | 基于LLM的文献综述自动生成](https://mp.weixin.qq.com/s/2czH3-FgRkND-NNONFRs2g)
+  - 微信公众号「WangNLP」
+    - [2024-11-15，vllm 中量化模型的推理速度对比](https://mp.weixin.qq.com/s/FpWbRKgAxU2xCvAybgZp3w)
+  - 微信公众号「AcademicDaily」
+    - [2024-12-09，美团带来最新大模型推理加速研究成果！](https://mp.weixin.qq.com/s/47W5Bdvn4mip8KZG5TcL_Q)
+    - [2025-01-02，开源OpenEMMA：端到端自动驾驶多模态模型](https://mp.weixin.qq.com/s/xxL_mb8GTsdO1dTWlHaqFg)
+  - 微信公众号「chaofa用代码打点酱油」
+    - [2024-10-05，PyTorch 实现 Multi-Head Self-Attention](https://mp.weixin.qq.com/s/BreG55JLSpHZQsEd-VEGlw)
+    - [2024-10-05，手写self-attention的四重境界 self-attention](https://mp.weixin.qq.com/s/m1FcVTDA5_MpLfD2BcGSHw)
+  - 微信公众号「青稞AI」
+    - [2025-01-05，LLM中的Attention实现及优化](https://mp.weixin.qq.com/s/ljWSBEkvYIS5wmSI3b2X0w)
+  - 微信公众号「讳疾忌医-note」
+    - [2024-12-21，从零开始：用Python编码你的十亿参数LLM](https://mp.weixin.qq.com/s/mJjJt28a8ttNUsBIpPCEKQ)
+
 
 
 
