@@ -16,14 +16,14 @@
       - [Performance Analysis and Visualization](#performance-analysis-and-visualization)
       - [LLM Inference Framework](#llm-inference-framework)
         - [LLM Inference and Serving Engine](#llm-inference-and-serving-engine)
-        - [C Implementation](#c-implementation)
-        - [CPP Implementation](#cpp-implementation)
+        - [C and CPP Implementation](#c-and-cpp-implementation)
         - [Triton Implementation](#triton-implementation)
         - [Python Implementation](#python-implementation)
         - [Mojo Implementation](#mojo-implementation)
         - [Rust Implementation](#rust-implementation)
         - [zig Implementation](#zig-implementation)
         - [Go Implementation](#go-implementation)
+      - [LLM Quantization Framework](#llm-quantization-framework)
       - [Application Development Platform](#application-development-platform)
       - [Fine-Tuning Framework](#fine-tuning-framework)
       - [RAG Framework](#rag-framework)
@@ -42,6 +42,7 @@
   - [Applications](#applications)
     - [IDE](#ide)
     - [Chatbot](#chatbot)
+    - [Object Detection Field](#object-detection-field)
     - [Autonomous Driving Field](#autonomous-driving-field)
     - [Robotics and Embodied AI](#robotics-and-embodied-ai)
     - [Code Assistant](#code-assistant)
@@ -71,10 +72,7 @@
     - [Text Datasets](#text-datasets)
     - [Multimodal Datasets](#multimodal-datasets)
     - [SFT Datasets](#sft-datasets)
-
-
   - [Blogs](#blogs)
-  - [Videos](#videos)
   - [Interview](#interview)
 
 
@@ -83,7 +81,6 @@
   - ### Frameworks
 
     - #### Official Version
-
 
 
       - ##### Neural Network Architecture
@@ -202,7 +199,7 @@
 
         - [Qwen（通义千问）](https://github.com/QwenLM/Qwen) <img src="https://img.shields.io/github/stars/QwenLM/Qwen?style=social"/> : The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 
-        - [Qwen2.5](https://github.com/QwenLM/Qwen2.5) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=social"/> : Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
+        - [Qwen2.5](https://github.com/QwenLM/Qwen2.5) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=social"/> : Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud. "Qwen2.5 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.15115)**).
 
         - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social"/> : "DeepSeek-V3 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.19437)**).
 
@@ -297,16 +294,6 @@
         - [GLIPv2](https://github.com/microsoft/GLIP) <img src="https://img.shields.io/github/stars/microsoft/GLIP?style=social"/> : "GLIPv2: Unifying Localization and Vision-Language Understanding". (**[arXiv 2022](https://arxiv.org/abs/2206.05836)**).
 
         - [InternImage](https://github.com/OpenGVLab/InternImage) <img src="https://img.shields.io/github/stars/OpenGVLab/InternImage?style=social"/> : "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions". (**[CVPR 2023](https://arxiv.org/abs/2211.05778)**).
-
-        - [DINO](https://github.com/IDEA-Research/DINO) <img src="https://img.shields.io/github/stars/IDEA-Research/DINO?style=social"/> : "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection". (**[ICLR 2023](https://arxiv.org/abs/2203.03605)**).
-
-        - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[ECCV 2024](https://arxiv.org/abs/2303.05499)**).
-
-        - [DINOv2](https://github.com/facebookresearch/dinov2) <img src="https://img.shields.io/github/stars/facebookresearch/dinov2?style=social"/> : "DINOv2: Learning Robust Visual Features without Supervision". (**[arXiv 2023](https://arxiv.org/abs/2304.07193)**).
-
-        - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
-
-        - [Autodistill](https://github.com/autodistill/autodistill) <img src="https://img.shields.io/github/stars/autodistill/autodistill?style=social"/> : Autodistill uses big, slower foundation models to train small, faster supervised models. Using autodistill, you can go from unlabeled images to inference on a custom model running at the edge with no human intervention in between. [docs.autodistill.com](https://docs.autodistill.com/)
 
         - [SAM](https://github.com/facebookresearch/segment-anything) <img src="https://img.shields.io/github/stars/facebookresearch/segment-anything?style=social"/> : The repository provides code for running inference with the Segment Anything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. "Segment Anything". (**[arXiv 2023](https://arxiv.org/abs/2304.02643)**).
 
@@ -452,22 +439,17 @@
             - [csbench/csbench](https://github.com/csbench/csbench) <img src="https://img.shields.io/github/stars/csbench/csbench?style=social"/> : "CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery". (**[arXiv 2024](https://arxiv.org/abs/2406.08587)**).
 
 
-        - ##### C Implementation
+        - ##### C and CPP Implementation
 
             - [llm.c](https://github.com/karpathy/llm.c) <img src="https://img.shields.io/github/stars/karpathy/llm.c?style=social"/> : LLM training in simple, pure C/CUDA. There is no need for 245MB of PyTorch or 107MB of cPython. For example, training GPT-2 (CPU, fp32) is ~1,000 lines of clean code in a single file. It compiles and runs instantly, and exactly matches the PyTorch reference implementation.
 
             - [llama2.c](https://github.com/karpathy/llama2.c) <img src="https://img.shields.io/github/stars/karpathy/llama2.c?style=social"/> : Inference Llama 2 in one file of pure C. Train the Llama 2 LLM architecture in PyTorch then inference it with one simple 700-line C file (run.c).
 
+            - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : Inference of [LLaMA](https://github.com/facebookresearch/llama) model in pure C/C++.
 
-        - ##### CPP Implementation
-
-            - [TensorRT](https://github.com/NVIDIA/TensorRT) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT?style=social"/> : NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT. [developer.nvidia.com/tensorrt](https://developer.nvidia.com/tensorrt)
-
-            - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social"/> : TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. [nvidia.github.io/TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM)
+            - [TinyChatEngine](https://github.com/mit-han-lab/TinyChatEngine) <img src="https://img.shields.io/github/stars/mit-han-lab/TinyChatEngine?style=social"/> : TinyChatEngine: On-Device LLM Inference Library. Running large language models (LLMs) and visual language models (VLMs) on the edge is useful: copilot services (coding, office, smart reply) on laptops, cars, robots, and more. Users can get instant responses with better privacy, as the data is local. This is enabled by LLM model compression technique: [SmoothQuant](https://github.com/mit-han-lab/smoothquant) and [AWQ (Activation-aware Weight Quantization)](https://github.com/mit-han-lab/llm-awq), co-designed with TinyChatEngine that implements the compressed low-precision model. Feel free to check out our [slides](https://github.com/mit-han-lab/TinyChatEngine/blob/main/assets/slides.pdf) for more details!
 
             - [gemma.cpp](https://github.com/google/gemma.cpp) <img src="https://img.shields.io/github/stars/google/gemma.cpp?style=social"/> :  gemma.cpp is a lightweight, standalone C++ inference engine for the Gemma foundation models from Google.
-
-            - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : Inference of [LLaMA](https://github.com/facebookresearch/llama) model in pure C/C++.
 
             - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) <img src="https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=social"/> : High-performance inference of [OpenAI's Whisper](https://github.com/openai/whisper) automatic speech recognition (ASR) model.
 
@@ -628,6 +610,20 @@
 
 
             - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) <img src="https://img.shields.io/github/stars/go-skynet/LocalAI?style=social"/> : 🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other. [localai.io](https://localai.io/)
+
+
+
+
+    - #### LLM Quantization Framework
+      ##### LLM量化框架
+
+        - [GPTQ](https://github.com/IST-DASLab/gptq) <img src="https://img.shields.io/github/stars/IST-DASLab/gptq?style=social"/> :  "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers". (**[ICLR 2023](https://arxiv.org/abs/2210.17323)**).
+
+        - [SmoothQuant](https://github.com/mit-han-lab/smoothquant) <img src="https://img.shields.io/github/stars/mit-han-lab/smoothquant?style=social"/> :  "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models". (**[ICML 2023](https://arxiv.org/abs/2211.10438)**).
+
+        - [AWQ](https://github.com/mit-han-lab/llm-awq) <img src="https://img.shields.io/github/stars/mit-han-lab/llm-awq?style=social"/> :  "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration". (**[MLSys 2024](https://arxiv.org/abs/2306.00978)**).
+
+
 
 
     - #### Application Development Platform
@@ -940,6 +936,23 @@
 
     - [JimmyMa99/Roleplay-with-XiYou](https://github.com/JimmyMa99/Roleplay-with-XiYou) <img src="https://img.shields.io/github/stars/JimmyMa99/Roleplay-with-XiYou?style=social"/> : Roleplay-with-XiYou 西游角色扮演。基于《西游记》原文、白话文、ChatGPT生成数据制作的，以InternLM2微调的角色扮演多LLM聊天室。 本项目将介绍关于角色扮演类 LLM 的一切，从数据获取、数据处理，到使用 XTuner 微调并部署至 OpenXLab，再到使用 LMDeploy 部署，以 openai api 的方式接入简单的聊天室，并可以观看不同角色的 LLM 互相交流、互怼。
 
+
+
+
+  - ### Object Detection Field
+    #### 目标检测领域
+
+    - [DINO](https://github.com/IDEA-Research/DINO) <img src="https://img.shields.io/github/stars/IDEA-Research/DINO?style=social"/> : "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection". (**[ICLR 2023](https://arxiv.org/abs/2203.03605)**).
+
+    - [DINOv2](https://github.com/facebookresearch/dinov2) <img src="https://img.shields.io/github/stars/facebookresearch/dinov2?style=social"/> : "DINOv2: Learning Robust Visual Features without Supervision". (**[arXiv 2023](https://arxiv.org/abs/2304.07193)**).
+
+    - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
+
+    - [DOSOD](https://github.com/D-Robotics-AI-Lab/DOSOD) <img src="https://img.shields.io/github/stars/D-Robotics-AI-Lab/DOSOD?style=social"/> : "A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space". (**[arXiv 2024](https://arxiv.org/abs/2412.14680)**).
+
+    - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[ECCV 2024](https://arxiv.org/abs/2303.05499)**).
+
+    - [Autodistill](https://github.com/autodistill/autodistill) <img src="https://img.shields.io/github/stars/autodistill/autodistill?style=social"/> : Images to inference with no labeling (use foundation models to train supervised models). Autodistill uses big, slower foundation models to train small, faster supervised models. Using autodistill, you can go from unlabeled images to inference on a custom model running at the edge with no human intervention in between. [docs.autodistill.com](https://docs.autodistill.com/)
 
 
   - ### Autonomous Driving Field
@@ -1317,12 +1330,20 @@
   - 微信公众号「智源FlagOpen」
     - [2024-09-06，智源打造基于Triton的大模型算子库，助力AI芯片软硬件生态建设](https://mp.weixin.qq.com/s/QMzgj-h6q2mZHokS5QpXmg)
     - [2024-12-19，智源大模型通用算子库FlagGems四大能力升级，为AI系统开源生态注入新活力](https://mp.weixin.qq.com/s/2X5DyY1MbYhz6zVusPpKww)
+  - 微信公众号「国地共建具身智能机器人创新中心」
+    - [2024-12-27，RoboMIND：创新中心与北京大学计算机学院联合创建的具身智能数据集和Benchmark](https://mp.weixin.qq.com/s/v6j_jguzgKPWzsKlR6j7Dg)
   - 微信公众号「IDEA数字经济研究院」
     - [2024-11-22，IDEA研究院发布DINO-X目标检测视觉大模型：万物识别，开放世界](https://mp.weixin.qq.com/s/bT_SbHlkyGaas-J6MkugPw)
   - 微信公众号「腾讯研究院」
     - [2024-03-04，从诊室到云端：医疗大模型的应用挑战与未来探索](https://mp.weixin.qq.com/s/BoDq30q0K0kEKYzZhn71sQ)
     - [2024-04-19，万字实录：中美大模型生态及技术趋势](https://mp.weixin.qq.com/s/pIOm2QZbuE6AvgW_ucdWBw)
     - [2024-07-01，机器人崛起：具身智能的技术、商业与社会落地路线图](https://mp.weixin.qq.com/s/rZXXD3tSfudsRiyfQV1-Dw)
+  - 微信公众号「GPUS开发者」
+    - [2023-10-30，利用NVIDIA Jetson Orin的强大能力执行本地LLM模型](https://mp.weixin.qq.com/s/6J7fEnumqpzSGrG3plcInw)
+    - [2024-05-07，基于NVIDIA Jetson AGX Orin和Audio2Face做一个AI聊天数字人](https://mp.weixin.qq.com/s/7z0uU58IxwoXcI4bZ3z68g)
+    - [2024-11-28，TensorRT-LLM：开启Jetson平台上大语言模型推理的新篇章](https://mp.weixin.qq.com/s/FGg1s__LORE6SOzI_VsJYw)
+    - [2024-11-29，在 Nvidia Jetson AGX Orin 上使用 TensorRT-LLM 运行 LLM](https://mp.weixin.qq.com/s/PhrusT3NisyhxtsO7G5U1g)
+    - [2025-01-06， 关于NVIDIA Jetson Orin 产品升级到Super，不得不说的几个问题](https://mp.weixin.qq.com/s/F_DtkMb9gTe4NAtxvXyN9A)
   - 微信公众号「大模型生态圈」
     - [2024-03-18，大模型推理百倍加速之KV cache篇](https://mp.weixin.qq.com/s/Rio4MYuWBOk7GDzoATp3qA)
     - [2024-03-18，LLM百倍推理加速之量化篇](https://mp.weixin.qq.com/s/jbpVBZLZ0AkrP7bacY5mKw)
@@ -1338,6 +1359,7 @@
     - [2024-11-28，vllm代码快速上手](https://mp.weixin.qq.com/s/l636g8lmKeO3dNB6_TDxCA)
     - [2024-11-29，多模态大模型MLLM的架构发展及思考](https://mp.weixin.qq.com/s/koMzxmumzTtFGuyWq3YHcw)
   - 微信公众号「oldpan博客」
+    - [2023-11-06，TensorRT-LLM初探（一）运行llama，以及triton tensorrt llm backend服务化](https://mp.weixin.qq.com/s/Sv1B1WbjgeL4mlehsyfLFg)
     - [2024-01-03，大模型笔记！以LLAMA为例，快速入门LLM的推理过程](https://mp.weixin.qq.com/s/xPjuBitTw0c_kYy2zg2plw)
     - [2024-03-19，NVIDIA大语言模型落地的全流程解析](https://mp.weixin.qq.com/s/-sNnuDvkucUB_9K9RBfDEw)
     - [2024-03-20，TensorRT-LLM初探（二）简析了结构，用的更明白](https://mp.weixin.qq.com/s/Jk-AK84sllBbkDDpvkv62w)
@@ -1345,6 +1367,7 @@
     - [2024-04-21，搞懂 NVIDIA GPU 性能指标 很容易弄混的一个概念： Utilization vs Saturation](https://mp.weixin.qq.com/s/6PcF2RwGdm1G0JllGSS3jw)
     - [2024-04-22，快速提升性能，如何更好地使用GPU（上）](https://mp.weixin.qq.com/s/dUj058iBzYm-J2vlS5DfNA)
     - [2024-05-22，大模型精度（FP16，FP32，BF16）详解与实践](https://mp.weixin.qq.com/s/95CUl1bGN-fSvmAbH0O-DA)
+    - [2024-06-04，深入理解AWQ量化技术](https://mp.weixin.qq.com/s/7tPKmp-Z_unsjl7n7lV89Q)
     - [2024-08-01，TRT-LLM中的Quantization GEMM（Ampere Mixed GEMM）CUTLASS 2.x 课程学习笔记](https://mp.weixin.qq.com/s/NPytrkchX25YRBc_6Zy6nA)
     - [2024-08-13，TensorRT-LLM初探（三）最佳部署实践](https://mp.weixin.qq.com/s/BiSvYW0-Nb6qf-bTXTRUwg)
   - 微信公众号「吃果冻不吐果冻皮」
@@ -1352,6 +1375,9 @@
     - [2024-04-19，迄今为止最强大的开源 LLM，15 万亿 Token 预训练的 LLaMA3 强势来袭](https://mp.weixin.qq.com/s/PmQL51LYPIzoTF5MBNrppg)
     - [2024-05-06，LLM推理：首token时延优化与System Prompt Caching](https://mp.weixin.qq.com/s/pGrR1kIUcmEh0VrHM_SSSg)
     - [2024-06-11，LLM PTQ 量化经典研究解析](https://mp.weixin.qq.com/s/mMlLRHr1P_SmN280Sj_H-Q)
+    - [2024-08-20，大模型量化技术原理：FP8](https://mp.weixin.qq.com/s/veTPvISRGX9bAbKjxgu6MQ)
+    - [2024-10-11，大模型量化技术原理：FP6](https://mp.weixin.qq.com/s/rmQO86tV-maw8kT0V7KKxA)
+    - [2024-11-22，大模型量化技术原理：QoQ量化及QServe推理服务系统](https://mp.weixin.qq.com/s/s7d67eqXTOD1X0HH8mC-SQ)
     - [2024-11-27，多模态大模型MLLM的架构发展及思考](https://mp.weixin.qq.com/s/zVii5TZlf0iM16THHmINrg)
     - [2024-12-10，大模型量化技术原理：总结](https://mp.weixin.qq.com/s/HaaDZ1YE0bQ_OuJNrmOr-w)
   - 微信公众号「包包算法笔记」
@@ -1383,18 +1409,30 @@
     - [2024-04-23，大语言模型量化](https://mp.weixin.qq.com/s/3RUVgfrLdxyeoWX1R2Hq-Q)
     - [2024-05-05，动手实现Cross Attention](https://mp.weixin.qq.com/s/Gfx16mmwOQc-ba0Hb4OszA)
     - [2024-05-12，动手实现大模型量化AWQ](https://mp.weixin.qq.com/s/7DZElSRERyANUP9E1rEE6g)
+  - 微信公众号「AI不止算法」
+    - [2024-04-09，全网首篇从tensorRT-LLM MoE CUDA kernel角度理解Mixtral-8x7b的推理加速及展望](https://mp.weixin.qq.com/s/3PsVUba-kTLIHK_s0RA2ow)
+    - [2024-04-24，全面认识模型压缩技术之稀疏，motivated by混合专家模型MoE LLM的稀疏特性](https://mp.weixin.qq.com/s/WGrAfzL5qTCHAZLh7VYd5A)
+    - [2024-06-12，个人视角谈谈大模型推理优化的挑战、现有工作和展望](https://mp.weixin.qq.com/s/cDly_LPPqFNTVyMO31Gn9g)
+    - [2024-10-09，深入解读tensorRT-LLM的关键技术 (未完待续)](https://mp.weixin.qq.com/s/2l5Ko2Q-iNOL3PpwpUdArw)
+  - 微信公众号「LiteAI」
+    - [2024-12-11，理解llama.cpp怎么完成大模型推理的](https://mp.weixin.qq.com/s/4ETzVp1a46CJPzSb3U4saQ)
+    - [2024-12-14，AWQ：面向「端侧大模型」量化方法](https://mp.weixin.qq.com/s/NtmBlQUk9Fm6NpTGHdonlA)
+    - [2024-12-20，llama.cpp快速上手（CPU&GPU）](https://mp.weixin.qq.com/s/V8ZBrGXLQgj748YgBgMuSw)
+    - [2025-01-05，TinyML项目（一）：高效ML系统 | TinyChat：视觉语言模型和边缘AI 2.0](https://mp.weixin.qq.com/s/P09LsWLHZP7KoAjlZdDcMw)
+    - [2025-01-06，TinyML项目（二）：高效ML系统 | TinyChat引擎：on-device LLM推理库](https://mp.weixin.qq.com/s/kLXD4aCcer1SqevRrx8cwA)
+    - [2025-01-07，TinyML项目（三）：高效CNN算法&系统协同设计 | MCUNetV3：在 256KB 内存下进行设备端训练](https://mp.weixin.qq.com/s/lIQ-DNtrEJf6wtnjUhjIAQ)
   - 微信公众号「中国信息界」
     - [2024-05-28，中国工程院院士孙凝晖给正国级、副国级讲课的万字长稿《人工智能与智能计算的发展》](https://mp.weixin.qq.com/s/pbbPxM8uZIuxQyFtXCizWg)
-  - 微信公众号「摩尔线程」
-    - [2024-07-18，摩尔线程 × 智源研究院｜完成基于Triton的大模型算子库适配](https://mp.weixin.qq.com/s/84LKQ4Xo1RSdNoFJG0tUmg)
-    - [2024-11-05，开源vLLM-MUSA｜摩尔线程持续加速基于国产GPU的AI大模型推理开发](https://mp.weixin.qq.com/s/5YLCXLlkbZ9WwoaiSIFJhA)
-    - [2024-11-12，开源MUTLASS｜摩尔线程加速基于国产GPU的算子开发以及算法创新](https://mp.weixin.qq.com/s/Nm8BKAJD_ibht8pG9CfEFQ)
   - 微信公众号「腾讯科技」
     - [2024-07-03，对话腾讯汤道生：AI不止于大模型](https://mp.weixin.qq.com/s/OrDYcic5a2obxdMn-UhE7Q)
   - 微信公众号「腾讯技术工程」
     - [2023-08-17，一文入门最热的LLM应用开发框架LangChain](https://mp.weixin.qq.com/s/bYzNNL3F0998Do2Jl0PQtw)
   - 微信公众号「阿里云大数据AI平台」
     - [2024-06-14，通义千问2(Qwen2)大语言模型在PAI-QuickStart的微调、评测与部署实践](https://mp.weixin.qq.com/s/F2vDTdbs0W1SmfbAoKAPVA)
+  - 微信公众号「摩尔线程」
+    - [2024-07-18，摩尔线程 × 智源研究院｜完成基于Triton的大模型算子库适配](https://mp.weixin.qq.com/s/84LKQ4Xo1RSdNoFJG0tUmg)
+    - [2024-11-05，开源vLLM-MUSA｜摩尔线程持续加速基于国产GPU的AI大模型推理开发](https://mp.weixin.qq.com/s/5YLCXLlkbZ9WwoaiSIFJhA)
+    - [2024-11-12，开源MUTLASS｜摩尔线程加速基于国产GPU的算子开发以及算法创新](https://mp.weixin.qq.com/s/Nm8BKAJD_ibht8pG9CfEFQ)
   - 微信公众号「NVIDIA英伟达」
     - [2023-10-27，现已公开发布！欢迎使用 NVIDIA TensorRT-LLM 优化大语言模型推理](https://mp.weixin.qq.com/s/QaSbvyAmI6XXtr0y6W4LNQ)
     - [2023-11-24，使用 NVIDIA IGX Orin 开发者套件在边缘部署大语言模型](https://mp.weixin.qq.com/s/TOTVc5ntQJfH-DJ4_8uNTQ)
@@ -2102,6 +2140,7 @@
     - [2023-07-04，最新综述！AIGC到底是什么？都有哪些应用？一文尽览！](https://mp.weixin.qq.com/s/DseSOGMdsmZGfF_ep-wpSg)
     - [2023-08-14，超越UniAD！FusionAD：预测与规划任务的多模态融合方案](https://mp.weixin.qq.com/s/-IC9ZWRPUWB83Lj43YtQSw)
     - [2024-04-08，一文看懂llama2（原理&模型&训练）](https://mp.weixin.qq.com/s/XP4xYbepZqTEOKWT_I-5ww)
+    - [2024-10-21，TensorRT-LLM | 大模型部署专用框架](https://mp.weixin.qq.com/s/iybtUu3-uKMyW5hD5pJQbQ)
   - 微信公众号「酷酷的群」
     - [2023-07-12，InstructGPT：语言模型的人类反馈指令对齐](https://mp.weixin.qq.com/s/qMpGxhpixut5-7YHcq1OOw)
   - 微信公众号「汀丶人工智能」
@@ -2190,6 +2229,7 @@
     - [2024-04-10，Llama 3下月正式发布，继续开源！](https://mp.weixin.qq.com/s/_iWt5oEcJgRyj0AMpIMRrQ)
     - [2024-04-10，谷歌重磅发布Gemini 1.5 Pro：能自动写影评，理解视频！](https://mp.weixin.qq.com/s/E-0c8cHZcvga8eNqdu1msA)
     - [2024-06-08，阿里开源Qwen 2，最强中文大模型之一！](https://mp.weixin.qq.com/s/x0P8b4NWYA7ibqau9rjcEg)
+    - [2025-01-08，极客说｜微软 Phi 系列小模型和多模态小模型](https://mp.weixin.qq.com/s/47nKMblT0OmyfEUsWVeMCg)
   - 微信公众号「Meet DSA」
     - [2024-03-29，大语言模型硬件加速器综述](https://mp.weixin.qq.com/s/rtq8e_zVUWLc-vkT4V0qzQ)
   - 微信公众号「RUC AI Engine」
@@ -2198,11 +2238,6 @@
     - [2024-04-07，ICLR 2024 大语言模型多智能体研究总结](https://mp.weixin.qq.com/s/ROTFmXMarvKmbop4wT8gDw)
   - 微信公众号「开放知识图谱」
     - [2024-04-07，开源开放 | OpenRAG Base：RAG的开源开放知识库](https://mp.weixin.qq.com/s/MZ4jSH1torrEpYGTLTkiEw)
-  - 微信公众号「AI不止算法」
-    - [2024-04-09，全网首篇从tensorRT-LLM MoE CUDA kernel角度理解Mixtral-8x7b的推理加速及展望](https://mp.weixin.qq.com/s/3PsVUba-kTLIHK_s0RA2ow)
-    - [2024-04-24，全面认识模型压缩技术之稀疏，motivated by混合专家模型MoE LLM的稀疏特性](https://mp.weixin.qq.com/s/WGrAfzL5qTCHAZLh7VYd5A)
-    - [2024-06-12，个人视角谈谈大模型推理优化的挑战、现有工作和展望](https://mp.weixin.qq.com/s/cDly_LPPqFNTVyMO31Gn9g)
-    - [2024-10-09，深入解读tensorRT-LLM的关键技术 (未完待续)](https://mp.weixin.qq.com/s/2l5Ko2Q-iNOL3PpwpUdArw)
   - 微信公众号「大猿搬砖简记」
     - [2024-03-11，图解Mixtral 8 * 7b推理优化原理与源码实现](https://mp.weixin.qq.com/s/jjZQ4A-rvk_e-woKLlNTVQ)
     - [2024-03-29，图解大模型计算加速系列之：vLLM核心技术PagedAttention原理](https://mp.weixin.qq.com/s/-5EniAmFf1v9RdxI5-CwiQ)
@@ -2258,11 +2293,6 @@
     - [2024-06-27，Huggingface CEO：阿里Qwen-2成全球开源大模型排行榜第一，中国处于领导地位](https://mp.weixin.qq.com/s/V6bPKIVNk3NrkhJLIK7b9g)
   - 微信公众号「米文动力」
     - [2024-02-23，大模型性能全面对决，Jetson系列产品哪款最强？](https://mp.weixin.qq.com/s/TKjAAg5nXtikNnH4daBZFw)
-  - 微信公众号「GPUS开发者」
-    - [2023-10-30，利用NVIDIA Jetson Orin的强大能力执行本地LLM模型](https://mp.weixin.qq.com/s/6J7fEnumqpzSGrG3plcInw)
-    - [2024-05-07，基于NVIDIA Jetson AGX Orin和Audio2Face做一个AI聊天数字人](https://mp.weixin.qq.com/s/7z0uU58IxwoXcI4bZ3z68g)
-    - [2024-11-28，TensorRT-LLM：开启Jetson平台上大语言模型推理的新篇章](https://mp.weixin.qq.com/s/FGg1s__LORE6SOzI_VsJYw)
-    - [2024-11-29，在 Nvidia Jetson AGX Orin 上使用 TensorRT-LLM 运行 LLM](https://mp.weixin.qq.com/s/PhrusT3NisyhxtsO7G5U1g)
   - 微信公众号「IT咖啡馆」
     - [2024-06-08，Qwen2大模型保姆级部署教程，快速上手最强国产大模型](https://mp.weixin.qq.com/s/VoYldslb2e_UR1cL6zFGeg)
   - 微信公众号「财经」
@@ -2282,6 +2312,7 @@
     - [2024-12-09，盘点 2024 年的视觉语言模型VLMs](https://mp.weixin.qq.com/s/DPUD2SsXfvzSao_XMjcpwA)
   - 微信公众号「奇点智源」
     - [2024-06-22，CS-Bench：首个评估LLM计算机科学能力的基准测试集](https://mp.weixin.qq.com/s/jl3fK-pO_OKTZ5xnAGfZAA)
+    - [2025-01-08，Phi-4 | 高效推理的140亿参数语言模型](https://mp.weixin.qq.com/s/GNXBBmLB0kFBkImgsROWrg)
   - 微信公众号「机器学习算法与自然语言处理」
     - [2024-05-04，全新神经网络架构KAN一夜爆火！200参数顶30万，MIT华人一作，轻松复现Nature封面AI数学研究](https://mp.weixin.qq.com/s/WznBX_Wxc90ANiYV5-NDDQ)
     - [2024-05-21，Karpathy称赞，从零实现LLaMa3项目爆火，半天1.5k star](https://mp.weixin.qq.com/s/inmgZc-se8jspiYqZ3XCXg)
@@ -2326,6 +2357,7 @@
   - 微信公众号「开源AI项目落地」
     - [2024-04-03，OpenUI：开源AI前端工程师+设计师！输入文本就能生成网页UI和代码](https://mp.weixin.qq.com/s/KOixfUUb3hMTQQFIq905gw)
   - 微信公众号「DataFunTalk」
+    - [2024-01-31，揭秘NVIDIA大模型推理框架：TensorRT-LLM](https://mp.weixin.qq.com/s/xv3gBjmejoxJEpvFoeUXOg)
     - [2024-03-15，NVIDIA大语言模型落地的全流程解析](https://mp.weixin.qq.com/s/mhGcW8FqLigBeePlRZGBDg)
   - 微信公众号「深夜努力写Python」
     - [2024-06-25，讲透一个强大算法模型，Transformer ！！](https://mp.weixin.qq.com/s/KJbd336PnHXTtpuBZesONA)
@@ -2335,16 +2367,16 @@
     - [2024-09-10，不依赖CUDA的大模型推理已经实现](https://mp.weixin.qq.com/s/TrzwSBQ301Grcpye9-pt1Q)
   - 微信公众号「具身智能之心」
     - [2024-12-13，英伟达&MIT最新！NVILA：高效的前沿视觉语言模型](https://mp.weixin.qq.com/s/VtBvWBftnKME9ni3ScR1uQ)
+    - [2025-01-08，地瓜机器人开源！开放词汇检测SOTA DOSOD实时检测算法来了！](https://mp.weixin.qq.com/s/sd-OZgnM_ec9YHO7xSjAEQ)
   - 微信公众号「小窗记机器学习」
     - [2024-11-17，多模态大模型系列 | 18：Qwen2-VL(最新版)解读及其实战(精炼版)](https://mp.weixin.qq.com/s/LcPTlDaCGR6WrKBDLgfcaA)
   - 微信公众号「大魏分享」
     - [2024-05-02，LLM的7种推理框架](https://mp.weixin.qq.com/s/zMEuDdXKhqF0Er5x0B1iUg)
     - [2025-01-04，深挖一下深度学习中的FP8](https://mp.weixin.qq.com/s/6FJBsLHkKYLSMV-CHYjLmw)
-  - 微信公众号「LiteAI」
-    - [2024-12-11，理解llama.cpp怎么完成大模型推理的](https://mp.weixin.qq.com/s/4ETzVp1a46CJPzSb3U4saQ)
-    - [2024-12-20，llama.cpp快速上手（CPU&GPU）](https://mp.weixin.qq.com/s/V8ZBrGXLQgj748YgBgMuSw)
   - 微信公众号「潞晨科技」
     - [2024-03-25，3140亿参数Grok-1推理加速3.8倍，高效易用的PyTorch+HuggingFace版来了](https://mp.weixin.qq.com/s/eNClR6CkRDaiJ-O14buqzg)
+  - 微信公众号「AI大模型前沿」
+    - [2025-01-07，央国企！入局AI大模型（附66家名单）](https://mp.weixin.qq.com/s/uzeNegXQFkC4lSOo325Jag)
   - 微信公众号「AI遇见云」
     - [2024-03-15，LLM微调技术调研](https://mp.weixin.qq.com/s/Z0o6sMeHKaKevKJOdDE1sA)
   - 微信公众号「深度学习推理工具链」
@@ -2364,8 +2396,14 @@
     - [2025-01-05，LLM中的Attention实现及优化](https://mp.weixin.qq.com/s/ljWSBEkvYIS5wmSI3b2X0w)
   - 微信公众号「讳疾忌医-note」
     - [2024-12-21，从零开始：用Python编码你的十亿参数LLM](https://mp.weixin.qq.com/s/mJjJt28a8ttNUsBIpPCEKQ)
-
-
+  - 微信公众号「真-忒修斯之船」
+    - [2025-01-03，大模型推理框架（四）TensorRT-LLM](https://mp.weixin.qq.com/s/6I9DUdenRETnlWLf3nozPg)
+    - [2025-01-06，大模型推理框架（五）Ollama](https://mp.weixin.qq.com/s/8H_o3sjfu5pQ5qhw2Fb-QA)
+  - 微信公众号「Ai Conversation」
+    - [2024-07-11，Deepspeed的zero-1,2,3的原理及前向和反向怎么计算的](https://mp.weixin.qq.com/s/AleVpGFo8S8JCu0tVPsm3g)
+    - [2024-07-21，Flash attention v1](https://mp.weixin.qq.com/s/bDEVKdS-bDESPePBLp5QRA)
+    - [2024-07-25，Flash attention v2](https://mp.weixin.qq.com/s/J-UxFYx_KD3S3d9bFg5-_Q)
+    - [2024-07-30，Flash attention v3](https://mp.weixin.qq.com/s/LrNfPtJZF3OHCa6YDUdz0g)
 
 
   - [知乎「李小羊学AI​」](https://www.zhihu.com/people/san-fen-zhong-re-du-38-57)
@@ -2385,17 +2423,6 @@
 
 
 
-
-
-
-## Videos
-
-  - bilibili「OpenMMLab」
-    - [2024-01-03，书生·浦语大模型全链路开源体系](https://www.bilibili.com/video/BV1Rc411b7ns/)
-  - bilibili「ChatGLM」
-    - [2023-07-19，【官方教程】ChatGLM2-6B 部署与微调](https://www.bilibili.com/video/BV1D94y1i7Qp/)
-  - bilibili「二次元的Datawhale」
-    - [2023-04-25，学会如何使用大模型，让创意有能力落地成应用：HuggingLLM，Hugging未来](https://www.bilibili.com/video/BV1ek4y1J7Rd/)
 
 
 
@@ -2422,6 +2449,15 @@
     - [2024-12-06，面试官扎心一问：大模型显存如何估算？](https://mp.weixin.qq.com/s/W_LiyC584qXLbwoxSBmnEg)
     - [2024-12-16，FlashAttention原理，终于看明白了！](https://mp.weixin.qq.com/s/jMgNZ1xpEdMpwLvclFV9Mg)
     - [2024-12-25，腾讯大模型面试：MoE训练用TP还是EP？](https://mp.weixin.qq.com/s/smho0iiw82zKu-gsjJUSZQ)
+    - [2025-01-06，为什么有KV Cache而没有Q Cache?](https://mp.weixin.qq.com/s/n00MGZNtaqSd55TlfKat_w)
+
+  - 微信公众号「fighting小王子」
+    - [2024-12-28，大模型面经 | 理想汽车](https://mp.weixin.qq.com/s/DkuFA2ui_NwF7ImYHFE1EA)
+    - [2025-01-02，大模型面经 | 小米](https://mp.weixin.qq.com/s/EJ-JPg5BbJrFBy8EVSgZhQ)
+    - [2025-01-03，AI工程师面经 | 华为](https://mp.weixin.qq.com/s/kyqpfS2uOhEobU-Pc4bThQ)
+    - [2025-01-04，大模型面经 | 金山](https://mp.weixin.qq.com/s/WUn0OHPKjHue1ZGSEwFyww)
+    - [2025-01-06，大模型面经 | 摩尔线程](https://mp.weixin.qq.com/s/45IrUlANhn36BSwcGPoGTw)
+
 
 
 
