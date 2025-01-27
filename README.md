@@ -67,6 +67,7 @@
     - [AI Avatar and Digital Human](#ai-avatar-and-digital-human)
     - [GUI](#gui)
   - [Datasets](#datasets)
+    - [Awesome Datasets List](#awesome-datasets-list)
     - [Open Datasets Platform](#open-datasets-platform)
     - [Humanoid Robotics Datasets](#humanoid-robotics-datasets)
     - [Text Datasets](#text-datasets)
@@ -112,6 +113,16 @@
         - [Llama 2](https://github.com/facebookresearch/llama) <img src="https://img.shields.io/github/stars/facebookresearch/llama?style=social"/> : Inference code for LLaMA models. "LLaMA: Open and Efficient Foundation Language Models". (**[arXiv 2023](https://arxiv.org/abs/2302.13971)**). "Llama 2: Open Foundation and Fine-Tuned Chat Models". (**[ai.meta.com, 2023-07-18](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)**). (**[2023-07-18, Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)**).
 
         - [Llama 3](https://github.com/meta-llama/llama3) <img src="https://img.shields.io/github/stars/meta-llama/llama3?style=social"/> : The official Meta Llama 3 GitHub site.
+
+        - [Qwen（通义千问）](https://github.com/QwenLM/Qwen) <img src="https://img.shields.io/github/stars/QwenLM/Qwen?style=social"/> : The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
+
+        - [Qwen2.5](https://github.com/QwenLM/Qwen2.5) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=social"/> : Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud. "Qwen2.5 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.15115)**). "Qwen2 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2407.10671)**).
+
+        - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social"/> : "DeepSeek-V3 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.19437)**).
+
+        - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social"/> : "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2501.12948)**).
+
+        - [Open R1](https://github.com/huggingface/open-r1) <img src="https://img.shields.io/github/stars/huggingface/open-r1?style=social"/> : Fully open reproduction of [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1).
 
         - [Gemma](https://github.com/google/gemma_pytorch) <img src="https://img.shields.io/github/stars/google/gemma_pytorch?style=social"/> : The official PyTorch implementation of Google's Gemma models. [ai.google.dev/gemma](https://ai.google.dev/gemma)
 
@@ -197,11 +208,7 @@
 
 
 
-        - [Qwen（通义千问）](https://github.com/QwenLM/Qwen) <img src="https://img.shields.io/github/stars/QwenLM/Qwen?style=social"/> : The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 
-        - [Qwen2.5](https://github.com/QwenLM/Qwen2.5) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=social"/> : Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud. "Qwen2.5 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.15115)**).
-
-        - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social"/> : "DeepSeek-V3 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.19437)**).
 
         - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) <img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social"/> : ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型。 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。 "GLM: General Language Model Pretraining with Autoregressive Blank Infilling". (**[ACL 2022](https://aclanthology.org/2022.acl-long.26/)**).  "GLM-130B: An Open Bilingual Pre-trained Model". (**[ICLR 2023](https://openreview.net/forum?id=-Aw0rrrPUF)**).
 
@@ -279,9 +286,9 @@
       - ##### Vision Language Model
         ###### 视觉语言模型（VLM）
 
-        - [LLaVA](https://github.com/haotian-liu/LLaVA) <img src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social"/> : 🌋 LLaVA: Large Language and Vision Assistant. Visual instruction tuning towards large language and vision models with GPT-4 level capabilities. [llava.hliu.cc](https://llava.hliu.cc/). "Visual Instruction Tuning". (**[arXiv 2023](https://arxiv.org/abs/2304.08485)**).
+        - [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2-VL?style=social"/> : Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. [2025-01-26，Qwen2.5 VL! Qwen2.5 VL! Qwen2.5 VL!](https://qwenlm.github.io/blog/qwen2.5-vl/). "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution". (**[arXiv 2024](https://arxiv.org/abs/2409.12191)**). "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond". (**[arXiv 2023](https://arxiv.org/abs/2308.12966)**).
 
-        - [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2-VL?style=social"/> : Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution". (**[arXiv 2024](https://arxiv.org/abs/2409.12191)**).
+        - [LLaVA](https://github.com/haotian-liu/LLaVA) <img src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social"/> : 🌋 LLaVA: Large Language and Vision Assistant. Visual instruction tuning towards large language and vision models with GPT-4 level capabilities. [llava.hliu.cc](https://llava.hliu.cc/). "Visual Instruction Tuning". (**[arXiv 2023](https://arxiv.org/abs/2304.08485)**).
 
         - [NVILA](https://github.com/NVlabs/VILA) <img src="https://img.shields.io/github/stars/NVlabs/VILA?style=social"/> : VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops). "NVILA: Efficient Frontier Visual Language Models". (**[arXiv 2024](https://arxiv.org/abs/2412.04468)**).
 
@@ -1277,6 +1284,13 @@
 
 ## Datasets
 ### 数据集
+
+  - ### Awesome Datasets List
+
+    - [lmmlzn/Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) <img src="https://img.shields.io/github/stars/lmmlzn/Awesome-LLMs-Datasets?style=social"/> : Summarize existing representative LLMs text datasets.
+
+
+
 
   - ### Open Datasets Platform
     #### 开放数据集平台
@@ -2431,6 +2445,11 @@
   - [wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note) <img src="https://img.shields.io/github/stars/wdndev/llm_interview_note?style=social"/> : 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题。[LLMs 相关知识及面试题](https://wdndev.github.io/llm_interview_note/)
 
   - [wdndev/mllm_interview_note](https://github.com/wdndev/mllm_interview_note) <img src="https://img.shields.io/github/stars/wdndev/mllm_interview_note?style=social"/> : 主要记录大语言大模型（LLMs） 算法（应用）工程师多模态相关知识。[MLLMs 相关知识](https://wdndev.github.io/mllm_interview_note/)
+
+  - [km1994/LLMs_interview_notes](https://github.com/km1994/LLMs_interview_notes) <img src="https://img.shields.io/github/stars/km1994/LLMs_interview_notes?style=social"/> : LLMs 千面郎君。该仓库主要记录 大模型（LLMs） 算法工程师相关的面试题。
+
+
+
 
   - 微信公众号「大模型生态圈」
     - [2024-04-21，推理部署工程师面试题库](https://mp.weixin.qq.com/s/q46vKFPlQhcN7LyZNTRhXA)
