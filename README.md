@@ -2454,6 +2454,8 @@
 
   - [km1994/LLMs_interview_notes](https://github.com/km1994/LLMs_interview_notes) <img src="https://img.shields.io/github/stars/km1994/LLMs_interview_notes?style=social"/> : LLMs 千面郎君。该仓库主要记录 大模型（LLMs） 算法工程师相关的面试题。
 
+  - [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) <img src="https://img.shields.io/github/stars/luhengshiwo/LLMForEverybody?style=social"/> : 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈。
+
 
 
 
