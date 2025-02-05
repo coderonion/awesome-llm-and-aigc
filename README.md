@@ -14,6 +14,7 @@
         - [Vision Language Action](#vision-language-action)
         - [AI Generated Content](#ai-generated-content)
       - [Performance Analysis and Visualization](#performance-analysis-and-visualization)
+      - [Training and Fine-Tuning Framework](#training-and-fine-tuning-framework)
       - [LLM Inference Framework](#llm-inference-framework)
         - [LLM Inference and Serving Engine](#llm-inference-and-serving-engine)
         - [C and CPP Implementation](#c-and-cpp-implementation)
@@ -25,7 +26,6 @@
         - [Go Implementation](#go-implementation)
       - [LLM Quantization Framework](#llm-quantization-framework)
       - [Application Development Platform](#application-development-platform)
-      - [Fine-Tuning Framework](#fine-tuning-framework)
       - [RAG Framework](#rag-framework)
       - [Vector Database](#vector-database)
       - [Memory Management](#memory-management)
@@ -125,6 +125,9 @@
         - [Open R1](https://github.com/huggingface/open-r1) <img src="https://img.shields.io/github/stars/huggingface/open-r1?style=social"/> : Fully open reproduction of [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1).
 
         - [TinyZero](https://github.com/Jiayi-Pan/TinyZero) <img src="https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social"/> : Clean, accessible reproduction of DeepSeek R1-Zero. TinyZero is a reproduction of [DeepSeek R1 Zero](https://github.com/deepseek-ai/DeepSeek-R1) in countdown and multiplication tasks. We built upon [veRL](https://github.com/volcengine/verl).
+
+        - [Logic R1](https://github.com/Unakar/Logic-RL) <img src="https://img.shields.io/github/stars/Unakar/Logic-RL?style=social"/> : Successfully reproduced DeepSeek R1 Zero on 2K Tiny Logic Puzzle Dataset. See project explanation [here](https://evxpwrsfkdb.feishu.cn/docx/NokEdaMBmo6aqZxVdxkcSm2cnab?from=from_copylink).
+
 
 
 
@@ -292,7 +295,7 @@
 
         - [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2-VL?style=social"/> : Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. [2025-01-26，Qwen2.5 VL! Qwen2.5 VL! Qwen2.5 VL!](https://qwenlm.github.io/blog/qwen2.5-vl/). "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution". (**[arXiv 2024](https://arxiv.org/abs/2409.12191)**). "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond". (**[arXiv 2023](https://arxiv.org/abs/2308.12966)**).
 
-        - [Janus](https://github.com/deepseek-ai/Janus) <img src="https://img.shields.io/github/stars/deepseek-ai/Janus?style=social"/> : 🚀 Janus-Series: Unified Multimodal Understanding and Generation Models. "Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling". (**[janus_pro_tech_report](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf)**). "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2410.13848)**). "JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2411.07975)**).
+        - [Janus](https://github.com/deepseek-ai/Janus) <img src="https://img.shields.io/github/stars/deepseek-ai/Janus?style=social"/> : 🚀 Janus-Series: Unified Multimodal Understanding and Generation Models. "Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling". (**[arXiv 2025](https://arxiv.org/abs/2501.17811)**). "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2410.13848)**). "JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2411.07975)**).
 
         - [R1-V](https://github.com/Deep-Agent/R1-V) <img src="https://img.shields.io/github/stars/Deep-Agent/R1-V?style=social"/> : R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3.
 
@@ -302,7 +305,9 @@
 
         - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) <img src="https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social"/> : Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models". (**[arXiv 2023](https://arxiv.org/abs/2303.04671)**).
 
-        - [CLIP](https://github.com/openai/CLIP) <img src="https://img.shields.io/github/stars/microsoft/GLIP?style=social"/> : CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image. "Learning Transferable Visual Models From Natural Language Supervision". (**[arXiv 2021](https://arxiv.org/abs/2103.00020)**).
+        - [CLIP](https://github.com/openai/CLIP) <img src="https://img.shields.io/github/stars/openai/CLIP?style=social"/> : CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image. "Learning Transferable Visual Models From Natural Language Supervision". (**[arXiv 2021](https://arxiv.org/abs/2103.00020)**).
+
+        - [OpenCLIP](https://github.com/mlfoundations/open_clip) <img src="https://img.shields.io/github/stars/mlfoundations/open_clip?style=social"/> : Welcome to an open source implementation of OpenAI's [CLIP](https://arxiv.org/abs/2103.00020) (Contrastive Language-Image Pre-training). "Reproducible scaling laws for contrastive language-image learning". (**[arXiv 2022](https://arxiv.org/abs/2212.07143)**).
 
         - [GLIP](https://github.com/microsoft/GLIP) <img src="https://img.shields.io/github/stars/microsoft/GLIP?style=social"/> : "Grounded Language-Image Pre-training". (**[CVPR 2022](https://arxiv.org/abs/2112.03857)**).
 
@@ -428,6 +433,12 @@
 
 
 
+    - #### Training and Fine-Tuning Framework
+      ##### 训练和微调框架
+
+        - [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) <img src="https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social"/> : DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. [www.deepspeed.ai/](https://www.deepspeed.ai/)
+
+        - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) <img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social"/> : Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024). "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models". (**[arXiv 2024](https://arxiv.org/abs/2403.13372)**).
 
 
 
@@ -661,10 +672,7 @@
         - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) <img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social"/> : OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. [open-assistant.io](https://open-assistant.io/)
 
 
-    - #### Fine-Tuning Framework
-      ##### 微调框架
 
-        - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) <img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social"/> : Unify Efficient Fine-Tuning of 100+ LLMs. Fine-tuning a large language model can be easy as...
 
 
 
@@ -700,6 +708,8 @@
 
 
   - ### Awesome List
+
+    - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) <img src="https://img.shields.io/github/stars/deepseek-ai/awesome-deepseek-integration?style=social"/> : Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platform](https://platform.deepseek.com/) to get an API key.
 
     - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) <img src="https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social"/> : Awesome-LLM: a curated list of Large Language Model.
 
@@ -1347,6 +1357,9 @@
 
 ## Blogs
 
+  - 微信公众号「通义千问Qwen」
+    - [2025-01-28，Qwen2.5-VL！Qwen2.5-VL！！Qwen2.5-VL！！！](https://mp.weixin.qq.com/s/RhRcULJrEGwasMLoNYXPOw)
+    - [2025-02-05，通义千问Qwen2.5-Max登上大模型盲测榜单全球前十，数学及编程能力夺冠](https://mp.weixin.qq.com/s/MxcxmDqadWL9jYZfQ6OAOg)
   - 微信公众号「智源研究院」
     - [2023-06-11，悟道·天鹰 Aquila + 天秤 FlagEval，打造大模型能力与评测标准双标杆](https://mp.weixin.qq.com/s/8oP9nongpkkfHuE1RsKx8A)
     - [2023-08-15，FlagEval 8月榜单：新增通义千问、Llama2等多个模型评测，新增基座模型代码生成能力评测](https://mp.weixin.qq.com/s/RYccZXQNs9hHHNRJI9tLgg)
@@ -1404,6 +1417,7 @@
     - [2024-11-22，大模型量化技术原理：QoQ量化及QServe推理服务系统](https://mp.weixin.qq.com/s/s7d67eqXTOD1X0HH8mC-SQ)
     - [2024-11-27，多模态大模型MLLM的架构发展及思考](https://mp.weixin.qq.com/s/zVii5TZlf0iM16THHmINrg)
     - [2024-12-10，大模型量化技术原理：总结](https://mp.weixin.qq.com/s/HaaDZ1YE0bQ_OuJNrmOr-w)
+    - [2025-02-04，聊聊DeepSeek-R1的技术路径](https://mp.weixin.qq.com/s/LcsL7gRe4MtIRWCk2fJ0KQ)
   - 微信公众号「包包算法笔记」
     - [2023-07-19，大模型开源社区的原子弹Llama2](https://mp.weixin.qq.com/s/RvAyXJ9KWqJ73XO7ZL1McA)
     - [2023-08-21，从零训练大模型教程](https://mp.weixin.qq.com/s/qQDV2L7EBQLivkoONgXR9A)
@@ -1457,6 +1471,7 @@
     - [2024-07-18，摩尔线程 × 智源研究院｜完成基于Triton的大模型算子库适配](https://mp.weixin.qq.com/s/84LKQ4Xo1RSdNoFJG0tUmg)
     - [2024-11-05，开源vLLM-MUSA｜摩尔线程持续加速基于国产GPU的AI大模型推理开发](https://mp.weixin.qq.com/s/5YLCXLlkbZ9WwoaiSIFJhA)
     - [2024-11-12，开源MUTLASS｜摩尔线程加速基于国产GPU的算子开发以及算法创新](https://mp.weixin.qq.com/s/Nm8BKAJD_ibht8pG9CfEFQ)
+    - [2025-02-04，致敬DeepSeek：以国产GPU为基，燎原中国AI生态之火](https://mp.weixin.qq.com/s/brrTw-Cor8Xus-8kA1hBLw)
   - 微信公众号「NVIDIA英伟达」
     - [2023-10-27，现已公开发布！欢迎使用 NVIDIA TensorRT-LLM 优化大语言模型推理](https://mp.weixin.qq.com/s/QaSbvyAmI6XXtr0y6W4LNQ)
     - [2023-11-24，使用 NVIDIA IGX Orin 开发者套件在边缘部署大语言模型](https://mp.weixin.qq.com/s/TOTVc5ntQJfH-DJ4_8uNTQ)
@@ -1651,6 +1666,7 @@
     - [2023-08-07，GPT-5出世，需5万张H100！全球需求43万张， 英伟达GPU陷短缺风暴](https://mp.weixin.qq.com/s/l1Un2V6KreyA1djyc3juFA)
     - [2023-08-15，万字长文，深入浅出Llama搭建及源码解读](https://mp.weixin.qq.com/s/qDLVH9ADKrHySvPtr3carw)
     - [2024-06-22，FP8量化解读，8bit下部署最优方案？](https://mp.weixin.qq.com/s/5DdMXCRq7X6QkS2yXJqF7g)
+    - [2025-02-05，完整DeepSeek-R1 671B本地化部署，详尽教程来了！](https://mp.weixin.qq.com/s/G8n6I_nTqe6xJxjs_LRJqg)
   - 微信公众号「WeThinkln」
     - [2023-02-12，Rocky和ChatGPT“谈笑风生”的日子 |【AI行研&商业价值分析】](https://mp.weixin.qq.com/s/rV6J6UZgsJT-4HI49GBBaw)
     - [2023-02-26，深入浅出解析ChatGPT引领的科技浪潮 |【AI行研&商业价值分析】](https://mp.weixin.qq.com/s/FLLtb_9shzFmH1wpV7oP_Q)
@@ -1666,6 +1682,7 @@
     - [2024-02-23，符尧大佬一作发文，仅改训练数据，就让LLaMa-2上下文长度扩展20倍！](https://mp.weixin.qq.com/s/sTxoxhyG6mAm5fI8tKdMPw)
     - [2024-04-01，今日arXiv最热NLP大模型论文：Github万星！北航发布零代码大模型微调平台LlamaFactory](https://mp.weixin.qq.com/s/jJ5hItGNz91TiaDrdfYwUg)
     - [2024-04-10，黑科技 ！AI届的“指环王”，已接入ChatGPT和Gemini！一个戒指可操控手机和智能家居，韩国公司研发](https://mp.weixin.qq.com/s/kS3BufC2_KBzxQ7_ZkPAvQ)
+    - [2025-01-26，DeepSeek-R1点燃全球复现热潮](https://mp.weixin.qq.com/s/8QSny195u8ESpB74WWOdGg)
   - 微信公众号「所向披靡的张大刀」
     - [2023-04-07，分割大一统——Segment Anything深度体验](https://mp.weixin.qq.com/s/qtk1Ds3hdNi4NOwrw2tDrg)
   - 微信公众号「算法邦」
@@ -1718,6 +1735,7 @@
     - [2024-09-06，PyTorch官宣：告别CUDA，GPU推理迎来Triton加速新时代](https://mp.weixin.qq.com/s/AiViRkOOpmIUm8DfRUu4JA)
     - [2024-12-05，刚刚，DeepMind最强「基础世界模型」诞生！单图生1分钟游戏世界，解锁下一代智能体](https://mp.weixin.qq.com/s/lUf5_0vnka7OM4jfeAZkeg)
     - [2024-12-22，微软Phi-4封神，14B小模型数学击败GPT-4o！合成数据占比40%，36页技术报告出炉](https://mp.weixin.qq.com/s/Z1yBY0ZBaqmHllf-fFfEJw)
+    - [2025-01-26，全球掀DeepSeek复现狂潮！硅谷巨头神话崩塌，30刀见证啊哈时刻](https://mp.weixin.qq.com/s/o41vPh9eJCVjCRUE4u5npA)
   - 微信公众号「智东西」
     - [2023-02-06，ChatGPT版搜索引擎突然上线，科技巨头们坐不住了！](https://mp.weixin.qq.com/s/lncJm6hmK3AQNF2paWI5Dw)
     - [2023-04-07，ChatGPT和Matter两大风口汇合！AWE同期AIoT智能家居峰会月底举行，首批嘉宾公布](https://mp.weixin.qq.com/s/cuI8sSff_zGiLtwukAcLRw)
@@ -1727,6 +1745,7 @@
     - [2023-07-25，重磅，ChatGPT老板官宣“世界币”，价格暴涨、用户超两百万，要给全世界每个人发钱](https://mp.weixin.qq.com/s/MVfp_wZIxtLlADIN4hoN_A)
     - [2023-08-15，讯飞星火V2.0突破代码能力，一个指令生成贪吃蛇游戏，10分钟开发“凌空手写”](https://mp.weixin.qq.com/s/544ysBQ0C_j9mD2NAx-cyg)
     - [2024-06-07，阿里云发布最强开源大模型Qwen2，干翻Llama 3，比闭源模型还强](https://mp.weixin.qq.com/s/lolpb_shIrLbGbRS5L1_dw)
+    - [2025-02-04，DeepSeek获四大国产GPU力挺！给全世界上了重要一课](https://mp.weixin.qq.com/s/wiKqUCnY03AmKJNFr9WeVA)
   - 微信公众号「CSDN」
     - [2023-03-25，ChatGPT 已成为下一代的新操作系统！](https://mp.weixin.qq.com/s/MwrMhVydbhpP6c0AvPp8oQ)
     - [2023-04-06，CV 迎来 GPT-3 时刻，Meta 开源万物可分割 AI 模型和 1100 万张照片，1B+掩码数据集！](https://mp.weixin.qq.com/s/spBwU0UecbxbEl88SA4GJQ)
@@ -1925,6 +1944,7 @@
     - [2024-07-13，两片Orin算力能翻倍么？英伟达最深的护城河：NVLink](https://mp.weixin.qq.com/s/-R3zObUubzkOy5VLP3KA3Q)
   - 微信公众号「芯东西」
     - [2023-06-14，1530亿颗晶体管！AMD甩出最强AI芯片，单个GPU跑大模型](https://mp.weixin.qq.com/s/b47zVOa_KGEN47_d3Dlibw)
+    - [2025-02-05，四大国产GPU力挺DeepSeek！](https://mp.weixin.qq.com/s/SMDui75zhipDsTOZMbMSnA)
   - 微信公众号「开源技术服务中心」
     - [2023-05-31，河套IT WALK(总第64期)：AI与自动驾驶科技：打造未来生活方式](https://mp.weixin.qq.com/s/wGupibJ9cKrjdSbUv9cQgQ)
   - 微信公众号「OneFlow」
@@ -2062,6 +2082,7 @@
     - [2023-06-26，ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%，在中文榜单位列榜首](https://mp.weixin.qq.com/s/7Dn_R-9q_uGZBEEQcIZJGg)
     - [2023-07-21，iPhone、Mac上都能跑，刷屏的Llama 2究竟性能如何？](https://mp.weixin.qq.com/s/B8LnEVjRt6dwaECRQIlHfw)
     - [2023-08-15，字节 | 大模型BuboGPT：引入视觉定位，实现细粒度多模态，已开源](https://mp.weixin.qq.com/s/1yM83EO9qh_iM_9CkbjuCw)
+    - [2025-02-05，Deepseek R1 Zero成功复现, 三阶段RL，Response长度涨幅超50%，涌现语言混杂，double-check](https://mp.weixin.qq.com/s/G9GYGglUtP9Qg7Ofr0EPtA)
   - 微信公众号「集智书童」
     - [2023-06-28，MobileSAM来啦 | 比SAM小60倍，比FastSAM快4倍，速度和效果双赢](https://mp.weixin.qq.com/s/gTsdqVNgKpfnU-4S7DJhnA)
     - [2023-07-03，医疗SAM也来啦 | AutoSAM告诉你如何在医疗领域更快更好开发大模型](https://mp.weixin.qq.com/s/vd7bxoxB_BiffcSu-oHPbg)
@@ -2070,6 +2091,8 @@
     - [2023-07-10，SAM增强技术 | SAMAug提出Point Prompt增强，让SAM模型天天向上](https://mp.weixin.qq.com/s/KPP07jWt8DYUslkRCMGuKw)
   - 微信公众号「集智俱乐部」
     - [2023-05-03，Yes, We KAN! MLP out！一作刘子鸣直播解读全新神经网络框架KAN](https://mp.weixin.qq.com/s/QGCT0Q_7B3YmeXMXhRT1PA)
+    - [2025-02-04，DeepSeek-R1｜集智百科](https://mp.weixin.qq.com/s/5yDic_Ng068hSs_ai9lW3w)
+    - [2025-02-04，多模态大语言模型 vs 人类：视觉认知能力的较量](https://mp.weixin.qq.com/s/X3aaCzj9HHZQ6gYjkGX0BA)
   - 微信公众号「分布式实验室」
     - [2023-07-11，万字长文详解GPT](https://mp.weixin.qq.com/s/sBKaW5W_uyXxzUVx3nMYsg)
     - [2023-07-12，王小川的百川智能发布Baichuan-13B AI大模型](https://mp.weixin.qq.com/s/tudo6INXBGfUcDaGwtpctQ)
@@ -2182,6 +2205,7 @@
     - [2024-02-22，关于Google开源Gemma的一些想法](https://mp.weixin.qq.com/s/H2ie4vuhLqr4UKtgvZZtEQ)
     - [2024-03-29，Qwen1.5-MoE模型：2.7B的激活参数量达到7B模型的性能](https://mp.weixin.qq.com/s/FTd9L6HzpV-5AoT20V8YyQ)
     - [2024-04-06，Qwen1.5开源32B模型-将开源进行到底](https://mp.weixin.qq.com/s/WOiyQYSs5XZzSsn6hdb_Ww)
+    - [2025-02-05，部署满血DeepSeek R1的避坑指南-vLLM 0.7.1](https://mp.weixin.qq.com/s/fflQZOcNCAcltpzm6hB7AA)
   - 微信公众号「对白的算法屋」
     - [2023-07-27，北交大TransGPT，开源了！](https://mp.weixin.qq.com/s/jSwvUIbNI_VQTBWGmwd3wg)
     - [2023-08-14，科大讯飞星火大模型2.0 终于体验上了！](https://mp.weixin.qq.com/s/fp3mnMLlh5oL5q7G0zsnpQ)
@@ -2370,6 +2394,8 @@
   - 微信公众号「PaperAgent」
     - [2024-08-08，重磅！Qwen2-Math，新一代数学模型！](https://mp.weixin.qq.com/s/E8ZM5UCzmj2W-nXK_aq95Q)
     - [2024-12-03，一篇78页大模型GUI Agents全面综述~](https://mp.weixin.qq.com/s/o8F3MsQSHvIlDx_rCvHvgQ)
+    - [2025-01-26，首个DeepSeek-R1全开源复现Open-R1来了](https://mp.weixin.qq.com/s/mxOUMHyzTHOD9CG1_FvnMQ)
+    - [2025-01-28，组团开源，Qwen2.5-VL转角遇见DeepSeek Janus-Pro！](https://mp.weixin.qq.com/s/wShQKsGPINzPnVII3PDeCQ)
   - 微信公众号「ADFeed」
     - [2024-08-18，DriveVLM：理想+清华团队重磅打造的视觉语言模型与双系统融合自动驾驶方案](https://mp.weixin.qq.com/s/txl46ybOOIi8xPxj03tavQ)
   - 微信公众号「小喵学AI」
@@ -2428,6 +2454,31 @@
     - [2024-07-21，Flash attention v1](https://mp.weixin.qq.com/s/bDEVKdS-bDESPePBLp5QRA)
     - [2024-07-25，Flash attention v2](https://mp.weixin.qq.com/s/J-UxFYx_KD3S3d9bFg5-_Q)
     - [2024-07-30，Flash attention v3](https://mp.weixin.qq.com/s/LrNfPtJZF3OHCa6YDUdz0g)
+  - 微信公众号「算法让生活更美好」
+    - [2024-12-15，基于Qwen2-VL多模态大模型比赛实践](https://mp.weixin.qq.com/s/ftS5Ehix_NYZM-PyP87ljg)
+    - [2025-01-30，deepseek系列学习](https://mp.weixin.qq.com/s/Sqa3Qd3dXHCI0nhZ0n-qsw)
+  - 微信公众号「蘑菇先生学习记」
+    - [2025-02-05，DeepSeek-R1复现方案解读之「Open-R1」](https://mp.weixin.qq.com/s/8Spvj_aPFOHmgZb2T4Y-IQ)
+  - 微信公众号「丁师兄大模型」
+    - [2025-02-04，碾压DeepSeek R1？o3-mini太生猛了！](https://mp.weixin.qq.com/s/xVDzieeWDBgdhAzRlbQ_Gw)
+  - 微信公众号「Streamlit」
+    - [2025-02-04，Streamlit本地部署DeepSeek-R1教程](https://mp.weixin.qq.com/s/dXtBpuhrQb9p43j8X643OQ)
+  - 微信公众号「智驻未来」
+    - [2025-02-02，5000字！深度解析DeepSeek 系列模型进化史](https://mp.weixin.qq.com/s/ebRlwQbhiGFFRv8l2fm7Nw)
+  - 微信公众号「电商小ai」
+    - [2025-01-28，DeepSeek V3及DeepSeek R1模型代码整理解读](https://mp.weixin.qq.com/s/UALBBwCJz38iNAi2X9dnww)
+  - 微信公众号「Safphere」
+    - [2025-01-28，DeepSeek 发布Janus-Pro & JanusFlow ：多模态理解与生成新突破！](https://mp.weixin.qq.com/s/nUhk4GNhzVU3f0cU6zgUsQ)
+  - 微信公众号「明日丽的AI厨房」
+    - [2025-01-27，强化学习与DeepSeek-R1](https://mp.weixin.qq.com/s/1gkJHFdB5ZHQC_XAfWv9OQ)
+  - 微信公众号「郭震AI」
+    - [2025-02-04，DeepSeek图解，10页小册子，PDF开放下载！](https://mp.weixin.qq.com/s/PNZn8jPVf0cqSuxDxjxjCg)
+  - 微信公众号「一臻AI」
+    - [2025-02-03，一文读懂DeepSeek-R1本地部署配置要求（建议收藏）](https://mp.weixin.qq.com/s/nROU-80VKzbgZ-NozAg8qQ)
+
+
+
+
 
 
   - [知乎「李小羊学AI​」](https://www.zhihu.com/people/san-fen-zhong-re-du-38-57)
