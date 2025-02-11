@@ -61,6 +61,7 @@
     - [Humor Generation](#humor-generation)
     - [Animation Field](#animation-field)
     - [Food Field](#food-field)
+    - [PPT Field](#ppt-field)
     - [Tool Learning](#tool-learning)
     - [Adversarial Attack Field](#adversarial-attack-field)
     - [Multi-Agent Collaboration](#multi-agent-collaboration)
@@ -73,6 +74,8 @@
     - [Text Datasets](#text-datasets)
     - [Multimodal Datasets](#multimodal-datasets)
     - [SFT Datasets](#sft-datasets)
+    - [Datasets Tools](#datasets-tools)
+        - [Data Annotation](#data-annotation)
   - [Blogs](#blogs)
   - [Interview](#interview)
 
@@ -127,6 +130,8 @@
         - [TinyZero](https://github.com/Jiayi-Pan/TinyZero) <img src="https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social"/> : Clean, accessible reproduction of DeepSeek R1-Zero. TinyZero is a reproduction of [DeepSeek R1 Zero](https://github.com/deepseek-ai/DeepSeek-R1) in countdown and multiplication tasks. We built upon [veRL](https://github.com/volcengine/verl).
 
         - [Logic R1](https://github.com/Unakar/Logic-RL) <img src="https://img.shields.io/github/stars/Unakar/Logic-RL?style=social"/> : Successfully reproduced DeepSeek R1 Zero on 2K Tiny Logic Puzzle Dataset. See project explanation [here](https://evxpwrsfkdb.feishu.cn/docx/NokEdaMBmo6aqZxVdxkcSm2cnab?from=from_copylink).
+
+        - [DeepScaleR](https://github.com/agentica-project/deepscaler) <img src="https://img.shields.io/github/stars/agentica-project/deepscaler?style=social"/> : Democratizing Reinforcement Learning for LLMs. [www.agentica-project.com](https://www.agentica-project.com/). ["DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL"](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
 
 
 
@@ -438,6 +443,8 @@
 
         - [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) <img src="https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social"/> : DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. [www.deepspeed.ai/](https://www.deepspeed.ai/)
 
+        - [unsloth](https://github.com/unslothai/unsloth) <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social"/> : Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory. [unsloth.ai](https://unsloth.ai/)
+
         - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) <img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social"/> : Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024). "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models". (**[arXiv 2024](https://arxiv.org/abs/2403.13372)**).
 
 
@@ -659,7 +666,7 @@
 
         - [LangChain](https://github.com/langchain-ai/langchain) <img src="https://img.shields.io/github/stars/hwchase17/langchain?style=social"/> :  🦜️🔗 LangChain. ⚡ Building applications with LLMs through composability ⚡ [python.langchain.com](https://python.langchain.com/docs/get_started/introduction.html)
 
-        - [Dify](https://github.com/langgenius/dify) <img src="https://img.shields.io/github/stars/langgenius/dify?style=social"/> : An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine. [dify.ai](https://dify.ai/)
+        - [Dify](https://github.com/langgenius/dify) <img src="https://img.shields.io/github/stars/langgenius/dify?style=social"/> : Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. [dify.ai](https://dify.ai/)
 
         - [Lobe Chat](https://github.com/lobehub/lobe-chat) <img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=social"/> : 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application. [chat-preview.lobehub.com](https://chat-preview.lobehub.com/)
 
@@ -1170,17 +1177,25 @@
 
 
 
-
   - ### Animation Field
     #### 动漫领域
 
     - [SaaRaaS-1300/InternLM2_horowag](https://github.com/SaaRaaS-1300/InternLM2_horowag) <img src="https://img.shields.io/github/stars/SaaRaaS-1300/InternLM2_horowag?style=social"/> : 🍿InternLM2_Horowag🍿 🍏专门为 2024 书生·浦语大模型挑战赛 (春季赛) 准备的 Repo🍎收录了赫萝相关的微调模型。
 
 
+
+
   - ### Food Field
     #### 食品领域
 
     - [SmartFlowAI/TheGodOfCookery](https://github.com/SmartFlowAI/TheGodOfCookery) <img src="https://img.shields.io/github/stars/SmartFlowAI/TheGodOfCookery?style=social"/> : 食神（The God Of Cookery）。本项目名称为“食神”（ The God Of Cookery ），灵感来自喜剧大师周星驰主演的著名电影《食神》，旨在通过人工智能技术为用户提供烹饪咨询和食谱推荐，帮助用户更好地学习和实践烹饪技巧，降低烹饪门槛，实现《食神》电影中所讲的“只要用心，人人皆能做食神”。
+
+
+
+  - ### PPT Field
+    #### PPT领域
+
+    - [SmartSchoolAI/ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx) <img src="https://img.shields.io/github/stars/SmartSchoolAI/ai-to-pptx?style=social"/> : Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 前端后端同时开源。 主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX。[pptx.dandian.net](https://pptx.dandian.net/)
 
 
 
@@ -1350,6 +1365,14 @@
     - [chaoswork/sft_datasets](https://github.com/chaoswork/sft_datasets) <img src="https://img.shields.io/github/stars/chaoswork/sft_datasets?style=social"/> : 开源SFT数据集整理,随时补充。
 
 
+  - ### Datasets Tools
+
+    - #### Data Annotation
+
+        - [Label Studio](https://github.com/HumanSignal/label-studio) <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
+
+        - [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) <img src="https://img.shields.io/github/stars/CVHub520/X-AnyLabeling?style=social"/> : Effortless data labeling with AI support from Segment Anything and other awesome models. X-AnyLabeling is a powerful annotation tool that integrates an AI engine for fast and automatic labeling. It’s designed for visual data engineers, offering industrial-grade solutions for complex tasks.
+
 
 
 
@@ -1413,6 +1436,7 @@
     - [2024-05-06，LLM推理：首token时延优化与System Prompt Caching](https://mp.weixin.qq.com/s/pGrR1kIUcmEh0VrHM_SSSg)
     - [2024-06-11，LLM PTQ 量化经典研究解析](https://mp.weixin.qq.com/s/mMlLRHr1P_SmN280Sj_H-Q)
     - [2024-08-20，大模型量化技术原理：FP8](https://mp.weixin.qq.com/s/veTPvISRGX9bAbKjxgu6MQ)
+    - [2024-08-26，基于 NVIDIA TensorRT-LLM 的大语言模型调度方法](https://mp.weixin.qq.com/s/nDSYDsmAtozmHNzLsx4KzQ)
     - [2024-10-11，大模型量化技术原理：FP6](https://mp.weixin.qq.com/s/rmQO86tV-maw8kT0V7KKxA)
     - [2024-11-22，大模型量化技术原理：QoQ量化及QServe推理服务系统](https://mp.weixin.qq.com/s/s7d67eqXTOD1X0HH8mC-SQ)
     - [2024-11-27，多模态大模型MLLM的架构发展及思考](https://mp.weixin.qq.com/s/zVii5TZlf0iM16THHmINrg)
@@ -2445,6 +2469,7 @@
   - 微信公众号「青稞AI」
     - [2025-01-05，LLM中的Attention实现及优化](https://mp.weixin.qq.com/s/ljWSBEkvYIS5wmSI3b2X0w)
   - 微信公众号「讳疾忌医-note」
+    - [2024-12-21，国外深度学习工程师分享：从零开始重现 PyTorch（支持 GPU）超详细](https://mp.weixin.qq.com/s/FAfADW1jPt40RFxwyfCGJQ)
     - [2024-12-21，从零开始：用Python编码你的十亿参数LLM](https://mp.weixin.qq.com/s/mJjJt28a8ttNUsBIpPCEKQ)
   - 微信公众号「真-忒修斯之船」
     - [2025-01-03，大模型推理框架（四）TensorRT-LLM](https://mp.weixin.qq.com/s/6I9DUdenRETnlWLf3nozPg)
@@ -2475,7 +2500,8 @@
     - [2025-02-04，DeepSeek图解，10页小册子，PDF开放下载！](https://mp.weixin.qq.com/s/PNZn8jPVf0cqSuxDxjxjCg)
   - 微信公众号「一臻AI」
     - [2025-02-03，一文读懂DeepSeek-R1本地部署配置要求（建议收藏）](https://mp.weixin.qq.com/s/nROU-80VKzbgZ-NozAg8qQ)
-
+  - 微信公众号「DeepHub IMBA」
+    - [2023-10-22，使用TensorRT-LLM进行高性能推理](https://mp.weixin.qq.com/s/pIZ9ceJzTG8kMZMn1m5oQw)
 
 
 
@@ -2510,6 +2536,8 @@
   - [km1994/LLMs_interview_notes](https://github.com/km1994/LLMs_interview_notes) <img src="https://img.shields.io/github/stars/km1994/LLMs_interview_notes?style=social"/> : LLMs 千面郎君。该仓库主要记录 大模型（LLMs） 算法工程师相关的面试题。
 
   - [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) <img src="https://img.shields.io/github/stars/luhengshiwo/LLMForEverybody?style=social"/> : 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈。
+
+  - [315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) <img src="https://img.shields.io/github/stars/315386775/DeepLearing-Interview-Awesome-2024?style=social"/> : AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目。
 
 
 
