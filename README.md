@@ -985,6 +985,8 @@
     - [a16z-infra/llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot) <img src="https://img.shields.io/github/stars/a16z-infra/llama2-chatbot?style=social"/> : LLaMA 2 Chatbot App ⚡
 
     - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) <img src="https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social"/> : Use ChatGPT On Wechat via wechaty.
+      
+    - [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
 
 
   - ### Role Play
