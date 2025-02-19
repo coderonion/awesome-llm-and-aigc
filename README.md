@@ -128,6 +128,8 @@
 
         - [Open R1](https://github.com/huggingface/open-r1) <img src="https://img.shields.io/github/stars/huggingface/open-r1?style=social"/> : Fully open reproduction of [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1).
 
+        - [OpenSeek](https://github.com/FlagAI-Open/OpenSeek) <img src="https://img.shields.io/github/stars/FlagAI-Open/OpenSeek?style=social"/> : OpenSeek aims to unite the global open source community to drive collaborative innovation in algorithms, data and systems to develop next-generation models that surpass DeepSeek.
+
         - [TinyZero](https://github.com/Jiayi-Pan/TinyZero) <img src="https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social"/> : Clean, accessible reproduction of DeepSeek R1-Zero. TinyZero is a reproduction of [DeepSeek R1 Zero](https://github.com/deepseek-ai/DeepSeek-R1) in countdown and multiplication tasks. We built upon [veRL](https://github.com/volcengine/verl).
 
         - [Logic R1](https://github.com/Unakar/Logic-RL) <img src="https://img.shields.io/github/stars/Unakar/Logic-RL?style=social"/> : Successfully reproduced DeepSeek R1 Zero on 2K Tiny Logic Puzzle Dataset. See project explanation [here](https://evxpwrsfkdb.feishu.cn/docx/NokEdaMBmo6aqZxVdxkcSm2cnab?from=from_copylink).
@@ -459,6 +461,8 @@
         - ##### LLM Inference and Serving Engine
 
             - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social"/> : TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. [nvidia.github.io/TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM)
+
+            - [NVIDIA/TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-Model-Optimizer?style=social"/> : TensorRT Model Optimizer is a unified library of state-of-the-art model optimization techniques such as quantization, pruning, distillation, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM or TensorRT to optimize inference speed on NVIDIA GPUs. [nvidia.github.io/TensorRT-Model-Optimizer](https://nvidia.github.io/TensorRT-Model-Optimizer/)
 
             - [Ollama](https://github.com/ollama/ollama) <img src="https://img.shields.io/github/stars/ollama/ollama?style=social"/> : Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. [ollama.com](https://ollama.com/)
 
@@ -1297,6 +1301,8 @@
 
     - [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) <img src="https://img.shields.io/github/stars/AprilNEA/ChatGPT-Admin-Web?style=social"/> : 带有用户管理和后台管理系统的 ChatGPT WebUI. [caw.sku.moe](https://caw.sku.moe/)
 
+    - [HiveChat](https://github.com/HiveNexus/HiveChat) <img src="https://img.shields.io/github/stars/HiveNexus/HiveChat?style=social"/> : An AI chat bot for small and medium-sized teams, supporting models such as Deepseek, Open AI, Claude, and Gemini. 专为中小团队设计的 AI 聊天应用，支持 Deepseek、Open AI、Claude、Gemini 等模型。
+
     - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) <img src="https://img.shields.io/github/stars/lencx/ChatGPT?style=social"/> : 🔮 ChatGPT Desktop Application (Mac, Windows and Linux). [NoFWL](https://app.nofwl.com/).
 
     - [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) <img src="https://img.shields.io/github/stars/Synaptrix/ChatGPT-Desktop?style=social"/> : Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
@@ -1414,6 +1420,7 @@
   - 微信公众号「智源FlagOpen」
     - [2024-09-06，智源打造基于Triton的大模型算子库，助力AI芯片软硬件生态建设](https://mp.weixin.qq.com/s/QMzgj-h6q2mZHokS5QpXmg)
     - [2024-12-19，智源大模型通用算子库FlagGems四大能力升级，为AI系统开源生态注入新活力](https://mp.weixin.qq.com/s/2X5DyY1MbYhz6zVusPpKww)
+    - [2025-02-14，智源研究院大模型开源新举措：OpenSeek开源共创，全球贡献者招募中](https://mp.weixin.qq.com/s/M-seHblj08xrA34IJ_zutg)
   - 微信公众号「国地共建具身智能机器人创新中心」
     - [2024-12-27，RoboMIND：创新中心与北京大学计算机学院联合创建的具身智能数据集和Benchmark](https://mp.weixin.qq.com/s/v6j_jguzgKPWzsKlR6j7Dg)
   - 微信公众号「IDEA数字经济研究院」
