@@ -376,6 +376,8 @@
       - ##### AI Generated Content
         ###### 人工智能生成内容（AIGC）
 
+        - [Wan2.1](https://github.com/Wan-Video/Wan2.1) <img src="https://img.shields.io/github/stars/Wan-Video/Wan2.1?style=social"/> : Wan: Open and Advanced Large-Scale Video Generative Models.
+
         - [Sora](https://openai.com/sora) : Sora is an AI model that can create realistic and imaginative scenes from text instructions.
 
         - [Open Sora Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) <img src="https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=social"/> : This project aim to reproducing [Sora](https://openai.com/sora) (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. 本项目希望通过开源社区的力量复现Sora，由北大-兔展AIGC联合实验室共同发起，当前我们资源有限仅搭建了基础架构，无法进行完整训练，希望通过开源社区逐步增加模块并筹集资源进行训练，当前版本离目标差距巨大，仍需持续完善和快速迭代，欢迎Pull request！！！[Project Page](https://pku-yuangroup.github.io/Open-Sora-Plan/) [中文主页](https://pku-yuangroup.github.io/Open-Sora-Plan/blog_cn.html)
@@ -491,9 +493,15 @@
 
         - ##### High Performance Kernel Library
 
+            - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) <img src="https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=social"/> : Efficient Triton Kernels for LLM Training. [arxiv.org/pdf/2410.10989](https://arxiv.org/pdf/2410.10989)
+
             - [FlashInfer](https://github.com/flashinfer-ai/flashinfer) <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social"/> : FlashInfer: Kernel Library for LLM Serving . [flashinfer.ai](flashinfer.ai)
 
-            - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) <img src="https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=social"/> : Efficient Triton Kernels for LLM Training. [arxiv.org/pdf/2410.10989](https://arxiv.org/pdf/2410.10989)
+            - [FlashMLA](https://github.com/deepseek-ai/FlashMLA) <img src="https://img.shields.io/github/stars/deepseek-ai/FlashMLA?style=social"/> : FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs.
+            
+            - [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepGEMM?style=social"/> : DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling.
+
+            - [DeepEP](https://github.com/deepseek-ai/DeepEP) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepEP?style=social"/> : DeepEP: an efficient expert-parallel communication library.
 
             - [FlagGems](https://github.com/FlagOpen/FlagGems) <img src="https://img.shields.io/github/stars/FlagOpen/FlagGems?style=social"/> : FlagGems is a high-performance general operator library implemented in [OpenAI Triton](https://github.com/openai/triton). It aims to provide a suite of kernel functions to accelerate LLM training and inference.
 
