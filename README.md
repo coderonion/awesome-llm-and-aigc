@@ -132,9 +132,16 @@
 
         - [TinyZero](https://github.com/Jiayi-Pan/TinyZero) <img src="https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social"/> : Clean, accessible reproduction of DeepSeek R1-Zero. TinyZero is a reproduction of [DeepSeek R1 Zero](https://github.com/deepseek-ai/DeepSeek-R1) in countdown and multiplication tasks. We built upon [veRL](https://github.com/volcengine/verl).
 
-        - [Logic R1](https://github.com/Unakar/Logic-RL) <img src="https://img.shields.io/github/stars/Unakar/Logic-RL?style=social"/> : Successfully reproduced DeepSeek R1 Zero on 2K Tiny Logic Puzzle Dataset. See project explanation [here](https://evxpwrsfkdb.feishu.cn/docx/NokEdaMBmo6aqZxVdxkcSm2cnab?from=from_copylink).
+        - [Logic-RL](https://github.com/Unakar/Logic-RL) <img src="https://img.shields.io/github/stars/Unakar/Logic-RL?style=social"/> : Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning. "Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2502.14768)**).
+
+
+        - [X-R1](https://github.com/dhcode-cpp/X-R1) <img src="https://img.shields.io/github/stars/dhcode-cpp/X-R1?style=social"/> : X-R1 aims to build an easy-to-use, low-cost training framework based on end-to-end reinforcement learning to accelerate the development of Scaling Post-Training. Inspired by [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) and [open-r1](https://github.com/huggingface/open-r1) , we produce minimal-cost for training 0.5B R1-Zero "Aha Moment"💡 from base model
 
         - [DeepScaleR](https://github.com/agentica-project/deepscaler) <img src="https://img.shields.io/github/stars/agentica-project/deepscaler?style=social"/> : Democratizing Reinforcement Learning for LLMs. [www.agentica-project.com](https://www.agentica-project.com/). ["DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL"](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
+
+
+
+
 
 
 
@@ -306,6 +313,8 @@
         - [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2-VL?style=social"/> : Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. [2025-01-26，Qwen2.5 VL! Qwen2.5 VL! Qwen2.5 VL!](https://qwenlm.github.io/blog/qwen2.5-vl/). "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution". (**[arXiv 2024](https://arxiv.org/abs/2409.12191)**). "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond". (**[arXiv 2023](https://arxiv.org/abs/2308.12966)**).
 
         - [Janus](https://github.com/deepseek-ai/Janus) <img src="https://img.shields.io/github/stars/deepseek-ai/Janus?style=social"/> : 🚀 Janus-Series: Unified Multimodal Understanding and Generation Models. "Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling". (**[arXiv 2025](https://arxiv.org/abs/2501.17811)**). "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2410.13848)**). "JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2411.07975)**).
+
+        - [VisualThinker-R1-Zero](https://github.com/turningpoint-ai/VisualThinker-R1-Zero) <img src="https://img.shields.io/github/stars/turningpoint-ai/VisualThinker-R1-Zero?style=social"/> : VisualThinker-R1-Zero: First ever R1-Zero's Aha Moment on just a 2B non-SFT Model. VisualThinker-R1-Zero is a replication of [DeepSeek-R1-Zero](https://arxiv.org/abs/2501.12948) in visual reasoning. We are the first to successfully observe the emergent “aha moment” and increased response length in visual reasoning on just a 2B non-SFT models. For more details, please refer to the notion [report](https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model).
 
         - [R1-V](https://github.com/Deep-Agent/R1-V) <img src="https://img.shields.io/github/stars/Deep-Agent/R1-V?style=social"/> : R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3.
 
@@ -498,7 +507,7 @@
             - [FlashInfer](https://github.com/flashinfer-ai/flashinfer) <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social"/> : FlashInfer: Kernel Library for LLM Serving . [flashinfer.ai](flashinfer.ai)
 
             - [FlashMLA](https://github.com/deepseek-ai/FlashMLA) <img src="https://img.shields.io/github/stars/deepseek-ai/FlashMLA?style=social"/> : FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs.
-            
+
             - [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepGEMM?style=social"/> : DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling.
 
             - [DeepEP](https://github.com/deepseek-ai/DeepEP) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepEP?style=social"/> : DeepEP: an efficient expert-parallel communication library.
