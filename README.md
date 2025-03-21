@@ -10,7 +10,7 @@
       - [Official Version](#official-version)
         - [Neural Network Architecture](#neural-network-architecture)
         - [Large Language Model](#large-language-model)
-        - [Vision Language Model](#vision-language-model)
+        - [Large Vision Language Model](#large-vision-language-model)
         - [Vision Language Action](#vision-language-action)
         - [AI Generated Content](#ai-generated-content)
       - [Performance Analysis and Visualization](#performance-analysis-and-visualization)
@@ -305,12 +305,14 @@
 
 
 
-      - ##### Vision Language Model
-        ###### 视觉语言模型（VLM）
-
-        - [VLM-R1](https://github.com/om-ai-lab/VLM-R1) <img src="https://img.shields.io/github/stars/om-ai-lab/VLM-R1?style=social"/> : VLM-R1: A stable and generalizable R1-style Large Vision-Language Model. Solve Visual Understanding with Reinforced VLMs.
+      - ##### Large Vision Language Model
+        ###### 视觉语言大模型（LVLM）
 
         - [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2-VL?style=social"/> : Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. [2025-01-26，Qwen2.5 VL! Qwen2.5 VL! Qwen2.5 VL!](https://qwenlm.github.io/blog/qwen2.5-vl/). "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution". (**[arXiv 2024](https://arxiv.org/abs/2409.12191)**). "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond". (**[arXiv 2023](https://arxiv.org/abs/2308.12966)**).
+
+        - [Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) <img src="https://img.shields.io/github/stars/Liuziyu77/Visual-RFT?style=social"/> : "Visual-RFT: Visual Reinforcement Fine-Tuning". (**[arXiv 2025](https://arxiv.org/abs/2503.01785)**).
+
+        - [VLM-R1](https://github.com/om-ai-lab/VLM-R1) <img src="https://img.shields.io/github/stars/om-ai-lab/VLM-R1?style=social"/> : VLM-R1: A stable and generalizable R1-style Large Vision-Language Model. Solve Visual Understanding with Reinforced VLMs.
 
         - [Janus](https://github.com/deepseek-ai/Janus) <img src="https://img.shields.io/github/stars/deepseek-ai/Janus?style=social"/> : 🚀 Janus-Series: Unified Multimodal Understanding and Generation Models. "Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling". (**[arXiv 2025](https://arxiv.org/abs/2501.17811)**). "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2410.13848)**). "JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2411.07975)**).
 
@@ -489,7 +491,7 @@
 
             - [KTransformers](https://github.com/kvcache-ai/ktransformers) <img src="https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social"/> : A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations. [kvcache-ai.github.io/ktransformers/](https://kvcache-ai.github.io/ktransformers/)
 
-            - [Chitu](https://github.com/thu-pacman/chitu) <img src="https://img.shields.io/github/stars/thu-pacman/chitu?style=social"/> : High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
+            - [Chitu（赤兔）](https://github.com/thu-pacman/chitu) <img src="https://img.shields.io/github/stars/thu-pacman/chitu?style=social"/> : High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
 
             - [GPUStack](https://github.com/gpustack/gpustack) <img src="https://img.shields.io/github/stars/gpustack/gpustack?style=social"/> : GPUStack is an open-source GPU cluster manager for running AI models. Manage GPU clusters for running AI models. [gpustack.ai](https://gpustack.ai/)
 
@@ -512,11 +514,11 @@
 
             - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) <img src="https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=social"/> : Efficient Triton Kernels for LLM Training. [arxiv.org/pdf/2410.10989](https://arxiv.org/pdf/2410.10989)
 
+            - [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepGEMM?style=social"/> : DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling.
+
             - [FlashInfer](https://github.com/flashinfer-ai/flashinfer) <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social"/> : FlashInfer: Kernel Library for LLM Serving . [flashinfer.ai](flashinfer.ai)
 
             - [FlashMLA](https://github.com/deepseek-ai/FlashMLA) <img src="https://img.shields.io/github/stars/deepseek-ai/FlashMLA?style=social"/> : FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs.
-
-            - [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepGEMM?style=social"/> : DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling.
 
             - [DeepEP](https://github.com/deepseek-ai/DeepEP) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepEP?style=social"/> : DeepEP: an efficient expert-parallel communication library.
 
