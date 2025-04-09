@@ -310,9 +310,17 @@
 
         - [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2-VL?style=social"/> : Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. "Qwen2.5-VL Technical Report". (**[arXiv 2025](https://arxiv.org/abs/2502.13923)**). [2025-01-26，Qwen2.5 VL! Qwen2.5 VL! Qwen2.5 VL!](https://qwenlm.github.io/blog/qwen2.5-vl/). "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution". (**[arXiv 2024](https://arxiv.org/abs/2409.12191)**). "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond". (**[arXiv 2023](https://arxiv.org/abs/2308.12966)**).
 
-        - [Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) <img src="https://img.shields.io/github/stars/Liuziyu77/Visual-RFT?style=social"/> : "Visual-RFT: Visual Reinforcement Fine-Tuning". (**[arXiv 2025](https://arxiv.org/abs/2503.01785)**).
+        - [Video-R1](https://github.com/tulerfeng/Video-R1) <img src="https://img.shields.io/github/stars/tulerfeng/Video-R1?style=social"/> : "Video-R1: Reinforcing Video Reasoning in MLLMs". (**[arXiv 2025](https://arxiv.org/abs/2503.21776)**).
+
+        - [Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) <img src="https://img.shields.io/github/stars/Liuziyu77/Visual-RFT?style=social"/> : 🌈We introduce Visual Reinforcement Fine-tuning (Visual-RFT), the first comprehensive adaptation of Deepseek-R1's RL strategy to the multimodal field. We use the Qwen2-VL-2/7B model as our base model and design a rule-based verifiable reward, which is integrated into a GRPO-based reinforcement fine-tuning framework to enhance the performance of LVLMs across various visual perception tasks. ViRFT extends R1's reasoning capabilities to multiple visual perception tasks, including various detection tasks like Open Vocabulary Detection, Few-shot Detection, Reasoning Grounding, and Fine-grained Image Classification. "Visual-RFT: Visual Reinforcement Fine-Tuning". (**[arXiv 2025](https://arxiv.org/abs/2503.01785)**).
 
         - [VLM-R1](https://github.com/om-ai-lab/VLM-R1) <img src="https://img.shields.io/github/stars/om-ai-lab/VLM-R1?style=social"/> : VLM-R1: A stable and generalizable R1-style Large Vision-Language Model. Solve Visual Understanding with Reinforced VLMs. [2025-03-20，Improving Object Detection through Reinforcement Learning with VLM-R1](https://om-ai-lab.github.io/2025_03_20.html).
+
+        - [MAYE](https://github.com/GAIR-NLP/MAYE) <img src="https://img.shields.io/github/stars/GAIR-NLP/MAYE?style=social"/> : This project presents MAYE, a transparent and reproducible framework and a comprehensive evaluation scheme for applying reinforcement learning (RL) to vision-language models (VLMs). The codebase is built entirely from scratch without relying on existing RL toolkits. "Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme". (**[arXiv 2025](https://arxiv.org/abs/2504.02587)**).
+
+        - [Osilly/Vision-R1](https://github.com/Osilly/Vision-R1) <img src="https://img.shields.io/github/stars/Osilly/Vision-R1?style=social"/> : "Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models". (**[arXiv 2025](https://arxiv.org/abs/2503.06749)**).
+
+        - [Griffon/Vision-R1](https://github.com/jefferyZhan/Griffon/tree/master/Vision-R1) <img src="https://img.shields.io/github/stars/jefferyZhan/Griffon?style=social"/> : "Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2503.18013)**).
 
         - [Janus](https://github.com/deepseek-ai/Janus) <img src="https://img.shields.io/github/stars/deepseek-ai/Janus?style=social"/> : 🚀 Janus-Series: Unified Multimodal Understanding and Generation Models. "Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling". (**[arXiv 2025](https://arxiv.org/abs/2501.17811)**). "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2410.13848)**). "JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation". (**[arXiv 2024](https://arxiv.org/abs/2411.07975)**).
 
@@ -2170,6 +2178,7 @@
     - [2023-07-21，iPhone、Mac上都能跑，刷屏的Llama 2究竟性能如何？](https://mp.weixin.qq.com/s/B8LnEVjRt6dwaECRQIlHfw)
     - [2023-08-15，字节 | 大模型BuboGPT：引入视觉定位，实现细粒度多模态，已开源](https://mp.weixin.qq.com/s/1yM83EO9qh_iM_9CkbjuCw)
     - [2025-02-05，Deepseek R1 Zero成功复现, 三阶段RL，Response长度涨幅超50%，涌现语言混杂，double-check](https://mp.weixin.qq.com/s/G9GYGglUtP9Qg7Ofr0EPtA)
+    - [2025-03-30，Video-R1：第一个多模态视频Reasoning方法+模型，7B小模型逆袭GPT-4o！](https://mp.weixin.qq.com/s/xlw40lO9PKKV6W_rTvOFOA)
   - 微信公众号「集智书童」
     - [2023-06-28，MobileSAM来啦 | 比SAM小60倍，比FastSAM快4倍，速度和效果双赢](https://mp.weixin.qq.com/s/gTsdqVNgKpfnU-4S7DJhnA)
     - [2023-07-03，医疗SAM也来啦 | AutoSAM告诉你如何在医疗领域更快更好开发大模型](https://mp.weixin.qq.com/s/vd7bxoxB_BiffcSu-oHPbg)
@@ -2565,8 +2574,10 @@
     - [2025-02-03，一文读懂DeepSeek-R1本地部署配置要求（建议收藏）](https://mp.weixin.qq.com/s/nROU-80VKzbgZ-NozAg8qQ)
   - 微信公众号「DeepHub IMBA」
     - [2023-10-22，使用TensorRT-LLM进行高性能推理](https://mp.weixin.qq.com/s/pIZ9ceJzTG8kMZMn1m5oQw)
-
-
+  - 微信公众号「唐国梁Tommy」
+    - [2025-04-09，MAYE : 一个用于视觉语言模型 (VLM) 强化学习的可复现、透明化实现的框架](https://mp.weixin.qq.com/s/sN6etYpx4xNVVsg8EsTi3A)
+  - 微信公众号「老刘说NLP」
+    - [2025-03-26，视觉多模态RAG技术总结及Vision-R1用于目标检测任务的奖励函数设计](https://mp.weixin.qq.com/s/vOY4rKKxIw6rB2JXRl6EWA)
 
 
 
