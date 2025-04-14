@@ -130,10 +130,13 @@
 
         - [OpenSeek](https://github.com/FlagAI-Open/OpenSeek) <img src="https://img.shields.io/github/stars/FlagAI-Open/OpenSeek?style=social"/> : OpenSeek aims to unite the global open source community to drive collaborative innovation in algorithms, data and systems to develop next-generation models that surpass DeepSeek.
 
+        - [Search-R1](https://github.com/PeterGriffinJin/Search-R1) <img src="https://img.shields.io/github/stars/PeterGriffinJin/Search-R1?style=social"/> : Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL. "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2503.09516)**).
+
         - [TinyZero](https://github.com/Jiayi-Pan/TinyZero) <img src="https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social"/> : Clean, accessible reproduction of DeepSeek R1-Zero. TinyZero is a reproduction of [DeepSeek R1 Zero](https://github.com/deepseek-ai/DeepSeek-R1) in countdown and multiplication tasks. We built upon [veRL](https://github.com/volcengine/verl).
 
-        - [Logic-RL](https://github.com/Unakar/Logic-RL) <img src="https://img.shields.io/github/stars/Unakar/Logic-RL?style=social"/> : Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning. "Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2502.14768)**).
+        - [GRPO-Zero](https://github.com/policy-gradient/GRPO-Zero) <img src="https://img.shields.io/github/stars/policy-gradient/GRPO-Zero?style=social"/> : GRPO training with minimal dependencies. We implement almost everything from scratch and only depend on tokenizers for tokenization and pytorch for training.
 
+        - [Logic-RL](https://github.com/Unakar/Logic-RL) <img src="https://img.shields.io/github/stars/Unakar/Logic-RL?style=social"/> : Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning. "Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2502.14768)**).
 
         - [X-R1](https://github.com/dhcode-cpp/X-R1) <img src="https://img.shields.io/github/stars/dhcode-cpp/X-R1?style=social"/> : X-R1 aims to build an easy-to-use, low-cost training framework based on end-to-end reinforcement learning to accelerate the development of Scaling Post-Training. Inspired by [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) and [open-r1](https://github.com/huggingface/open-r1) , we produce minimal-cost for training 0.5B R1-Zero "Aha Moment"💡 from base model
 
@@ -302,13 +305,12 @@
 
 
 
-
-
-
       - ##### Large Vision Language Model
         ###### 视觉语言大模型（LVLM）
 
         - [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2-VL?style=social"/> : Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. "Qwen2.5-VL Technical Report". (**[arXiv 2025](https://arxiv.org/abs/2502.13923)**). [2025-01-26，Qwen2.5 VL! Qwen2.5 VL! Qwen2.5 VL!](https://qwenlm.github.io/blog/qwen2.5-vl/). "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution". (**[arXiv 2024](https://arxiv.org/abs/2409.12191)**). "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond". (**[arXiv 2023](https://arxiv.org/abs/2308.12966)**).
+
+        - [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL) <img src="https://img.shields.io/github/stars/MoonshotAI/Kimi-VL?style=social"/> : Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities. "Kimi-VL Technical Report". (**[arXiv 2025](https://arxiv.org/abs/2504.07491)**).
 
         - [Video-R1](https://github.com/tulerfeng/Video-R1) <img src="https://img.shields.io/github/stars/tulerfeng/Video-R1?style=social"/> : "Video-R1: Reinforcing Video Reasoning in MLLMs". (**[arXiv 2025](https://arxiv.org/abs/2503.21776)**).
 
@@ -1512,6 +1514,7 @@
     - [2024-11-27，多模态大模型MLLM的架构发展及思考](https://mp.weixin.qq.com/s/zVii5TZlf0iM16THHmINrg)
     - [2024-12-10，大模型量化技术原理：总结](https://mp.weixin.qq.com/s/HaaDZ1YE0bQ_OuJNrmOr-w)
     - [2025-02-04，聊聊DeepSeek-R1的技术路径](https://mp.weixin.qq.com/s/LcsL7gRe4MtIRWCk2fJ0KQ)
+    - [2025-04-13，Kimi-VL：视觉语言模型（VLM）的新探索](https://mp.weixin.qq.com/s/e_8TUACwTmSgzFXWAcvRgw)
   - 微信公众号「包包算法笔记」
     - [2023-07-19，大模型开源社区的原子弹Llama2](https://mp.weixin.qq.com/s/RvAyXJ9KWqJ73XO7ZL1McA)
     - [2023-08-21，从零训练大模型教程](https://mp.weixin.qq.com/s/qQDV2L7EBQLivkoONgXR9A)
@@ -2578,7 +2581,8 @@
     - [2025-04-09，MAYE : 一个用于视觉语言模型 (VLM) 强化学习的可复现、透明化实现的框架](https://mp.weixin.qq.com/s/sN6etYpx4xNVVsg8EsTi3A)
   - 微信公众号「老刘说NLP」
     - [2025-03-26，视觉多模态RAG技术总结及Vision-R1用于目标检测任务的奖励函数设计](https://mp.weixin.qq.com/s/vOY4rKKxIw6rB2JXRl6EWA)
-
+  - 微信公众号「AgenticAI」
+    - [2025-04-14，Search-R1：复现 OpenAI Deep Research 能力的开源强化学习框架](https://mp.weixin.qq.com/s/bhtda1CsLThSFRms9albIA)
 
 
   - [知乎「李小羊学AI​」](https://www.zhihu.com/people/san-fen-zhong-re-du-38-57)
