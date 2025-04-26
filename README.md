@@ -15,6 +15,7 @@
         - [AI Generated Content](#ai-generated-content)
       - [Performance Analysis and Visualization](#performance-analysis-and-visualization)
       - [Training and Fine-Tuning Framework](#training-and-fine-tuning-framework)
+      - [Reinforcement Learning Framework](#reinforcement-learning-framework)
       - [LLM Inference Framework](#llm-inference-framework)
         - [LLM Inference and Serving Engine](#llm-inference-and-serving-engine)
         - [High Performance Kernel Library](#high-performance-kernel-library)
@@ -128,13 +129,11 @@
 
         - [Open R1](https://github.com/huggingface/open-r1) <img src="https://img.shields.io/github/stars/huggingface/open-r1?style=social"/> : Fully open reproduction of [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1).
 
-        - [OpenSeek](https://github.com/FlagAI-Open/OpenSeek) <img src="https://img.shields.io/github/stars/FlagAI-Open/OpenSeek?style=social"/> : OpenSeek aims to unite the global open source community to drive collaborative innovation in algorithms, data and systems to develop next-generation models that surpass DeepSeek.
-
-        - [Search-R1](https://github.com/PeterGriffinJin/Search-R1) <img src="https://img.shields.io/github/stars/PeterGriffinJin/Search-R1?style=social"/> : Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL. "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2503.09516)**).
-
-        - [TinyZero](https://github.com/Jiayi-Pan/TinyZero) <img src="https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social"/> : Clean, accessible reproduction of DeepSeek R1-Zero. TinyZero is a reproduction of [DeepSeek R1 Zero](https://github.com/deepseek-ai/DeepSeek-R1) in countdown and multiplication tasks. We built upon [veRL](https://github.com/volcengine/verl).
+        - [TinyZero](https://github.com/Jiayi-Pan/TinyZero) <img src="https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social"/> : Clean, minimal, accessible reproduction of DeepSeek R1-Zero. TinyZero is a reproduction of [DeepSeek R1 Zero](https://github.com/deepseek-ai/DeepSeek-R1) in countdown and multiplication tasks. We built upon [veRL](https://github.com/volcengine/verl).
 
         - [GRPO-Zero](https://github.com/policy-gradient/GRPO-Zero) <img src="https://img.shields.io/github/stars/policy-gradient/GRPO-Zero?style=social"/> : GRPO training with minimal dependencies. We implement almost everything from scratch and only depend on tokenizers for tokenization and pytorch for training.
+
+        - [Search-R1](https://github.com/PeterGriffinJin/Search-R1) <img src="https://img.shields.io/github/stars/PeterGriffinJin/Search-R1?style=social"/> : Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL. "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2503.09516)**).
 
         - [Logic-RL](https://github.com/Unakar/Logic-RL) <img src="https://img.shields.io/github/stars/Unakar/Logic-RL?style=social"/> : Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning. "Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2502.14768)**).
 
@@ -142,8 +141,7 @@
 
         - [DeepScaleR](https://github.com/agentica-project/deepscaler) <img src="https://img.shields.io/github/stars/agentica-project/deepscaler?style=social"/> : Democratizing Reinforcement Learning for LLMs. [www.agentica-project.com](https://www.agentica-project.com/). ["DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL"](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
 
-
-
+        - [OpenSeek](https://github.com/FlagAI-Open/OpenSeek) <img src="https://img.shields.io/github/stars/FlagAI-Open/OpenSeek?style=social"/> : OpenSeek aims to unite the global open source community to drive collaborative innovation in algorithms, data and systems to develop next-generation models that surpass DeepSeek.
 
 
 
@@ -312,11 +310,11 @@
 
         - [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL) <img src="https://img.shields.io/github/stars/MoonshotAI/Kimi-VL?style=social"/> : Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities. "Kimi-VL Technical Report". (**[arXiv 2025](https://arxiv.org/abs/2504.07491)**).
 
-        - [Video-R1](https://github.com/tulerfeng/Video-R1) <img src="https://img.shields.io/github/stars/tulerfeng/Video-R1?style=social"/> : "Video-R1: Reinforcing Video Reasoning in MLLMs". (**[arXiv 2025](https://arxiv.org/abs/2503.21776)**).
-
         - [Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) <img src="https://img.shields.io/github/stars/Liuziyu77/Visual-RFT?style=social"/> : 🌈We introduce Visual Reinforcement Fine-tuning (Visual-RFT), the first comprehensive adaptation of Deepseek-R1's RL strategy to the multimodal field. We use the Qwen2-VL-2/7B model as our base model and design a rule-based verifiable reward, which is integrated into a GRPO-based reinforcement fine-tuning framework to enhance the performance of LVLMs across various visual perception tasks. ViRFT extends R1's reasoning capabilities to multiple visual perception tasks, including various detection tasks like Open Vocabulary Detection, Few-shot Detection, Reasoning Grounding, and Fine-grained Image Classification. "Visual-RFT: Visual Reinforcement Fine-Tuning". (**[arXiv 2025](https://arxiv.org/abs/2503.01785)**).
 
         - [VLM-R1](https://github.com/om-ai-lab/VLM-R1) <img src="https://img.shields.io/github/stars/om-ai-lab/VLM-R1?style=social"/> : VLM-R1: A stable and generalizable R1-style Large Vision-Language Model. Solve Visual Understanding with Reinforced VLMs. [2025-03-20，Improving Object Detection through Reinforcement Learning with VLM-R1](https://om-ai-lab.github.io/2025_03_20.html).
+
+        - [Video-R1](https://github.com/tulerfeng/Video-R1) <img src="https://img.shields.io/github/stars/tulerfeng/Video-R1?style=social"/> : "Video-R1: Reinforcing Video Reasoning in MLLMs". (**[arXiv 2025](https://arxiv.org/abs/2503.21776)**).
 
         - [MAYE](https://github.com/GAIR-NLP/MAYE) <img src="https://img.shields.io/github/stars/GAIR-NLP/MAYE?style=social"/> : This project presents MAYE, a transparent and reproducible framework and a comprehensive evaluation scheme for applying reinforcement learning (RL) to vision-language models (VLMs). The codebase is built entirely from scratch without relying on existing RL toolkits. "Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme". (**[arXiv 2025](https://arxiv.org/abs/2504.02587)**).
 
@@ -389,7 +387,10 @@
 
 
 
+      - ##### Vision Language Action
+        ###### 视觉语言动作大模型（VLA）
 
+        - [Embodied-R](https://github.com/EmbodiedCity/Embodied-R.code) <img src="https://img.shields.io/github/stars/EmbodiedCity/Embodied-R.code?style=social"/> : "Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2504.12680)**).
 
 
 
@@ -457,6 +458,7 @@
 
 
 
+
     - #### Performance Analysis and Visualization
       ##### 性能分析及可视化
 
@@ -476,6 +478,14 @@
         - [unsloth](https://github.com/unslothai/unsloth) <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social"/> : Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory. [unsloth.ai](https://unsloth.ai/)
 
         - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) <img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social"/> : Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024). "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models". (**[arXiv 2024](https://arxiv.org/abs/2403.13372)**).
+
+
+    - #### Reinforcement Learning Framework
+      ##### 强化学习框架
+
+        - [TTRL](https://github.com/PRIME-RL/TTRL) <img src="https://img.shields.io/github/stars/PRIME-RL/TTRL?style=social"/> : "TTRL: Test-Time Reinforcement Learning". (**[arXiv 2025](https://arxiv.org/abs/2504.16084)**).
+
+
 
 
 
@@ -502,6 +512,8 @@
             - [KTransformers](https://github.com/kvcache-ai/ktransformers) <img src="https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social"/> : A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations. [kvcache-ai.github.io/ktransformers/](https://kvcache-ai.github.io/ktransformers/)
 
             - [Chitu（赤兔）](https://github.com/thu-pacman/chitu) <img src="https://img.shields.io/github/stars/thu-pacman/chitu?style=social"/> : High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
+
+            - [Aphrodite](https://github.com/aphrodite-engine/aphrodite-engine) <img src="https://img.shields.io/github/stars/aphrodite-engine/aphrodite-engine?style=social"/> : Large-scale LLM inference engine. [aphrodite.pygmalion.chat](https://aphrodite.pygmalion.chat/)
 
             - [GPUStack](https://github.com/gpustack/gpustack) <img src="https://img.shields.io/github/stars/gpustack/gpustack?style=social"/> : GPUStack is an open-source GPU cluster manager for running AI models. Manage GPU clusters for running AI models. [gpustack.ai](https://gpustack.ai/)
 
@@ -1528,6 +1540,7 @@
     - [2024-12-26，DeepSeek-V3即将开源](https://mp.weixin.qq.com/s/NN77oadRQmStxgDaWc2pVg)
     - [2025-01-03，从infra的视角聊聊DeepSeek-V3](https://mp.weixin.qq.com/s/d-LTf9CwLmnkg64q18AbTQ)
     - [2025-01-05，DeepSeek-V3技术报告完整解读](https://mp.weixin.qq.com/s/M2HpgZTQ9MnhncUcnOmVxg)
+    - [2025-04-24，RL x LLM 时代：通向 AGI 的四层阶梯](https://mp.weixin.qq.com/s/B-pOgCM70kpBtXdyyS4vSA)
   - 微信公众号「人工智能与图像处理」
     - [2024-04-26，大模型之llama2](https://mp.weixin.qq.com/s/RpOJ1VFCHfiZoIhVbKRHQQ)
     - [2024-04-27，大模型之llama3（概述+调用实践+微调实践）](https://mp.weixin.qq.com/s/uZgP82hMzlvgs7c-iUHeIQ)
@@ -1558,6 +1571,10 @@
     - [2025-01-07，TinyML项目（三）：高效CNN算法&系统协同设计 | MCUNetV3：在 256KB 内存下进行设备端训练](https://mp.weixin.qq.com/s/lIQ-DNtrEJf6wtnjUhjIAQ)
   - 微信公众号「中国信息界」
     - [2024-05-28，中国工程院院士孙凝晖给正国级、副国级讲课的万字长稿《人工智能与智能计算的发展》](https://mp.weixin.qq.com/s/pbbPxM8uZIuxQyFtXCizWg)
+  - 微信公众号「中国科学院院刊」
+    - [2025-04-08，人工智能驱动的科研新范式及学科应用研究](https://mp.weixin.qq.com/s/_f1XvDtoE-ZHgSwuIRwWUw)
+  - 微信公众号「中国人工智能学会」
+    - [2025-03-21，学术分享丨Nature Machine Intelligence 嵌入式大语言模型使机器人能够在不可预测的环境中完成复杂的任务](https://mp.weixin.qq.com/s/Fs3w5Beepj6q04w3hhfduw)
   - 微信公众号「腾讯科技」
     - [2024-07-03，对话腾讯汤道生：AI不止于大模型](https://mp.weixin.qq.com/s/OrDYcic5a2obxdMn-UhE7Q)
   - 微信公众号「腾讯技术工程」
@@ -1899,7 +1916,8 @@
   - 微信公众号「42章经」
     - [2023-02-13，我是怎样用一周时间研究 ChatGPT 的？](https://mp.weixin.qq.com/s/obVI3ENpMgaq4AKZs6Hw1w)
   - 微信公众号「人工智能技术与咨询」
-    - [ChatGPT四大应用主线及相关细分场景](https://mp.weixin.qq.com/s/f8cmRVs0ys7FNyNU1qbP6g)
+    - [2023-02-17, ChatGPT四大应用主线及相关细分场景](https://mp.weixin.qq.com/s/f8cmRVs0ys7FNyNU1qbP6g)
+    - [2025-04-24, 视觉富文档理解预训练综述](https://mp.weixin.qq.com/s/IIEaa7U1yEQhyE5vUL3afg)
   - 微信公众号「应用语言学研习」
     - [2023-02-17，如何利用ChatGPT搞科研？](https://mp.weixin.qq.com/s/sW_utRBS_jJAaWfGo_eT5g)
   - 微信公众号「机器之能」
@@ -1923,6 +1941,7 @@
   - 微信公众号「学术头条」
     - [2023-02-22，揭秘ChatGPT背后的AI“梦之队”：90后科研“后浪”展示强大创新能力｜智谱研究报告](https://mp.weixin.qq.com/s/sncE01utzu_-r3dLFYU5QA)
     - [2023-07-19，更强的Llama 2开源，可直接商用：一夜之间，大模型格局变了](https://mp.weixin.qq.com/s/TR8DdLLUEZGL4Q2Wan8PpQ)
+    - [2025-04-18，华裔学者Nature发文：多模态AI大模型将开启生物学分析新时代](https://mp.weixin.qq.com/s/VROlZsI6duZ5JBAX2xBfRw)
   - 微信公众号「人工智能研究」
     - [2023-03-11，哈工大NLP研究所ChatGPT调研报告发布！](https://mp.weixin.qq.com/s/u17VEv0VM8MXYyB7jcV-yA)
   - 微信公众号「OpenFPGA」
@@ -1941,6 +1960,7 @@
     - [2023-03-23，OpenAI重磅研究：ChatGPT可能影响80%工作岗位，收入越高影响越大](https://mp.weixin.qq.com/s/DUiEqgz-Ytf6c8NU8f7O3w)
     - [2023-07-09，不作诗，只做事：华为盘古3.0，给大模型落地定了个调](https://mp.weixin.qq.com/s/Qwvu6EA1PJx1v5sP0ouN5A)
     - [2023-07-09，VisCPM：迈向多语言多模态大模型时代](https://mp.weixin.qq.com/s/4Dv7o1LHY_K3gbzvVQi9pQ)
+    - [2025-04-09，Vision-R1：通过视觉引导强化学习进化大型视觉语言模型中无需人工参与的对齐方式](https://mp.weixin.qq.com/s/HXqi516lHg1vSDBTvLn1Pw)
   - 微信公众号「科金中心」
     - [2023-03-22，今日关注 | 比尔盖茨：超级人工智能还没来 GPT模型是40余年来最革命性技术进步](https://mp.weixin.qq.com/s/vBkbE04Oz0ssYqjsvIacPg)
   - 微信公众号「findyi」
@@ -1980,6 +2000,8 @@
   - 微信公众号「深蓝AI」
     - [2023-04-23，最新综述！AIGC到底是什么？都有哪些应用？一文尽览！](https://mp.weixin.qq.com/s/rp9XVUBrh17Wr57SPFgTvg)
     - [2025-01-05，RoboMIND：上央视新闻啦！我国首个通用多本体具身智能数据集发布](https://mp.weixin.qq.com/s/RWu2eLiGhdli380gNmSQbA)
+  - 微信公众号「深蓝具身智能」
+    - [2025-04-23，清华：首个具身R1来了！协同框架下RL激活基座模型的视频空间推理能力，性能提升超10%！](https://mp.weixin.qq.com/s/WnXYnxqInMMfUFGUTHn-ng)
   - 微信公众号「人工智能前沿讲习」
     - [2023-04-23，【综述专栏】“ChatGPT的问题、风险与机遇”会议综述](https://mp.weixin.qq.com/s/-Gi4xMUXYiI13DaTVgwUdQ)
     - [2023-08-15，【综述专栏】伦敦大学、MetaAI、StabilityAI联合发布70页综述，盘点大模型的16大挑战](https://mp.weixin.qq.com/s/Q9PGJK4Z7vyuYzjXVK9yCw)
@@ -2188,6 +2210,7 @@
     - [2023-07-04，聊聊大火的AIGC和扩散模型](https://mp.weixin.qq.com/s/y2rakG6A-vWRp3i0ka9DPA)
     - [2023-07-04，中科院版「分割一切」模型来了，比Meta原版提速50倍 | GitHub 4.2K+星](https://mp.weixin.qq.com/s/u_IcsEldPR2TCtjJVIvZ6g)
     - [2023-07-10，SAM增强技术 | SAMAug提出Point Prompt增强，让SAM模型天天向上](https://mp.weixin.qq.com/s/KPP07jWt8DYUslkRCMGuKw)
+    - [2025-04-08，Vision-R1革新LVLM训练 | 视觉反馈驱动+动态规则细化，7B模型性能跃升50%，碾压10倍大模型](https://mp.weixin.qq.com/s/MOMbVhaQnZfQ8r7flTiKsg)
   - 微信公众号「集智俱乐部」
     - [2023-05-03，Yes, We KAN! MLP out！一作刘子鸣直播解读全新神经网络框架KAN](https://mp.weixin.qq.com/s/QGCT0Q_7B3YmeXMXhRT1PA)
     - [2025-02-04，DeepSeek-R1｜集智百科](https://mp.weixin.qq.com/s/5yDic_Ng068hSs_ai9lW3w)
