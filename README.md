@@ -121,7 +121,7 @@
 
         - [Qwen（通义千问）](https://github.com/QwenLM/Qwen) <img src="https://img.shields.io/github/stars/QwenLM/Qwen?style=social"/> : The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 
-        - [Qwen2.5](https://github.com/QwenLM/Qwen2.5) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=social"/> : Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud. "Qwen2.5 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.15115)**). "Qwen2 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2407.10671)**).
+        - [Qwen3](https://github.com/QwenLM/Qwen3) <img src="https://img.shields.io/github/stars/QwenLM/Qwen3?style=social"/> : Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud. "Qwen3: Think Deeper, Act Faster". (**[Qwen Blog](https://qwenlm.github.io/blog/qwen3/)**). "Qwen2.5 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.15115)**). "Qwen2 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2407.10671)**).
 
         - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social"/> : "DeepSeek-V3 Technical Report". (**[arXiv 2024](https://arxiv.org/abs/2412.19437)**).
 
