@@ -507,11 +507,17 @@
 
             - [SGLang](https://github.com/sgl-project/sglang) <img src="https://img.shields.io/github/stars/sgl-project/sglang?style=social"/> : SGLang is a fast serving framework for large language models and vision language models. [docs.sglang.ai/](https://docs.sglang.ai/)
 
+            - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : LLM inference in C/C++.
+
+            - [FlashInfer](https://github.com/flashinfer-ai/flashinfer) <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social"/> : FlashInfer: Kernel Library for LLM Serving . [flashinfer.ai](flashinfer.ai)
+
+            - [Chitu（赤兔）](https://github.com/thu-pacman/chitu) <img src="https://img.shields.io/github/stars/thu-pacman/chitu?style=social"/> : High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability. Chitu (赤兔) 是一个专注于效率、灵活性和可用性的高性能大语言模型推理框架。
+
+            - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) <img src="https://img.shields.io/github/stars/ztxz16/fastllm?style=social"/> : fastllm是c++实现自有算子替代Pytorch的高性能全功能大模型推理库，可以推理Qwen, Llama, Phi等稠密模型，以及DeepSeek, Qwen-moe等moe模型。fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
+
             - [MLC LLM](https://github.com/mlc-ai/mlc-llm) <img src="https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social"/> : Universal LLM Deployment Engine with ML Compilation. [llm.mlc.ai/](https://llm.mlc.ai/)
 
             - [KTransformers](https://github.com/kvcache-ai/ktransformers) <img src="https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social"/> : A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations. [kvcache-ai.github.io/ktransformers/](https://kvcache-ai.github.io/ktransformers/)
-
-            - [Chitu（赤兔）](https://github.com/thu-pacman/chitu) <img src="https://img.shields.io/github/stars/thu-pacman/chitu?style=social"/> : High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
 
             - [Aphrodite](https://github.com/aphrodite-engine/aphrodite-engine) <img src="https://img.shields.io/github/stars/aphrodite-engine/aphrodite-engine?style=social"/> : Large-scale LLM inference engine. [aphrodite.pygmalion.chat](https://aphrodite.pygmalion.chat/)
 
@@ -536,9 +542,9 @@
 
             - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) <img src="https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=social"/> : Efficient Triton Kernels for LLM Training. [arxiv.org/pdf/2410.10989](https://arxiv.org/pdf/2410.10989)
 
-            - [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepGEMM?style=social"/> : DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling.
-
             - [FlashInfer](https://github.com/flashinfer-ai/flashinfer) <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social"/> : FlashInfer: Kernel Library for LLM Serving . [flashinfer.ai](flashinfer.ai)
+
+            - [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) <img src="https://img.shields.io/github/stars/deepseek-ai/DeepGEMM?style=social"/> : DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling.
 
             - [FlashMLA](https://github.com/deepseek-ai/FlashMLA) <img src="https://img.shields.io/github/stars/deepseek-ai/FlashMLA?style=social"/> : FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs.
 
@@ -551,17 +557,19 @@
 
         - ##### C and CPP Implementation
 
+            - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : LLM inference in C/C++.
+
             - [llm.c](https://github.com/karpathy/llm.c) <img src="https://img.shields.io/github/stars/karpathy/llm.c?style=social"/> : LLM training in simple, pure C/CUDA. There is no need for 245MB of PyTorch or 107MB of cPython. For example, training GPT-2 (CPU, fp32) is ~1,000 lines of clean code in a single file. It compiles and runs instantly, and exactly matches the PyTorch reference implementation.
 
             - [llama2.c](https://github.com/karpathy/llama2.c) <img src="https://img.shields.io/github/stars/karpathy/llama2.c?style=social"/> : Inference Llama 2 in one file of pure C. Train the Llama 2 LLM architecture in PyTorch then inference it with one simple 700-line C file (run.c).
-
-            - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : Inference of [LLaMA](https://github.com/facebookresearch/llama) model in pure C/C++.
 
             - [TinyChatEngine](https://github.com/mit-han-lab/TinyChatEngine) <img src="https://img.shields.io/github/stars/mit-han-lab/TinyChatEngine?style=social"/> : TinyChatEngine: On-Device LLM Inference Library. Running large language models (LLMs) and visual language models (VLMs) on the edge is useful: copilot services (coding, office, smart reply) on laptops, cars, robots, and more. Users can get instant responses with better privacy, as the data is local. This is enabled by LLM model compression technique: [SmoothQuant](https://github.com/mit-han-lab/smoothquant) and [AWQ (Activation-aware Weight Quantization)](https://github.com/mit-han-lab/llm-awq), co-designed with TinyChatEngine that implements the compressed low-precision model. Feel free to check out our [slides](https://github.com/mit-han-lab/TinyChatEngine/blob/main/assets/slides.pdf) for more details!
 
             - [gemma.cpp](https://github.com/google/gemma.cpp) <img src="https://img.shields.io/github/stars/google/gemma.cpp?style=social"/> :  gemma.cpp is a lightweight, standalone C++ inference engine for the Gemma foundation models from Google.
 
             - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) <img src="https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=social"/> : High-performance inference of [OpenAI's Whisper](https://github.com/openai/whisper) automatic speech recognition (ASR) model.
+
+            - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) <img src="https://img.shields.io/github/stars/ztxz16/fastllm?style=social"/> : fastllm是c++实现自有算子替代Pytorch的高性能全功能大模型推理库，可以推理Qwen, Llama, Phi等稠密模型，以及DeepSeek, Qwen-moe等moe模型。fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
 
             - [ChatGLM.cpp](https://github.com/li-plus/chatglm.cpp) <img src="https://img.shields.io/github/stars/li-plus/chatglm.cpp?style=social"/> : C++ implementation of [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) and [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B).
 
@@ -576,8 +584,6 @@
             - [Const-me/Whisper](https://github.com/Const-me/Whisper) <img src="https://img.shields.io/github/stars/Const-me/Whisper?style=social"/> : High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model.
 
             - [wangzhaode/ChatGLM-MNN](https://github.com/wangzhaode/ChatGLM-MNN) <img src="https://img.shields.io/github/stars/wangzhaode/ChatGLM-MNN?style=social"/> : Pure C++, Easy Deploy ChatGLM-6B.
-
-            - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) <img src="https://img.shields.io/github/stars/ztxz16/fastllm?style=social"/> : 纯c++实现，无第三方依赖的大模型库，支持CUDA加速，目前支持国产大模型ChatGLM-6B，MOSS; 可以在安卓设备上流畅运行ChatGLM-6B。
 
             - [davidar/eigenGPT](https://github.com/davidar/eigenGPT) <img src="https://img.shields.io/github/stars/davidar/eigenGPT?style=social"/> : Minimal C++ implementation of GPT2.
 
@@ -2606,6 +2612,14 @@
     - [2025-03-26，视觉多模态RAG技术总结及Vision-R1用于目标检测任务的奖励函数设计](https://mp.weixin.qq.com/s/vOY4rKKxIw6rB2JXRl6EWA)
   - 微信公众号「AgenticAI」
     - [2025-04-14，Search-R1：复现 OpenAI Deep Research 能力的开源强化学习框架](https://mp.weixin.qq.com/s/bhtda1CsLThSFRms9albIA)
+  - 微信公众号「喔家ArchiSelf」
+    - [2025-04-13，从零构建大模型之Transformer公式解读](https://mp.weixin.qq.com/s/y33wsCbjBvrirEoMdJzeoA)
+  - 微信公众号「PyTorch研习社」
+    - [2025-04-15，从零开始构建大模型：GitHub超44K Star的大模型教程](https://mp.weixin.qq.com/s/d2JaU9NyG5RP1AIpwAeTWw)
+  - 微信公众号「大模型技术研习社」
+    - [2025-03-11，从零开始用 Python 构建一个 20 亿参数的 LLM](https://mp.weixin.qq.com/s/f4-OdDhE6i5lInbH3Kyn2g)
+  - 微信公众号「牛皮糖不吃牛」
+    - [2025-04-16·，GitHub 19.2k Star 开源神器：ScrapeGraphAI——自然语言驱动的智能爬虫革命！](https://mp.weixin.qq.com/s/lQukAy12V5K1cH6rTkqxaA)
 
 
   - [知乎「李小羊学AI​」](https://www.zhihu.com/people/san-fen-zhong-re-du-38-57)
