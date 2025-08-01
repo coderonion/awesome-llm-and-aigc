@@ -505,6 +505,8 @@
 
             - [vLLM](https://github.com/vllm-project/vllm) <img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social"/> : A high-throughput and memory-efficient inference and serving engine for LLMs. [docs.vllm.ai](https://docs.vllm.ai/)
 
+            - [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) <img src="https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=social"/> : A lightweight vLLM implementation built from scratch.
+
             - [SGLang](https://github.com/sgl-project/sglang) <img src="https://img.shields.io/github/stars/sgl-project/sglang?style=social"/> : SGLang is a fast serving framework for large language models and vision language models. [docs.sglang.ai/](https://docs.sglang.ai/)
 
             - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : LLM inference in C/C++.
@@ -525,6 +527,8 @@
 
             - [Lamini](https://github.com/lamini-ai/lamini) <img src="https://img.shields.io/github/stars/lamini-ai/lamini?style=social"/> : The Official Python Client for Lamini's API. [lamini.ai/](https://lamini.ai/)
 
+            - [triton-inference-server/tensorrtllm_backend](https://github.com/triton-inference-server/tensorrtllm_backend) <img src="https://img.shields.io/github/stars/triton-inference-server/tensorrtllm_backend?style=social"/> : The Triton TensorRT-LLM Backend.
+
             - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) <img src="https://img.shields.io/github/stars/datawhalechina/self-llm?style=social"/> :  《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程。
 
             - [ninehills/llm-inference-benchmark](https://github.com/ninehills/llm-inference-benchmark) <img src="https://img.shields.io/github/stars/ninehills/llm-inference-benchmark?style=social"/> : LLM Inference benchmark.
@@ -532,8 +536,6 @@
             - [csbench/csbench](https://github.com/csbench/csbench) <img src="https://img.shields.io/github/stars/csbench/csbench?style=social"/> : "CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery". (**[arXiv 2024](https://arxiv.org/abs/2406.08587)**).
 
             - [MooreThreads/vllm_musa](https://github.com/MooreThreads/vllm_musa) <img src="https://img.shields.io/github/stars/MooreThreads/vllm_musa?style=social"/> : A high-throughput and memory-efficient inference and serving engine for LLMs. [docs.vllm.ai](https://docs.vllm.ai/)
-
-
 
 
 
@@ -603,9 +605,11 @@
 
             - [FlagGems](https://github.com/FlagOpen/FlagGems) <img src="https://img.shields.io/github/stars/FlagOpen/FlagGems?style=social"/> : FlagGems is a high-performance general operator library implemented in [OpenAI Triton](https://github.com/openai/triton). It aims to provide a suite of kernel functions to accelerate LLM training and inference.
 
-            - [triton-inference-server/tensorrtllm_backend](https://github.com/triton-inference-server/tensorrtllm_backend) <img src="https://img.shields.io/github/stars/triton-inference-server/tensorrtllm_backend?style=social"/> :  The Triton TensorRT-LLM Backend.
+            - [harleyszhang/lite_llama](https://github.com/harleyszhang/lite_llama) <img src="https://img.shields.io/github/stars/harleyszhang/lite_llama?style=social"/> : A light llama-like llm inference framework based on the triton kernel.
 
-            - [harleyszhang/lite_llama](https://github.com/harleyszhang/lite_llama) <img src="https://img.shields.io/github/stars/harleyszhang/lite_llama?style=social"/> : The llama model inference lite framework by triton.
+            - [linxihui/dkernel](https://github.com/linxihui/dkernel) <img src="https://img.shields.io/github/stars/linxihui/dkernel?style=social"/> : This repo contains customized CUDA kernels written in OpenAI Triton. As of now, it contains the sparse attention kernel used in [phi-3-small models](https://huggingface.co/microsoft/Phi-3-small-8k-instruct). The sparse attention is also supported in vLLM for efficient inference.
+
+
 
 
 
@@ -880,6 +884,8 @@
     - [MiniMind](https://github.com/jingyaogong/minimind) <img src="https://img.shields.io/github/stars/jingyaogong/minimind?style=social"/> : 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! [jingyaogong.github.io/minimind](https://jingyaogong.github.io/minimind)
 
     - [MiniMind-V](https://github.com/jingyaogong/minimind-v) <img src="https://img.shields.io/github/stars/jingyaogong/minimind-v?style=social"/> : 🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours! [jingyaogong.github.io/minimind-v](https://jingyaogong.github.io/minimind-v)
+
+    - [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) <img src="https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=social"/> : A lightweight vLLM implementation built from scratch.
 
     - [zjhellofss/KuiperLLama](https://github.com/zjhellofss/KuiperLLama) <img src="https://img.shields.io/github/stars/zjhellofss/KuiperLLama?style=social"/> : 《动手自制大模型推理框架》。KuiperLLama 动手自制大模型推理框架，支持LLama2/3和Qwen2.5。校招、秋招、春招、实习好项目，带你从零动手实现支持LLama2/3和Qwen2.5的大模型推理框架。
 
