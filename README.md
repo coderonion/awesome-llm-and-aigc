@@ -1147,6 +1147,7 @@
     #### 长期记忆
 
     - [MemGPT](https://github.com/cpacker/MemGPT) <img src="https://img.shields.io/github/stars/cpacker/MemGPT?style=social"/> : Create LLM agents with long-term memory and custom tools 📚🦙. [memgpt.readme.io](https://memgpt.readme.io/)
+    - [MindForge](https://github.com/opok-ops/MindForge) <img src="https://img.shields.io/github/stars/opok-ops/MindForge?style=social"/> : Local-first lifelong memory for AI agents with 4-tier Ebbinghaus consolidation, 6-way hybrid search, AES-256 encryption, and federated sync.
 
 
 
