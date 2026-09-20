@@ -1346,6 +1346,7 @@
 
     - [SillyTavern](https://github.com/SillyTavern/SillyTavern) <img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social"/> : LLM Frontend for Power Users. [sillytavern.app](https://sillytavern.app/)
 
+    - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) : MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose, edit and generate videos from editable plan.json timelines.
     - [HeyGen](https://www.heygen.com/) : Scale your video production with customizable AI avatars. "微信公众号「DataLearner」《[《流浪地球2》的数字生命计划可能快实现了！HeyGen即将发布下一代AI真人视频生成技术，效果逼真到无法几乎分辨！](https://mp.weixin.qq.com/s/70Fj9HCe3ruiI43WmMZLjQ)》"。
 
     - [ChatVRM](https://github.com/pixiv/ChatVRM) <img src="https://img.shields.io/github/stars/pixiv/ChatVRM?style=social"/> : ChatVRMはブラウザで簡単に3Dキャラクターと会話ができるデモアプリケーションです。
