@@ -433,6 +433,9 @@
         - [Fooocus](https://github.com/lllyasviel/Fooocus) <img src="https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social"/> : Fooocus is an image generating software. Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs. "微信公众号「GitHubStore」《[Fooocus : 集Stable Diffusion 和 Midjourney 优点于一身的开源AI绘图软件](https://mp.weixin.qq.com/s/adyXek6xcz5aOPAGqZBrvg)》"。
 - [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 
         - [MindDiffuser](https://github.com/ReedOnePeck/MindDiffuser) <img src="https://img.shields.io/github/stars/ReedOnePeck/MindDiffuser?style=social"/> : "MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion". (**[arXiv 2023](https://arxiv.org/abs/2308.04249)**).
 
