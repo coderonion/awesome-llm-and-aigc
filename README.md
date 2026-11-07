@@ -306,6 +306,10 @@
       - ##### Large Vision Language Model
         ###### 视觉语言大模型（LVLM）
 
+        - [MJev-Spatial](https://github.com/Fr0zenCrane/MJev-Spatial) <img src="https://img.shields.io/github/stars/Fr0zenCrane/MJev-Spatial?style=social"/> : Spatial candidate classification reuses pretrained query/key projections for choices, numerical estimation and 2D pointing. "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching". (**[arXiv 2026](https://arxiv.org/abs/2610.22276)**).
+
+        - [JoyAI-VL-Interaction](https://github.com/jd-opensource/JoyAI-VL-Interaction) <img src="https://img.shields.io/github/stars/jd-opensource/JoyAI-VL-Interaction?style=social"/> : An 8B vision-first interaction model chooses silence, response or delegation each second, with pluggable speech I/O and concurrent streaming services. "JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence". (**[arXiv 2026](https://arxiv.org/abs/2606.14777)**).
+
         - [VideoJev](https://github.com/MCG-NJU/VideoJev) <img src="https://img.shields.io/github/stars/MCG-NJU/VideoJev?style=social"/> : A System One video model that unifies temporal grounding and multiple-choice QA through direct candidate scoring. "VideoJev: System One Model for Video Understanding and Interaction". (**[arXiv 2026](https://arxiv.org/abs/2610.18615)**).
 
         - [OneStreamer](https://github.com/MCG-NJU/OneStreamer) <img src="https://img.shields.io/github/stars/MCG-NJU/OneStreamer?style=social"/> : Streaming video interaction with proactive hierarchical caption memory and learned response timing. "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction". (**[arXiv 2026](https://arxiv.org/abs/2610.01762)**).
