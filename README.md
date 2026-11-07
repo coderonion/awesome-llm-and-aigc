@@ -306,6 +306,20 @@
       - ##### Large Vision Language Model
         ###### 视觉语言大模型（LVLM）
 
+        - [MJev-Spatial](https://github.com/Fr0zenCrane/MJev-Spatial) <img src="https://img.shields.io/github/stars/Fr0zenCrane/MJev-Spatial?style=social"/> : Spatial candidate classification reuses pretrained query/key projections for choices, numerical estimation and 2D pointing. "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching". (**[arXiv 2026](https://arxiv.org/abs/2610.22276)**).
+
+        - [JoyAI-VL-Interaction](https://github.com/jd-opensource/JoyAI-VL-Interaction) <img src="https://img.shields.io/github/stars/jd-opensource/JoyAI-VL-Interaction?style=social"/> : An 8B vision-first interaction model chooses silence, response or delegation each second, with pluggable speech I/O and concurrent streaming services. "JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence". (**[arXiv 2026](https://arxiv.org/abs/2606.14777)**).
+
+        - [VideoJev](https://github.com/MCG-NJU/VideoJev) <img src="https://img.shields.io/github/stars/MCG-NJU/VideoJev?style=social"/> : A System One video model that unifies temporal grounding and multiple-choice QA through direct candidate scoring. "VideoJev: System One Model for Video Understanding and Interaction". (**[arXiv 2026](https://arxiv.org/abs/2610.18615)**).
+
+        - [OneStreamer](https://github.com/MCG-NJU/OneStreamer) <img src="https://img.shields.io/github/stars/MCG-NJU/OneStreamer?style=social"/> : Streaming video interaction with proactive hierarchical caption memory and learned response timing. "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction". (**[arXiv 2026](https://arxiv.org/abs/2610.01762)**).
+
+        - [TimeLens2](https://github.com/MCG-NJU/TimeLens2) <img src="https://img.shields.io/github/stars/MCG-NJU/TimeLens2?style=social"/> : Generalist video temporal grounding with verified supervised fine-tuning and temporal-grounding GRPO. "TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs". (**[arXiv 2026](https://arxiv.org/abs/2607.17423)**).
+
+        - [VideoChat3](https://github.com/MCG-NJU/VideoChat3) <img src="https://img.shields.io/github/stars/MCG-NJU/VideoChat3?style=social"/> : An open video MLLM with spatiotemporal token compression for general video understanding, grounding, and online interaction. "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding". (**[arXiv 2026](https://arxiv.org/abs/2607.14935)**).
+
+        - [Video-o3](https://github.com/MCG-NJU/Video-o3) <img src="https://img.shields.io/github/stars/MCG-NJU/Video-o3?style=social"/> : Long-video multi-hop reasoning with interleaved clue inspection, tool use, and SFT/RL training. "Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning". (**[ICML 2026](https://arxiv.org/abs/2601.23224)**).
+
         - [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) <img src="https://img.shields.io/github/stars/QwenLM/Qwen2-VL?style=social"/> : Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. "Qwen2.5-VL Technical Report". (**[arXiv 2025](https://arxiv.org/abs/2502.13923)**). [2025-01-26，Qwen2.5 VL! Qwen2.5 VL! Qwen2.5 VL!](https://qwenlm.github.io/blog/qwen2.5-vl/). "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution". (**[arXiv 2024](https://arxiv.org/abs/2409.12191)**). "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond". (**[arXiv 2023](https://arxiv.org/abs/2308.12966)**).
 
         - [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL) <img src="https://img.shields.io/github/stars/MoonshotAI/Kimi-VL?style=social"/> : Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities. "Kimi-VL Technical Report". (**[arXiv 2025](https://arxiv.org/abs/2504.07491)**).
