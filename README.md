@@ -1251,6 +1251,7 @@
     #### 音乐领域
 
     - [GuoYiFantastic/IMelodist](https://github.com/GuoYiFantastic/IMelodist) <img src="https://img.shields.io/github/stars/GuoYiFantastic/IMelodist?style=social"/> : 旋律大师-IMelodist. Music large model based on InternLM2-chat.
+    - [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server for searching under-400 capacity live music venues across North America.
 
 
   - ### Speech and Audio Field
