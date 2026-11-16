@@ -1033,6 +1033,11 @@
 
 ## Applications
 
+  - ### Writing & Document Processing
+    #### 写作与文档处理
+
+    - [HumanPen](https://humanpen.net/) : Document-level AI platform for humanizing (DOCX/PPTX/TXT), translating (12 target languages; PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT), condensing (DOCX), citation format correction (DOCX, 12 styles), and scoped research projects, with a [REST API](https://api.humanpen.net/v1/docs.md). 100 signup credits; commercial credit-based pricing. No detector guarantees or ghostwriting ([ethics](https://humanpen.net/ethics)).
+
 
   - ### IDE
     #### 集成开发环境
